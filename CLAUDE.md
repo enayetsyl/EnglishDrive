@@ -32,6 +32,11 @@ git push
 If push is rejected (remote ahead): `git pull --no-rebase`, resolve nothing silently —
 if there is any conflict, STOP and report. Never force-push. Never discard local work.
 
+**File deletion.** Deleting files inside `.git/` (lock files, git housekeeping) is
+normal operation. Deleting any file OUTSIDE `.git/` requires stating the file and
+reason in chat BEFORE the deletion, every time. Never delete `_wip/` contents except
+as part of an approved promotion.
+
 ---
 
 ## 2. Work-in-progress rule (no inline-only drafts)
