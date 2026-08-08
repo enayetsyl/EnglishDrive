@@ -32,6 +32,20 @@ git push
 If push is rejected (remote ahead): `git pull --no-rebase`, resolve nothing silently —
 if there is any conflict, STOP and report. Never force-push. Never discard local work.
 
+**Stale git locks.** The working mount may start a session with `unlink` denied
+("Operation not permitted"). A failed git command then leaves `index.lock` /
+`HEAD.lock` / `refs/**/*.lock` behind, and every later command fails with "Another
+git process seems to be running". Fix, in order:
+
+1. Request delete permission for the folder — this is the clean fix and it re-enables
+   `rm` for the whole mount, working tree included.
+2. If delete stays denied, **rename the lock aside**
+   (`mv .git/index.lock .git/index.lock.stale`) — rename is permitted where delete is
+   not. Never leave a renamed lock inside `.git/refs/`; git parses that directory.
+
+Never force-push to work around a lock. Also set `git config user.name "SCD"` /
+`user.email` at session start if commits fail with "Author identity unknown".
+
 **File deletion.** Deleting files inside `.git/` (lock files, git housekeeping) is
 normal operation. Deleting any file OUTSIDE `.git/` requires stating the file and
 reason in chat BEFORE the deletion, every time. Never delete `_wip/` contents except
