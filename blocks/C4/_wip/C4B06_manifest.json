@@ -19,7 +19,7 @@
        "marks": 1
       },
       {
-       "text": "A small bird sang.",
+       "text": "A small bird drinks water.",
        "answer": "Adjective",
        "trigger": "small",
        "marks": 1
@@ -73,7 +73,7 @@
        "marks": 1
       },
       {
-       "text": "A tall tree gives shade.",
+       "text": "The tall tree has green leaves.",
        "answer": "Adjective",
        "trigger": "tall",
        "marks": 1
@@ -179,31 +179,31 @@
      "name": "C",
      "items": [
       {
-       "text": "CW1 C row: in / the table",
+       "text": "CW1 C row: in / the box",
        "answer": "the box",
        "trigger": "box",
        "marks": 1
       },
       {
-       "text": "CW1 C row: under / the wall",
+       "text": "CW1 C row: under / the table",
        "answer": "the table",
        "trigger": "table",
        "marks": 1
       },
       {
-       "text": "CW1 C row: near / the box",
+       "text": "CW1 C row: near / the river",
        "answer": "the river",
        "trigger": "river",
        "marks": 1
       },
       {
-       "text": "CW1 C row: on / the gate",
+       "text": "CW1 C row: on / the wall",
        "answer": "the wall",
        "trigger": "wall",
        "marks": 1
       },
       {
-       "text": "CW1 C row: at / the river",
+       "text": "CW1 C row: at / the gate",
        "answer": "the gate",
        "trigger": "gate",
        "marks": 1
@@ -289,9 +289,9 @@
        "marks": 1
       },
       {
-       "text": "The boys run fast.",
+       "text": "The children play every day.",
        "answer": "Verb",
-       "trigger": "run",
+       "trigger": "play",
        "marks": 1
       },
       {
@@ -366,15 +366,9 @@
      "name": "B",
      "items": [
       {
-       "text": "The pen is ___ the bag. (inside)",
-       "answer": "in",
-       "trigger": "bag",
-       "marks": 1
-      },
-      {
-       "text": "The picture hangs ___ the wall. (on the surface)",
-       "answer": "on",
-       "trigger": "wall",
+       "text": "The boy stands ___ the shop. (that spot)",
+       "answer": "at",
+       "trigger": "shop",
        "marks": 1
       },
       {
@@ -384,9 +378,9 @@
        "marks": 1
       },
       {
-       "text": "The park is ___ the school. (close to)",
-       "answer": "near",
-       "trigger": "school",
+       "text": "The pen is ___ the bag. (inside)",
+       "answer": "in",
+       "trigger": "bag",
        "marks": 1
       },
       {
@@ -396,9 +390,15 @@
        "marks": 1
       },
       {
-       "text": "The boy stands ___ the shop. (that spot)",
-       "answer": "at",
-       "trigger": "shop",
+       "text": "The picture hangs ___ the wall. (on the surface)",
+       "answer": "on",
+       "trigger": "wall",
+       "marks": 1
+      },
+      {
+       "text": "The park is ___ the school. (close to)",
+       "answer": "near",
+       "trigger": "school",
        "marks": 1
       }
      ]
@@ -407,25 +407,25 @@
      "name": "C",
      "items": [
       {
-       "text": "HW1 C row: in / the bed",
+       "text": "HW1 C row: in / the pot",
        "answer": "the pot",
        "trigger": "pot",
        "marks": 1
       },
       {
-       "text": "HW1 C row: under / the desk",
+       "text": "HW1 C row: under / the bed",
        "answer": "the bed",
        "trigger": "bed",
        "marks": 1
       },
       {
-       "text": "HW1 C row: near / the pot",
+       "text": "HW1 C row: near / the school",
        "answer": "the school",
        "trigger": "school",
        "marks": 1
       },
       {
-       "text": "HW1 C row: on / the school",
+       "text": "HW1 C row: on / the desk",
        "answer": "the desk",
        "trigger": "desk",
        "marks": 1
@@ -492,7 +492,7 @@
        "marks": 1
       },
       {
-       "text": "A tall tree gives shade.",
+       "text": "The tall tree has green leaves.",
        "answer": "Adjective",
        "trigger": "tall",
        "marks": 1
@@ -522,7 +522,7 @@
        "marks": 1
       },
       {
-       "text": "A small bird sang.",
+       "text": "A small bird drinks water.",
        "answer": "Adjective",
        "trigger": "small",
        "marks": 1
@@ -616,11 +616,11 @@
      "name": "C",
      "answers": [
       "at",
-      "at",
-      "on",
       "on",
       "in",
-      "in"
+      "in",
+      "on",
+      "at"
      ],
      "marks": 6,
      "items": []
@@ -781,27 +781,15 @@
      "name": "B",
      "items": [
       {
-       "text": "The train leaves ___ 9 o'clock. (exact time)",
-       "answer": "at",
-       "trigger": null,
-       "marks": 1
-      },
-      {
-       "text": "We rest ___ Sunday. (a day)",
-       "answer": "on",
-       "trigger": "sunday",
-       "marks": 1
-      },
-      {
        "text": "It rains ___ July. (a month)",
        "answer": "in",
        "trigger": "july",
        "marks": 1
       },
       {
-       "text": "The birds sing ___ the morning. (part of the day)",
-       "answer": "in",
-       "trigger": "morning",
+       "text": "The train leaves ___ 9 o'clock. (exact time)",
+       "answer": "at",
+       "trigger": null,
        "marks": 1
       },
       {
@@ -815,18 +803,30 @@
        "answer": "at",
        "trigger": null,
        "marks": 1
+      },
+      {
+       "text": "The children play ___ the morning. (part of the day)",
+       "answer": "in",
+       "trigger": "morning",
+       "marks": 1
+      },
+      {
+       "text": "We rest ___ Sunday. (a day)",
+       "answer": "on",
+       "trigger": "sunday",
+       "marks": 1
       }
      ]
     },
     {
      "name": "C",
      "answers": [
+      "in",
       "at",
-      "at",
-      "on",
       "on",
       "in",
-      "in"
+      "at",
+      "on"
      ],
      "marks": 6,
      "items": []
@@ -849,9 +849,9 @@
        "marks": 1
       },
       {
-       "text": "The doctor runs quickly.",
+       "text": "The doctor writes slowly.",
        "answer": "Adverb",
-       "trigger": "quickly",
+       "trigger": "slowly",
        "marks": 1
       },
       {
@@ -1009,25 +1009,25 @@
      "name": "C",
      "items": [
       {
-       "text": "CW3 C row: with / my sister",
+       "text": "CW3 C row: with / my friend",
        "answer": "my friend",
        "trigger": "friend",
        "marks": 1
       },
       {
-       "text": "CW3 C row: from / my brother",
+       "text": "CW3 C row: from / my sister",
        "answer": "my sister",
        "trigger": "sister",
        "marks": 1
       },
       {
-       "text": "CW3 C row: of / my teacher",
+       "text": "CW3 C row: of / my brother",
        "answer": "my brother",
        "trigger": "brother",
        "marks": 1
       },
       {
-       "text": "CW3 C row: to / my friend",
+       "text": "CW3 C row: to / my teacher",
        "answer": "my teacher",
        "trigger": "teacher",
        "marks": 1
@@ -1071,7 +1071,7 @@
        "marks": 1
       },
       {
-       "text": "The girl sings loudly.",
+       "text": "The child reads loudly.",
        "answer": "Adverb",
        "trigger": "loudly",
        "marks": 1
@@ -1190,27 +1190,15 @@
      "name": "B",
      "items": [
       {
-       "text": "I play ___ my cousin. (together)",
-       "answer": "with",
-       "trigger": "cousin",
-       "marks": 1
-      },
-      {
-       "text": "A card came ___ my aunt. (coming from)",
-       "answer": "from",
-       "trigger": "aunt",
-       "marks": 1
-      },
-      {
        "text": "This is the house ___ my uncle. (belonging to)",
        "answer": "of",
        "trigger": "uncle",
        "marks": 1
       },
       {
-       "text": "I sent a letter ___ my brother. (towards)",
-       "answer": "to",
-       "trigger": "brother",
+       "text": "I play ___ my cousin. (together)",
+       "answer": "with",
+       "trigger": "cousin",
        "marks": 1
       },
       {
@@ -1224,6 +1212,18 @@
        "answer": "with",
        "trigger": "family",
        "marks": 1
+      },
+      {
+       "text": "I sent a letter ___ my brother. (towards)",
+       "answer": "to",
+       "trigger": "brother",
+       "marks": 1
+      },
+      {
+       "text": "A card came ___ my aunt. (coming from)",
+       "answer": "from",
+       "trigger": "aunt",
+       "marks": 1
       }
      ]
     },
@@ -1231,25 +1231,25 @@
      "name": "C",
      "items": [
       {
-       "text": "HW3 C row: with / my aunt",
+       "text": "HW3 C row: with / my cousin",
        "answer": "my cousin",
        "trigger": "cousin",
        "marks": 1
       },
       {
-       "text": "HW3 C row: from / my brother",
+       "text": "HW3 C row: from / my aunt",
        "answer": "my aunt",
        "trigger": "aunt",
        "marks": 1
       },
       {
-       "text": "HW3 C row: of / my cousin",
+       "text": "HW3 C row: of / my uncle",
        "answer": "my uncle",
        "trigger": "uncle",
        "marks": 1
       },
       {
-       "text": "HW3 C row: to / my uncle",
+       "text": "HW3 C row: to / my brother",
        "answer": "my brother",
        "trigger": "brother",
        "marks": 1
@@ -1316,21 +1316,21 @@
        "marks": 1
       },
       {
-       "text": "The girl sings loudly.",
+       "text": "The child reads loudly.",
        "answer": "Adverb",
        "trigger": "loudly",
        "marks": 1
       },
       {
-       "text": "A small bird sang.",
+       "text": "A small bird drinks water.",
        "answer": "Adjective",
        "trigger": "small",
        "marks": 1
       },
       {
-       "text": "The boys run fast.",
+       "text": "The people help one another.",
        "answer": "Verb",
-       "trigger": "run",
+       "trigger": "help",
        "marks": 1
       },
       {
@@ -1467,7 +1467,7 @@
        "marks": 1
       },
       {
-       "text": "The girl sings happily.",
+       "text": "The child plays happily.",
        "answer": "Adverb",
        "trigger": "happily",
        "marks": 1
@@ -1545,9 +1545,9 @@
        "marks": 1
       },
       {
-       "text": "The doctor runs quickly.",
+       "text": "The worker digs slowly.",
        "answer": "Adverb",
-       "trigger": "quickly",
+       "trigger": "slowly",
        "marks": 1
       },
       {
@@ -1580,19 +1580,13 @@
      "name": "B",
      "items": [
       {
-       "text": "in the bag — labelled Verb → __________",
-       "answer": "Preposition",
-       "trigger": null,
-       "marks": 1
-      },
-      {
        "text": "shop — labelled Preposition → __________",
        "answer": "Noun",
        "trigger": null,
        "marks": 1
       },
       {
-       "text": "from my aunt — labelled Adjective → __________",
+       "text": "in the bag — labelled Verb → __________",
        "answer": "Preposition",
        "trigger": null,
        "marks": 1
@@ -1600,6 +1594,12 @@
       {
        "text": "plays — labelled Preposition → __________",
        "answer": "Verb",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "from my aunt — labelled Adjective → __________",
+       "answer": "Preposition",
        "trigger": null,
        "marks": 1
       },
@@ -2533,6 +2533,90 @@
       },
       {
        "text": "Write a sentence using a pronoun in place of a name. Underline the pronoun."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "B5-PT",
+   "type": "worksheet",
+   "audit_scope": "pt_overlap_only",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "_______________  2. _______________  3. _______________  4. _______________  5. _______________"
+      },
+      {
+       "text": "_______________  7. _______________  8. _______________  9. _______________  10. _______________"
+      },
+      {
+       "text": "Your teacher is kind."
+      },
+      {
+       "text": "A safe road took us to the park."
+      },
+      {
+       "text": "The new library is near the mosque."
+      },
+      {
+       "text": "The weak plant needed more water."
+      },
+      {
+       "text": "A kind doctor helped the sick child."
+      },
+      {
+       "text": "The green leaf fell on the soil."
+      },
+      {
+       "text": "The doctor meets many children."
+      },
+      {
+       "text": "A nice letter came for my father."
+      },
+      {
+       "text": "The kind boy loves his mother."
+      },
+      {
+       "text": "The doctor helped us."
+      },
+      {
+       "text": "His sister is a doctor. — Pronoun → __________"
+      },
+      {
+       "text": "The children play in the park. — Verb → __________"
+      },
+      {
+       "text": "a healthy meal — Noun → __________"
+      },
+      {
+       "text": "The doctor helped us. — Pronoun → __________"
+      },
+      {
+       "text": "this bird is small — Adjective → __________"
+      },
+      {
+       "text": "My uncle visits the village. — Noun → __________"
+      },
+      {
+       "text": "Yusuf prays at the mosque. ______________________________________________"
+      },
+      {
+       "text": "The teacher helped the students. ______________________________________________"
+      },
+      {
+       "text": "The doctor treated the patient. ______________________________________________"
+      },
+      {
+       "text": "Aisha thanked her mother. ______________________________________________"
+      },
+      {
+       "text": "The bird flew over the tree. ______________________________________________"
+      },
+      {
+       "text": "My father called Abdullah. ______________________________________________"
       }
      ]
     }
