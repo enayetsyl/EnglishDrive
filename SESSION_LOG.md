@@ -73,3 +73,22 @@ Append-only. Newest entry last. Never overwrite past entries.
   attribution line and W7 examples remain in the out-of-scope Teacher Script.
 - Infrastructure: mount still refuses `unlink` and re-materialises renamed files; all git work continues
   via the sandbox clone. `_wip/` duplicates could not be cleared — `blocks/C4/` is authoritative.
+
+---
+
+## 2026-08-08 — SCD (almajhudbd@gmail.com) — corrections-ledger system
+
+- Task: installed the corrections feedback loop — `governance/CORRECTIONS.md` (16 retrofit rows
+  from the C4B06 review cycle + C2B06b) and CLAUDE.md §5A; then batch-1 promotions.
+- Files touched: `governance/CORRECTIONS.md` (new), `CLAUDE.md` (§5A),
+  `audits/scripts/run_all.py` (3 new gates), `selftest_option_list.py` / `selftest_hw_key.py` /
+  `selftest_cross_sheet.py` (new), `check_citations.py` (new), `README_manifest.md`,
+  `governance/Curriculum_Design_Decision_Log_Working.md` (PD-036, PD-037).
+- Decisions: seeded rows confirmed; **PD-036** cross-sheet repetition gate (threshold 0);
+  **PD-037** option-list completeness + HW key transcribability gates; CR-006/007/008/009
+  → PROMOTED; CR-010 stays PATTERN permanently ("human gate by design, never scriptable");
+  CR-005/012–016 stay OPEN for the next block review.
+- Verification: all 5 self-tests pass (3 new + 2 regression); citation check CLEAN —
+  550 citations / 58 files, 37 PDs defined, 0 unknown, 0 superseded.
+- Flags: C4B06 v1.7 PT review (other session) contains new Principal corrections not yet
+  in the ledger — candidate rows for that session or the next review.

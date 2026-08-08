@@ -68,6 +68,18 @@ Field notes:
     whose assessment is carried into a combined PT the following week
     (PD-029: `C4B05-PT` → `C4B0506-PT`). Load the other block's worksheets **and the
     unadministered PT** as reference sheets — PD-029 requires zero overlap against both.
+- **`options`** (part-level, optional) — the option list as **printed** in the part's
+  instruction line (e.g. `["Noun", "Verb", "Adjective", "Pronoun", "Preposition",
+  "Adverb"]`). The option-list completeness gate (PD-037) fails any keyed answer
+  missing from it. Declare on every identify part; parts without the field are not
+  checked and the gate reports itself vacuous. Self-test:
+  `audits/scripts/selftest_option_list.py`.
+- **New gates (corrections-ledger promotions):** HW key transcribability (PD-037,
+  CR-006 — no part's answer sequence positionally identical to the same-named part
+  of its paired sheet; `selftest_hw_key.py`) and cross-sheet repetition (PD-036,
+  CR-009 — no item text on more than one graded sheet, threshold
+  `CROSS_SHEET_MAX_REPEATS = 0` in `run_all.py`; `selftest_cross_sheet.py`).
+  Both run automatically from existing manifest fields.
 - **`exemplars`** — PD-009 Grammar Exemplars declared for this block only.
 - **`block_local`** — PD-012 block-local teaching set: taught in-block, gradeable in
   this block's CW/HW/PT only, **not** in File 2, **not** held downstream, and **never**
