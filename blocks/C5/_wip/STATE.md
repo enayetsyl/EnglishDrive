@@ -84,9 +84,17 @@ The **only** places adjective or pronoun are graded in any binding C5 paper are 
 
 ---
 
-## BLOCKING CONFLICTS — Principal ruling required
+## BLOCKING CONFLICTS — both now ruled
 
-### BC-1 · The "missing" C5 Annual-2025 paper appears to be in the project
+### BC-1 · RULED 08.08.26 — **the Annual-2025 paper is missing; the Principal will supply it later.**
+
+The status quo therefore stands unchanged: the **C5 binding set remains three papers** (HY-25 Morning, HY-25 Day, HY-26), **no C5 artefact may cite an Annual anchor**, and **Block 3's Annual Q8 evidence remains unverifiable**. Drive Plan v1.6 §7 and its header are correct as written and are **not** edited.
+
+**Does not gate this build** — the file examined below carries no parts-of-speech, adjective or pronoun question, so Blocks 7a/7b gain no anchor either way.
+
+> ⚑ **Conflict recorded, not absorbed (CLAUDE.md §3).** A file answering that description **is present in the repo** and was read at source this session — see the finding preserved below. Under the ruling it is **disregarded**, but one confirmation is still needed before a replacement lands, because the 31.07.26 ruling exists precisely to stop a second candidate inflating the apparent evidence: **is `exam-papers/Class 5 English Mohammadpur Final Question 2025.pdf` to be treated as not-the-Annual (mis-titled / draft / wrong paper) and left in place — or removed?** If a genuine Annual-2025 is uploaded while this file remains, C5 will hold **two** candidate Annual papers. No file action taken pending that answer.
+
+#### Finding as recorded at orientation (retained as the build record)
 
 `exam-papers/Class 5 English Mohammadpur Final Question 2025.pdf` (PDF, 4 pages, md5 `1265996d9f26052e76334a2f3a0d2ba4`) carries the header:
 
@@ -96,30 +104,36 @@ Three governing files record this paper as **missing** and bar citing an Annual 
 
 **What it changes for this build:** nothing directly — the Annual carries no parts-of-speech, adjective or pronoun question, so it adds no `C5B07` anchor. **What it changes elsewhere:** the C5 binding set becomes **four** papers, and **Block 3's Annual Q8 evidence is now verifiable** — Q8 reads *"Change the Sentences according to the direction"* with Interrogative/Negative directions only, exactly matching Drive Plan §7's Block 3 row.
 
-**Ruling needed:** confirm this PDF as the genuine Annual-2025, then re-run the §7 union mapping (Run Book §10.2) and close the open dependency. Not applied from this file.
+*(Superseded by the ruling above; retained because the file remains in `exam-papers/` and the §7 map may need re-running if a replacement lands.)*
 
-### BC-2 · W6 load is TBD; §4's week map is superseded with no successor
+### BC-2 · RULED 08.08.26 — **W6 load set. CLOSED.**
 
-Drive Plan §4 lists **W6 = "Blocks 8–10 Adjective + Pronoun + Preposition (re-walk cluster)"**, but §4 and §2's numbering were superseded by the 2026-07-02 ruling with no recorded successor, and every row's load except W5 reads **TBD**. The instruction to build `C5B07` as **Adjective + Pronoun alone** implies Preposition splits out to build-Block 8 — which is what the 2026-07-02 reframe directed ("Preposition and Conjunction re-homed out of Block 1's clue card into their own blocks; block/week count grows"), and matches the C4 precedent (`C4B05` Adj+Pron, `C4B06` Preposition).
+**W6, FULL, solo — Blocks 7a + 7b only. 4 teaching days (Sun–Wed) + the combined `C5B0607-PT` on Thursday. Preposition confirmed as Block 8 at W7.**
 
-**Ruling needed:** a scope-limited load ruling for this row, in the same form as the 31.07.26 Block 6 ruling — proposed **W6, FULL, solo: 4 teaching days (Sun–Wed) + its own Thursday Performance Test**, with Preposition confirmed as build-Block 8 at W7. Does **not** revive or ratify the rest of §4.
+Scope-limited in the same form as the 31.07.26 Block 6 ruling: it governs **this row's load only** and does **not** revive or ratify the rest of §4, which stays superseded from W7 onward. Drive Plan §4's W6 row (currently "not ratified", carrying Preposition under the pre-ruling map) needs a forward-only note recording this — **flagged, not applied.**
 
 ---
 
-## Phase 2 — consolidated questions (live)
+## Phase 2 — CLOSED 08.08.26
 
-1. **Delivery status.** Is `C5B06` (Article, W5) delivered — taught Sun 02.08 → PT Thu 06.08? Its extracts are dated 02–04.08.26. If delivered it is frozen (Charter §K.2) and any correction routes downstream into this block. Any teacher/classroom feedback from that week to fold in?
-2. **Graded format and weighting (the substantive one).** Adjective and pronoun have **no dedicated question in any binding paper** — they are graded only as 3 of 16 underlined words inside the parts-of-speech question that §2 assigns to Block 11. Which shape should `C5B07`'s graded surface take?
-   *(a)* Mirror the POS-identify format now, with the label set restricted to what the cohort holds — Noun / Verb / Adjective / Adverb / Pronoun — leaving Block 11 to widen it to preposition/conjunction/interjection and to carry the dual-job engine; **or** *(b)* a PD-028-style declared weighting, teaching the full cap but grading the identify strand heavily and the *use*/production strand lightly; **or** *(c)* something else. A recommendation is ready but this is a cap/format decision, not mine to take.
-3. **Pronoun tier.** Confirm **first-teach** (see above — nothing to re-walk; §2 says "Re-walk"). Adjective stays a genuine re-walk of C5 B01 extended to *my/his/her/our/their*.
-4. **"How many" adjectives.** §2 Block 7a caps the adjective at *what kind / which / whose* — **number is not in the cap**. But **C5 B01's Clue Card already taught it** (*কয়টি? — three*), so this cohort holds it. C3 admitted number to its adjective cap under PD-028. Admit *how many* to the Block 7a cap for consistency with what was taught, or teach it but keep it out of graded items?
-5. **Comparative/superlative.** Row 8 bars it as a **graded item**. May it be *shown* once in teacher prose (the book uses *"faster than"* communicatively), or is it excluded from the block entirely?
-6. **Dual-job depth here vs Block 9.** C5 is the top §N rung (dual-job fluency + find-the-error), but Drive Plan §8 places the engine at **Block 9 (Parts of speech)** — renumbered from 11 at PD-033. This block owns a genuine dual-job pair — *her* (adjective before a noun / object pronoun standing alone) and *this/that* (Block 7b's "light dual-use note"). How far should find-the-error and dual-job discrimination be drilled here, and how much reserved for Block 9?
-7. **Assignment.** `C5B06-AS` was never built (master records "Not built"). Should `C5B07` ship its Assignment with the block, or follow the same pattern?
-8. **Roll size.** Confirm the Sylhet Class 5 roll is still **8** (sets the Exit Check prompt count per day).
-9. **Anything else** you want this block to do differently.
+| # | Question | Outcome |
+|---|---|---|
+| **Q-1** | `C5B06` delivery status; W5 feedback | **Delivered and frozen** (§K.1–K.2). **Principal, 08.08.26: the holiday took Thursday 06.08 only — Day 4 (Wednesday 05.08) WAS taught.** The coordinated-title rule is therefore held, and `C5B0607-PT` Part B(i) may grade it. No W5 feedback raised. |
+| **Q-2** | Graded format and weighting | **Ruled** — Identify + Use + Check/correct the label; 5-label set (Noun · Verb · Adjective · Adverb · Pronoun); ~40/40/20 Adjective/Pronoun/joint at **block level** (CW+HW+PT), not within the PT. |
+| **Q-3** | Pronoun tier | **Strict first-teach.** No secure prior knowledge assumed; established from the foundation, not revised. |
+| **Q-4** | *how many* | **Included in the Adjective scope/cap.** |
+| **Q-5** | Comparative/superlative | *Resolved from the rules.* §2 Block 7a bars it **"as a graded item"** — wording that permits incidental appearance; the book uses *"faster than"* communicatively (§E.3). **Not taught as a rule, not graded, not on the Clue Card, never an answer option.** A correct comparative in a student's self-try is **not** marked wrong — it is simply not assessed. |
+| **Q-6** | Dual-job here vs Block 9 | *Resolved from the rules.* §8: *"Block 9 … is where it is most heavily exercised; every later block carries a few transfer items in its self-try close."* Charter §N.4 defines dual-job pairs as primarily **noun↔verb** — *her* / *this* is **not** a §N dual-job pair but the **boundary** §2 Blocks 7a/7b mandate directly. **This block teaches and grades the boundary in full (PT Part E is its Analyze rung) and runs no noun↔verb dual-job drill and no 3–4-class fluency work** — those stay at Block 9, unspent. |
+| **Q-7** | Assignment | *Resolved from the rules.* Required by Charter §M.3, Run Book §9.7 and the §6.8 checklist; `AssignmentGenerator_Spec_v1_2` is frozen and in use. `C5B06`'s "Not built" was a **gap, not a precedent**. **C5B07 ships its Assignment**, in `C5B07-AK` with the §6.11 check re-run. ⚑ Verify first: `assignments/C5/C5_Eng_Assignment_W6.md` already exists — check alignment before authoring a second. |
+| **Q-8** | Roll size | *Resolved from the rules.* **8** (Sylhet C5 roll, per `C5B06` header). Run Book §9.4 r.1: roll numbers are not governance data; the file records the count built for and the teacher adjusts on the day without a file revision. **8 Exit Check prompts/day; 8 assigned self-try words.** |
+| **Q-9** | Anything else | Nil. |
 
 *Standing rulings taken as current, not re-asked:* in-school teacher-run Thursday PT + separate Thu–Sat Assignment · delivered content frozen, corrections downstream only · Exit Check every teaching day · Vocabulary Writing on every HW (PD-015) · reference-block rule (PD-018) · attribution in place (PD-019) · festival admissible where the referent is Islamic (PD-021) · function-word grammar targets take no non-held status (PD-026) · fill word-boxes permitted on worksheets, never on the PT (PD-027).
+
+### Consequential resolutions (from settled decisions, per the rules)
+
+- ***how many* word status → PD-009 Grammar Exemplars.** PD-020 selects the instrument by *what the word is for*: numerals exist here solely to demonstrate the rule and the child never needs to own them. PD-020 also bars PD-012 in their place, since block-local status adds to the week's taught load and can trip the retention gate on a vocabulary count — and **W6 carries 40 fresh words, the ramp's joint-largest, under a gate that received no W5 signal at all.** Minimal declared set (e.g. *two · three · five*), taught before graded use, never a dictation or spelling item, File 2 untouched. *many / some / few* were taught in Block 5 and are function words → **PD-026**, no status required.
+- **Two held adjectives barred from graded slots** (one-defensible-answer, Starter Template Phase 4 / §6.8): ***much*** (quantifier, overlaps Block 5) and ***past*** (noun/preposition ambiguity). Carrier text only. The other 32 held adjectives are clear.
 
 ---
 
@@ -129,9 +143,31 @@ Drive Plan §4 lists **W6 = "Blocks 8–10 Adjective + Pronoun + Preposition (re
 |---|---|---|
 | 1 | Build `C5B07` = Adjective + Pronoun; use `C4B05` as a **progression/conventions reference only**, assuming **no** mastery or retention of C4 content; brief foundation/retrieval first, then develop to C5 depth; depth derived from C5's own §2 caps, papers and project rules. | Principal, 08.08.26 |
 | 2 | **C5 block renumbering ruled and applied — PD-033 / Drive Plan v1.6.** §2 realigned to the build (18 blocks); merged rungs carried as sub-rows **4a/4b** and **7a/7b**; Correspondence and Composition kept as **separate Blocks 17 and 18**; permanent §2A concordance added. **Scoped to numbering only** — the W7+ schedule, per-week load and any compression decision were expressly excluded and remain open. Delivered masters unchanged. | Principal, 08.08.26 |
+| 3 | **Q-3 — Pronoun is strict first-teach.** C5 students are not assumed to hold secure Pronoun knowledge; the block establishes it from the foundation rather than revising it. | Principal, 08.08.26 |
+| 4 | **Q-4 — *how many* is included within the Adjective scope/cap** (Block 7a), alongside *what kind / which / whose*. | Principal, 08.08.26 |
+| 5 | **Q-2 — assessment design approved.** Three strands: **Identify · Use · Check/correct the label.** Identify runs a **5-label set** (Noun · Verb · Adjective · Adverb · Pronoun) — no preposition/conjunction/interjection, which are Blocks 8, 13 and 9 and are barred by the staging rule. Block 7 is a **staged instalment of the Block 9 exam format**, not a rehearsal of a question it owns. Approximate **40% Adjective / 40% Pronoun / 20% joint boundary, measured at block level across CW + HW + PT.** | Principal, 08.08.26 |
+| 6 | **Thursday PT is strictly 35 minutes.** No extension; the 40-mark/45-minute option is rejected. | Principal, 08.08.26 |
+| 7 | **`C5B06` Article is a carry-over assessment** — taught in W5, its Thursday PT lost to the holiday. Assessed on the combined Thursday paper **without re-teaching the block**. The unused **`C5B06-PT` is retained as the historical instrument and is NOT administered**, separately or otherwise. | Principal, 08.08.26 |
+| 8 | **`C5B0607-PT` blueprint approved — 36 marks / 35 minutes.** Part A Dictation 10 (5×W5 + 5×W6) · **Part B ARTICLE 12 items × 0.5 = 6** — (i) 8 sentence fill-ins, (ii) 4 bare phrases · Part C Identify 8×1 = 8 · Part D Pronoun rewrite 4×1 = 4 · Part E Check-the-label 4×1 = 4 · Part F Self-try 4. Timing 6 · 6+2 · 6 · 4 · 3 · 6 + 2 checking. **No part mixes blocks**, so Article (/6) and B07 (/20) are separately identifiable on the mark sheet; dictation reported as its own column (/10). | Principal, 08.08.26 |
+| 9 | **A1 — the W5 holiday took Thursday 06.08 only; Day 4 (Wed 05.08) was taught.** Coordinated titles are held; PT Part B(i) may grade them. | Principal, 08.08.26 |
+| 10 | **A2 / BC-1 — the Annual-2025 paper is missing**; the Principal will upload it later. Binding set stays at **three** papers; no Annual anchor may be cited; Block 3's Annual Q8 evidence stays unverifiable. ⚑ One confirmation outstanding — see BC-1. | Principal, 08.08.26 |
+| 11 | **A3 / BC-2 — W6 load: FULL, solo, Blocks 7a + 7b only, 4 teaching days Sun–Wed + the combined `C5B0607-PT` Thursday. Preposition confirmed as Block 8 at W7.** Scope-limited; does not ratify the rest of §4. | Principal, 08.08.26 |
+| 12 | **No Article teaching day and no Article homework.** The week's CW/HW is 100% B07; Article's re-entry is a ~5-minute wall-card recall at the top of Wednesday. | Principal, 08.08.26 |
+
+---
+
+## Carried flags (do not gate drafting)
+
+1. ⚑ **PD-032 audit-scope extension — blocks close-out, not drafting.** `C5B0607-PT` Part B must be audited zero-overlap against B06's 8 worksheets **and** the unused `C5B06-PT` (17 reference surfaces with B07's own sheets). That needs `audit_scope: "pt_overlap_only"`, whose authorisation (PD-032) is scoped to a two-week `a`/`b` split block, while **PD-029 states paired-week recovery is *not* governed by PD-025/PD-032.** The identical question is open on `C4B06`; **one scope-extension ruling clears both.**
+2. ⚑ **Cover or remove `C5B06-CC`** (Article Clue Card) and the new Pronoun row during the PT. §3.17 exempts wall cards because they "are not sat with the paper" — on Thursday the Article card prints the river/country learned lists Part B grades.
+3. ⚑ **Half-marks appear in individual scores** (7 of 12 correct = 3.5). The mark sheet must accept `.5`; part and paper totals stay whole.
+4. ⚑ **Verify `assignments/C5/C5_Eng_Assignment_W6.md`** before authoring the block's Assignment (Q-7).
+5. ⚑ **Drive Plan §4's W6 row** needs a forward-only note recording the A3 ruling. Flagged, not applied.
+6. ⚑ **Retention gate reads a two-week composite.** W5 produced no PT and therefore no signal, so W6's 40-word batch was set on the planned ramp alone (Charter §F.5). Gate on the /36 total as usual, but **record the Article and B07 percentages separately** so a sub-65% result can be diagnosed to the right block before shrinking W7.
+7. ⚑ **Block-level weighting drives the day plan.** With Days 1–2 on Adjective and Day 3 on Pronoun the sheets would run ~50/25/25. **Day 4's sheets must be pronoun-and-boundary weighted** (pronoun object set + boundary + mixed) to land the block near 40/40/20 — which "strict first-teach" independently demands.
 
 ---
 
 ## Exact next step
 
-**Principal answers Phase 2 (Q-1 → Q-9) and rules BC-1 and BC-2.** No build content is drafted until then (Run Book §4.5, §8.2 — a pending Principal decision blocks the gate). On answers, the Phase 3 pre-build blueprint is written to `_wip/C5B07_blueprint.md` for approval before any teaching content or item bank is authored.
+**Phase 2 is closed; all gates are clear.** Next: the **Phase 3 pre-build blueprint** written to `_wip/C5B07_blueprint.md` — day-by-day objectives and staging table, the 5-label staging guard (no Pronoun option on Day 1–2 sheets), item-bank plan and held-word/exemplar declaration, worksheet shapes and sizes, Clue Card 5th row, Exit Check sets, the approved PT, Assignment, and the audit plan. **Written for approval before any teaching content or item bank is authored** (CLAUDE.md §3, Phase 3).
