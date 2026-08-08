@@ -9,13 +9,40 @@
 
 ## Phase reached
 
-**Phase 1 — Orientation: COMPLETE (08.08.26). Phase 2 NOT started — blocked.**
-No blueprint. No build content. No sentence bank.
-**Two blocking governance conflicts must be ruled before Phase 2 questions can even be framed** (§ "Blocking conflicts" below).
+**Phase 1 — Orientation: COMPLETE (08.08.26). Phase 2 NOT started — blocked on BC-1.**
+No blueprint. No build content. No sentence bank. **BC-2 closed** (Drive Plan v1.11 authored, Principal-approved).
+**BC-1 open:** the partial Block 6 material has to be recovered from outside the repo before Phase 2 is framed.
 
-## Blocking conflicts — Principal Decisions required
+## Blocking conflicts — status
 
-### BC-1 — `C4_ENG_Block06_Preposition_v1.md` is cited as existing but has never existed in this repo
+| # | Conflict | Ruling (Principal, 08.08.26) | State |
+|---|---|---|---|
+| **BC-1** | Block 6 master cited by PD-029 but absent from the repo | **"Partially built — recover what exists."** Some Block 6 material exists outside the repo; it is to be inventoried and reconciled against PD-029, and the phase gate restarted from where the evidence lands. **The agent does not rebuild from scratch.** | **OPEN — waiting on the Principal to supply the material.** Verified absent from the whole working mount (repo, all four commits incl. deletions, untracked/ignored, and `uploads/`). Nothing to inventory yet. |
+| **BC-2** | Drive Plan v1.11 cited by PD-029 but absent | **"Author Drive Plan v1.11 now"** — forward-only, PD-029 renumbering only. | **CLOSED — `governance/driveplans/C4_ENG_DrivePlan_v1_11.md` written.** See below. |
+
+### BC-2 — RESOLVED
+
+`C4_ENG_DrivePlan_v1_11.md` written beside v1_10 (forward-only, Charter §K.3; v1_10 retained unedited).
+**Numbering change only** — no depth cap, pairing, week count, protected week or teaching scope altered.
+
+- §2: rows 5–6 merged into **Block 5** with sub-rows **5a Adjective / 5b Pronoun**; **Preposition → 6**;
+  former rows 8–17 renumbered **7–16**. Spine is now **16 blocks** (was 17); **15 weeks unchanged** — the pair
+  already shared W5.
+- §3 · §4 (verdict, table, "why this shape") · §5 (POS routing) · §7 (table) · summary · pre-flight ·
+  disposition note all renumbered. Diff confined to those sections; verified line-by-line against v1_10.
+- **Standing flag closed.** The "⚑ Drive Plan §7 stale block numbers" flag carried in the C4 review logs since
+  C4B04 (still open at `C4_ENG_Block05_AdjectivePronoun_v1.md` line 1366) is cleared: §7's paper-fidelity prose
+  cited *Articles (Block 3)* → now **Block 4**, and *Sentence types (Block 13)* → now **Blocks 3 / 13** with
+  first-teach vs recap made explicit. Both were wrong even against v1_10's own spine.
+- **§7 gains a Preposition paper-fidelity bullet** recording the orientation finding below.
+- **Noted in the version log:** v1_10 was internally inconsistent — its §2 **row 1** and **§8** already used the
+  post-renumbering references (*Pronoun→B5, Preposition→B6, Conjunction/Interjection→B12*) while its spine table
+  contradicted them. v1.11 resolves this in favour of the delivered blocks and PD-029.
+- **`C4B05-*` extract IDs unchanged** (PD-029).
+
+**Consequence: `C4B06` = Preposition is now settled in governance, not just in a Decision Log citation.**
+
+### BC-1 — OPEN. `C4_ENG_Block06_Preposition_v1.md` is cited as existing but is not in this repo
 
 **PD-029** ("Affected files") names `C4_ENG_Block06_Preposition_v1.md` as the file carrying the combined
 `C4B0506-PT`, and records **"Status: Applied (C4 Blocks 5–6); logged retrospectively 08.08.26"**, attributing it
@@ -31,26 +58,22 @@ to "the C4 Block 5/Block 6 build sessions (06.08.26)."
   (P.O.S. · noun gender + collective · sentence types · articles · adjective + pronoun) — **it contains no
   preposition content**, consistent with Block 6 never having been built.
 
-**Ruling needed:** is the Block 6 build (a) **outside the repo** and to be imported before any work starts, or
-(b) **not yet built**, making PD-029's status line aspirational and `C4B06` a **fresh Phase 1→4 build**?
-The agent must not assume either. If (b), PD-029's status line needs a forward-only correction.
+**Ruled: "partially built — recover what exists."** The build does not restart from zero and the agent does not
+author a competing master. **What is needed from the Principal, before Phase 2 can be framed:**
 
-### BC-2 — the Drive Plan version PD-029 relies on does not exist
+1. The **Block 6 master** in whatever state it reached (`C4_ENG_Block06_Preposition_v1.md` or its working draft).
+2. Any **`C4B06-*` extracts** — TD / CW / HW / PT / Clue Card — including partial ones.
+3. **`C4B0506-PT`** if it was drafted, since PD-029 makes it the carrier of the unadministered `C4B05-PT`.
+4. Any **audit report or manifest** from that build (`_wip/C4B06_manifest.json`, `audits/reports/C4B06_*`).
 
-PD-029 attributes the renumbering (**Adjective + Pronoun → Block 5 · Preposition → Block 6**) to
-**"Drive Plan v1.11"**. `governance/driveplans/` holds only **`C4_ENG_DrivePlan_v1_10.md`**, whose §2 spine and
-§4 schedule still read **Adjective = 5 · Pronoun = 6 · Preposition = 7** (17 blocks / 15 weeks).
+Drop them anywhere in the drive folder (a `blocks/C4/_wip/inbox/` folder is fine) and say the word. **On receipt
+the agent will:** inventory every file · reconcile the content against PD-029 and against Drive Plan v1.11 ·
+determine the true phase reached from the artefacts rather than from the log line · re-run the audit suite over
+whatever graded material exists · and report the recovered state before any new content is drafted.
 
-So the authority for "Block 6 = Preposition" is missing from the repo, and under the **only** Drive Plan present,
-**"C4B06" resolves to Pronoun** — already delivered inside `C4_ENG_Block05_AdjectivePronoun_v1.md`.
-
-**Ruling needed:** confirm `C4B06` = **Preposition** (PD-029 reading, assumed here for orientation only), and
-either supply/author **Drive Plan v1.11** or issue a forward-only note that v1_10 §2/§4 are superseded on the
-numbering. Until then every "Block N" citation in the C4 build is ambiguous.
-
-*Corroborating evidence that the PD-029 reading is the intended one:* `C4_ENG_Block05_AdjectivePronoun_v1.md`
-v1.11 already renamed its PT header "Block 5–6" → "Block 5" with a provenance note, and its own review log
-(line 1366) carries a standing flag: **"⚑ Drive Plan §7 stale block numbers … Carried from C4B04; still pending."**
+**If a search turns up nothing**, that is itself the finding — PD-029's *"Status: Applied (C4 Blocks 5–6)"* line
+would then need a forward-only correction and `C4B06` becomes a fresh Phase 1→4 build. The agent will not make
+that call unilaterally.
 
 ## Non-blocking defect — File 2 block labels are stale (weeks are correct)
 
@@ -66,10 +89,10 @@ stale. **No vocabulary-timing risk to this build.** Labels should be corrected f
 
 ## Orientation findings (Phase 1, verified at source)
 
-- **Governing versions read:** Charter v1.5 · Run Book v1.17 · **C4 Drive Plan v1.10** (only version present) ·
-  Block-Build Starter Template v2 · Decision Log (working, through PD-032) · format mirror
-  `blocks/C4/C4_ENG_Block05_AdjectivePronoun_v1.md` (through v1.12).
-- **Depth cap (Drive Plan v1_10 §2, Preposition row):** place/time prepositions the book uses —
+- **Governing versions read:** Charter v1.5 · Run Book v1.17 · **C4 Drive Plan v1.11** (authored this session;
+  v1.10 was the only version present at orientation) · Block-Build Starter Template v2 · Decision Log (working,
+  through PD-032) · format mirror `blocks/C4/C4_ENG_Block05_AdjectivePronoun_v1.md` (through v1.12).
+- **Depth cap (Drive Plan §2, Preposition = Block 6):** place/time prepositions the book uses —
   **in, on, under, at, with, from, into, near, of, to**. Identify (P.O.S.) + use.
   **Guardrail: no prepositional-verb / idiom work.**
 - **Format mirror — Block 05 shape:** four days (2 Adjective / 1 Pronoun / 1 mixed) · 12-prompt Exit Check per
@@ -126,20 +149,24 @@ widened-surface problem PD-032 solved for a two-week split block, and the mechan
 split-block case only**; PD-029 explicitly states the paired-week recovery is **not** governed by PD-025/PD-032.
 Applying the flag here needs an explicit ruling (or a scope extension logged as a new PD).
 
-## Pending questions for Phase 2 (not yet asked — gated behind BC-1/BC-2)
+## Pending questions for Phase 2 (staged — issued once BC-1 closes)
 
-1. BC-1 — import the existing Block 6, or build fresh?
-2. BC-2 — confirm `C4B06` = Preposition; supply or author Drive Plan v1.11.
-3. Identify ↔ use ratio for the graded surface, given the papers supply one 1-mark identify item.
-4. May graded identify items reuse ***on***, or must the taught set spread across the capped ten?
-5. `C4B0506-PT` part split and total (Block 05's PT total was 36; this one carries two blocks).
-6. Audit-scope ruling for the widened PT zero-overlap surface (extend PD-032, or new PD).
-7. Does Block 6 build its own W6 assignment, given `C4_Eng_Assignment_W6.docx` already exists as a
+Held back deliberately: several of these are answered differently depending on what the recovered Block 6
+material already settles, and Phase 2 is meant to be **one consolidated list**, not a drip.
+
+1. Identify ↔ use ratio for the graded surface, given the papers supply one 1-mark identify item.
+2. May graded identify items reuse ***on***, or must they spread across the capped ten prepositions?
+3. `C4B0506-PT` part split and total (Block 05's PT total was 36; this one carries two blocks).
+4. Audit-scope ruling for the widened PT zero-overlap surface (extend PD-032, or a new PD).
+5. Does Block 6 build its own W6 assignment, given `C4_Eng_Assignment_W6.docx` already exists as a
    Blocks 1–5 cumulative revision sheet with no preposition content? (Same coexistence question as C2 W6.)
-8. File 2 label re-map — correct now, or leave to a separate governance pass?
+6. File 2 label re-map — correct now, or leave to a separate governance pass? (Labels only; weeks verified correct.)
+7. Does PD-029's status line get a forward-only correction to match whatever BC-1 recovery finds?
 
 ## Exact next step
 
-**Principal rules BC-1 and BC-2.** No Phase 2 question list is issued and no blueprint is drafted until the
-block's identity and its predecessor artefact are settled — under the repo's only Drive Plan, "C4B06" names a
-block that has already been delivered, and the ruling that says otherwise cites two files that are not here.
+**Principal locates and supplies the partial C4B06 material** (list at BC-1 above). On receipt: inventory →
+reconcile against PD-029 + Drive Plan v1.11 → establish the true phase reached from the artefacts → re-run the
+audit suite over any graded material → report recovered state. **No new build content is drafted before that.**
+
+Drive Plan v1.11 is written and needs no further action. `C2B06b` stays parked at Phase 3, unchanged.
