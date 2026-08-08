@@ -1512,10 +1512,301 @@
      ]
     }
    ]
+  },
+  {
+   "name": "PT",
+   "type": "pt",
+   "stated_total": 36,
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "dictation champion",
+       "answer": "spelling",
+       "trigger": "champion",
+       "marks": 1
+      },
+      {
+       "text": "dictation kindness",
+       "answer": "spelling",
+       "trigger": "kindness",
+       "marks": 1
+      },
+      {
+       "text": "dictation healthy",
+       "answer": "spelling",
+       "trigger": "healthy",
+       "marks": 1
+      },
+      {
+       "text": "dictation spend",
+       "answer": "spelling",
+       "trigger": "spend",
+       "marks": 1
+      },
+      {
+       "text": "dictation competition",
+       "answer": "spelling",
+       "trigger": "competition",
+       "marks": 1
+      },
+      {
+       "text": "dictation courage",
+       "answer": "spelling",
+       "trigger": "courage",
+       "marks": 1
+      },
+      {
+       "text": "dictation pattern",
+       "answer": "spelling",
+       "trigger": "pattern",
+       "marks": 1
+      },
+      {
+       "text": "dictation harmful",
+       "answer": "spelling",
+       "trigger": "harmful",
+       "marks": 1
+      },
+      {
+       "text": "dictation breathe",
+       "answer": "spelling",
+       "trigger": "breathe",
+       "marks": 1
+      },
+      {
+       "text": "dictation tradition",
+       "answer": "spelling",
+       "trigger": "tradition",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "The quiet child is ______ honest reader.",
+       "answer": "an",
+       "trigger": "honest",
+       "marks": 0.5
+      },
+      {
+       "text": "Nusair read about ______ hero in the storybook.",
+       "answer": "a",
+       "trigger": "hero",
+       "marks": 0.5
+      },
+      {
+       "text": "______ moon looked large above the sea.",
+       "answer": "the",
+       "trigger": "moon",
+       "marks": 0.5
+      },
+      {
+       "text": "The boat crossed ______ Padma before sunset.",
+       "answer": "the",
+       "trigger": "padma",
+       "marks": 0.5
+      },
+      {
+       "text": "Aisha travelled to ______ Kishoreganj last Friday.",
+       "answer": "x",
+       "trigger": "kishoreganj",
+       "marks": 0.5
+      },
+      {
+       "text": "The champion won ______ prize at the competition.",
+       "answer": "a",
+       "trigger": "prize",
+       "marks": 0.5
+      },
+      {
+       "text": "______ Headmaster and Secretary is visiting the museum today.",
+       "answer": "the",
+       "trigger": "headmaster",
+       "marks": 0.5
+      },
+      {
+       "text": "Yusuf saw ______ apple on the branch.",
+       "answer": "an",
+       "trigger": "apple",
+       "marks": 0.5
+      },
+      {
+       "text": "______ M.B.B.S.",
+       "answer": "an",
+       "trigger": "m.b.b.s.",
+       "marks": 0.5
+      },
+      {
+       "text": "______ one-taka coin",
+       "answer": "a",
+       "trigger": "one-taka",
+       "marks": 0.5
+      },
+      {
+       "text": "______ UAE",
+       "answer": "the",
+       "trigger": "uae",
+       "marks": 0.5
+      },
+      {
+       "text": "______ gratitude",
+       "answer": "x",
+       "trigger": "gratitude",
+       "marks": 0.5
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "Her neighbour keeps a blue boat.",
+       "answer": "Adjective",
+       "trigger": "her",
+       "marks": 1
+      },
+      {
+       "text": "The champion thanked us at the station.",
+       "answer": "Pronoun",
+       "trigger": "us",
+       "marks": 1
+      },
+      {
+       "text": "Happiness filled the quiet garden.",
+       "answer": "Noun",
+       "trigger": "happiness",
+       "marks": 1
+      },
+      {
+       "text": "Two readers borrowed the storybooks.",
+       "answer": "Adjective",
+       "trigger": "two",
+       "marks": 1
+      },
+      {
+       "text": "Maryam sent the quilt to him.",
+       "answer": "Pronoun",
+       "trigger": "him",
+       "marks": 1
+      },
+      {
+       "text": "Nusair climbs the wall carefully.",
+       "answer": "Adverb",
+       "trigger": "carefully",
+       "marks": 1
+      },
+      {
+       "text": "Their tradition is very strong.",
+       "answer": "Adjective",
+       "trigger": "their",
+       "marks": 1
+      },
+      {
+       "text": "We breathed the fresh air.",
+       "answer": "Pronoun",
+       "trigger": "we",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "D",
+     "items": [
+      {
+       "text": "Porshi stitched the traditional quilt.",
+       "answer": "She",
+       "trigger": "porshi",
+       "marks": 1
+      },
+      {
+       "text": "The tourists thanked the reporters.",
+       "answer": "them",
+       "trigger": "reporter",
+       "marks": 1
+      },
+      {
+       "text": "Abdur Rahim won the competition.",
+       "answer": "He",
+       "trigger": "abdur rahim",
+       "marks": 1
+      },
+      {
+       "text": "The boat waited near the river.",
+       "answer": "It",
+       "trigger": "boat",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "E",
+     "items": [
+      {
+       "text": "Our grandmother wrapped the cloth. - Pronoun",
+       "answer": "Adjective",
+       "trigger": "our",
+       "marks": 1
+      },
+      {
+       "text": "a powerful wind - Adverb",
+       "answer": "Adjective",
+       "trigger": "powerful",
+       "marks": 1
+      },
+      {
+       "text": "Raima thanked her at the mosque. - Pronoun",
+       "answer": "tick",
+       "trigger": "her",
+       "marks": 1
+      },
+      {
+       "text": "The reader waits quietly. - Adverb",
+       "answer": "tick",
+       "trigger": "quietly",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "F",
+     "items": [
+      {
+       "text": "Self-try (assigned word by roll)",
+       "answer": "own sentence + class + reason",
+       "trigger": "self-try",
+       "marks": 4
+      }
+     ]
+    }
+   ]
   }
  ],
- "dictation": [],
- "pt_self_try_words": [],
+ "dictation": [
+  "champion",
+  "kindness",
+  "healthy",
+  "spend",
+  "competition",
+  "courage",
+  "pattern",
+  "harmful",
+  "breathe",
+  "tradition"
+ ],
+ "pt_self_try_words": [
+  "fresh",
+  "them",
+  "our",
+  "me",
+  "polite",
+  "she",
+  "my",
+  "us"
+ ],
  "demo_box_words": [
   "careful",
   "wide",

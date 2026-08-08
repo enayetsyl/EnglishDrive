@@ -1207,4 +1207,151 @@ Then six quick oral items, one student each:
 
 ---
 
-*Units 6–7 (`C5B0607-PT` → Assignment → `C5B07-AK` + audits + extracts) not yet authored.*
+# Performance Test (Thursday) · `C5B0607-PT`
+
+**In-school, teacher-administered** (Charter §M.3). A separate weekly **Assignment** follows.
+
+**This paper assesses two blocks.** Block 6 (Article) was taught in W5 and its Performance Test was lost to a holiday; under the **PD-029 paired-week recovery** its assessment is carried here. **`C5B06-PT` is retained as the built-but-unadministered Block-6 record and is NOT administered** — separately or otherwise. Part B is **freshly authored**, zero-overlap against all eight Block-6 worksheets *and* against `C5B06-PT` itself (**PD-034** authorises the audit scope).
+
+**School for Community Development — Sylhet Branch**
+**Class 5 · English · Week 6 · Block 6 (Article) + Block 7 (Adjective & Pronoun)**
+
+**Name:** ___________________ **Date:** ___________
+**Time: 35 minutes** · **Full Marks: 36**
+
+---
+
+**Part A — Spelling and Dictation.** *(10 marks)*
+
+*Your teacher will say each word twice. Listen and write.*
+
+1. _______________ 2. _______________ 3. _______________ 4. _______________ 5. _______________
+
+6. _______________ 7. _______________ 8. _______________ 9. _______________ 10. _______________
+
+---
+
+**Part B — Article** *(12 items, ½ mark each = 6 marks)*
+
+**(i) Fill in the blanks with appropriate articles.** *(8 items)* — *Write **x** if no article is needed.*
+
+11. The quiet child is ______ honest reader.
+12. Nusair read about ______ hero in the storybook.
+13. ______ moon looked large above the sea.
+14. The boat crossed ______ Padma before sunset.
+15. Aisha travelled to ______ Kishoreganj last Friday.
+16. The champion won ______ prize at the competition.
+17. ______ Headmaster and Secretary **is** visiting the museum today.
+18. Yusuf saw ______ apple on the branch.
+
+**(ii) Write *a*, *an*, *the* or *x* before each.** *(4 items)*
+
+19. ______ M.B.B.S.  20. ______ one-taka coin  21. ______ UAE  22. ______ gratitude
+
+---
+
+**Part C — Identify the parts of speech of the underlined words** (Noun, Verb, Adjective, Adverb, Pronoun). **Write only answers.** *(8 items, 1 mark each)*
+
+23. **Her** neighbour keeps a blue boat.
+24. The champion thanked **us** at the station.
+25. **Happiness** filled the quiet garden.
+26. **Two** readers borrowed the storybooks.
+27. Maryam sent the quilt to **him**.
+28. Nusair climbs the wall **carefully**.
+29. **Their** tradition is very strong.
+30. **We** breathed the fresh air.
+
+---
+
+**Part D — Rewrite each sentence, replacing the bold noun with the correct pronoun. Write the full new sentence.** *(4 items, 1 mark each)*
+
+31. **Porshi** stitched the traditional quilt. ______________________________________
+32. The tourists thanked **the reporters**. ______________________________________
+33. **Abdur Rahim** won the competition. ______________________________________
+34. **The boat** waited near the river. ______________________________________
+
+---
+
+**Part E — Write ✓ if the label is correct, or write the correct part of speech if it is wrong.** *(4 items, 1 mark each)*
+
+35. **Our** grandmother wrapped the cloth. — *Pronoun* → __________
+36. a **powerful** wind — *Adverb* → __________
+37. Raima thanked **her** at the mosque. — *Pronoun* → __________
+38. The reader waits **quietly**. — *Adverb* → __________
+
+---
+
+**Part F — Self-try.** *(4 marks)*
+
+*Your teacher will give you **one** word. Use exactly that word — do not change it.*
+*Your sentence must be **your own** — not copied from any other part of this paper.*
+
+**a)** The word my teacher gave me is _______________
+
+**b)** Its part of speech is _______________
+
+**c)** Why (two or three words): _______________________________________________
+
+**d)** My sentence:
+
+_______________________________________________
+
+**Total: 36 marks**
+
+---
+
+### PT teacher instructions
+
+**Before the test — cover or remove both Clue Cards.** `C5B07-CC` prints the boundary reasoning that Parts C and E grade; `C5B06-CC` prints the river and country lists that Part B grades. §3.17 exempts wall references because *"they are not sat with the paper"* — today they are.
+
+**Part A dictation** — say each word twice, then read the full list once more at the end. **Five from W5, five from W6**; the W5 half recovers the spelling check lost with last week's test. No exemplars (§5.7):
+
+`champion · kindness · healthy · spend · competition · courage · pattern · harmful · breathe · tradition`
+
+**Timing guide** — A 6 min · B(i) 6 · B(ii) 2 · C 6 · D 4 · E 3 · F 6 · 2 min checking. **Call time at each part boundary**; on a paper this dense the end reserve is only two minutes.
+
+**Part B item 17 — the verb is the clue.** The sentence gives *is*, so the two titles name **one person** and take **one** *the*. A pupil writing two articles has misread the verb. This is the only item of its kind on the paper.
+
+**Part B is half-mark scoring.** An odd number of correct items gives a half — 7 of 12 scores 3.5. The mark sheet must accept `.5`; part and paper totals stay whole.
+
+**Part F — assign the word, do not let the pupil choose.** On Wednesday the class *chose* from a demo box; letting them choose again would return a rehearsed sentence and the four marks would test nothing. Assign by roll:
+
+| Roll | Word | Its part of speech |
+|---|---|---|
+| 1 | fresh | Adjective |
+| 2 | them | Pronoun |
+| 3 | our | Adjective |
+| 4 | me | Pronoun |
+| 5 | polite | Adjective |
+| 6 | she | Pronoun |
+| 7 | my | Adjective |
+| 8 | us | Pronoun |
+
+The set is **four Adjective and four Pronoun, alternating by roll**, so no two neighbours share an answer and copying sideways fails immediately. **It shares no word with Wednesday's demo box** (`careful · wide · their · that · we · him`) — Run Book §6.5 rehearsal/graded disjointness.
+
+**Line (c) is the reasoning mark.** Accept short, correct reasons in the block's own language — *before a noun · tells whose · stands alone · replaces a noun · describes a noun · how many · tells how*. A bare restatement of the class (*"it is a pronoun"*) does **not** earn it.
+
+**One rule voids the sentence.** The self-try sentence must be **original**. A sentence reproducing any item from Parts B–E, or from this week's worksheets, earns no content-accuracy mark.
+
+### Marking sheet — the two blocks are reported separately
+
+| Column | Parts | Out of |
+|---|---|---|
+| Dictation | A | 10 |
+| **Article (Block 6 carry-over)** | **B** | **6** |
+| **Adjective + Pronoun (Block 7)** | **C · D · E · F** | **20** |
+| **Total** | | **36** |
+
+**Retention gate (Charter §F.5 / Run Book §9.8):** apply the gate to the **/36 total** as usual — no procedure change. But **record the Article and Block-7 percentages separately.** W5 produced no Performance Test and therefore no retention signal, so W6's 40-word batch was set on the planned ramp alone; this paper reads a **two-week composite**. If the total falls below 65%, check the split before shrinking W7's batch — a weak Article column is a *last week* grammar signal, not this week's vocabulary retention.
+
+---
+
+# Assignment · `C5B07-AS`
+
+**Required** (Charter §M.3 · Run Book §9.7 · §6.8). Given at school on Thursday after the Performance Test, completed Thursday–Saturday, submitted Sunday. Built to `English_Drive_AssignmentGenerator_Spec_v1_2` (frozen), aligned to this week's grammar objectives, held vocabulary and exam-style practice; added to `C5B07-AK` with the §6.11 consistency check re-run across all artefacts.
+
+⚑ **Verify before authoring:** `assignments/C5/C5_Eng_Assignment_W6.md` already exists in the repo and may already serve this week. Check alignment first rather than producing a second artefact for the same slot.
+
+---
+
+*Unit 7 (`C5B07-AK` + full audit suite + extracts + `C5B07-TD`) not yet authored.*
