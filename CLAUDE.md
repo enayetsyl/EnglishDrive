@@ -32,6 +32,11 @@ git push
 If push is rejected (remote ahead): `git pull --no-rebase`, resolve nothing silently —
 if there is any conflict, STOP and report. Never force-push. Never discard local work.
 
+**Session log.** On every "save state and sync", also append an entry to
+`SESSION_LOG.md` at repo root: date, user (from git identity), task worked on,
+files touched, decisions/approvals given in the session, flags raised and their
+outcomes, in 5–10 lines. Never overwrite past entries.
+
 **Stale git locks.** The working mount may start a session with `unlink` denied
 ("Operation not permitted"). A failed git command then leaves `index.lock` /
 `HEAD.lock` / `refs/**/*.lock` behind, and every later command fails with "Another
