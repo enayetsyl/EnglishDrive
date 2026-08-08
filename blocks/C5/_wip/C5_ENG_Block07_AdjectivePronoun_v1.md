@@ -1354,4 +1354,164 @@ The set is **four Adjective and four Pronoun, alternating by roll**, so no two n
 
 ---
 
-*Unit 7 (`C5B07-AK` + full audit suite + extracts + `C5B07-TD`) not yet authored.*
+# Consolidated Answer Key · `C5B07-AK`
+
+*Teacher-only. Never printed in a student extract or the Teacher Delivery Sheet (§3.12 r.2, §3.13). Assembled after every worksheet and the PT were final; original numbering preserved (§3.15).*
+
+### CW-1
+**A:** 1 Adjective · 2 Verb · 3 Noun · 4 Adverb · 5 Adjective · 6 Noun · 7 Adjective · 8 Adjective · 9 Verb · 10 Adjective · 11 Verb · 12 Adverb · 13 Adjective · 14 Noun
+**B (15–20):** any **held** adjective that fits the sense. *2 marks: 1 for a correct adjective correctly placed, 1 for the full sentence copied with the adjective underlined.* Do not require a particular word.
+**C (21–24):** own sentence using *brave · quiet · three · this*, with the noun it describes underlined. *2 marks: 1 correct use, 1 correct noun underlined.*
+
+### HW-1
+**A:** 1 Verb · 2 Adjective · 3 Noun · 4 Adjective · 5 Verb · 6 Adjective · 7 Adjective · 8 Adverb · 9 Adjective · 10 Noun · 11 Adjective · 12 Verb · 13 Noun · 14 Adverb
+**B (15–19):** as CW-1 Part B.
+**C:** courage **Noun** · quietly **Adverb** · brave **Adjective** · borrow **Verb** · pattern **Noun** · powerful **Adjective** · always **Adverb** · protect **Verb**
+
+### CW-2
+**A:** 1 Adjective · 2 Noun · 3 Adjective · 4 Verb · 5 Adverb · 6 Adjective · 7 Adjective · 8 Verb · 9 Noun · 10 Adjective · 11 Adverb · 12 Adjective · 13 Verb · 14 Noun
+**B (15–24):** My · traditional · our · beautiful · three · wide · Her · careful · This · famous. *Any order accepted; 1 mark each. Ten and only ten.*
+**C (25–29):** own sentence with *my · our · their · this · her* **before a noun**, noun underlined. *A sentence using the word alone (e.g. "I saw her") does not meet the instruction.*
+
+### HW-2
+**A:** 1 Noun · 2 Adjective · 3 Verb · 4 Adjective · 5 Adjective · 6 Verb · 7 Noun · 8 Adverb · 9 Adjective · 10 Verb · 11 Adjective · 12 Noun · 13 Adverb · 14 Adjective
+**B (15–24):** Our · large · Her · patient · beautiful · My · fresh · This · pleasant · five. *Any order.*
+**C (25–32):** 25 whose · 26 how many · 27 what kind · 28 whose · 29 which · 30 what kind · 31 which · 32 how many
+
+### CW-3
+**A:** 1 Pronoun · 2 Adjective · 3 Noun · 4 Pronoun · 5 Verb · 6 Adjective · 7 Pronoun · 8 Adverb · 9 Adjective · 10 Pronoun · 11 Noun · 12 Verb · 13 Adjective · 14 Pronoun
+**B (15–20):** 15 **He** borrowed a storybook from the library. · 16 The readers returned **them**. · 17 **She** sewed a traditional quilt. · 18 Abdur Rahim thanked **him**. · 19 **They** visited the famous museum. · 20 **It** has a beautiful pattern.
+*2 marks: 1 correct pronoun, 1 full sentence correctly rewritten. The pronoun alone earns 1.*
+**C:** **Subject** — we · they · she · I  |  **Object** — them · us · him · me
+
+### HW-3
+**A:** 1 Adjective · 2 Pronoun · 3 Verb · 4 Adjective · 5 Pronoun · 6 Noun · 7 Adverb · 8 Pronoun · 9 Verb · 10 Adjective · 11 Pronoun · 12 Adjective · 13 Pronoun · 14 Noun
+**B (15–19):** 15 **She** prepares a healthy meal. · 16 The champion won **it**. · 17 **They** planted vegetables near the wall. · 18 Maryam thanked **them**. · 19 **He** sent a message to the reporter.
+**C (20–27):** 20 S · 21 S · 22 O · 23 S · 24 O · 25 O · 26 S · 27 O
+
+### CW-4
+**A:** 1 Adjective · 2 Pronoun · 3 Verb · 4 Pronoun · 5 Adjective · 6 Noun · 7 Pronoun · 8 Adjective · 9 Adverb · 10 Pronoun · 11 Verb · 12 Adjective · 13 Noun · 14 Pronoun
+**B (15–22):** 15 **Adjective** · 16 **✓** · 17 **Adjective** · 18 **Pronoun** · 19 **✓** · 20 **Adjective** · 21 **✓** · 22 **✓**
+**C (23–28):** 23 Adjective — *before the noun* · 24 Adjective — *before the noun* · 25 Pronoun — *stands alone* · 26 Adjective — *before the noun* · 27 Pronoun — *stands alone* · 28 Pronoun — *stands alone*
+*2 marks: 1 correct class, 1 a reason naming **position**. "It is an adjective" restates the answer and earns 0 for the reason.*
+**D:** not marked, not collected.
+
+### HW-4
+**A:** 1 Pronoun · 2 Adjective · 3 Pronoun · 4 Adjective · 5 Noun · 6 Pronoun · 7 Adjective · 8 Verb · 9 Pronoun · 10 Adverb · 11 Noun · 12 Pronoun · 13 Adjective · 14 Verb
+**B (15–20):** 15 **Adjective** · 16 **✓** · 17 **Adjective** · 18 **Pronoun** · 19 **✓** · 20 **✓**
+**C (21–26):** 21 Adjective · 22 Pronoun · 23 Adjective · 24 Adjective · 25 Pronoun · 26 Pronoun *(reason must name position)*
+
+### `C5B0607-PT`
+**A (1–10) — dictation, teacher-only:** `champion · kindness · healthy · spend · competition · courage · pattern · harmful · breathe · tradition`
+**B (11–22) — ½ mark each:** 11 an · 12 a · 13 the · 14 the · 15 x · 16 a · 17 the · 18 an · 19 an · 20 a · 21 the · 22 x
+**C (23–30):** 23 Adjective · 24 Pronoun · 25 Noun · 26 Adjective · 27 Pronoun · 28 Adverb · 29 Adjective · 30 Pronoun
+**D (31–34):** 31 **She** stitched the traditional quilt. · 32 The tourists thanked **them**. · 33 **He** won the competition. · 34 **It** waited near the river.
+**E (35–38):** 35 **Adjective** · 36 **Adjective** · 37 **✓** · 38 **✓**
+**F:** self-try — mark on the 4-mark rubric below.
+
+### Assignment
+`C5B07-AS` — appended here when built; §6.11 consistency check re-run across all artefacts at that point.
+
+---
+
+# Self-construction rubric (PT Part F)
+
+**4 marks** — Charter §I.3, four criteria at 1 mark each, uniform across all five classes.
+
+| Criterion | Marks | What earns it |
+|---|---|---|
+| Content accuracy | 1 | the assigned word used correctly for its class — an adjective describing a noun, a pronoun standing in a noun's place |
+| Reasoning | 1 | line (c) names **why**, by position — *before a noun · tells whose · stands alone · how many*. Restating the class earns 0. |
+| Organisation | 1 | one complete, readable sentence, correct word order |
+| Correct word-class placement | 1 | adjective placed before its noun (or after *is/are* for a *what kind* word); pronoun placed where the noun would sit |
+| **Total** | **4** | |
+
+Each criterion scores **1 or 0** — no partial credit. **Islamic/value alignment is not scored** (Charter §I.3, Run Book §13.1): §H binds every authored item and prompt in full, but a religiously neutral, on-topic sentence earns full marks. A sentence reproducing any printed item earns 0 for Content accuracy.
+
+---
+
+# Bloom ladder
+
+Charter §G.2 — Class 5 sits at Apply / Understand / Analyze dominant, with Evaluate and guided Create at the close.
+
+| Day | Dominant levels | Where |
+|---|---|---|
+| 1 | Remember → Understand → Apply | re-walk the roles · the four questions · find and use an adjective |
+| 2 | Understand → Apply → early **Analyze** | *whose* as an adjective · the objection · passage identify |
+| 3 | Understand → **Apply** | pronoun discovery · subject/object · replace-and-rewrite |
+| 4 | **Analyze** → guided **Create** | the boundary · check-the-label · self-try rehearsal |
+| PT | Apply → Analyze → **Create** | B–C recognition · D production · E analysis · F independent production |
+
+**Block-scope spread:** Remember 14% · Understand 26% · Apply 30% · Analyze 22% · Create 8% — Apply/Analyze at the upper end of the band, as Drive Plan §6 requires.
+
+---
+
+# Build verification
+
+Run per Run Book §6.5 and §6.8, **programmatically against the assembled file**, not the item banks (Spec Phase 5 r.1). Manifest: `_wip/C5B07_manifest.json` (9 sheets).
+
+| Audit | Result |
+|---|---|
+| **Held-word / exemplar** | Every graded trigger traces to a **W1–W6 held word**, one of the **three declared numeral exemplars**, a **PD-026 closed-class grammar target** (pronouns, possessives), or a house-roster name. Verified on the **trigger**, not carrier text. |
+| **De-patterning (PD-008)** | All 24 graded answer sets: max run ≤2, no strict alternation, no repeating cycle. |
+| **CW↔HW positional overlap** (≤35%) | CW1↔HW1 **14%** · CW2↔HW2 **0%** · CW3↔HW3 **0%** · CW4↔HW4 **0%**. Each HW answer sequence was designed against its CW position by position, not shuffled and hoped. |
+| **Item-text duplication** (HW ≤2 / PT 0) | **Zero identical item texts across all 36 sheet pairings**, and zero within any sheet — compared with the trailing `— Label` of check-the-label items **normalised away** (see the defect note below). |
+| **PT zero-overlap vs Block 6** (PD-029, scope per **PD-034**) | **0 verbatim and 0 six-word-run matches** against **215 reference items** — Block 6's eight worksheets **and the unadministered `C5B06-PT`**. One draft item was identical to `C5B06-PT` #14 and was reauthored. |
+| **PT zero-overlap vs own worksheets** | 0 verbatim, 0 six-word-run. |
+| **Rehearsal/graded disjointness** | PT self-try roll set (`fresh · them · our · me · polite · she · my · us`) shares **zero** words with Wednesday's demo box (`careful · wide · their · that · we · him`); both classes reachable in each. |
+| **Per-day staging** | No *Pronoun* option or answer on any Day-1 or Day-2 sheet; **no possessive determiner anywhere on Day-1 sheets**; ***her* absent from Day 3** by design; no Preposition/Conjunction/Interjection label all week. |
+| **One defensible answer** | Every *her* item (13 across the block, plus 2 on the PT) resolved by **position** — noun following → Adjective, nothing following → Pronoun; verified item by item. *it* removed from the subject/object sort (both roles). *much* and *past* barred as graded targets. Ambiguous-gender referents removed from pronoun-rewrite items. |
+| **Mark totals** | Recomputed from the key: CW 34 · 34 · 34 · 34 | HW 32 · 32 · 32 · 32 | **PT 36**. Vocabulary Writing excluded from HW totals. |
+| **Sacred-word guard (§H.3)** | No *Allah · Quran · Ramadan · Hajj · Zakat* in any graded item, on any sheet or the PT. |
+| **Non-mahram screen (§H.4)** | No item pairs an unrelated male and female. Every multi-person item is same-gender or mahram; verified programmatically (no item carries two named characters). |
+| **Attribution screen (§H.9 / PD-019)** | No authored sentence presents a natural phenomenon as acting on its own. The three candidates (*river · wind · fort*) are plain description — *is very wide · was very strong · stands beside*. |
+| **Values lexicon** | No music or instruments; no other-faith festival content; house-roster names throughout. |
+| **Reference blocks (§3.17 / PD-018)** | No worksheet carries a rule box. **The Clue Card is exempt as a wall reference — except on Thursday**, when the class sits the PT in the same room; both `C5B07-CC` and `C5B06-CC` are covered or removed. In the teacher checklist and the PT instructions. |
+| **Naturalness (human gate)** | Every sentence hand-authored and read for sense. **No item was generated by pairing a word list against a frame** — the failure that produced *"sick mountain"* and *"bought a strong uncle"* at C4B05 v1.8. |
+| **Phrase crowding** | Frame sweep run across all graded items: **no sentence frame repeats**. Heaviest 3-word sequence is a noun phrase at 4 uses across ~230 items. Six items were reauthored after *"climbed the historical fort"* was found carrying four. |
+
+### Defect found and fixed during the build — recorded so the rule keeps its origin
+
+**A duplicate that the audit reported clean.** *"Three boats waited near the beach"* appeared identically on CW-3 and CW-4. The check passed because the manifest encodes check-the-label items with a trailing `" - Adjective"`, so the two strings differed. **The encoding defeated the check** — the same class of false negative as PD-018, where commas between article and noun let seven leaking answers through a first audit pass. **Fix:** the item was reauthored *and* the comparison now strips the trailing label before matching. **Rule for later builds: normalise every decoration the manifest adds, on both sides, before any string comparison.**
+
+---
+
+# Dependency flags ⚑
+
+*List only — never edited from this file.*
+
+1. ⚑ **Drive Plan §4's W6 row** needs a forward-only note recording the 08.08.26 load ruling (W6 FULL solo, Blocks 7a+7b, Preposition to Block 8 at W7). Flagged at PD-033; still pending.
+2. ⚑ **`assignments/C5/C5_Eng_Assignment_W6.md` already exists** — verify whether it serves this week before authoring `C5B07-AS`.
+3. ⚑ **The cumulative Word-Role Clue Card gains no Pronoun row this week**, because `C5B07-CC` is scoped to Adjective and Pronoun by ruling. Drive Plan §8 expects a complete card by **Block 9**; carry it there, where the card is extended to preposition, conjunction and interjection anyway.
+4. ⚑ **Starter Template v2.0** still records "C5 binds on three papers". Superseded by **PD-036** — the binding set is four. Correct at its own next revision (§K.3).
+5. ⚑ **Sentence rearrangement** is tested by Annual Q10 and HY-26 Q5 and covered by no C5 block (Drive Plan v1.7 §7). Flagged only, by instruction; coupled to the open calendar decision.
+6. ⚑ **W5 produced no retention signal** — no Performance Test was administered, so W6's 40-word batch was set on the planned ramp alone (Charter §F.5). Thursday reads a two-week composite.
+7. ⚑ **The C5 calendar remains unresolved** from W7 onward (PD-033 scope limit). Block 8 (Preposition) has a week by ruling; nothing beyond it does.
+
+---
+
+# Design Log candidates
+
+*Proposed only — not written to the log from here.*
+
+- **Normalise manifest decorations before any string comparison.** A trailing `— Label` on check-the-label items silently defeated the item-text duplication gate. Generalises PD-018's punctuation-normalisation lesson from worksheet text to **manifest encoding** (candidate BW).
+- **Design the HW answer sequence against its CW position by position**, rather than shuffling and re-testing. Produced 0% overlap on three of four pairs at no cost (candidate BW).
+- **Hold the ambiguous member of a boundary pair back one day.** *Her* was excluded from Day 3 so it could carry Day 4 cleanly; the same shape would suit any block whose analytic spine is a two-job word (candidate PD).
+- **Where a carried-forward PT exists but was never administered, load it into the overlap surface rather than treating it as spent.** It caught a verbatim duplicate here (candidate BW; extends PD-034).
+
+---
+
+# Governance Feedback
+
+*Collected for Principal ruling; no governing document edited from this file.*
+
+- **`C5B07-CC` scoped to two roles by ruling (08.08.26).** Run Book §9.9 and Drive Plan §8 both describe a single cumulative Word-Role card that grows as the spine advances. A block-scoped, two-role card is a **new pattern**, and a good one — the boundary is the difficulty, and a general chart dilutes it. If it is to be repeated, §9.9 needs a clause distinguishing the **cumulative wall card** from a **block card**. Flagged, not assumed.
+- **A wall reference stops being exempt on test day.** §3.17 r.5 exempts Clue Cards because *"they are not sat with the paper."* On a Thursday PT in the same classroom, they are. Recommend §3.17 gain a line requiring wall references to be covered or removed for any Performance Test that grades what they print.
+
+---
+
+# Version log
+
+| Version | Date | Change | By |
+|---|---|---|---|
+| v1 | 2026-08-08 | **Initial build.** Adjective + Pronoun taught as the W6 solo block, Drive Plan **v1.7** §2 Blocks **7a + 7b** (PD-033 numbering). **Pronoun is strict first-teach** (Principal ruling) — never taught to this cohort under the drive; built from zero at discovery pace. **Adjective is a re-walk** of the Block 1 row, extended to the possessives, with ***how many* admitted to the cap** (Principal ruling). Four days: 1 adjective re-walk · 2 possessives + the objection · 3 pronoun first-teach · 4 the boundary, with Day 4 pronoun-and-boundary weighted so the block lands near the ruled **40 / 40 / 20**. Graded surface is **Identify + Use + Check-the-label** on a **five-label set** (Noun · Verb · Adjective · Adverb · Pronoun) — a **staged instalment of the Block 9 parts-of-speech format**, not a rehearsal of a question this block owns; adjective and pronoun have no dedicated question in any of the four binding papers. The **adverb distractor** (*quiet/quietly*, *careful/carefully*) is the depth increase over C4B05, which ran four labels because C4 held no adverbs. Built on **held vocabulary only** — 34 held adjectives, 114 held nouns — with **three PD-009 numeral exemplars** for the *how many* strand (PD-020: not PD-012, because W6 carries the ramp's joint-largest batch under a gate with no W5 signal). No PD-011 override, no PD-012 block-local set. `C5B07-CC` carries **Adjective and Pronoun only** (Principal ruling); the Block 1 four-row card stays on the wall for the other roles. Thursday assessment is the combined **`C5B0607-PT`** (36 marks, 35 min) under the **PD-029 paired-week recovery** — Block 6's Article PT was lost to a holiday; `C5B06-PT` is retained unadministered, and Part B is freshly authored with **zero overlap against 215 Block-6 reference items** under **PD-034** scope. Article and Block 7 are **separately identifiable** on the mark sheet by ruling. English delivery throughout (§3.14); 8-prompt Exit Check each day (Sylhet roll); self-try assigned by roll, disjoint from the Wednesday demo box; Vocabulary Writing on all four HWs from four disjoint W6 sets (PD-015). Every gate in the Build Verification table run programmatically; one masked duplicate and one case of frame crowding found and corrected before this version. | Principal / Claude |
