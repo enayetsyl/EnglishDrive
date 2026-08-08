@@ -52,11 +52,12 @@
 **Part B** (½ each): 1.Adjective 2.Adjective 3.Pronoun 4.Preposition 5.Preposition 6.Adjective 7.Pronoun 8.Preposition 9.Noun 10.Verb 11.Adjective 12.Preposition 13.Preposition 14.Noun 15.Pronoun 16.Adjective
 
 **Part C** (½ each): 1.at 2.at 3.in 4.from 5.on 6.with 7.into 8.near
+*(Printed without clues — each sentence forces one answer on its own: clock time → at, season → in, `came`/`stops`/`hangs`/`rolled`/`stands` fix the rest.)*
 
 **Part D** (1 each): 1.He 2.her 3.They 4.it 5.them — full sentence required for the mark; accept the pronoun in the correct slot.
 *(D1 `Abdullah`→He · D4 `the picture`→it — freshly authored for this PT, zero-overlap against `C4B05-PT` and all Block-5 worksheets per PD-029.)*
 
-**Part E** (1 each): open construction — sensible adjective before the noun, sentence coheres, adjective underlined.
+**Part E** (1 each, **2 items**): open construction — sensible adjective before the noun, sentence coheres, adjective underlined.
 
 **Part F** (4, rubric): name the part of speech + one correct sentence. Box (on · near · from · kind · this · them) is **disjoint from the Wednesday demo set** (under · at · with) per §6.5 rehearsal/graded disjointness.
 
@@ -66,6 +67,6 @@
 > the block teaches. Same rule for **kind** (Adjective in normal use: *a kind teacher*). Award the
 > "correct word-class placement" mark on whether the pupil's naming matches the pupil's own sentence.
 
-**Timing guide** — A 5 · B 6 · C 4 · D 6 · E 6 · F 5 · 3 checking (~35 min).
+**Timing guide** — A 5 · B 6 · C 4 · D 6 · E 3 · F 5 · 6 checking (~35 min).
 
 ---

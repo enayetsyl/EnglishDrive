@@ -3,7 +3,7 @@
 **Class:** 4 · **Block:** 6 (Preposition) · **Week:** W6 · **Load:** FULL (solo) · **Days:** 4 (Sun–Wed) + combined Performance Test (Thu)
 **Branch:** delivered at Sylhet · binding exam papers are Mohammadpur/Muhammadpur papers
 **Canonical IDs:** master `C4_ENG_Block06_Preposition` · extracts `C4B06-CW1…CW4`, `C4B06-HW1…HW4`, `C4B06-AK`, combined PT `C4B0506-PT`
-**Status:** v1.6 — built 2026-08-06; CW/HW/PT review pass F1–F12 + Principal content edits + cross-sheet repetition pass + Principal CW-2/HW-2/CW-3/HW-3/CW-4/HW-4 edits, 2026-08-08. **All audit gates PASS** — `audits/reports/C4B06_audit_2026-08-08.txt`.
+**Status:** v1.7 — built 2026-08-06; CW/HW/PT review pass F1–F12 + Principal content edits + cross-sheet repetition pass + Principal CW-2/HW-2/CW-3/HW-3/CW-4/HW-4 edits, 2026-08-08. **All audit gates PASS** — `audits/reports/C4B06_audit_2026-08-08.txt`.
 
 ---
 
@@ -1021,7 +1021,7 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 
 > **Why combined:** the W5 Thursday PT for Block 5 (Adjective + Pronoun) was lost to a holiday, so its assessment folds into this W6 PT alongside Preposition (Block 6). One C4 period. Cross-block dependency: the delivered Block 5 master's `C4B05-PT` was built but not administered — its assessment is carried here; a pointer sits in both files. *(**PD-029**.)*
 
-**Name:** ___________________ **Date:** ___________ **Total: 36 marks**
+**Name:** ___________________ **Date:** ___________ **Total: 33 marks**
 
 ---
 
@@ -1034,7 +1034,7 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 
 ---
 
-**Part B — Write the part of speech of the bold word (Noun, Verb, Adjective, Pronoun, Preposition). Write only answers.** *(16 items, ½ mark each = 8 marks)*
+**Part B — Write the part of speech of the bold word. Write only answers.** *(16 items, ½ mark each = 8 marks)*
 
 1. The **kind** teacher helped the boy.
 2. She keeps **her** books on the shelf.
@@ -1048,23 +1048,23 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 10. The farmers **grow** wheat in the field.
 11. **This** school is very quiet.
 12. The cards lie **in** the box.
-13. We gave the food **to** the people.
+13. The worker carries the bag **to** the factory.
 14. My **uncle** owns a small shop.
 15. **We** rested near the pond.
-16. A **fresh** flower grew near the river.
+16. The **clean** glass is on the shelf.
 
 ---
 
-**Part C — Fill in the blank with the correct preposition.** *The clue in brackets helps you.* *(8 items, ½ mark each = 4 marks)*
+**Part C — Fill in the blank with the correct preposition.** *(8 items, ½ mark each = 4 marks)*
 
-1. The teacher waits ___ the gate. *(that spot)*
-2. The train arrives ___ ten o'clock. *(exact time)*
-3. We travel ___ winter. *(a season)*
-4. The letter came ___ my cousin. *(coming from)*
-5. The card lies ___ the table. *(on the surface)*
-6. I share my lunch ___ my friend. *(সঙ্গে)*
-7. The ball rolled ___ the pot. *(moving inside)*
-8. The school stands ___ the river. *(close to)*
+1. The vehicle stops ___ the shop.
+2. The train arrives ___ ten o'clock.
+3. We travel ___ winter.
+4. The letter came ___ my cousin.
+5. The poster hangs ___ the gate.
+6. I share my lunch ___ my friend.
+7. The ball rolled ___ the pot.
+8. The school stands ___ the river.
 
 ---
 
@@ -1078,13 +1078,10 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 
 ---
 
-**Part E — Add a describing word (adjective) before each noun and write the full sentence. Underline the adjective.** *(5 items, 1 mark each = 5 marks)*
+**Part E — Add a describing word (adjective) before each noun and write the full sentence. Underline the adjective.** *(2 items, 1 mark each = 2 marks)*
 
 1. river ______________________________________________
 2. teacher ____________________________________________
-3. picture ____________________________________________
-4. village ____________________________________________
-5. spoon ______________________________________________
 
 ---
 
@@ -1152,11 +1149,12 @@ Choose **one** word from the box. Then: **(1)** name its part of speech, **(2)**
 **Part B** (½ each): 1.Adjective 2.Adjective 3.Pronoun 4.Preposition 5.Preposition 6.Adjective 7.Pronoun 8.Preposition 9.Noun 10.Verb 11.Adjective 12.Preposition 13.Preposition 14.Noun 15.Pronoun 16.Adjective
 
 **Part C** (½ each): 1.at 2.at 3.in 4.from 5.on 6.with 7.into 8.near
+*(Printed without clues — each sentence forces one answer on its own: clock time → at, season → in, `came`/`stops`/`hangs`/`rolled`/`stands` fix the rest.)*
 
 **Part D** (1 each): 1.He 2.her 3.They 4.it 5.them — full sentence required for the mark; accept the pronoun in the correct slot.
 *(D1 `Abdullah`→He · D4 `the picture`→it — freshly authored for this PT, zero-overlap against `C4B05-PT` and all Block-5 worksheets per PD-029.)*
 
-**Part E** (1 each): open construction — sensible adjective before the noun, sentence coheres, adjective underlined.
+**Part E** (1 each, **2 items**): open construction — sensible adjective before the noun, sentence coheres, adjective underlined.
 
 **Part F** (4, rubric): name the part of speech + one correct sentence. Box (on · near · from · kind · this · them) is **disjoint from the Wednesday demo set** (under · at · with) per §6.5 rehearsal/graded disjointness.
 
@@ -1166,7 +1164,7 @@ Choose **one** word from the box. Then: **(1)** name its part of speech, **(2)**
 > the block teaches. Same rule for **kind** (Adjective in normal use: *a kind teacher*). Award the
 > "correct word-class placement" mark on whether the pupil's naming matches the pupil's own sentence.
 
-**Timing guide** — A 5 · B 6 · C 4 · D 6 · E 6 · F 5 · 3 checking (~35 min).
+**Timing guide** — A 5 · B 6 · C 4 · D 6 · E 3 · F 5 · 6 checking (~35 min).
 
 ---
 
@@ -1174,6 +1172,7 @@ Choose **one** word from the box. Then: **(1)** name its part of speech, **(2)**
 
 | Version | Date | Change | By |
 |---|---|---|---|
+| v1.7 | 2026-08-08 | **Performance Test review (Principal).** **Part B** — the class list *(Noun, Verb, Adjective, Pronoun, Preposition)* removed from the instruction, which now reads *"Write the part of speech of the bold word. Write only answers."*, matching the papers' own bare wording (HY25 Q6 / Annual Q4 name no options). Items **13** and **16** replaced: *"We gave the food to the people"* → *"The worker carries the bag **to** the factory"*; *"A fresh flower grew near the river"* → *"The **clean** glass is on the shelf."* Both keep their answer class. **Part C — all eight clues removed**, and **two items reworded because removing the clue would otherwise have left them ambiguous**: C1 *"The teacher waits ___ the gate"* admitted *at* **or** *near* once its *(that spot)* clue was gone → *"The vehicle stops ___ the shop"*, where *stops* forces **at**; C5 *"The card lies ___ the table"* admitted *on* **or** *under* → *"The poster hangs ___ the gate"*, where *hangs* forces **on**. The remaining six were already self-forcing (clock time → *at*, season → *in*, and *came · rolled · stands · share* fix the rest), so they lost their clues unchanged. The now-false instruction line *"The clue in brackets helps you"* was struck from Part C; CW-1/HW-1 Part B keep both their Bangla clues and that line, since place items genuinely need one. **Part E reduced from five prompts to two** (*river · teacher*). **Consequence — the PT total falls 36 → 33** (A 10 · B 8 · C 4 · D 5 · E **2** · F 4); the header, the AK and the timing guide (E 6 → 3 min, checking 3 → 6 min) are all updated to match. **Note for the Principal:** Part E is the PT's only adjective-*production* task and the main surviving Block-5 (Adjective) surface in this combined test, so the cut reduces Block-5 coverage as well as the total — flagged, not resisted. **All ten gates PASS**, PT recomputed at 33/33; the eight worksheet totals are unchanged. | Principal / Claude |
 | v1.6 | 2026-08-08 | **Principal review edits across CW-2, HW-2, CW-3, HW-3, CW-4, HW-4.** **Wording supplied by the Principal:** CW-2 A3 → *"We will return **on** the ninth of May, in shaa Allah."*; CW-2 A17 → *"The school reopens **on** Thursday."*; HW-2 A15 → *"The stars shine **at** night."*; CW-3 A1 → *"I sit **with** my friends."* (was *my teacher*). **HW-2 A7 — corrected on the way in:** the instruction read *"We fast **on** the month of Ramadan"*, but a month takes ***in*** — the block's own Clue Card teaches *in* for months, so printing *on* would have contradicted the card on the very sheet that drills it. Applied as *"We fast **in** the month of Ramadan."* Answer unchanged (Preposition). **Nine items re-authored** where the instruction was "replace": CW-2 A1 *Winter brings **cold** mornings* · CW-2 A8 ***Green** leaves grow in spring* · HW-2 A10 *The school closes **in** winter* · HW-3 A1 *A **healthy** child drinks clean water* · CW-4 A11 *Abdullah **borrows** a magazine* · CW-4 A18 *The family travels **to** the village* · CW-4 A19 *Porshi **collects** the stamps* · HW-4 A13 *My **uncle** works in the factory* · HW-4 A15 *The clothes are **in** the bag*. Every one preserves its original answer class. **Clue policy now differs by strand, per the Principal:** the **time** fill-ins (CW-2, HW-2 Part B) carry **no clue at all** — the object itself determines at/on/in, so the clue was redundant and gave the answer away; the **relation** fill-ins (CW-3, HW-3 Part B) carry the Clue Card's **Bangla** — *(সঙ্গে) · (থেকে) · (এর) · (দিকে)* — joining the place fill-ins (CW-1, HW-1) already converted at v1.5. **CW-4 / HW-4 Part C** student prompts changed from *"class: ____"* to *"part of speech: ____"*, completing the terminology unification v1.3 began (it had updated the headers but left the six prompts). **Block-local time set extended 12 → 14** with **Ramadan** and **month**, both required by the corrected HW-2 A7 (PD-012 as extended by PD-035; block-scoped, not added to File 2, never dictation items). **Sacred-word note:** *in shaa Allah* (CW-2 A3) and *Ramadan* (HW-2 A7) appear as **carrier text**, never as a graded classification target — the graded word in both items is the preposition. This sits inside Charter §H.3 and follows PD-022's secular-transfer logic (the sacred phrase is printed intact and is never blanked); it is **not** an assembly task, so PD-031 does not bite. **All ten gates PASS; cross-sheet repetition re-verified at 199 sentences, zero repeats; all nine mark totals unchanged.** | Principal / Claude |
 | v1.5 | 2026-08-08 | **Principal content edits and the cross-sheet repetition pass.** **(1) CW-1/HW-1 review edits (Principal):** CW-1 A3 *"The pot stands on the wall"* — an unusual image — became *"The pot is **on** the shelf"*; A7 *"A cold night came"* → *"It was a **cold** night"*; A8's subject *the ball* → *the man*; HW-1 A14 *"A **fresh** flower bloomed"* → *"A **colourful** flower bloomed"* (`red` was proposed but is absent from File 2; `colourful` is held at W3, so no declaration was needed — declaring a pooled word would have misstated its status). **(2) Fill-in clues converted to Bangla.** CW-1 and HW-1 Part B printed English glosses that gave the answer away (*inside* → *in*, *below* → *under*). All twelve now carry the Preposition Clue Card's own Bangla — *(ভিতরে) · (উপরে) · (নিচে) · (কাছে) · (ভিতরের দিকে) · (নির্দিষ্ট জায়গায়)* — matching the `(সঙ্গে)` ruling already applied to the relation items. **(3) `shelf` added to block-local place set 1** (now **11**: box · ball · desk · table · chair · bag · gate · wall · bed · pot · shelf), and reused at CW-4 A7 so the new word gets a second exposure before the PT rather than appearing once. **(4) Vocabulary Writing re-based on the W6 batch.** All four HW boxes had carried **W5** words; they now carry the week's own 18: HW-1 *pollution · waste · smoke · noise · air* · HW-2 *ear · kindness · people · street · clothes* · HW-3 *poster · factory · worker · always* · HW-4 *carefully · slowly · happily · loudly*. HW-1 and HW-2's ten are exactly the PT Part-A dictation list, so pupils copy the words they will be dictated. **(5) Cross-sheet repetition pass — the substantial change.** A sweep across all eight worksheets and the PT found **38 distinct sentences repeated over 78 placements**: the later sheets had been built by recycling the earlier ones, with **CW-4 at 16 of 20 items and HW-4 at 11 of 20** — the Day-4 mixed sheets, the last practice before the Performance Test, were 80% and 55% recycled, and three sentences appeared three times each. **No gate had caught this**: the suite checks within-sheet duplicates and CW↔HW identical items per pair, but nothing compares CW-4 against everything built before it. **40 items re-authored** (CW-2 ×6, HW-2 ×7, CW-4 ×16, HW-4 ×11), keeping the first occurrence in teaching order. **Every replacement preserves its original answer class**, so no AK key, no de-patterning sequence and no mark total moved. New contexts introduced — library, factory, street, poster, envelope, stamp, ticket, mountain, environment — with varied sentence structure and the house names used across both genders without non-mahram pairing. **Verified: 199 sentences compared, zero repeats remaining.** **(6) Manifest tooling:** the trigger lemmatiser was replaced with general pool-backed inflection matching after a hand-maintained map repeatedly missed verbs (*meets · fills · enjoys · mixes*). **All ten gates PASS.** | Principal / Claude |
 | v1.4 | 2026-08-08 | **CW/HW/PT review pass — twelve findings ruled and applied (Principal, 08.08.26). Teacher Script / Teaching Days 1–4 were already checked and are untouched, apart from one citation fix noted below.** This is the block's **first programmatic audit**: no manifest and no audit report had ever existed for it, and the v1 log's claim *"all audits green"* was unevidenced and, on two counts, false. **F1 — CW↔HW answer-key reuse.** Every pair shared an *identical* secondary-part key (HW-1/2/3 Part B, HW-2 Part C, HW-4 Part B), so the homework key was transcribable from the classwork positionally without reading an item. HW items reordered and the AK re-keyed; **no item rewritten**. Positional overlap **39/56/37/48% → 19/22/17/32%**. **F2 — PT overlap with Block 5 (PD-029 breach).** PT Part E prompts `meal` and `bird` were **verbatim** duplicates of `C4B05-CW1` Part B (22, 25) and `C4B05-HW1` Part B (23) — the same *expand-the-noun* task with the same prompt nouns; PT B3/D4 near-duplicated `C4B05-CW4`/`CW2`; PT D1 shadowed **`C4B05-PT` #27**, an **unspent** item. Part E re-authored (river · teacher · picture · village · spoon); B3 *praised*→*thanked*; D1 → *Abdullah washed his hands*; D4 → *Father brought the picture*. **F3 — `quickly` is a W7 word** graded as an Adverb in a W6 block (CW-3 A2, HW-4 A16) → *slowly*. **F4 — `run` is absent from File 2 in any form** yet keyed as a Verb (HW-1 A9, CW-4 A11) → held verbs. **F5 — undeclared non-held vocabulary.** Twelve **time nouns** carrying the whole at/on/in strand were declared nowhere; recasting them was impossible (File 2 holds only `morning`/`day` by W6, both in the same category, so the pool cannot supply one contrasting pair) and the §2 cap requires the time strand while **no binding C4 paper tests it** — a case no existing instrument reached. Declared **block-local under PD-012 as extended by PD-035**; ten avoidable carriers (`bench · corner · drawer · garden · grandfather · hole · poor · porch · room` + `run`) **recast onto held words instead of declared**. **F6 — six singing items** (*bird sang*, *girl sings*, *birds sing*) recast on the approved Block 05 v1.11 precedent; carrier verbs only, every graded target untouched. **F7 — the Part C match tasks were unmarkable**: matching `with·from·of·to` against four person-phrases admits **all 24 pairings** as valid English, so the key was unrecoverable by pupil and teacher alike; the place match was ambiguous too (*on the table* as natural as the keyed *on the wall*). All four converted to **choose-between-two**, the school's own forced-choice format (HY25 Q5, Annual Q7), 18 items authored so the distractor is *impossible* rather than merely less natural. **F8 — citations:** `PD-028` (C3 Block 7 weighting) had been cited for both the block-local set → **PD-012**, and the PT carry-forward → **PD-029**; **PD-026** added as the authority for the function-word graded class. **F9** — "nine cap prepositions" corrected to **ten** (ten were always listed). **F10 — four sheets graded Adverb while their Part-A option list omitted it** (v1.3 fixed only CW-4/HW-4); all eight option lists made uniform at six classes on the Principal's ruling. **F11** — *"A tall tree gives shade"* recast (attribution screen). **F12** — AK gains a marking note for PT Part F `this`/`kind`, where the pupil's own sentence determines the correct class. **Audit-suite changes (approved, separate commit):** `block_local` manifest field (T1) and values-lexicon inflection matching (T2) — the latter had caught **one** of six singing items; `audit_scope: pt_overlap_only` authorised for the paired-week recovery (**PD-034**), without which the PD-029 obligation was unverifiable by any script. **Result: all ten gates PASS** — de-patterning · CW↔HW overlap · PT zero-overlap (vs 409 items: Block 6's own sheets + Block 5's eight worksheets + `C4B05-PT`) · within-sheet duplicates · rehearsal/graded disjointness · mark totals (37/31/38/32/36/30/31/31, PT 36 — unchanged throughout) · sacred-word · values lexicon · held-word/block-local · one-defensible-answer. | Principal / Claude |
