@@ -685,4 +685,262 @@ pleasant place for five readers.
 
 ---
 
-*Units 4–7 (Days 3–4 → `C5B0607-PT` → Assignment → `C5B07-AK` + audits + extracts) not yet authored.*
+# Class 3 (Tuesday) — **Pronoun: a word that stands *instead of* a noun** — FIRST TEACH
+
+**Objective.** Students discover that a pronoun **replaces** a noun; they name the subject set (I · he · she · it · we · they) and the object set (me · him · her · us · them), and use them to rewrite a sentence.
+
+> **⚠ THIS IS FIRST TEACH, NOT REVISION.** This cohort has **never** been taught the pronoun under the drive — Block 1 was narrowed to a four-row card and no later block introduced it. **Assume nothing.** Teach at discovery pace, exactly as Block 1 taught the noun: ask, let them find it, then name it. Do not open by saying *"you already know pronouns."*
+
+**Design note — *her* is deliberately held back to Wednesday.** Today's object work uses **me · him · us · them** only. *Her* is the one word that does both jobs cleanly, and it is Wednesday's critical pair; meeting it today, before the boundary is taught, would blur both lessons. It appears on the Clue Card list — the teacher names it and defers it, once.
+
+**Staging:** all five labels are live from today. CW-3 and HW-3 option lists read Noun · Verb · Adjective · Adverb · **Pronoun**.
+
+| Step | Time | Focus |
+|---|---|---|
+| 1 | 0–4 | Recall Monday — *before a noun → adjective* |
+| 2 | 4–12 | **Discovery: what happens when the noun goes** |
+| 3 | 12–20 | Subject and object |
+| 4 | 20–26 | Replace and rewrite |
+| 5 | 26–28 | Clue Card — the Pronoun block goes up |
+| 6 | 28–32 | CW-3 out, item 1 modelled |
+| 7 | 32–35 | Exit Check |
+
+### Step 1 — Recall (0–4 min)
+
+Books closed. Write: `my quilt · their neighbours · this garden`
+
+> **Say:** "Yesterday we learned that these little words are adjectives. In *my quilt*, why is *my* an adjective?"
+
+**Expect:** "Because a noun comes after it." / "It tells us whose."
+
+> **Say:** "Good — before a noun, describing it. Hold that firmly, because today we meet words that do the **opposite**. They do not sit before a noun at all."
+
+### Step 2 — Discovery: what happens when the noun goes (4–12 min)
+
+Write the first sentence only:
+
+```
+Abdullah visits the library.
+```
+
+> **Say:** "Read it with me. Now watch — I am going to take Abdullah out."
+
+Write underneath:
+
+```
+______ visits the library.
+```
+
+> **Say:** "The sentence is broken. I need one small word in that gap so it makes sense again. What could I put there?"
+
+**Expect:** "He."
+
+> **Say:** "Let us try it. *He visits the library.* Does that sound like English?" → **"Yes."** → "Now the important question. Do we still know **who** visits the library?"
+
+**Expect:** "Abdullah."
+
+> **Say:** "So *He* did not name anybody new. It stood **in the place of** Abdullah. The noun went out, and this word took its seat. A word that stands **instead of** a noun is called a **Pronoun**."
+
+Write **Pronoun** on the board and draw an arrow from *He* back to *Abdullah*.
+
+**Second example — object position.** Write:
+
+```
+Raima assisted Maryam.        Raima assisted ______.
+```
+
+> **Say:** "Same game. Take *Maryam* out. What small word goes in?"
+
+**Expect:** "her" — *(accept it, but see the note below)* — or, if prompted with the day's set, "them / him."
+
+> **Teacher note — if a student offers *her*:** "That is right, and it is a very interesting word — it can do **two different jobs**. We look at it closely tomorrow. For today let us use words that only do one job." Then rebuild the example as **Raima assisted Nusair. → Raima assisted him.** Do not explain the two jobs today.
+
+> **Say:** "See where it sat. In the first sentence the pronoun sat at the **front**. In the second it sat **after the verb**. Pronouns can do both."
+
+**The contrast that makes the week work.** Write the pair:
+
+```
+my quilt              →  a noun comes AFTER it   →  Adjective
+He visits the library →  nothing after it; it took the noun's seat  →  Pronoun
+```
+
+> **Say:** "One describes a noun. The other **replaces** it. Describing needs the noun to still be there. Replacing takes it away."
+
+**Anticipated error & correction.**
+> **If a student says the pronoun "describes" the noun:** "Let us test that. In *He visits the library*, does *He* tell us what kind of Abdullah, or which Abdullah? … Is Abdullah even in the sentence any more?" → **"No."** → "He has gone. You cannot describe a word that is not there. *He* has **replaced** him."
+
+### Step 3 — Subject and object (12–20 min)
+
+> **Say:** "Pronouns come in two groups, and the group depends on the **job the pronoun does in the sentence**."
+
+Build the table with the class:
+
+| | | |
+|---|---|---|
+| **Subject** — does the action | *কর্তা* | I · he · she · it · we · they |
+| **Object** — receives the action | *কর্ম* | me · him · her · us · them |
+
+> **Say:** "The **subject** *(কর্তা)* does the action, and usually comes first. *She prepares the meal.* Who does the preparing?" → **"She."**
+
+> **Say:** "The **object** *(কর্ম)* receives the action, and usually comes after the verb. *The teacher assisted him.* Who was assisted?" → **"him."**
+
+Read each aloud; class repeats, then individuals answer *subject or object?*
+
+`We protect the mangrove forest. · Abdullah sent them a message. · They climbed the historical fort. · Fatima gave the apples to us. · I returned the storybook.`
+
+> **Say (point to each):** "In *We protect* — doing or receiving?" → **"Doing — subject."** "In *sent them* — doing or receiving?" → **"Receiving — object."**
+
+**Teacher note — the *this/that* light note (say once, do not drill).** §2 Block 7b allows one brief mention:
+> **Say:** "One small thing, then we move on. Yesterday *this* sat before a noun — *this garden* — and it was an adjective. *This* can also stand alone: *This is my storybook.* Then it is acting as a pronoun. I am not testing that today. Just notice it."
+
+### Step 4 — Replace and rewrite (20–26 min)
+
+> **Say:** "Now you do the replacing, and you write the **whole new sentence** — not just the small word."
+
+Work three on the board together, then let the class try two aloud:
+
+```
+Yusuf borrowed a storybook.        →  He borrowed a storybook.
+The readers returned the books.    →  They returned the books.
+Aisha thanked the neighbours.      →  Aisha thanked them.
+```
+
+> **Say (item 3):** "Careful with this one. What are we replacing — *Aisha*, or *the neighbours*?" → **"The neighbours."** → "And are they doing the thanking or receiving it?" → **"Receiving."** → "So we need an **object** pronoun: *them*. And *Aisha* stays exactly as she is."
+
+**Anticipated error & correction.**
+> **If a student replaces the wrong noun:** "Read the instruction again — which noun is in bold? That is the only one you change. Everything else stays."
+> **If a student writes only the pronoun:** "Good word — now give me the **whole sentence**. In the exam the mark is for the full sentence."
+
+### Step 5 — Clue Card, the Pronoun block (26–28 min)
+
+> **Say:** "Now our card gets its second half."
+
+Write the **Pronoun** block with the class — the subject and object rows, and the two examples.
+
+> **Say (pointing to *her* in the object row):** "You will see *her* in this list. That word does **two** jobs, and tomorrow we find out how to tell them apart. It is the most important thing we will do this week."
+
+### Step 6 — CW-3 (28–32 min)
+
+Distribute CW-3. Model item 1:
+
+> **Say:** "Item one — ***They** climbed the historical fort.* The bold word is *They*. Is there a noun straight after it?" → **"No."** → "So is it describing, or has it taken a noun's seat?" → **"Taken its seat."** → "Part of speech?" → **"Pronoun."** "Write it and carry on."
+
+### Step 7 — Exit Check (32–35 min)
+
+**8 prompts, one per student.** Answer plus a short reason.
+
+| # | Prompt | Answer |
+|---|---|---|
+| 1 | **We** protect the forest. | Pronoun — stands instead of a noun |
+| 2 | **our** garden | Adjective — before a noun |
+| 3 | Abdullah sent **them** a message. | Pronoun |
+| 4 | a **traditional** quilt | Adjective |
+| 5 | **They** climbed the fort. | Pronoun |
+| 6 | The reader **returned** the poem. | Verb |
+| 7 | The teacher assisted **him**. | Pronoun |
+| 8 | In *She prepares the meal*, is **She** subject or object? | Subject |
+
+---
+
+# Worksheets — Day 3
+
+## CW-3 · `C5B07-CW3` — Pronouns: standing instead of a noun
+
+**Name:** ___________________ **Date:** ___________
+
+**Part A — Write the part of speech of the **bold** word (Noun, Verb, Adjective, Adverb, Pronoun).** *(14 items, 1 mark each)*
+
+1. **They** climbed the historical fort.
+2. **Our** neighbour keeps a large garden.
+3. The **champion** received a prize.
+4. Abdullah sent **them** a message.
+5. Aisha **returns** the storybook to the library.
+6. Nusair read a **secret** poem.
+7. **We** protect the mangrove forest.
+8. The grandmother stitched the cloth **slowly**.
+9. **Three** boats waited near the beach.
+10. The teacher assisted **him** after the class.
+11. The **tradition** started many years ago.
+12. The children **breathe** fresh air in the garden.
+13. **My** parents visited the museum.
+14. Maryam gave the apples to **us**.
+
+**Part B — Rewrite each sentence, replacing the **bold** noun with the correct pronoun. Write the full new sentence.** *(6 items, 2 marks each)*
+
+15. **Yusuf** borrowed a storybook from the library.
+16. The readers returned **the storybooks**.
+17. **The grandmother** sewed a traditional quilt.
+18. Abdur Rahim thanked **Nusair**.
+19. **The tourists** climbed the historical fort.
+20. **The quilt** has a beautiful pattern.
+
+**Part C — Sort each pronoun into the correct column.** *(8 items, 1 mark each)*
+
+`we · them · they · us · she · I · him · me`
+
+| Subject *(does the action)* | Object *(receives the action)* |
+|---|---|
+| | |
+| | |
+
+**Total: 34 marks**
+
+---
+
+## HW-3 · `C5B07-HW3` — Pronouns: standing instead of a noun
+
+**Name:** ___________________ **Date:** ___________
+
+**Part A — Write the part of speech of the **bold** word (Noun, Verb, Adjective, Adverb, Pronoun).** *(14 items, 1 mark each)*
+
+1. **Their** grandmother told a pleasant story.
+2. **She** carries fresh vegetables home.
+3. Porshi **wraps** the blue cloth.
+4. The **traditional** pattern shows three flowers.
+5. The neighbours helped **us** near the mosque.
+6. The **courage** of the champion won the race.
+7. Raima listens **quietly** in the library.
+8. **I** borrowed two storybooks today.
+9. The readers **collect** interesting poems.
+10. **That** garden is large and pleasant.
+11. Abdullah sent a message to **them**.
+12. Aisha picked **five** apples from the branch.
+13. **He** climbed the wide stone wall.
+14. The **thread** on the quilt is very strong.
+
+**Part B — Rewrite each sentence, replacing the **bold** noun with the correct pronoun. Write the full new sentence.** *(5 items, 2 marks each)*
+
+15. **Aisha** prepares a healthy meal.
+16. The champion won **the prize**.
+17. **The neighbours** planted vegetables near the wall.
+18. Maryam thanked **Raima and Porshi**.
+19. **Abdullah** sent a message to the reporter.
+
+**Part C — Write **S** if the bold pronoun is the **subject**, or **O** if it is the **object**.** *(8 items, 1 mark each)*
+
+20. **We** climbed the historical fort.
+21. **They** planted flowers in the garden.
+22. The teacher assisted **me** in the library.
+23. **I** returned the storybook today.
+24. Abdur Rahim thanked **him** after the race.
+25. Nusair sent the message to **us**.
+26. **He** protects the mangrove forest.
+27. Maryam gave the fruit to **them**.
+
+**Total: 32 marks**
+
+**Vocabulary Writing** *(not marked — your teacher will check it)*
+
+**Word Bank:** `courage · sunset · branch · shade · boat`
+
+| English Word | বাংলা অর্থ |
+|---|---|
+| | |
+| | |
+| | |
+| | |
+| | |
+
+---
+
+*Units 5–7 (Day 4 → `C5B0607-PT` → Assignment → `C5B07-AK` + audits + extracts) not yet authored.*

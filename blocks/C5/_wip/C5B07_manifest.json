@@ -768,6 +768,381 @@
      ]
     }
    ]
+  },
+  {
+   "name": "CW3",
+   "type": "worksheet",
+   "pair": "HW3",
+   "stated_total": 34,
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "They climbed the historical fort.",
+       "answer": "Pronoun",
+       "trigger": "they",
+       "marks": 1
+      },
+      {
+       "text": "Our neighbour keeps a large garden.",
+       "answer": "Adjective",
+       "trigger": "our",
+       "marks": 1
+      },
+      {
+       "text": "The champion received a prize.",
+       "answer": "Noun",
+       "trigger": "champion",
+       "marks": 1
+      },
+      {
+       "text": "Abdullah sent them a message.",
+       "answer": "Pronoun",
+       "trigger": "them",
+       "marks": 1
+      },
+      {
+       "text": "Aisha returns the storybook to the library.",
+       "answer": "Verb",
+       "trigger": "return",
+       "marks": 1
+      },
+      {
+       "text": "Nusair read a secret poem.",
+       "answer": "Adjective",
+       "trigger": "secret",
+       "marks": 1
+      },
+      {
+       "text": "We protect the mangrove forest.",
+       "answer": "Pronoun",
+       "trigger": "we",
+       "marks": 1
+      },
+      {
+       "text": "The grandmother stitched the cloth slowly.",
+       "answer": "Adverb",
+       "trigger": "slowly",
+       "marks": 1
+      },
+      {
+       "text": "Three boats waited near the beach.",
+       "answer": "Adjective",
+       "trigger": "three",
+       "marks": 1
+      },
+      {
+       "text": "The teacher assisted him after the class.",
+       "answer": "Pronoun",
+       "trigger": "him",
+       "marks": 1
+      },
+      {
+       "text": "The tradition started many years ago.",
+       "answer": "Noun",
+       "trigger": "tradition",
+       "marks": 1
+      },
+      {
+       "text": "The children breathe fresh air in the garden.",
+       "answer": "Verb",
+       "trigger": "breathe",
+       "marks": 1
+      },
+      {
+       "text": "My parents visited the museum.",
+       "answer": "Adjective",
+       "trigger": "my",
+       "marks": 1
+      },
+      {
+       "text": "Maryam gave the apples to us.",
+       "answer": "Pronoun",
+       "trigger": "us",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "Yusuf borrowed a storybook from the library.",
+       "answer": "He",
+       "trigger": "yusuf",
+       "marks": 2
+      },
+      {
+       "text": "The readers returned the storybooks.",
+       "answer": "them",
+       "trigger": "storybook",
+       "marks": 2
+      },
+      {
+       "text": "The grandmother sewed a traditional quilt.",
+       "answer": "She",
+       "trigger": "grandmother",
+       "marks": 2
+      },
+      {
+       "text": "Abdur Rahim thanked Nusair.",
+       "answer": "him",
+       "trigger": "nusair",
+       "marks": 2
+      },
+      {
+       "text": "The tourists climbed the historical fort.",
+       "answer": "They",
+       "trigger": "tourist",
+       "marks": 2
+      },
+      {
+       "text": "The quilt has a beautiful pattern.",
+       "answer": "It",
+       "trigger": "quilt",
+       "marks": 2
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "Sort: we",
+       "answer": "Subject",
+       "trigger": "we",
+       "marks": 1
+      },
+      {
+       "text": "Sort: them",
+       "answer": "Object",
+       "trigger": "them",
+       "marks": 1
+      },
+      {
+       "text": "Sort: they",
+       "answer": "Subject",
+       "trigger": "they",
+       "marks": 1
+      },
+      {
+       "text": "Sort: us",
+       "answer": "Object",
+       "trigger": "us",
+       "marks": 1
+      },
+      {
+       "text": "Sort: she",
+       "answer": "Subject",
+       "trigger": "she",
+       "marks": 1
+      },
+      {
+       "text": "Sort: I",
+       "answer": "Subject",
+       "trigger": "i",
+       "marks": 1
+      },
+      {
+       "text": "Sort: him",
+       "answer": "Object",
+       "trigger": "him",
+       "marks": 1
+      },
+      {
+       "text": "Sort: me",
+       "answer": "Object",
+       "trigger": "me",
+       "marks": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "HW3",
+   "type": "worksheet",
+   "stated_total": 32,
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "Their grandmother told a pleasant story.",
+       "answer": "Adjective",
+       "trigger": "their",
+       "marks": 1
+      },
+      {
+       "text": "She carries fresh vegetables home.",
+       "answer": "Pronoun",
+       "trigger": "she",
+       "marks": 1
+      },
+      {
+       "text": "Porshi wraps the blue cloth.",
+       "answer": "Verb",
+       "trigger": "wrap",
+       "marks": 1
+      },
+      {
+       "text": "The traditional pattern shows three flowers.",
+       "answer": "Adjective",
+       "trigger": "traditional",
+       "marks": 1
+      },
+      {
+       "text": "The neighbours helped us near the mosque.",
+       "answer": "Pronoun",
+       "trigger": "us",
+       "marks": 1
+      },
+      {
+       "text": "The courage of the champion won the race.",
+       "answer": "Noun",
+       "trigger": "courage",
+       "marks": 1
+      },
+      {
+       "text": "Raima listens quietly in the library.",
+       "answer": "Adverb",
+       "trigger": "quietly",
+       "marks": 1
+      },
+      {
+       "text": "I borrowed two storybooks today.",
+       "answer": "Pronoun",
+       "trigger": "i",
+       "marks": 1
+      },
+      {
+       "text": "The readers collect interesting poems.",
+       "answer": "Verb",
+       "trigger": "collect",
+       "marks": 1
+      },
+      {
+       "text": "That garden is large and pleasant.",
+       "answer": "Adjective",
+       "trigger": "that",
+       "marks": 1
+      },
+      {
+       "text": "Abdullah sent a message to them.",
+       "answer": "Pronoun",
+       "trigger": "them",
+       "marks": 1
+      },
+      {
+       "text": "Aisha picked five apples from the branch.",
+       "answer": "Adjective",
+       "trigger": "five",
+       "marks": 1
+      },
+      {
+       "text": "He climbed the wide stone wall.",
+       "answer": "Pronoun",
+       "trigger": "he",
+       "marks": 1
+      },
+      {
+       "text": "The thread on the quilt is very strong.",
+       "answer": "Noun",
+       "trigger": "thread",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "Aisha prepares a healthy meal.",
+       "answer": "She",
+       "trigger": "aisha",
+       "marks": 2
+      },
+      {
+       "text": "The champion won the prize.",
+       "answer": "it",
+       "trigger": "prize",
+       "marks": 2
+      },
+      {
+       "text": "The neighbours planted vegetables near the wall.",
+       "answer": "They",
+       "trigger": "neighbour",
+       "marks": 2
+      },
+      {
+       "text": "Maryam thanked Raima and Porshi.",
+       "answer": "them",
+       "trigger": "raima",
+       "marks": 2
+      },
+      {
+       "text": "Abdullah sent a message to the reporter.",
+       "answer": "He",
+       "trigger": "abdullah",
+       "marks": 2
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "We climbed the historical fort.",
+       "answer": "S",
+       "trigger": "we",
+       "marks": 1
+      },
+      {
+       "text": "They planted flowers in the garden.",
+       "answer": "S",
+       "trigger": "they",
+       "marks": 1
+      },
+      {
+       "text": "The teacher assisted me in the library.",
+       "answer": "O",
+       "trigger": "me",
+       "marks": 1
+      },
+      {
+       "text": "I returned the storybook today.",
+       "answer": "S",
+       "trigger": "i",
+       "marks": 1
+      },
+      {
+       "text": "Abdur Rahim thanked him after the race.",
+       "answer": "O",
+       "trigger": "him",
+       "marks": 1
+      },
+      {
+       "text": "Nusair sent the message to us.",
+       "answer": "O",
+       "trigger": "us",
+       "marks": 1
+      },
+      {
+       "text": "He protects the mangrove forest.",
+       "answer": "S",
+       "trigger": "he",
+       "marks": 1
+      },
+      {
+       "text": "Maryam gave the fruit to them.",
+       "answer": "O",
+       "trigger": "them",
+       "marks": 1
+      }
+     ]
+    }
+   ]
   }
  ],
  "dictation": [],
