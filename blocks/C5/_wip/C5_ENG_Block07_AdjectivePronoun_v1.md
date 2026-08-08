@@ -79,7 +79,8 @@ The other 32 held adjectives are clear.
 - ☐ Expect *"but **my** is a pronoun!"* on Day 2. That objection is the lesson, not an interruption — answer it with **position**, every time.
 - ☐ **Graded items use held words only** (W1–W6) or the three declared numerals. Never grade *much* or *past*.
 - ☐ **Pronoun must not appear as an answer option on any Day 1 or Day 2 sheet** — it has not been taught yet. Check the instruction line, not just the items.
-- ☐ **Preposition, Conjunction and Interjection are not labels this week** (Blocks 8, 13 and 9). Do not add them to the card or to any option list.
+- ☐ **Preposition, Conjunction and Interjection are not labels this week** (Blocks 8, 13 and 9). Do not add them to any option list.
+- ☐ **`C5B07-CC` carries Adjective and Pronoun only.** The Block 1 four-row Word-Role card stays on the wall for Noun, Verb and Adverb — students use both. Do not merge them.
 - ☐ Each day closes with its Exit Check — **8 prompts, one per student** (Run Book §9.4).
 - ☐ Unfinished classwork goes home with the homework (§9.3) — do not rush a lesson to finish CW in class.
 - ☐ Wednesday's self-try is a **rehearsal**, not collected; the graded self-try is Thursday's PT Part F, on a **different, assigned** word.
@@ -104,21 +105,44 @@ A rule not yet taught must not appear as an answer option, or as an item, on tha
 
 ---
 
-## The Word-Role Clue Card — `C5B07-CC`
+## The Block 7 Clue Card — `C5B07-CC` (Adjective & Pronoun only)
 
-The class already holds a **four-row** card from Block 1 (Noun · Verb · Adjective · Adverb). This block **extends the Adjective row** on Day 1–2 and **adds the fifth row, Pronoun, on Day 3**, then adds the boundary panel on Day 4. Build it with the class; complete on the wall by Thursday. Bangla glosses are permitted on a wall reference (§3.14).
+**Principal ruling 08.08.26: this card carries Adjective and Pronoun exclusively.** It is not a general parts-of-speech chart — the **four-row Word-Role card from Block 1** (Noun · Verb · Adjective · Adverb) stays on the wall and continues to serve the other roles. This card does one job: the two roles taught this week and the boundary between them, which is where the difficulty actually sits.
 
-> ### WHICH ROLE DOES THE WORD PLAY?
-> *(The exam calls this the **part of speech**. **Role** and **part of speech** mean the same thing.)*
+Build it with the class across the week; complete on the wall by Thursday. Bangla glosses are permitted on a wall reference (§3.14).
+
+> ### BLOCK 7 — ADJECTIVE & PRONOUN
+> *(The exam calls a word's role its **part of speech**. Role and part of speech mean the same thing.)*
 > *(পরীক্ষায় একে বলে **part of speech** — অর্থ একই।)*
 >
-> | Ask this | Role | Examples |
+> ---
+>
+> ## **ADJECTIVE** *(বিশেষণ)* — it **describes a noun**
+> *(noun-কে বর্ণনা করে)*
+>
+> **Ask four questions:**
+>
+> | Ask | | Examples |
 > |---|---|---|
-> | Does it **name** anything — a person, animal, place, thing or idea? <br>*(কোনো কিছুর নাম?)* | **Noun** <br>*(বিশেষ্য)* | Abdullah · library · garden · mercy |
-> | Does it show an **action** — something someone does? <br>*(কোনো কাজ?)* | **Verb** <br>*(ক্রিয়া)* | borrow · visit · speak |
-> | Does it **describe a noun** — *what kind · which · whose · **how many***? <br>*(noun-কে বর্ণনা করে — কেমন · কোনটা · কার · কয়টি?)* | **Adjective** <br>*(বিশেষণ)* | quiet · **this** storybook · **my** poem · **three** flowers |
-> | Does it tell us about the **verb** — *how · when · where · how often*? <br>*(ক্রিয়া সম্পর্কে — কীভাবে · কখন · কোথায় · কতবার?)* | **Adverb** <br>*(ক্রিয়া-বিশেষণ)* | quietly · slowly · always |
-> | **Does it stand *instead of* a noun?** <br>*(noun-এর বদলে বসে?)* | **Pronoun** <br>*(সর্বনাম)* | he · she · it · **them** · **us** |
+> | **what kind?** | *কেমন?* | a **quiet** library · the river is **wide** |
+> | **which?** | *কোনটা?* | **this** storybook · **that** garden |
+> | **whose?** | *কার?* | **my** poem · **her** sister · **our** garden |
+> | **how many?** | *কয়টি?* | **three** flowers · **five** poems |
+>
+> If the word answers **any one** of these four about a noun, it is an **Adjective**.
+>
+> ---
+>
+> ## **PRONOUN** *(সর্বনাম)* — it stands **instead of** a noun
+> *(noun-এর বদলে বসে — noun আর থাকে না)*
+>
+> | | | |
+> |---|---|---|
+> | **Subject** — does the action | *কর্তা* | I · he · she · it · we · they |
+> | **Object** — receives the action | *কর্ম* | me · him · her · us · them |
+>
+> Abdullah visits the library. → **He** visits the library. *(subject)*
+> Raima assisted Maryam. → Raima assisted **her**. *(object)*
 >
 > ---
 >
@@ -150,9 +174,24 @@ The class already holds a **four-row** card from Block 1 (Noun · Verb · Adject
 > - ***Which · whose · how many*** words — *this · my · three* — sit **only before the noun**. We say *my poem*, never *the poem is my*.
 > *(কেমন-শব্দ: noun-এর আগে বা is/are-এর পরে। কোনটা / কার / কয়টি-শব্দ: **শুধু** noun-এর আগে।)*
 
-**Build sequence on the wall:** Day 1 — extend the Adjective row to name all four questions. Day 2 — add the possessive examples to that row. **Day 3 — write the Pronoun row with the class.** Day 4 — add the boundary panel and the two contrast sentences.
+**Build sequence on the wall.** The card is written **with** the class, never posted whole:
 
-**Card audit notes.** The card is a **wall reference**, exempt from the §3.17 reference-block rule (PD-018) — it is not sat with the paper. ⚑ **That exemption fails on Thursday:** the boundary panel prints the answers `C5B0607-PT` Parts C and E grade, so the card is **covered or removed for the PT**, along with `C5B06-CC`. All card examples are held words (`library · garden · mercy · borrow · visit · speak · quiet · storybook · poem · flower · sister` — W1–W6) plus house-roster names and the three declared numerals. The boundary pair is **same-gender** (`Her sister` / `Maryam helped her`), passing the §H.4 screen.
+| Day | What goes up |
+|---|---|
+| **1 Sun** | The **Adjective** block — the *what kind · which · how many* rows |
+| **2 Mon** | The ***whose*** row added to the Adjective block (my/his/her/our/their) |
+| **3 Tue** | The **Pronoun** block — subject and object lists + the two replacement examples |
+| **4 Wed** | The **boundary panel** and the *Where they sit* note |
+
+**Card audit notes.**
+
+- **Scope:** Adjective and Pronoun only (Principal, 08.08.26). Noun, Verb and Adverb are **not** on this card — the Block 1 four-row Word-Role card continues to carry them on the wall.
+- **§3.17 / PD-018:** a Clue Card is a wall reference and is exempt from the reference-block rule — *"they are not sat with the paper."* ⚑ **That exemption fails on Thursday**, when the class sits `C5B0607-PT` in the same room: the boundary panel prints the reasoning Parts C and E grade. **Both `C5B07-CC` and `C5B06-CC` are covered or removed for the PT.** In the teacher checklist.
+- **Held-word check (programmatic):** every content word on the card — `library · garden · storybook · poem · flower · sister · river · quiet · wide · visit · assist` — is held W1–W6. *(A first draft used `water` in the *what kind* example; the check caught it — `water` is **not** in the C5 pool, it is a Block 5 **article** exemplar (mass noun → x) and borrowing it here would use another block's exemplar for a purpose it was never declared for. Replaced with `the river is wide`, which also demonstrates the predicative position.)* Names are house roster (Charter §H.5); `two · three · five` are the declared PD-009 exemplars.
+- **§H.4 non-mahram screen:** the two pronoun examples are `Abdullah → He` (single male subject) and `Raima assisted Maryam → her` (both female). The boundary pair is `Her sister` / `Maryam helped her` — same-gender throughout. **Pass.**
+- **Barred content:** no comparative/superlative anywhere on the card (§2 Block 7a guardrail); no Preposition, Conjunction or Interjection row (Blocks 8, 13, 9); no *mine/hers/ours/theirs*.
+
+⚑ **Carried forward — the cumulative card still needs a Pronoun row.** Drive Plan §8 describes the Word-Role card growing as the spine reaches each role, so that **Block 9** can run the parts-of-speech format against a complete wall reference. `C5B07-CC` being Adjective/Pronoun-only means the Block 1 card gains no Pronoun row this week. Flagged for **Block 9's** build, which is where the card is next extended (to preposition, conjunction and interjection) — it can add Pronoun in the same pass. **No action here.**
 
 ---
 
