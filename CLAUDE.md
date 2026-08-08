@@ -161,6 +161,23 @@ Every sentence bank and every graded sentence is read by a human before promotio
 
 ---
 
+## 5A. Corrections feedback loop
+
+- Every correction the teacher or Principal makes to any draft is logged as a row in
+  `governance/CORRECTIONS.md` **in the same session** — logging is the agent's job,
+  never the teacher's.
+- Before drafting ANY worksheet, PT, or sentence bank, the agent MUST re-read
+  `governance/CORRECTIONS.md` and state in one line which PATTERN/PROMOTED rules
+  apply to the sheet being drafted.
+- When an error type reaches 3 occurrences, mark it PATTERN and **propose** (do not
+  self-apply) either a new audit check in `audits/scripts/` or a standing rule; the
+  Principal approves promotion via the normal decision flow (auto-numbered PD).
+- A correction applied to one sheet must be checked against the other unreviewed
+  sheets of the same block **in the same session** — the same error is never fixed
+  twice by a human.
+
+---
+
 ## 6. Repository map
 
 ```
