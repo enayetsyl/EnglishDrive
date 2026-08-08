@@ -823,7 +823,7 @@ Write the **Pronoun** block with the class — the subject and object rows, and 
 
 Distribute CW-3. Model item 1:
 
-> **Say:** "Item one — ***They** climbed the historical fort.* The bold word is *They*. Is there a noun straight after it?" → **"No."** → "So is it describing, or has it taken a noun's seat?" → **"Taken its seat."** → "Part of speech?" → **"Pronoun."** "Write it and carry on."
+> **Say:** "Item one — ***They** rested under the wide branch.* The bold word is *They*. Is there a noun straight after it?" → **"No."** → "So is it describing, or has it taken a noun's seat?" → **"Taken its seat."** → "Part of speech?" → **"Pronoun."** "Write it and carry on."
 
 ### Step 7 — Exit Check (32–35 min)
 
@@ -850,7 +850,7 @@ Distribute CW-3. Model item 1:
 
 **Part A — Write the part of speech of the **bold** word (Noun, Verb, Adjective, Adverb, Pronoun).** *(14 items, 1 mark each)*
 
-1. **They** climbed the historical fort.
+1. **They** rested under the wide branch.
 2. **Our** neighbour keeps a large garden.
 3. The **champion** received a prize.
 4. Abdullah sent **them** a message.
@@ -871,7 +871,7 @@ Distribute CW-3. Model item 1:
 16. The readers returned **the storybooks**.
 17. **The grandmother** sewed a traditional quilt.
 18. Abdur Rahim thanked **Nusair**.
-19. **The tourists** climbed the historical fort.
+19. **The tourists** visited the famous museum.
 20. **The quilt** has a beautiful pattern.
 
 **Part C — Sort each pronoun into the correct column.** *(8 items, 1 mark each)*
@@ -918,7 +918,7 @@ Distribute CW-3. Model item 1:
 
 **Part C — Write **S** if the bold pronoun is the **subject**, or **O** if it is the **object**.** *(8 items, 1 mark each)*
 
-20. **We** climbed the historical fort.
+20. **We** enjoyed the traditional poem.
 21. **They** planted flowers in the garden.
 22. The teacher assisted **me** in the library.
 23. **I** returned the storybook today.
@@ -943,4 +943,268 @@ Distribute CW-3. Model item 1:
 
 ---
 
-*Units 5–7 (Day 4 → `C5B0607-PT` → Assignment → `C5B07-AK` + audits + extracts) not yet authored.*
+# Class 4 (Wednesday) — **The boundary: same word, two jobs** · check the label · self-try rehearsal · Article recall
+
+**Objective.** Students decide, for a word that can be either, whether it is an **Adjective** or a **Pronoun** — by asking what sits after it; they check and correct a wrong label; and they rehearse Thursday's self-try. The lesson closes with a short **Article recall** for tomorrow's carry-over assessment.
+
+**The graded boundary is: possessive/demonstrative before a noun ↔ personal pronoun standing alone.** ***Her* is the only word in scope that does both jobs in the same form** — it is today's critical pair and carries the teaching. *This* standing alone (*This is my storybook*) is **shown once and not graded** — the §2 Block 7b cap allows a light note only.
+
+| Step | Time | Focus |
+|---|---|---|
+| 1 | 0–3 | Recall both roles |
+| 2 | 3–12 | **THE BOUNDARY — *her*, twice** |
+| 3 | 12–17 | Check the label — modelled |
+| 4 | 17–23 | CW-4 Parts A and B in class |
+| 5 | 23–28 | Self-try rehearsal *(not collected)* |
+| 6 | 28–32 | **Article recall — 5 minutes, no re-teaching** |
+| 7 | 32–35 | Exit Check |
+
+### Step 1 — Recall (0–3 min)
+
+Clue Card visible.
+
+> **Say:** "Two roles on our card. **Adjective** — describes a noun: what kind, which, whose, how many. **Pronoun** — stands instead of a noun. Give me an adjective from the card." *(take one)* "Now a pronoun." *(take one)*
+
+> **Say:** "Today the two meet. And there is one word that belongs to both."
+
+### Step 2 — The boundary: *her*, twice (3–12 min)
+
+**This is the most important nine minutes of the week. Do not hurry it.**
+
+Write both sentences, one under the other:
+
+```
+Her sister reads quietly.
+Fatima assisted her near the beach.
+```
+
+> **Say:** "Read both. The same word — *her* — is in each one. Are they doing the same job?"
+
+**Anticipated split answer.** Some will say yes, same word, same role. **That is the error the whole week exists to correct.** Do not correct it yet — test it.
+
+> **Say:** "Let us find out. First sentence: is there a noun straight after *her*?"
+
+**Expect:** "Yes — *sister*."
+
+> **Say:** "So what is *her* telling us about that sister?" → **"Whose sister."** → "It is describing. Role?" → **"Adjective."**
+
+> **Say:** "Second sentence: is there a noun straight after *her*?"
+
+**Expect:** "No."
+
+> **Say:** "Nothing. So *her* is not describing anything — it is sitting **where a name would go**. Fatima assisted… whom? A person. *Her* has taken that person's seat. Role?" → **"Pronoun."**
+
+Write the rule beneath, and have the class read it aloud:
+
+```
+Same word.  Different place.  Different role.
+Noun after it?  →  Adjective.     Nothing after it?  →  Pronoun.
+```
+
+> **Say:** "So never ask only *'what is this word?'* Ask *'what is it **doing here**?'* Look at the seat, not the word."
+
+**Two more pairs, quickly** — build them with the class:
+
+```
+Their neighbours planted a garden.   →  Adjective
+The champion thanked them.           →  Pronoun
+
+Our library is quiet.                →  Adjective
+The teacher gave the prize to us.    →  Pronoun
+```
+
+> **Say:** "Notice — *their* and *them* are different words, and *our* and *us* are different words. English changes the spelling for you there. **Only *her* keeps the same spelling for both jobs.** That is why *her* is the one to watch."
+
+**The light note — say once, then move on.**
+> **Say:** "One last thing, and I am not testing it. *This garden is pleasant* — *this* is before a noun, so adjective. But *This is my storybook* — here *this* stands alone. Then it is acting as a pronoun. Just notice it can do both."
+
+**Anticipated error & correction.**
+> **If a student decides by the word rather than the seat:** "You told me the word. Now tell me the **seat**. Read what comes straight after it. Is there a noun there — yes or no? That answer decides it, every time."
+
+### Step 3 — Check the label (12–17 min)
+
+> **Say:** "New task. Each sentence already has a label written after it. Some are right and some are wrong. If it is right, write a tick. If it is wrong, write the **correct** part of speech."
+
+Model two on the board:
+
+> **Say:** "*Her sister carries fresh vegetables* — labelled *Pronoun*. Work it out yourself first. Noun after *her*?" → **"Yes — sister."** → "So the real answer is…?" → **"Adjective."** → "The label is wrong, so we cross it out and write *Adjective*."
+
+> **Say:** "Next — *The teacher assisted him*, labelled *Pronoun*. Noun after *him*?" → **"No."** → "So the label is…?" → **"Right."** → "Tick it."
+
+**Anticipated error & correction.**
+> **If a student ticks without checking:** "You read the label and agreed with it. Do it the other way round — decide the answer **yourself** first, then compare. The label is a claim, not the answer."
+
+### Step 4 — CW-4 Parts A and B (17–23 min)
+
+Distribute CW-4. Students work; teacher circulates and corrects at the desk.
+
+> **Say (while circulating, to anyone stuck):** "Two questions only. Is there a noun straight after it? Then adjective. Is it standing alone in a noun's seat? Then pronoun."
+
+Take answers to the *her* items aloud, always asking **why**.
+
+### Step 5 — Self-try rehearsal (23–28 min)
+
+**Not collected. Not marked.** This rehearses Thursday's graded self-try.
+
+**Teacher models one first.** Write all four lines as you say them:
+
+> **Say:** "Watch me. My word is **their**. Its role — a noun comes after it, so it describes *whose*: **Adjective**. Why: *before a noun, tells whose*. My sentence: *Their parents visited the museum.*"
+
+**Then students try one.** Each picks a word from the CW-4 box and fills all four lines: word · part of speech · why · sentence.
+
+Take three or four aloud. **Give feedback on the reason line, not just the sentence.**
+
+> **Say (feedback model):** "Good sentence. Your reason says *'it is a pronoun.'* That repeats the answer. Tell me **why** — what did you look at?" → *(student:)* "There was no noun after it." → "**That** is a reason. Always write what you looked at."
+
+> **Say (close):** "Tomorrow you do this for marks — and I will give each of you a **different** word. Today is practice."
+
+### Step 6 — Article recall (28–32 min) — **no re-teaching**
+
+> **Teacher note.** Block 6 (Article) was taught in full last week; its Performance Test was lost to the holiday and is assessed on tomorrow's paper. **This is a four-minute recall, not a lesson.** Do not re-teach any rule. Walk the Article Clue Card, then run six oral items.
+
+Point to each row of `C5B06-CC` in turn — *name → x · cannot count it → x · we know which one → the · any one of many → a/an by sound* — one sentence each.
+
+Then six quick oral items, one student each:
+
+| Prompt | Answer |
+|---|---|
+| ___ university | a *(yu- sound)* |
+| ___ hour | an *(silent h)* |
+| ___ Padma | the *(river name)* |
+| ___ Bangladesh | x *(a name)* |
+| ___ M.B.B.S. | an *(em- sound)* |
+| ___ sun | the *(only one)* |
+
+> **Say (close):** "Tomorrow's test has two parts of work: the articles from last week, and this week's adjectives and pronouns. Both are on one paper."
+
+### Step 7 — Exit Check (32–35 min)
+
+**8 prompts, one per student.** Boundary-weighted; answer plus a short reason.
+
+| # | Prompt | Answer |
+|---|---|---|
+| 1 | **Her** sister reads quietly. | Adjective — noun after it |
+| 2 | Fatima assisted **her**. | Pronoun — nothing after it |
+| 3 | **their** neighbours | Adjective |
+| 4 | The champion thanked **them**. | Pronoun |
+| 5 | a **wide** river | Adjective |
+| 6 | Abdullah sent a message to **me**. | Pronoun |
+| 7 | The reader listens **carefully**. | Adverb |
+| 8 | **five** boats | Adjective — how many |
+
+---
+
+# Worksheets — Day 4
+
+## CW-4 · `C5B07-CW4` — The boundary: adjective or pronoun?
+
+**Name:** ___________________ **Date:** ___________
+
+**Part A — Write the part of speech of the **bold** word (Noun, Verb, Adjective, Adverb, Pronoun).** *(14 items, 1 mark each)*
+
+1. **Her** grandmother sewed the traditional quilt.
+2. The neighbours assisted **her** near the mosque.
+3. The champion **shares** the prize with them.
+4. **We** listened to the pleasant poem.
+5. **Our** district has a historical fort.
+6. **Honesty** helps a brave reporter.
+7. Abdur Rahim thanked **me** after the race.
+8. Aisha borrowed **three** interesting storybooks.
+9. Porshi visits the museum **often**.
+10. The teacher gave the prize to **us**.
+11. The readers **return** the storybooks on Sunday.
+12. **Their** parents visited the large museum.
+13. The **boat** waited near the wide river.
+14. **I** thanked the honest reporter.
+
+**Part B — Each sentence has a label written after it. Write ✓ if the label is correct, or write the correct part of speech if it is wrong.** *(8 items, 1 mark each)*
+
+15. **Her** message reached the reporter. — *Pronoun* → __________
+16. The reporter thanked **him**. — *Pronoun* → __________
+17. a **quiet** library — *Adverb* → __________
+18. Raima assisted **her** in the library. — *Adjective* → __________
+19. **Two** readers waited near the library. — *Adjective* → __________
+20. **Our** neighbour keeps a garden. — *Pronoun* → __________
+21. The reader listens **carefully**. — *Adverb* → __________
+22. **They** climbed the fort. — *Pronoun* → __________
+
+**Part C — Write **Adjective** or **Pronoun** for the bold word, and write **why** in two or three words.** *(6 items, 2 marks each)*
+
+23. **Their** neighbours planted a garden.
+24. **Her** grandmother sewed the quilt.
+25. The champion thanked **them**.
+26. **My** parents keep the traditional quilt.
+27. Fatima assisted **her** at the station.
+28. Abdullah sent the message to **me**.
+
+**Total: 34 marks**
+
+**Part D — Self-try practice** *(not marked, not collected)*
+
+*Choose **one** word from the box. Then fill in all four lines.*
+
+`careful · wide · their · that · we · him`
+
+**a)** My word is _______________
+**b)** Its part of speech is _______________
+**c)** Why (two or three words): _______________________________________
+**d)** My sentence: _______________________________________
+
+---
+
+## HW-4 · `C5B07-HW4` — The boundary: adjective or pronoun?
+
+**Name:** ___________________ **Date:** ___________
+
+**Part A — Write the part of speech of the **bold** word (Noun, Verb, Adjective, Adverb, Pronoun).** *(14 items, 1 mark each)*
+
+1. **We** thanked the honest neighbour.
+2. **Her** sister writes interesting poems.
+3. Raima sent the message to **her**.
+4. **Our** parents planted a large garden.
+5. The **shade** near the branch was pleasant.
+6. The teacher assisted **them** in the library.
+7. Porshi counted **two** boats near the river.
+8. Nusair **wraps** the traditional quilt.
+9. **She** stitched the beautiful pattern.
+10. Jesmin prepares the meal **regularly**.
+11. The **tradition** of the district is strong.
+12. Yusuf sent a storybook to **me**.
+13. **Five** readers visited the museum.
+14. The readers **enjoy** the traditional poems.
+
+**Part B — Each sentence has a label written after it. Write ✓ if the label is correct, or write the correct part of speech if it is wrong.** *(6 items, 1 mark each)*
+
+15. **My** neighbour keeps a garden. — *Pronoun* → __________
+16. Abdullah thanked **them**. — *Pronoun* → __________
+17. a **fresh** meal — *Noun* → __________
+18. Fatima thanked **her** after the race. — *Adjective* → __________
+19. The champion runs **slowly**. — *Adverb* → __________
+20. **Her** poem won the prize. — *Adjective* → __________
+
+**Part C — Write **Adjective** or **Pronoun** for the bold word, and write **why** in two or three words.** *(6 items, 2 marks each)*
+
+21. **Our** district has a famous fort.
+22. Nusair thanked **him** at the mosque.
+23. **Their** parents keep the quilt.
+24. **Her** sister planted the flowers.
+25. Maryam sent the poem to **her**.
+26. The reporter gave the message to **us**.
+
+**Total: 32 marks**
+
+**Vocabulary Writing** *(not marked — your teacher will check it)*
+
+**Word Bank:** `pollution · smoke · dust · breathe · save`
+
+| English Word | বাংলা অর্থ |
+|---|---|
+| | |
+| | |
+| | |
+| | |
+| | |
+
+---
+
+*Units 6–7 (`C5B0607-PT` → Assignment → `C5B07-AK` + audits + extracts) not yet authored.*

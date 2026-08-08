@@ -457,61 +457,61 @@
      "name": "B",
      "items": [
       {
-       "text": "CW2 passage adjective 1",
+       "text": "CW2 passage adjective: My",
        "answer": "My",
        "trigger": "my",
        "marks": 1
       },
       {
-       "text": "CW2 passage adjective 2",
+       "text": "CW2 passage adjective: traditional",
        "answer": "traditional",
        "trigger": "traditional",
        "marks": 1
       },
       {
-       "text": "CW2 passage adjective 3",
+       "text": "CW2 passage adjective: our",
        "answer": "our",
        "trigger": "our",
        "marks": 1
       },
       {
-       "text": "CW2 passage adjective 4",
+       "text": "CW2 passage adjective: beautiful",
        "answer": "beautiful",
        "trigger": "beautiful",
        "marks": 1
       },
       {
-       "text": "CW2 passage adjective 5",
+       "text": "CW2 passage adjective: three",
        "answer": "three",
        "trigger": "three",
        "marks": 1
       },
       {
-       "text": "CW2 passage adjective 6",
+       "text": "CW2 passage adjective: wide",
        "answer": "wide",
        "trigger": "wide",
        "marks": 1
       },
       {
-       "text": "CW2 passage adjective 7",
+       "text": "CW2 passage adjective: Her",
        "answer": "Her",
        "trigger": "her",
        "marks": 1
       },
       {
-       "text": "CW2 passage adjective 8",
+       "text": "CW2 passage adjective: careful",
        "answer": "careful",
        "trigger": "careful",
        "marks": 1
       },
       {
-       "text": "CW2 passage adjective 9",
+       "text": "CW2 passage adjective: This",
        "answer": "This",
        "trigger": "this",
        "marks": 1
       },
       {
-       "text": "CW2 passage adjective 10",
+       "text": "CW2 passage adjective: famous",
        "answer": "famous",
        "trigger": "famous",
        "marks": 1
@@ -653,61 +653,61 @@
      "name": "B",
      "items": [
       {
-       "text": "HW2 passage adjective 1",
+       "text": "HW2 passage adjective: Our",
        "answer": "Our",
        "trigger": "our",
        "marks": 1
       },
       {
-       "text": "HW2 passage adjective 2",
+       "text": "HW2 passage adjective: large",
        "answer": "large",
        "trigger": "large",
        "marks": 1
       },
       {
-       "text": "HW2 passage adjective 3",
+       "text": "HW2 passage adjective: Her",
        "answer": "Her",
        "trigger": "her",
        "marks": 1
       },
       {
-       "text": "HW2 passage adjective 4",
+       "text": "HW2 passage adjective: patient",
        "answer": "patient",
        "trigger": "patient",
        "marks": 1
       },
       {
-       "text": "HW2 passage adjective 5",
+       "text": "HW2 passage adjective: beautiful",
        "answer": "beautiful",
        "trigger": "beautiful",
        "marks": 1
       },
       {
-       "text": "HW2 passage adjective 6",
+       "text": "HW2 passage adjective: My",
        "answer": "My",
        "trigger": "my",
        "marks": 1
       },
       {
-       "text": "HW2 passage adjective 7",
+       "text": "HW2 passage adjective: fresh",
        "answer": "fresh",
        "trigger": "fresh",
        "marks": 1
       },
       {
-       "text": "HW2 passage adjective 8",
+       "text": "HW2 passage adjective: This",
        "answer": "This",
        "trigger": "this",
        "marks": 1
       },
       {
-       "text": "HW2 passage adjective 9",
+       "text": "HW2 passage adjective: pleasant",
        "answer": "pleasant",
        "trigger": "pleasant",
        "marks": 1
       },
       {
-       "text": "HW2 passage adjective 10",
+       "text": "HW2 passage adjective: five",
        "answer": "five",
        "trigger": "five",
        "marks": 1
@@ -779,7 +779,7 @@
      "name": "A",
      "items": [
       {
-       "text": "They climbed the historical fort.",
+       "text": "They rested under the wide branch.",
        "answer": "Pronoun",
        "trigger": "they",
        "marks": 1
@@ -892,7 +892,7 @@
        "marks": 2
       },
       {
-       "text": "The tourists climbed the historical fort.",
+       "text": "The tourists visited the famous museum.",
        "answer": "They",
        "trigger": "tourist",
        "marks": 2
@@ -1093,7 +1093,7 @@
      "name": "C",
      "items": [
       {
-       "text": "We climbed the historical fort.",
+       "text": "We enjoyed the traditional poem.",
        "answer": "S",
        "trigger": "we",
        "marks": 1
@@ -1143,9 +1143,385 @@
      ]
     }
    ]
+  },
+  {
+   "name": "CW4",
+   "type": "worksheet",
+   "pair": "HW4",
+   "stated_total": 34,
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "Her grandmother sewed the traditional quilt.",
+       "answer": "Adjective",
+       "trigger": "her",
+       "marks": 1
+      },
+      {
+       "text": "The neighbours assisted her near the mosque.",
+       "answer": "Pronoun",
+       "trigger": "her",
+       "marks": 1
+      },
+      {
+       "text": "The champion shares the prize with them.",
+       "answer": "Verb",
+       "trigger": "share",
+       "marks": 1
+      },
+      {
+       "text": "We listened to the pleasant poem.",
+       "answer": "Pronoun",
+       "trigger": "we",
+       "marks": 1
+      },
+      {
+       "text": "Our district has a historical fort.",
+       "answer": "Adjective",
+       "trigger": "our",
+       "marks": 1
+      },
+      {
+       "text": "Honesty helps a brave reporter.",
+       "answer": "Noun",
+       "trigger": "honesty",
+       "marks": 1
+      },
+      {
+       "text": "Abdur Rahim thanked me after the race.",
+       "answer": "Pronoun",
+       "trigger": "me",
+       "marks": 1
+      },
+      {
+       "text": "Aisha borrowed three interesting storybooks.",
+       "answer": "Adjective",
+       "trigger": "three",
+       "marks": 1
+      },
+      {
+       "text": "Porshi visits the museum often.",
+       "answer": "Adverb",
+       "trigger": "often",
+       "marks": 1
+      },
+      {
+       "text": "The teacher gave the prize to us.",
+       "answer": "Pronoun",
+       "trigger": "us",
+       "marks": 1
+      },
+      {
+       "text": "The readers return the storybooks on Sunday.",
+       "answer": "Verb",
+       "trigger": "return",
+       "marks": 1
+      },
+      {
+       "text": "Their parents visited the large museum.",
+       "answer": "Adjective",
+       "trigger": "their",
+       "marks": 1
+      },
+      {
+       "text": "The boat waited near the wide river.",
+       "answer": "Noun",
+       "trigger": "boat",
+       "marks": 1
+      },
+      {
+       "text": "I thanked the honest reporter.",
+       "answer": "Pronoun",
+       "trigger": "i",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "Her message reached the reporter. - Pronoun",
+       "answer": "Adjective",
+       "trigger": "her",
+       "marks": 1
+      },
+      {
+       "text": "The reporter thanked him. - Pronoun",
+       "answer": "tick",
+       "trigger": "him",
+       "marks": 1
+      },
+      {
+       "text": "a quiet library - Adverb",
+       "answer": "Adjective",
+       "trigger": "quiet",
+       "marks": 1
+      },
+      {
+       "text": "Raima assisted her in the library. - Adjective",
+       "answer": "Pronoun",
+       "trigger": "her",
+       "marks": 1
+      },
+      {
+       "text": "Two readers waited near the library. - Adjective",
+       "answer": "tick",
+       "trigger": "two",
+       "marks": 1
+      },
+      {
+       "text": "Our neighbour keeps a garden. - Pronoun",
+       "answer": "Adjective",
+       "trigger": "our",
+       "marks": 1
+      },
+      {
+       "text": "The reader listens carefully. - Adverb",
+       "answer": "tick",
+       "trigger": "carefully",
+       "marks": 1
+      },
+      {
+       "text": "They climbed the fort. - Pronoun",
+       "answer": "tick",
+       "trigger": "they",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "Their neighbours planted a garden.",
+       "answer": "Adjective",
+       "trigger": "their",
+       "marks": 2
+      },
+      {
+       "text": "Her grandmother sewed the quilt.",
+       "answer": "Adjective",
+       "trigger": "her",
+       "marks": 2
+      },
+      {
+       "text": "The champion thanked them.",
+       "answer": "Pronoun",
+       "trigger": "them",
+       "marks": 2
+      },
+      {
+       "text": "My parents keep the traditional quilt.",
+       "answer": "Adjective",
+       "trigger": "my",
+       "marks": 2
+      },
+      {
+       "text": "Fatima assisted her at the station.",
+       "answer": "Pronoun",
+       "trigger": "her",
+       "marks": 2
+      },
+      {
+       "text": "Abdullah sent the message to me.",
+       "answer": "Pronoun",
+       "trigger": "me",
+       "marks": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "HW4",
+   "type": "worksheet",
+   "stated_total": 32,
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "We thanked the honest neighbour.",
+       "answer": "Pronoun",
+       "trigger": "we",
+       "marks": 1
+      },
+      {
+       "text": "Her sister writes interesting poems.",
+       "answer": "Adjective",
+       "trigger": "her",
+       "marks": 1
+      },
+      {
+       "text": "Raima sent the message to her.",
+       "answer": "Pronoun",
+       "trigger": "her",
+       "marks": 1
+      },
+      {
+       "text": "Our parents planted a large garden.",
+       "answer": "Adjective",
+       "trigger": "our",
+       "marks": 1
+      },
+      {
+       "text": "The shade near the branch was pleasant.",
+       "answer": "Noun",
+       "trigger": "shade",
+       "marks": 1
+      },
+      {
+       "text": "The teacher assisted them in the library.",
+       "answer": "Pronoun",
+       "trigger": "them",
+       "marks": 1
+      },
+      {
+       "text": "Porshi counted two boats near the river.",
+       "answer": "Adjective",
+       "trigger": "two",
+       "marks": 1
+      },
+      {
+       "text": "Nusair wraps the traditional quilt.",
+       "answer": "Verb",
+       "trigger": "wrap",
+       "marks": 1
+      },
+      {
+       "text": "She stitched the beautiful pattern.",
+       "answer": "Pronoun",
+       "trigger": "she",
+       "marks": 1
+      },
+      {
+       "text": "Jesmin prepares the meal regularly.",
+       "answer": "Adverb",
+       "trigger": "regularly",
+       "marks": 1
+      },
+      {
+       "text": "The tradition of the district is strong.",
+       "answer": "Noun",
+       "trigger": "tradition",
+       "marks": 1
+      },
+      {
+       "text": "Yusuf sent a storybook to me.",
+       "answer": "Pronoun",
+       "trigger": "me",
+       "marks": 1
+      },
+      {
+       "text": "Five readers visited the museum.",
+       "answer": "Adjective",
+       "trigger": "five",
+       "marks": 1
+      },
+      {
+       "text": "The readers enjoy the traditional poems.",
+       "answer": "Verb",
+       "trigger": "enjoy",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "My neighbour keeps a garden. - Pronoun",
+       "answer": "Adjective",
+       "trigger": "my",
+       "marks": 1
+      },
+      {
+       "text": "Abdullah thanked them. - Pronoun",
+       "answer": "tick",
+       "trigger": "them",
+       "marks": 1
+      },
+      {
+       "text": "a fresh meal - Noun",
+       "answer": "Adjective",
+       "trigger": "fresh",
+       "marks": 1
+      },
+      {
+       "text": "Fatima thanked her after the race. - Adjective",
+       "answer": "Pronoun",
+       "trigger": "her",
+       "marks": 1
+      },
+      {
+       "text": "The champion runs slowly. - Adverb",
+       "answer": "tick",
+       "trigger": "slowly",
+       "marks": 1
+      },
+      {
+       "text": "Her poem won the prize. - Adjective",
+       "answer": "tick",
+       "trigger": "her",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "Our district has a famous fort.",
+       "answer": "Adjective",
+       "trigger": "our",
+       "marks": 2
+      },
+      {
+       "text": "Nusair thanked him at the mosque.",
+       "answer": "Pronoun",
+       "trigger": "him",
+       "marks": 2
+      },
+      {
+       "text": "Their parents keep the quilt.",
+       "answer": "Adjective",
+       "trigger": "their",
+       "marks": 2
+      },
+      {
+       "text": "Her sister planted the flowers.",
+       "answer": "Adjective",
+       "trigger": "her",
+       "marks": 2
+      },
+      {
+       "text": "Maryam sent the poem to her.",
+       "answer": "Pronoun",
+       "trigger": "her",
+       "marks": 2
+      },
+      {
+       "text": "The reporter gave the message to us.",
+       "answer": "Pronoun",
+       "trigger": "us",
+       "marks": 2
+      }
+     ]
+    }
+   ]
   }
  ],
  "dictation": [],
  "pt_self_try_words": [],
- "demo_box_words": []
+ "demo_box_words": [
+  "careful",
+  "wide",
+  "their",
+  "that",
+  "we",
+  "him"
+ ]
 }
