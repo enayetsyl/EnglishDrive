@@ -86,7 +86,17 @@ The **only** places adjective or pronoun are graded in any binding C5 paper are 
 
 ## BLOCKING CONFLICTS — both now ruled
 
-### BC-1 · RULED 08.08.26 — **the Annual-2025 paper is missing; the Principal will supply it later.**
+### BC-1 · **CLOSED 08.08.26 — the Annual-2025 paper IS in the project. Binding set = four (PD-036, Drive Plan v1.7).**
+
+The Principal supplied the paper later the same day; it proved **byte-identical** (md5 `1265996d9f26052e76334a2f3a0d2ba4`) to the file already in `exam-papers/` and flagged below. The earlier "missing" ruling is superseded by the evidence. **The bar on citing an Annual anchor is lifted**, and **Block 3's Annual Q8 dependency is closed** — Q8 carries Interrogative and Negative directions only, matching the §2 Block 3 two-direction cap exactly. All five existing §7 Annual citations were re-verified at source and hold; **no §7 row required correction**.
+
+**No effect on this build** — the Annual carries no parts-of-speech, adjective or pronoun question, so Blocks 7a/7b gain no anchor. The Phase 3 blueprint stands unchanged; its §1 provenance row *"No Annual anchor may be cited"* is now obsolete and is corrected at Phase 4 when the master header is written.
+
+⚑ **One gap surfaced, flagged only (Principal instruction):** **sentence rearrangement** — Annual Q10 [1×5=5] and HY-26 Q5 [5×1=5] — is tested by two binding papers and covered by **no C5 block**. Map-then-decide; recorded in Drive Plan v1.7 §7. Does not gate this build.
+
+#### Superseded ruling (retained for the record)
+
+~~**RULED 08.08.26 — the Annual-2025 paper is missing; the Principal will supply it later.**~~
 
 The status quo therefore stands unchanged: the **C5 binding set remains three papers** (HY-25 Morning, HY-25 Day, HY-26), **no C5 artefact may cite an Annual anchor**, and **Block 3's Annual Q8 evidence remains unverifiable**. Drive Plan v1.6 §7 and its header are correct as written and are **not** edited.
 
