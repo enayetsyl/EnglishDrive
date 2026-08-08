@@ -1,0 +1,91 @@
+AUDIT REPORT — C4B06 — 2026-08-08
+manifest: blocks/C4/_wip/C4B06_manifest.json
+file2: file2/C4_ENG_VocabBatchOrder_v2.xlsx
+------------------------------------------------------------------------
+[PASS] De-patterning                    25 answer sets checked
+[FAIL] CW↔HW overlap                    CW1↔HW1: positional 39%; CW2↔HW2: positional 56%; CW3↔HW3: positional 37%; CW4↔HW4: positional 48%
+        - CW1↔HW1: positional overlap 39% (> 35%)
+        - CW2↔HW2: positional overlap 56% (> 35%)
+        - CW3↔HW3: positional overlap 37% (> 35%)
+        - CW4↔HW4: positional overlap 48% (> 35%)
+[FAIL] PT zero-overlap                  34 PT items vs 383 worksheet items
+        - PT Part E: item duplicates B5-HW1: "meal ______________________________________________"
+        - PT Part E: item duplicates B5-CW1: "bird ______________________________________________"
+[PASS] Within-sheet duplicates          all sheets scanned
+[PASS] Rehearsal/graded disjoint        6 self-try vs 3 demo words
+[PASS] Mark totals                      CW1: 37/37; HW1: 31/31; CW2: 38/38; HW2: 32/32; CW3: 36/36; HW3: 30/30; CW4: 31/31; HW4: 31/31; PT: 36/36
+[PASS] Sacred-word guard                graded targets + dictation scanned
+[FAIL] Values lexicon screen            student-facing item texts scanned
+        - HW2 Part B: ['sing'] in "The birds sing ___ the morning. (part of the day)"
+[FAIL] Held-word / exemplar             222 graded targets checked against 160 pool words
+        - CW1 A: 'wall' not in File 2 pool and not a declared exemplar
+        - CW1 A: 'desk' not in File 2 pool and not a declared exemplar
+        - CW1 A: 'box' not in File 2 pool and not a declared exemplar
+        - CW1 A: 'pot' not in File 2 pool and not a declared exemplar
+        - CW1 A: 'table' not in File 2 pool and not a declared exemplar
+        - CW1 A: 'bed' not in File 2 pool and not a declared exemplar
+        - CW1 B: 'box' not in File 2 pool and not a declared exemplar
+        - CW1 B: 'table' not in File 2 pool and not a declared exemplar
+        - CW1 B: 'box' not in File 2 pool and not a declared exemplar
+        - CW1 C: 'box' not in File 2 pool and not a declared exemplar
+        - CW1 C: 'table' not in File 2 pool and not a declared exemplar
+        - CW1 C: 'wall' not in File 2 pool and not a declared exemplar
+        - CW1 C: 'gate' not in File 2 pool and not a declared exemplar
+        - HW1 A: 'wall' not in File 2 pool and not a declared exemplar
+        - HW1 A: 'desk' not in File 2 pool and not a declared exemplar
+        - HW1 A: 'run' not in File 2 pool and not a declared exemplar
+        - HW1 A: 'wall' not in File 2 pool and not a declared exemplar
+        - HW1 A: 'bed' not in File 2 pool and not a declared exemplar
+        - HW1 A: 'chair' not in File 2 pool and not a declared exemplar
+        - HW1 A: 'gate' not in File 2 pool and not a declared exemplar
+        - HW1 A: 'box' not in File 2 pool and not a declared exemplar
+        - HW1 B: 'bag' not in File 2 pool and not a declared exemplar
+        - HW1 B: 'wall' not in File 2 pool and not a declared exemplar
+        - HW1 B: 'bed' not in File 2 pool and not a declared exemplar
+        - HW1 B: 'room' not in File 2 pool and not a declared exemplar
+        - HW1 C: 'pot' not in File 2 pool and not a declared exemplar
+        - HW1 C: 'bed' not in File 2 pool and not a declared exemplar
+        - HW1 C: 'desk' not in File 2 pool and not a declared exemplar
+        - CW2 A: 'gate' not in File 2 pool and not a declared exemplar
+        - CW2 A: 'summer' not in File 2 pool and not a declared exemplar
+        - CW2 A: 'chair' not in File 2 pool and not a declared exemplar
+        - CW2 A: 'night' not in File 2 pool and not a declared exemplar
+        - CW2 A: 'thursday' not in File 2 pool and not a declared exemplar
+        - CW2 A: 'july' not in File 2 pool and not a declared exemplar
+        - CW2 A: 'saturday' not in File 2 pool and not a declared exemplar
+        - CW2 B: 'monday' not in File 2 pool and not a declared exemplar
+        - CW2 B: 'june' not in File 2 pool and not a declared exemplar
+        - HW2 A: 'summer' not in File 2 pool and not a declared exemplar
+        - HW2 A: 'dawn' not in File 2 pool and not a declared exemplar
+        - HW2 A: 'evening' not in File 2 pool and not a declared exemplar
+        - HW2 A: 'spring' not in File 2 pool and not a declared exemplar
+        - HW2 A: 'sunday' not in File 2 pool and not a declared exemplar
+        - HW2 A: 'night' not in File 2 pool and not a declared exemplar
+        - HW2 A: 'monday' not in File 2 pool and not a declared exemplar
+        - HW2 B: 'sunday' not in File 2 pool and not a declared exemplar
+        - HW2 B: 'july' not in File 2 pool and not a declared exemplar
+        - CW3 A: 'quickly' released week 7 > build week 6
+        - CW4 A: 'chair' not in File 2 pool and not a declared exemplar
+        - CW4 A: 'run' not in File 2 pool and not a declared exemplar
+        - CW4 A: 'box' not in File 2 pool and not a declared exemplar
+        - HW4 A: 'evening' not in File 2 pool and not a declared exemplar
+        - HW4 A: 'box' not in File 2 pool and not a declared exemplar
+        - HW4 A: 'sunday' not in File 2 pool and not a declared exemplar
+        - HW4 A: 'pot' not in File 2 pool and not a declared exemplar
+        - HW4 A: 'pot' not in File 2 pool and not a declared exemplar
+        - HW4 A: 'quickly' released week 7 > build week 6
+        - HW4 A: 'night' not in File 2 pool and not a declared exemplar
+        - PT B: 'bench' not in File 2 pool and not a declared exemplar
+        - PT B: 'sunday' not in File 2 pool and not a declared exemplar
+        - PT B: 'grandfather' not in File 2 pool and not a declared exemplar
+        - PT B: 'drawer' not in File 2 pool and not a declared exemplar
+        - PT B: 'poor' not in File 2 pool and not a declared exemplar
+        - PT C: 'corner' not in File 2 pool and not a declared exemplar
+        - PT C: 'winter' not in File 2 pool and not a declared exemplar
+        - PT C: 'porch' not in File 2 pool and not a declared exemplar
+        - PT C: 'hole' not in File 2 pool and not a declared exemplar
+        - PT E: 'garden' not in File 2 pool and not a declared exemplar
+[PASS] One-defensible-answer (human)    no conflicting-answer candidates; full check remains a human read
+------------------------------------------------------------------------
+RESULT: FAILURES PRESENT — do not finalize
+Reminder: the naturalness gate and full one-defensible-answer check are HUMAN.
