@@ -331,9 +331,9 @@
        "marks": 1
       },
       {
-       "text": "Sort: pattern",
+       "text": "Sort: island",
        "answer": "Noun",
-       "trigger": "pattern",
+       "trigger": "island",
        "marks": 1
       },
       {

@@ -433,7 +433,7 @@ Teacher reads; one student per prompt names the bold word's part of speech. **8 
 
 **Part C — Sort each word into the correct column.** Write each word under its heading. *(8 items, 1 mark each)*
 
-`courage · quietly · brave · borrow · pattern · powerful · always · protect`
+`courage · quietly · brave · borrow · island · powerful · always · protect`
 
 | Noun | Verb | Adjective | Adverb |
 |---|---|---|---|
@@ -1366,7 +1366,7 @@ The set is **four Adjective and four Pronoun, alternating by roll**, so no two n
 ### HW-1
 **A:** 1 Verb · 2 Adjective · 3 Noun · 4 Adjective · 5 Verb · 6 Adjective · 7 Adjective · 8 Adverb · 9 Adjective · 10 Noun · 11 Adjective · 12 Verb · 13 Noun · 14 Adverb
 **B (15–19):** as CW-1 Part B.
-**C:** courage **Noun** · quietly **Adverb** · brave **Adjective** · borrow **Verb** · pattern **Noun** · powerful **Adjective** · always **Adverb** · protect **Verb**
+**C:** courage **Noun** · quietly **Adverb** · brave **Adjective** · borrow **Verb** · island **Noun** · powerful **Adjective** · always **Adverb** · protect **Verb**
 
 ### CW-2
 **A:** 1 Adjective · 2 Noun · 3 Adjective · 4 Verb · 5 Adverb · 6 Adjective · 7 Adjective · 8 Verb · 9 Noun · 10 Adjective · 11 Adverb · 12 Adjective · 13 Verb · 14 Noun
