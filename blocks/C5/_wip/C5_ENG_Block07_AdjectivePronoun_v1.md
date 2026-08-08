@@ -3,7 +3,8 @@
 **Canonical filename:** `C5_ENG_Block07_AdjectivePronoun_v1.md`
 **Class:** 5 · **Block:** 7 (sub-rows **7a** Adjective · **7b** Pronoun) · **Week:** W6 · **Load:** FULL (solo) · **Days:** 4 (Sun–Wed) + combined Thursday PT
 **Branch:** delivered at Sylhet · binding exam papers are Mohammadpur papers
-**Status:** v1 — **IN BUILD.** Unit 1 (Clue Card + staging) drafted; Days 1–4, worksheets, PT, Assignment and AK not yet authored.
+**Status:** v1 — **COMPLETE as drafted, 08.08.26.** Clue Card · Days 1–4 scripts + Exit Checks · 8 worksheets · `C5B0607-PT` · `C5B07-AK` · rubric · Bloom ladder · build verification — all authored, with five Principal review edits applied. Every gate in the Build Verification table run programmatically against the assembled file.
+**Not yet final (Run Book §6.8):** the **Assignment** (`C5B07-AS`) and the **Teacher Delivery Sheet** (`C5B07-TD`) are outstanding, and the block has **not been promoted** out of `_wip/` — promotion requires the Principal's explicit "done" (CLAUDE.md §2). Student extracts are generated at `extracts/C5/_wip_B07/`.
 
 ---
 
