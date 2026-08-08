@@ -35,6 +35,20 @@ def norm(s: str) -> str:
     return s
 
 
+def graded_sheets(m):
+    """Sheets that belong to THIS block's graded surface.
+
+    A sheet may carry "audit_scope": "pt_overlap_only" to be visible ONLY to
+    gate_pt_zero_overlap() — used to bring another block-half's already-validated
+    worksheets into the PT overlap comparison (PD-032) without re-running the
+    de-patterning / marks / held-word gates over them.
+
+    Additive: a sheet with no "audit_scope" key is graded, so a manifest that
+    declares none behaves exactly as before.
+    """
+    return [s for s in m["sheets"] if s.get("audit_scope") != "pt_overlap_only"]
+
+
 def all_items(sheet):
     for part in sheet.get("parts", []):
         for it in part.get("items", []):
@@ -57,7 +71,7 @@ def sheet_answer_sets(sheet):
 def gate_depattern(m):
     """Max run ≤2 and no strict alternation, per graded answer set."""
     fails, checked = [], 0
-    for sheet in m["sheets"]:
+    for sheet in graded_sheets(m):
         for pname, answers in sheet_answer_sets(sheet):
             checked += 1
             a = [norm(x) for x in answers]
@@ -78,8 +92,8 @@ def gate_depattern(m):
 def gate_pair_overlap(m):
     """CW↔HW positional answer overlap ≤35%; identical item texts ≤2 per day."""
     fails, notes = [], []
-    by_name = {s["name"]: s for s in m["sheets"]}
-    for sheet in m["sheets"]:
+    by_name = {s["name"]: s for s in graded_sheets(m)}
+    for sheet in graded_sheets(m):
         pair = sheet.get("pair")
         if not pair or pair not in by_name:
             continue
@@ -123,7 +137,7 @@ def gate_pt_zero_overlap(m):
 
 def gate_within_sheet_dupes(m):
     fails = []
-    for sheet in m["sheets"]:
+    for sheet in graded_sheets(m):
         texts = [norm(it.get("text", "")) for _, it in all_items(sheet) if it.get("text")]
         for t, c in Counter(texts).items():
             if c > 1:
@@ -144,7 +158,7 @@ def gate_rehearsal_disjoint(m):
 
 def gate_marks(m):
     fails, notes = [], []
-    for sheet in m["sheets"]:
+    for sheet in graded_sheets(m):
         stated = sheet.get("stated_total")
         per = []
         for part in sheet.get("parts", []):
@@ -167,7 +181,7 @@ SACRED = {"allah", "আল্লাহ", "quran", "qur an", "কুরআন", "
 
 def gate_sacred(m):
     fails = []
-    for sheet in m["sheets"]:
+    for sheet in graded_sheets(m):
         for pname, it in all_items(sheet):
             for field in ("answer", "trigger"):
                 v = it.get(field)
@@ -188,7 +202,7 @@ VALUES_LEXICON = {
 
 def gate_values_lexicon(m):
     flags = []
-    for sheet in m["sheets"]:
+    for sheet in graded_sheets(m):
         for pname, it in all_items(sheet):
             words = set(norm(it.get("text", "")).split())
             hit = words & VALUES_LEXICON
@@ -257,7 +271,7 @@ def gate_heldword(m, file2_path):
     build_week = m.get("build_week")
     fails, checked = [], 0
     targets = []
-    for sheet in m["sheets"]:
+    for sheet in graded_sheets(m):
         for pname, it in all_items(sheet):
             trig = it.get("trigger")
             if trig:
@@ -284,7 +298,7 @@ def gate_one_defensible(m):
     multiple distinct answers across the block, for HUMAN review."""
     seen = {}
     flags = []
-    for sheet in m["sheets"]:
+    for sheet in graded_sheets(m):
         for pname, it in all_items(sheet):
             t, a = norm(it.get("text", "")), norm(it.get("answer", "") or "")
             if not t or not a:

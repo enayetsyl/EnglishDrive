@@ -56,6 +56,13 @@ Field notes:
 - **`answers`** (part-level) — use for parts where only the answer sequence matters
   for de-patterning (e.g. a/an columns) and items are enumerated elsewhere.
 - **`pair`** — declare on the CW side; one direction is enough.
+- **`audit_scope`** (sheet-level, optional) — set to `"pt_overlap_only"` to make a
+  sheet visible **only** to the PT zero-overlap gate. Use it to bring another
+  block-half's **already-validated** worksheets into the PT comparison (PD-032:
+  a two-week `a`/`b` split block whose b-half PT grades a-half grammar) without
+  re-running de-patterning, mark totals, held-word or the other gates over them.
+  A sheet with no `audit_scope` key is graded normally, so manifests that declare
+  none are unaffected. Self-test: `audits/scripts/selftest_audit_scope.py`.
 - **`exemplars`** — PD-009 Grammar Exemplars declared for this block only.
 - **`build_week`** — the week the block runs; held words must have release week ≤ this.
 - All text is stored exactly as printed; the scripts normalise internally.

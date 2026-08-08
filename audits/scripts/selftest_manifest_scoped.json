@@ -1,0 +1,42 @@
+{
+  "_comment": "Self-test B — SCOPED mode (PD-032). C2B06a-CW1 stands for another block-half's already-validated worksheet and carries audit_scope=pt_overlap_only. It is deliberately loaded with three faults that would FAIL if it were graded here: a run of 3 identical answers (de-patterning), a stated_total that does not match its items (mark totals), and a duplicated item text (within-sheet duplicates). Expected: those three gates PASS (scoped sheet skipped), while PT zero-overlap STILL FAILS on the planted duplicate — proving the sheet is visible to that gate and only that gate.",
+  "block_id": "SELFTEST-SCOPED",
+  "build_week": 6,
+  "exemplars": [],
+  "sheets": [
+    {
+      "name": "C2B06a-CW1",
+      "type": "worksheet",
+      "audit_scope": "pt_overlap_only",
+      "stated_total": 999,
+      "parts": [
+        {
+          "name": "A",
+          "items": [
+            { "text": "Yusuf ___ a red pen.",    "answer": "has", "trigger": "pen",  "marks": 1 },
+            { "text": "Abdullah ___ a blue box.", "answer": "has", "trigger": "box",  "marks": 1 },
+            { "text": "Aisha ___ a long rope.",   "answer": "has", "trigger": "rope", "marks": 1 },
+            { "text": "Aisha ___ a long rope.",   "answer": "has", "trigger": "rope", "marks": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PT",
+      "type": "pt",
+      "stated_total": 2,
+      "parts": [
+        {
+          "name": "B",
+          "items": [
+            { "text": "Yusuf ___ a red pen.",     "answer": "has",  "trigger": "pen", "marks": 1 },
+            { "text": "The cows ___ long tails.", "answer": "have", "trigger": "cow", "marks": 1 }
+          ]
+        }
+      ]
+    }
+  ],
+  "dictation": [],
+  "pt_self_try_words": [],
+  "demo_box_words": []
+}
