@@ -924,7 +924,7 @@ Distribute CW-3. Model item 1:
 23. **I** returned the storybook today.
 24. Abdur Rahim thanked **him** after the race.
 25. Nusair sent the message to **us**.
-26. **He** protects the mangrove forest.
+26. **She** heard the strong wind at sunset.
 27. Maryam gave the fruit to **them**.
 
 **Total: 32 marks**
