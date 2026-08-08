@@ -98,3 +98,20 @@ Append-only. Newest entry last. Never overwrite past entries.
   **CR-018** (items 13/16, reason pending), **CR-019** (Part C clue give-aways — CR-016
   type, 2nd occurrence). CR-018 rationale and the Part E 5→2 reduction await the
   reviewing session; duplicates to be merged on next view.
+
+---
+
+## 2026-08-09 — SCD (almajhudbd@gmail.com) — blueprint approvals
+
+- Task: pending-actions review; both blueprints read in full and cross-checked against
+  their STATE files (arithmetic, PD citations, staging — no blocking contradictions).
+- Approvals (Principal, 09.08.26, recorded cross-session in each STATE.md):
+  **C2B06b blueprint APPROVED** — §10-1 moot (PD-032/PD-034 already implemented),
+  §10-2 = option (a) reconcile Coverage Log from the _wip draft, §10-3 PT split
+  confirmed (A10·B5·C5·D6·E4=30). **C5B07 blueprint APPROVED** — cover (not remove)
+  wall cards during PT, half-marks accepted, Drive Plan §4 W6 forward-only note
+  authorized, §12 corrected: next free PD is PD-039.
+- Both STATEs note the post-blueprint audit gates (PD-036/037/038) and the §5A
+  pre-draft ledger read. Phase 4 authorized for both blocks; C2 unit 1 is the
+  sentence bank (Principal approval required before use).
+- Files touched: `blocks/C2/_wip/STATE.md`, `blocks/C5/_wip/STATE.md`, `SESSION_LOG.md`.
