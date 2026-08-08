@@ -195,4 +195,265 @@ Build it with the class across the week; complete on the wall by Thursday. Bangl
 
 ---
 
-*Units 2–7 (Day 1 script → Day 4 script → `C5B0607-PT` → Assignment → `C5B07-AK` + audits + extracts) not yet authored.*
+# Class 1 (Sunday) — The adjective describes a noun: *what kind · which · how many*
+
+**Objective.** Students recognise an adjective as a word that describes a noun, and can find one in a sentence and use one — across three of the four questions: **what kind · which · how many**. (*Whose* is Monday.)
+
+**Day-1 design rule — no possessives anywhere on today's sheets.** *my/his/her/our/their* do not appear on CW-1 or HW-1, not even as carrier text. Monday's discovery lands harder if the class has not been quietly reading them all day, and it keeps the staging table honest.
+
+| Step | Time | Focus |
+|---|---|---|
+| 1 | 0–5 | Re-walk from Block 1 — the three roles we know |
+| 2 | 5–13 | What an adjective does — and the questions it answers |
+| 3 | 13–20 | Find the adjective (before the noun, and after *is/are*) |
+| 4 | 20–26 | Use an adjective |
+| 5 | 26–29 | Clue Card — the Adjective block goes up |
+| 6 | 29–32 | CW-1 out, item 1 modelled |
+| 7 | 32–35 | Exit Check |
+
+### Step 1 — Re-walk (0–5 min)
+
+Write on the board: `garden · plant · beautiful`
+
+> **Say:** "In Block 1 we learned that every word has a **role** — a job it does in the sentence. Look at these three. Which one **names** something?"
+
+**Expect:** "garden."
+
+> **Say:** "Yes — a naming word is a…?" → **"Noun."** "And which one shows an **action**, something you do?"
+
+**Expect:** "plant." → **"Verb."**
+
+> **Say:** "That leaves *beautiful*. It does not name and it does not act. What does it do?"
+
+**Expect:** "It describes." / "It tells us about the garden."
+
+> **Say:** "Exactly. A word that **describes a noun** is an **Adjective**. You already met it in Block 1. Today we look at it properly — because it does more jobs than you think."
+
+**Teacher note — say both terms all week.** The children call a word's job its **role**. **The exam calls it the *part of speech*.** Tell them directly and repeat it daily: *"The role of a word is what the exam calls its part of speech. They mean the same thing."* No child should meet "part of speech" for the first time on Thursday.
+
+### Step 2 — What an adjective does (5–13 min)
+
+Write, one pair under the other:
+
+```
+a garden          a beautiful garden
+a library         a quiet library
+```
+
+> **Say:** "Read the first pair with me. *A garden.* … *A beautiful garden.* What has *beautiful* added? What does it tell us?"
+
+**Expect:** "how it looks" / "what the garden is like."
+
+> **Say:** "Yes — it tells us **what kind** *(কেমন)* of garden. *Garden* names the thing; *beautiful* describes it. That is an adjective."
+
+Now write these three lines, leaving space beneath:
+
+```
+what kind?    a quiet library
+which?        this storybook
+how many?     three flowers
+```
+
+> **Say:** "Here is the part most students miss. An adjective does not only tell us *what kind*. Look at line two — *this storybook*. **Which** storybook?"
+
+**Expect:** "This one."
+
+> **Say:** "It tells us **which** *(কোনটা)*. Does *this* describe the storybook — does it tell us something about it?"
+
+**Expect:** "Yes."
+
+> **Say:** "Then *this* is an adjective too. Line three — *three flowers*. **How many** flowers?" → **"Three."** → "*Three* tells us **how many** *(কয়টি)* — so it is also an adjective."
+
+> **Say:** "So ask yourself four questions about a word. Does it tell me **what kind**, **which**, or **how many** about a noun? If it answers any one of them, it is an **Adjective**. There is a fourth question — you meet it tomorrow."
+
+**Position — state it once, plainly.** Write:
+
+```
+a quiet library          The river is wide.
+```
+
+> **Say:** "Most adjectives sit right before the noun — *a **quiet** library*. But an adjective can also sit **after** *is* or *are* — *The river **is wide***. Same job, different seat. So do not decide by position alone. Ask the real question: **does this word describe the noun?**"
+
+**Anticipated error & correction.**
+> **If a student points to the noun instead** (says "library"): "That is the **naming** word. I want the word that **describes** it. What kind of library? → *quiet*. That is the adjective."
+
+### Step 3 — Find the adjective (13–20 min)
+
+Write each; read aloud; the class names the describing word and says which question it answers.
+
+`the famous poem · a healthy meal · The child is polite. · three apples · this storybook · The fort is historical.`
+
+> **Say (item 1):** "*The famous poem.* Which word describes the poem?" → **"famous."** → "And which question does it answer — what kind, which, or how many?" → **"What kind."**
+
+> **Say (item 3):** "*The child is polite.* The describing word?" → **"polite."** → "Where does it sit — before the noun?" → **"No, after *is*."** → "Still an adjective, because it still describes."
+
+> **Say (item 4):** "*Three apples* — the adjective?" → **"three."** → "Which question?" → **"How many."**
+
+**Now the trap. Slow down.** Write:
+
+```
+a quiet library          The bees move quietly.
+a careful reader         Maryam listens carefully.
+```
+
+> **Say:** "Look carefully. *Quiet* and *quietly* — almost the same word. In *a **quiet** library*, what does *quiet* describe?"
+
+**Expect:** "the library."
+
+> **Say:** "A noun. So — adjective. Now *The bees move **quietly***. Does *quietly* describe the bees, or does it describe **how they move**?"
+
+**Expect:** "How they move."
+
+> **Say:** "It describes the **action**, not the noun. A word that tells us about the **verb** — how, when, where, how often — is an **Adverb**, which you also met in Block 1. So: describes a **noun** → adjective. Tells us about the **verb** → adverb. The *-ly* ending is often a clue, but the real test is: **what is it describing?**"
+
+**Anticipated error & correction.**
+> **If a student calls *carefully* an adjective:** "Ask what it describes. Does it tell us what kind of Maryam, or **how** she listens?" → **"How she listens."** → "That is the verb's job — so, adverb."
+
+### Step 4 — Use an adjective (20–26 min)
+
+> **Say:** "Now you supply the describing word. I say a noun; you put an adjective before it and say the whole phrase."
+
+Write: `___ garden · ___ meal · ___ poem · ___ river`
+
+**Expect (accept any held adjective that fits):** "beautiful garden," "healthy meal," "famous poem," "wide river."
+
+Take three or four answers for each. Then build one full sentence together on the board:
+
+> **Say:** "Let us make a whole sentence. *The ______ library opened after the prayer.* Give me the describing word." → *(take an answer, e.g. **quiet**)* → "Now read the whole sentence back to me." *(Class reads.)* "And which word is the adjective? Underline it."
+
+**Teacher note.** Keep both the noun and the adjective inside words the class already holds — the child is practising **using a describing word**, not learning new vocabulary. Accept the adjective before the noun *or* after *is/are*; both are correct.
+
+**Anticipated error & correction.**
+> **If a student says "library quiet":** "Nearly. You have two correct ways: put it **before** — *a **quiet** library* — or add *is* and put it **after** — *the library **is quiet***. Say both with me." *(Class repeats both.)*
+
+### Step 5 — Clue Card, the Adjective block (26–29 min)
+
+> **Say:** "Our new card is for two roles only — Adjective and Pronoun. The old four-role card stays on the wall for the others. Today we fill in the Adjective part."
+
+Write the **what kind · which · how many** rows with the class, leaving the ***whose*** row blank.
+
+> **Say:** "I am leaving one row empty. Tomorrow we fill it — and it will surprise you."
+
+### Step 6 — CW-1 (29–32 min)
+
+Distribute CW-1. Model item 1:
+
+> **Say:** "Item one — *The **quiet** library opened after the prayer.* The bold word is *quiet*. Does it name, act, or describe?" → **"Describe."** → "What does it describe?" → **"The library — a noun."** → "So the part of speech is…?" → **"Adjective."** "Write it. Carry on by yourself; whatever you do not finish goes home with HW-1."
+
+### Step 7 — Exit Check (32–35 min)
+
+Teacher reads; one student per prompt names the bold word's part of speech. **8 prompts, one per student.**
+
+| # | Prompt | Answer |
+|---|---|---|
+| 1 | a **quiet** library | Adjective |
+| 2 | **three** flowers | Adjective |
+| 3 | The tourist **climbed** the fort. | Verb |
+| 4 | **this** storybook | Adjective |
+| 5 | the **river** near the fort | Noun |
+| 6 | Maryam listens **carefully**. | Adverb |
+| 7 | a **brave** champion | Adjective |
+| 8 | The fort **is** historical. — which word is the adjective? | historical |
+
+---
+
+# Worksheets — Day 1
+
+**Answer keys are not printed here** — they live in the consolidated `C5B07-AK` (Run Book §3.15). Student extracts are generated from these masters (§6.9) and never edited directly.
+
+## CW-1 · `C5B07-CW1` — The adjective: *what kind · which · how many*
+
+**Name:** ___________________ **Date:** ___________
+
+**Part A — Write the part of speech of the **bold** word (Noun, Verb, Adjective, Adverb).** *(14 items, 1 mark each)*
+
+1. The **quiet** library opened after the prayer.
+2. Aisha **collects** vegetables from the garden.
+3. A famous **reporter** visited Kishoreganj.
+4. The children waited **quietly** near the wall.
+5. Yusuf reads **three** poems every evening.
+6. The **tourist** climbed the historical fort.
+7. **This** storybook belongs to the library.
+8. The river near the fort is very **wide**.
+9. The bees **move** slowly in the cold air.
+10. A **polite** child greets the neighbour.
+11. The neighbours **plant** vegetables near the wall.
+12. Maryam listens **carefully** to the teacher.
+13. The wind was very **strong** last night.
+14. A **swarm** of bees left the garden.
+
+**Part B — Expand the noun.** Add a describing word in the blank, **write the full sentence**, and underline the adjective you used. *(6 items, 2 marks each)*
+
+15. The ______ garden is near the mosque.
+16. Yusuf borrowed a ______ storybook from the library.
+17. A ______ reporter came to Kishoreganj.
+18. The ______ meal kept the children healthy.
+19. Abdullah sent a ______ message to the neighbour.
+20. The ______ tourist visited the historical fort.
+
+**Part C — Write your own sentence** using each word below, and **underline the noun it describes.** *(4 items, 2 marks each)*
+
+21. brave
+22. quiet
+23. three
+24. this
+
+**Total: 34 marks**
+
+---
+
+## HW-1 · `C5B07-HW1` — The adjective: *what kind · which · how many*
+
+**Name:** ___________________ **Date:** ___________
+
+**Part A — Write the part of speech of the **bold** word (Noun, Verb, Adjective, Adverb).** *(14 items, 1 mark each)*
+
+1. Raima **prepares** a healthy meal every morning.
+2. The **noisy** bus stopped near the station.
+3. A **flock** of birds rested on the branch.
+4. The **historical** fort stands beside the river.
+5. Fatima **shares** the fruit with the neighbour.
+6. **Five** readers borrowed storybooks today.
+7. This **traditional** quilt has a beautiful pattern.
+8. Nusair walks **slowly** along the beach.
+9. **That** museum opened last Friday.
+10. The **child** planted vegetables in the garden.
+11. Porshi writes **secret** poems in the quiet library.
+12. The neighbours **protect** the mangrove forest.
+13. The **prize** went to the brave champion.
+14. Abdur Rahim visits the mosque **regularly**.
+
+**Part B — Expand the noun.** Add a describing word in the blank, **write the full sentence**, and underline the adjective you used. *(5 items, 2 marks each)*
+
+15. The ______ library opened at nine.
+16. Maryam borrowed a ______ storybook.
+17. A ______ tourist visited the mangrove forest.
+18. The ______ meal was ready before sunset.
+19. The ______ champion won the race.
+
+**Part C — Sort each word into the correct column.** Write each word under its heading. *(8 items, 1 mark each)*
+
+`courage · quietly · brave · borrow · pattern · powerful · always · protect`
+
+| Noun | Verb | Adjective | Adverb |
+|---|---|---|---|
+| | | | |
+| | | | |
+
+**Total: 32 marks**
+
+**Vocabulary Writing** *(not marked — your teacher will check it)*
+
+**Word Bank:** `achieve · sea · petal · stone · fog`
+
+| English Word | বাংলা অর্থ |
+|---|---|
+| | |
+| | |
+| | |
+| | |
+| | |
+
+---
+
+*Units 3–7 (Days 2–4 → `C5B0607-PT` → Assignment → `C5B07-AK` + audits + extracts) not yet authored.*

@@ -1,0 +1,106 @@
+{
+  "block_id": "C5B07",
+  "build_week": 6,
+  "exemplars": ["two", "three", "five"],
+  "sheets": [
+    {
+      "name": "CW1",
+      "type": "worksheet",
+      "pair": "HW1",
+      "stated_total": 34,
+      "parts": [
+        {
+          "name": "A",
+          "items": [
+            {"text": "The quiet library opened after the prayer.", "answer": "Adjective", "trigger": "quiet", "marks": 1},
+            {"text": "Aisha collects vegetables from the garden.", "answer": "Verb", "trigger": "collect", "marks": 1},
+            {"text": "A famous reporter visited Kishoreganj.", "answer": "Noun", "trigger": "reporter", "marks": 1},
+            {"text": "The children waited quietly near the wall.", "answer": "Adverb", "trigger": "quietly", "marks": 1},
+            {"text": "Yusuf reads three poems every evening.", "answer": "Adjective", "trigger": "three", "marks": 1},
+            {"text": "The tourist climbed the historical fort.", "answer": "Noun", "trigger": "tourist", "marks": 1},
+            {"text": "This storybook belongs to the library.", "answer": "Adjective", "trigger": "this", "marks": 1},
+            {"text": "The river near the fort is very wide.", "answer": "Adjective", "trigger": "wide", "marks": 1},
+            {"text": "The bees move slowly in the cold air.", "answer": "Verb", "trigger": "move", "marks": 1},
+            {"text": "A polite child greets the neighbour.", "answer": "Adjective", "trigger": "polite", "marks": 1},
+            {"text": "The neighbours plant vegetables near the wall.", "answer": "Verb", "trigger": "plant", "marks": 1},
+            {"text": "Maryam listens carefully to the teacher.", "answer": "Adverb", "trigger": "carefully", "marks": 1},
+            {"text": "The wind was very strong last night.", "answer": "Adjective", "trigger": "strong", "marks": 1},
+            {"text": "A swarm of bees left the garden.", "answer": "Noun", "trigger": "swarm", "marks": 1}
+          ]
+        },
+        {
+          "name": "B",
+          "items": [
+            {"text": "The ______ garden is near the mosque.", "answer": "any held adjective + full sentence + underlined", "trigger": "garden", "marks": 2},
+            {"text": "Yusuf borrowed a ______ storybook from the library.", "answer": "any held adjective + full sentence + underlined", "trigger": "storybook", "marks": 2},
+            {"text": "A ______ reporter came to Kishoreganj.", "answer": "any held adjective + full sentence + underlined", "trigger": "reporter", "marks": 2},
+            {"text": "The ______ meal kept the children healthy.", "answer": "any held adjective + full sentence + underlined", "trigger": "meal", "marks": 2},
+            {"text": "Abdullah sent a ______ message to the neighbour.", "answer": "any held adjective + full sentence + underlined", "trigger": "message", "marks": 2},
+            {"text": "The ______ tourist visited the historical fort.", "answer": "any held adjective + full sentence + underlined", "trigger": "tourist", "marks": 2}
+          ]
+        },
+        {
+          "name": "C",
+          "items": [
+            {"text": "Write your own sentence using: brave", "answer": "own sentence, noun underlined", "trigger": "brave", "marks": 2},
+            {"text": "Write your own sentence using: quiet", "answer": "own sentence, noun underlined", "trigger": "quiet", "marks": 2},
+            {"text": "Write your own sentence using: three", "answer": "own sentence, noun underlined", "trigger": "three", "marks": 2},
+            {"text": "Write your own sentence using: this", "answer": "own sentence, noun underlined", "trigger": "this", "marks": 2}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "HW1",
+      "type": "worksheet",
+      "stated_total": 32,
+      "parts": [
+        {
+          "name": "A",
+          "items": [
+            {"text": "Raima prepares a healthy meal every morning.", "answer": "Verb", "trigger": "prepare", "marks": 1},
+            {"text": "The noisy bus stopped near the station.", "answer": "Adjective", "trigger": "noisy", "marks": 1},
+            {"text": "A flock of birds rested on the branch.", "answer": "Noun", "trigger": "flock", "marks": 1},
+            {"text": "The historical fort stands beside the river.", "answer": "Adjective", "trigger": "historical", "marks": 1},
+            {"text": "Fatima shares the fruit with the neighbour.", "answer": "Verb", "trigger": "share", "marks": 1},
+            {"text": "Five readers borrowed storybooks today.", "answer": "Adjective", "trigger": "five", "marks": 1},
+            {"text": "This traditional quilt has a beautiful pattern.", "answer": "Adjective", "trigger": "traditional", "marks": 1},
+            {"text": "Nusair walks slowly along the beach.", "answer": "Adverb", "trigger": "slowly", "marks": 1},
+            {"text": "That museum opened last Friday.", "answer": "Adjective", "trigger": "that", "marks": 1},
+            {"text": "The child planted vegetables in the garden.", "answer": "Noun", "trigger": "child", "marks": 1},
+            {"text": "Porshi writes secret poems in the quiet library.", "answer": "Adjective", "trigger": "secret", "marks": 1},
+            {"text": "The neighbours protect the mangrove forest.", "answer": "Verb", "trigger": "protect", "marks": 1},
+            {"text": "The prize went to the brave champion.", "answer": "Noun", "trigger": "prize", "marks": 1},
+            {"text": "Abdur Rahim visits the mosque regularly.", "answer": "Adverb", "trigger": "regularly", "marks": 1}
+          ]
+        },
+        {
+          "name": "B",
+          "items": [
+            {"text": "The ______ library opened at nine.", "answer": "any held adjective + full sentence + underlined", "trigger": "library", "marks": 2},
+            {"text": "Maryam borrowed a ______ storybook.", "answer": "any held adjective + full sentence + underlined", "trigger": "storybook", "marks": 2},
+            {"text": "A ______ tourist visited the mangrove forest.", "answer": "any held adjective + full sentence + underlined", "trigger": "tourist", "marks": 2},
+            {"text": "The ______ meal was ready before sunset.", "answer": "any held adjective + full sentence + underlined", "trigger": "meal", "marks": 2},
+            {"text": "The ______ champion won the race.", "answer": "any held adjective + full sentence + underlined", "trigger": "champion", "marks": 2}
+          ]
+        },
+        {
+          "name": "C",
+          "items": [
+            {"text": "Sort: courage", "answer": "Noun", "trigger": "courage", "marks": 1},
+            {"text": "Sort: quietly", "answer": "Adverb", "trigger": "quietly", "marks": 1},
+            {"text": "Sort: brave", "answer": "Adjective", "trigger": "brave", "marks": 1},
+            {"text": "Sort: borrow", "answer": "Verb", "trigger": "borrow", "marks": 1},
+            {"text": "Sort: pattern", "answer": "Noun", "trigger": "pattern", "marks": 1},
+            {"text": "Sort: powerful", "answer": "Adjective", "trigger": "powerful", "marks": 1},
+            {"text": "Sort: always", "answer": "Adverb", "trigger": "always", "marks": 1},
+            {"text": "Sort: protect", "answer": "Verb", "trigger": "protect", "marks": 1}
+          ]
+        }
+      ]
+    }
+  ],
+  "dictation": [],
+  "pt_self_try_words": [],
+  "demo_box_words": []
+}
