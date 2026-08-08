@@ -1,0 +1,42 @@
+{
+  "_comment": "Self-test A — NORMAL mode. No sheet declares audit_scope, so every gate sees every sheet (pre-PD-032 behaviour). CW1 item 1 is deliberately repeated as PT item 1: the PT zero-overlap gate MUST catch it.",
+  "block_id": "SELFTEST-NORMAL",
+  "build_week": 6,
+  "exemplars": [],
+  "sheets": [
+    {
+      "name": "CW1",
+      "type": "worksheet",
+      "pair": "HW1",
+      "stated_total": 4,
+      "parts": [
+        {
+          "name": "A",
+          "items": [
+            { "text": "Yusuf ___ a red pen.",      "answer": "has",  "trigger": "pen",  "marks": 1 },
+            { "text": "Maryam ___ a small bag.",   "answer": "has",  "trigger": "bag",  "marks": 1 },
+            { "text": "They ___ new books.",       "answer": "have", "trigger": "book", "marks": 1 },
+            { "text": "The boys ___ clean hands.", "answer": "have", "trigger": "hand", "marks": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PT",
+      "type": "pt",
+      "stated_total": 2,
+      "parts": [
+        {
+          "name": "B",
+          "items": [
+            { "text": "Yusuf ___ a red pen.",     "answer": "has",  "trigger": "pen",  "marks": 1 },
+            { "text": "The cows ___ long tails.", "answer": "have", "trigger": "cow",  "marks": 1 }
+          ]
+        }
+      ]
+    }
+  ],
+  "dictation": [],
+  "pt_self_try_words": [],
+  "demo_box_words": []
+}

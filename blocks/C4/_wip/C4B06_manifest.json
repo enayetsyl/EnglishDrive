@@ -1,0 +1,2675 @@
+{
+ "block_id": "C4B06",
+ "build_week": 6,
+ "exemplars": [],
+ "block_local": [
+  "box",
+  "ball",
+  "desk",
+  "table",
+  "chair",
+  "bag",
+  "gate",
+  "wall",
+  "bed",
+  "pot",
+  "Sunday",
+  "Monday",
+  "Thursday",
+  "Saturday",
+  "June",
+  "July",
+  "summer",
+  "winter",
+  "spring",
+  "evening",
+  "night",
+  "dawn"
+ ],
+ "sheets": [
+  {
+   "name": "CW1",
+   "type": "worksheet",
+   "stated_total": 37,
+   "pair": "HW1",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "The child plays in the park.",
+       "answer": "Preposition",
+       "trigger": "park",
+       "marks": 1
+      },
+      {
+       "text": "A small bird drinks water.",
+       "answer": "Adjective",
+       "trigger": "small",
+       "marks": 1
+      },
+      {
+       "text": "The pot stands on the wall.",
+       "answer": "Preposition",
+       "trigger": "wall",
+       "marks": 1
+      },
+      {
+       "text": "The fish swims in the river.",
+       "answer": "Preposition",
+       "trigger": "river",
+       "marks": 1
+      },
+      {
+       "text": "The farmers grow rice.",
+       "answer": "Verb",
+       "trigger": "grow",
+       "marks": 1
+      },
+      {
+       "text": "The cup sits on the desk.",
+       "answer": "Preposition",
+       "trigger": "desk",
+       "marks": 1
+      },
+      {
+       "text": "A cold night came.",
+       "answer": "Adjective",
+       "trigger": "cold",
+       "marks": 1
+      },
+      {
+       "text": "The ball rests under the tree.",
+       "answer": "Preposition",
+       "trigger": "tree",
+       "marks": 1
+      },
+      {
+       "text": "The green leaf fell.",
+       "answer": "Adjective",
+       "trigger": "green",
+       "marks": 1
+      },
+      {
+       "text": "My father works hard.",
+       "answer": "Noun",
+       "trigger": "father",
+       "marks": 1
+      },
+      {
+       "text": "The tall tree has green leaves.",
+       "answer": "Adjective",
+       "trigger": "tall",
+       "marks": 1
+      },
+      {
+       "text": "The books are in the box.",
+       "answer": "Preposition",
+       "trigger": "box",
+       "marks": 1
+      },
+      {
+       "text": "The women carry water.",
+       "answer": "Verb",
+       "trigger": "carry",
+       "marks": 1
+      },
+      {
+       "text": "The water flows into the pot.",
+       "answer": "Preposition",
+       "trigger": "pot",
+       "marks": 1
+      },
+      {
+       "text": "The car stops at the shop.",
+       "answer": "Preposition",
+       "trigger": "shop",
+       "marks": 1
+      },
+      {
+       "text": "My sister reads a book.",
+       "answer": "Noun",
+       "trigger": "sister",
+       "marks": 1
+      },
+      {
+       "text": "The book lies on the table.",
+       "answer": "Preposition",
+       "trigger": "table",
+       "marks": 1
+      },
+      {
+       "text": "The box sits under the bed.",
+       "answer": "Preposition",
+       "trigger": "bed",
+       "marks": 1
+      },
+      {
+       "text": "She works carefully.",
+       "answer": "Adverb",
+       "trigger": "carefully",
+       "marks": 1
+      },
+      {
+       "text": "The men dig the soil.",
+       "answer": "Verb",
+       "trigger": "dig",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "The ball is ___ the box. (inside)",
+       "answer": "in",
+       "trigger": "box",
+       "marks": 1
+      },
+      {
+       "text": "The bird sits ___ the tree. (on top of)",
+       "answer": "on",
+       "trigger": "tree",
+       "marks": 1
+      },
+      {
+       "text": "The bag is ___ the table. (below)",
+       "answer": "under",
+       "trigger": "table",
+       "marks": 1
+      },
+      {
+       "text": "The shop is ___ the river. (close to)",
+       "answer": "near",
+       "trigger": "river",
+       "marks": 1
+      },
+      {
+       "text": "The ball rolls ___ the box. (moving inside)",
+       "answer": "into",
+       "trigger": "box",
+       "marks": 1
+      },
+      {
+       "text": "My uncle waits ___ the shop. (that spot)",
+       "answer": "at",
+       "trigger": "shop",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "The ball is ( under / on ) the bed, so we cannot see it.",
+       "answer": "under",
+       "trigger": "bed",
+       "marks": 1
+      },
+      {
+       "text": "The spoon lies ( on / in ) the desk.",
+       "answer": "on",
+       "trigger": "desk",
+       "marks": 1
+      },
+      {
+       "text": "The water is ( in / on ) the glass.",
+       "answer": "in",
+       "trigger": "glass",
+       "marks": 1
+      },
+      {
+       "text": "The park is ( near / in ) the river.",
+       "answer": "near",
+       "trigger": "river",
+       "marks": 1
+      },
+      {
+       "text": "The teacher waits ( at / into ) the gate.",
+       "answer": "at",
+       "trigger": "gate",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "D",
+     "items": [
+      {
+       "text": "box ______________________________________________",
+       "answer": null,
+       "marks": 2
+      },
+      {
+       "text": "tree _____________________________________________",
+       "answer": null,
+       "marks": 2
+      },
+      {
+       "text": "chair ____________________________________________",
+       "answer": null,
+       "marks": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "HW1",
+   "type": "worksheet",
+   "stated_total": 31,
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "The children play happily.",
+       "answer": "Verb",
+       "trigger": "play",
+       "marks": 1
+      },
+      {
+       "text": "We wash our hands.",
+       "answer": "Verb",
+       "trigger": "wash",
+       "marks": 1
+      },
+      {
+       "text": "The team plays at the park.",
+       "answer": "Preposition",
+       "trigger": "park",
+       "marks": 1
+      },
+      {
+       "text": "A strong wind blew.",
+       "answer": "Adjective",
+       "trigger": "strong",
+       "marks": 1
+      },
+      {
+       "text": "The girl draws a picture.",
+       "answer": "Verb",
+       "trigger": "draw",
+       "marks": 1
+      },
+      {
+       "text": "The picture hangs on the wall.",
+       "answer": "Preposition",
+       "trigger": "wall",
+       "marks": 1
+      },
+      {
+       "text": "It rests on the mat.",
+       "answer": "Pronoun",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "The girl waits at the desk.",
+       "answer": "Preposition",
+       "trigger": "desk",
+       "marks": 1
+      },
+      {
+       "text": "The children play every day.",
+       "answer": "Verb",
+       "trigger": "play",
+       "marks": 1
+      },
+      {
+       "text": "The child ran into the park.",
+       "answer": "Preposition",
+       "trigger": "park",
+       "marks": 1
+      },
+      {
+       "text": "The bird flies near the wall.",
+       "answer": "Preposition",
+       "trigger": "wall",
+       "marks": 1
+      },
+      {
+       "text": "You sit by the tree.",
+       "answer": "Pronoun",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "The ball is under the bed.",
+       "answer": "Preposition",
+       "trigger": "bed",
+       "marks": 1
+      },
+      {
+       "text": "A fresh flower bloomed.",
+       "answer": "Adjective",
+       "trigger": "fresh",
+       "marks": 1
+      },
+      {
+       "text": "The bag lies under the chair.",
+       "answer": "Preposition",
+       "trigger": "chair",
+       "marks": 1
+      },
+      {
+       "text": "The tree grows near the river.",
+       "answer": "Preposition",
+       "trigger": "river",
+       "marks": 1
+      },
+      {
+       "text": "She waits by the gate.",
+       "answer": "Pronoun",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "The shop stands near the river.",
+       "answer": "Preposition",
+       "trigger": "river",
+       "marks": 1
+      },
+      {
+       "text": "My uncle waits at the gate.",
+       "answer": "Preposition",
+       "trigger": "gate",
+       "marks": 1
+      },
+      {
+       "text": "The box is empty.",
+       "answer": "Noun",
+       "trigger": "box",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "The boy stands ___ the shop. (that spot)",
+       "answer": "at",
+       "trigger": "shop",
+       "marks": 1
+      },
+      {
+       "text": "The ball is ___ the bed. (below)",
+       "answer": "under",
+       "trigger": "bed",
+       "marks": 1
+      },
+      {
+       "text": "The pen is ___ the bag. (inside)",
+       "answer": "in",
+       "trigger": "bag",
+       "marks": 1
+      },
+      {
+       "text": "The rain flows ___ the river. (moving inside)",
+       "answer": "into",
+       "trigger": "river",
+       "marks": 1
+      },
+      {
+       "text": "The picture hangs ___ the wall. (on the surface)",
+       "answer": "on",
+       "trigger": "wall",
+       "marks": 1
+      },
+      {
+       "text": "The park is ___ the school. (close to)",
+       "answer": "near",
+       "trigger": "school",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "The card is ( in / into ) the bag.",
+       "answer": "in",
+       "trigger": "bag",
+       "marks": 1
+      },
+      {
+       "text": "The vehicle stops ( at / in ) the gate.",
+       "answer": "at",
+       "trigger": "gate",
+       "marks": 1
+      },
+      {
+       "text": "The factory is ( near / in ) the river.",
+       "answer": "near",
+       "trigger": "river",
+       "marks": 1
+      },
+      {
+       "text": "The pot is ( under / on ) the desk, so we cannot see it.",
+       "answer": "under",
+       "trigger": "desk",
+       "marks": 1
+      },
+      {
+       "text": "The poster is ( on / in ) the wall.",
+       "answer": "on",
+       "trigger": "wall",
+       "marks": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "CW2",
+   "type": "worksheet",
+   "stated_total": 38,
+   "pair": "HW2",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "A cold night came.",
+       "answer": "Adjective",
+       "trigger": "cold",
+       "marks": 1
+      },
+      {
+       "text": "The gate is open.",
+       "answer": "Noun",
+       "trigger": "gate",
+       "marks": 1
+      },
+      {
+       "text": "We return on the ninth of May.",
+       "answer": "Preposition",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "We collect the leaves.",
+       "answer": "Verb",
+       "trigger": "collect",
+       "marks": 1
+      },
+      {
+       "text": "My sister reads a book.",
+       "answer": "Noun",
+       "trigger": "sister",
+       "marks": 1
+      },
+      {
+       "text": "We meet in the morning.",
+       "answer": "Preposition",
+       "trigger": "morning",
+       "marks": 1
+      },
+      {
+       "text": "The shop opens at eight o'clock.",
+       "answer": "Preposition",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "The tall tree has green leaves.",
+       "answer": "Adjective",
+       "trigger": "tall",
+       "marks": 1
+      },
+      {
+       "text": "She works carefully.",
+       "answer": "Adverb",
+       "trigger": "carefully",
+       "marks": 1
+      },
+      {
+       "text": "It is hot in summer.",
+       "answer": "Preposition",
+       "trigger": "summer",
+       "marks": 1
+      },
+      {
+       "text": "The chair stood near the wall.",
+       "answer": "Noun",
+       "trigger": "chair",
+       "marks": 1
+      },
+      {
+       "text": "We meet at four o'clock.",
+       "answer": "Preposition",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "A small bird drinks water.",
+       "answer": "Adjective",
+       "trigger": "small",
+       "marks": 1
+      },
+      {
+       "text": "The holiday begins on the tenth of May.",
+       "answer": "Preposition",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "We sleep at night.",
+       "answer": "Preposition",
+       "trigger": "night",
+       "marks": 1
+      },
+      {
+       "text": "We wash our hands.",
+       "answer": "Verb",
+       "trigger": "wash",
+       "marks": 1
+      },
+      {
+       "text": "School reopens on Thursday.",
+       "answer": "Preposition",
+       "trigger": "thursday",
+       "marks": 1
+      },
+      {
+       "text": "It rains a lot in July.",
+       "answer": "Preposition",
+       "trigger": "july",
+       "marks": 1
+      },
+      {
+       "text": "The farmers grow rice.",
+       "answer": "Verb",
+       "trigger": "grow",
+       "marks": 1
+      },
+      {
+       "text": "We travel on Saturday.",
+       "answer": "Preposition",
+       "trigger": "saturday",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "The class starts ___ 6 o'clock. (exact time)",
+       "answer": "at",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "We go to school ___ Monday. (a day)",
+       "answer": "on",
+       "trigger": "monday",
+       "marks": 1
+      },
+      {
+       "text": "My exam is ___ June. (a month)",
+       "answer": "in",
+       "trigger": "june",
+       "marks": 1
+      },
+      {
+       "text": "We meet ___ the morning. (part of the day)",
+       "answer": "in",
+       "trigger": "morning",
+       "marks": 1
+      },
+      {
+       "text": "The madrasah closes ___ the tenth of May. (a date)",
+       "answer": "on",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "I wake up ___ five o'clock. (exact time)",
+       "answer": "at",
+       "trigger": null,
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "answers": [
+      "at",
+      "on",
+      "in",
+      "in",
+      "on",
+      "at"
+     ],
+     "marks": 6,
+     "items": []
+    },
+    {
+     "name": "D",
+     "items": [
+      {
+       "text": "Monday ____________________________________________",
+       "answer": null,
+       "marks": 2
+      },
+      {
+       "text": "June ______________________________________________",
+       "answer": null,
+       "marks": 2
+      },
+      {
+       "text": "morning ___________________________________________",
+       "answer": null,
+       "marks": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "HW2",
+   "type": "worksheet",
+   "stated_total": 32,
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "The bell rings at two o'clock.",
+       "answer": "Preposition",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "The women carry water.",
+       "answer": "Verb",
+       "trigger": "carry",
+       "marks": 1
+      },
+      {
+       "text": "The train leaves at nine o'clock.",
+       "answer": "Preposition",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "The days are long in summer.",
+       "answer": "Preposition",
+       "trigger": "summer",
+       "marks": 1
+      },
+      {
+       "text": "The children play happily.",
+       "answer": "Verb",
+       "trigger": "play",
+       "marks": 1
+      },
+      {
+       "text": "She waits by the gate.",
+       "answer": "Pronoun",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "We fast on the first of Ramadan.",
+       "answer": "Preposition",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "The school opens at dawn.",
+       "answer": "Preposition",
+       "trigger": "dawn",
+       "marks": 1
+      },
+      {
+       "text": "The clean water is fresh.",
+       "answer": "Adjective",
+       "trigger": "clean",
+       "marks": 1
+      },
+      {
+       "text": "We pray in the evening.",
+       "answer": "Preposition",
+       "trigger": "evening",
+       "marks": 1
+      },
+      {
+       "text": "The river flows slowly.",
+       "answer": "Noun",
+       "trigger": "river",
+       "marks": 1
+      },
+      {
+       "text": "Flowers bloom in spring.",
+       "answer": "Preposition",
+       "trigger": "spring",
+       "marks": 1
+      },
+      {
+       "text": "We rest on Sunday.",
+       "answer": "Preposition",
+       "trigger": "sunday",
+       "marks": 1
+      },
+      {
+       "text": "The girl draws a picture.",
+       "answer": "Verb",
+       "trigger": "draw",
+       "marks": 1
+      },
+      {
+       "text": "The stars shine in the night.",
+       "answer": "Preposition",
+       "trigger": "night",
+       "marks": 1
+      },
+      {
+       "text": "The class meets on Monday.",
+       "answer": "Preposition",
+       "trigger": "monday",
+       "marks": 1
+      },
+      {
+       "text": "The child smiles.",
+       "answer": "Noun",
+       "trigger": "child",
+       "marks": 1
+      },
+      {
+       "text": "The men dig the soil.",
+       "answer": "Verb",
+       "trigger": "dig",
+       "marks": 1
+      },
+      {
+       "text": "A strong wind blew.",
+       "answer": "Adjective",
+       "trigger": "strong",
+       "marks": 1
+      },
+      {
+       "text": "It rests on the mat.",
+       "answer": "Pronoun",
+       "trigger": null,
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "It rains ___ July. (a month)",
+       "answer": "in",
+       "trigger": "july",
+       "marks": 1
+      },
+      {
+       "text": "The train leaves ___ 9 o'clock. (exact time)",
+       "answer": "at",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "The fair opens ___ the first of June. (a date)",
+       "answer": "on",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "The shop closes ___ ten o'clock. (exact time)",
+       "answer": "at",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "The children play ___ the morning. (part of the day)",
+       "answer": "in",
+       "trigger": "morning",
+       "marks": 1
+      },
+      {
+       "text": "We rest ___ Sunday. (a day)",
+       "answer": "on",
+       "trigger": "sunday",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "answers": [
+      "in",
+      "at",
+      "on",
+      "in",
+      "at",
+      "on"
+     ],
+     "marks": 6,
+     "items": []
+    }
+   ]
+  },
+  {
+   "name": "CW3",
+   "type": "worksheet",
+   "stated_total": 36,
+   "pair": "HW3",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "I sit with my teacher.",
+       "answer": "Preposition",
+       "trigger": "teacher",
+       "marks": 1
+      },
+      {
+       "text": "The doctor writes slowly.",
+       "answer": "Adverb",
+       "trigger": "slowly",
+       "marks": 1
+      },
+      {
+       "text": "The worker builds the wall.",
+       "answer": "Noun",
+       "trigger": "worker",
+       "marks": 1
+      },
+      {
+       "text": "He waits at the shop.",
+       "answer": "Pronoun",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "We love our parents.",
+       "answer": "Verb",
+       "trigger": "love",
+       "marks": 1
+      },
+      {
+       "text": "This is the bag of my friend.",
+       "answer": "Preposition",
+       "trigger": "friend",
+       "marks": 1
+      },
+      {
+       "text": "This is the picture of my family.",
+       "answer": "Preposition",
+       "trigger": "family",
+       "marks": 1
+      },
+      {
+       "text": "The village is quiet.",
+       "answer": "Noun",
+       "trigger": "village",
+       "marks": 1
+      },
+      {
+       "text": "You help your friend.",
+       "answer": "Pronoun",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "The gift came from the shop.",
+       "answer": "Preposition",
+       "trigger": "shop",
+       "marks": 1
+      },
+      {
+       "text": "The doctor helps people.",
+       "answer": "Noun",
+       "trigger": "doctor",
+       "marks": 1
+      },
+      {
+       "text": "I gave the card to my cousin.",
+       "answer": "Preposition",
+       "trigger": "cousin",
+       "marks": 1
+      },
+      {
+       "text": "This is the bag of my brother.",
+       "answer": "Preposition",
+       "trigger": "brother",
+       "marks": 1
+      },
+      {
+       "text": "We rest under the tree.",
+       "answer": "Pronoun",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "This is the book of my sister.",
+       "answer": "Preposition",
+       "trigger": "sister",
+       "marks": 1
+      },
+      {
+       "text": "We share our meal with the child.",
+       "answer": "Preposition",
+       "trigger": "child",
+       "marks": 1
+      },
+      {
+       "text": "A healthy meal helps us.",
+       "answer": "Adjective",
+       "trigger": "healthy",
+       "marks": 1
+      },
+      {
+       "text": "We came from the village.",
+       "answer": "Preposition",
+       "trigger": "village",
+       "marks": 1
+      },
+      {
+       "text": "She lives with her family.",
+       "answer": "Preposition",
+       "trigger": "family",
+       "marks": 1
+      },
+      {
+       "text": "The girl draws a flower.",
+       "answer": "Verb",
+       "trigger": "draw",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "I go to school ___ my friend. (সঙ্গে)",
+       "answer": "with",
+       "trigger": "friend",
+       "marks": 1
+      },
+      {
+       "text": "I got a letter ___ my sister. (coming from)",
+       "answer": "from",
+       "trigger": "sister",
+       "marks": 1
+      },
+      {
+       "text": "This is the bag ___ my brother. (belonging to)",
+       "answer": "of",
+       "trigger": "brother",
+       "marks": 1
+      },
+      {
+       "text": "I give the book ___ my teacher. (towards)",
+       "answer": "to",
+       "trigger": "teacher",
+       "marks": 1
+      },
+      {
+       "text": "A gift came ___ my uncle. (coming from)",
+       "answer": "from",
+       "trigger": "uncle",
+       "marks": 1
+      },
+      {
+       "text": "I walk ___ my father. (সঙ্গে)",
+       "answer": "with",
+       "trigger": "father",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "I gave the letter ( to / from ) my aunt.",
+       "answer": "to",
+       "trigger": "aunt",
+       "marks": 1
+      },
+      {
+       "text": "I got a card ( from / to ) my uncle.",
+       "answer": "from",
+       "trigger": "uncle",
+       "marks": 1
+      },
+      {
+       "text": "This is the bag ( of / with ) my cousin.",
+       "answer": "of",
+       "trigger": "cousin",
+       "marks": 1
+      },
+      {
+       "text": "I share my meal ( with / of ) my friend.",
+       "answer": "with",
+       "trigger": "friend",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "D",
+     "items": [
+      {
+       "text": "with ______________________________________________",
+       "answer": null,
+       "marks": 2
+      },
+      {
+       "text": "from ______________________________________________",
+       "answer": null,
+       "marks": 2
+      },
+      {
+       "text": "of ________________________________________________",
+       "answer": null,
+       "marks": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "HW3",
+   "type": "worksheet",
+   "stated_total": 30,
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "A fresh flower bloomed.",
+       "answer": "Adjective",
+       "trigger": "fresh",
+       "marks": 1
+      },
+      {
+       "text": "The child reads loudly.",
+       "answer": "Adverb",
+       "trigger": "loudly",
+       "marks": 1
+      },
+      {
+       "text": "I bring water to my father.",
+       "answer": "Preposition",
+       "trigger": "father",
+       "marks": 1
+      },
+      {
+       "text": "A strong man carried the bag.",
+       "answer": "Adjective",
+       "trigger": "strong",
+       "marks": 1
+      },
+      {
+       "text": "A card came from my aunt.",
+       "answer": "Preposition",
+       "trigger": "aunt",
+       "marks": 1
+      },
+      {
+       "text": "The teacher explained the lesson.",
+       "answer": "Noun",
+       "trigger": "teacher",
+       "marks": 1
+      },
+      {
+       "text": "A gift arrived from my friend.",
+       "answer": "Preposition",
+       "trigger": "friend",
+       "marks": 1
+      },
+      {
+       "text": "A good friend helps.",
+       "answer": "Adjective",
+       "trigger": "good",
+       "marks": 1
+      },
+      {
+       "text": "I sent a letter to my brother.",
+       "answer": "Preposition",
+       "trigger": "brother",
+       "marks": 1
+      },
+      {
+       "text": "We give food to the child.",
+       "answer": "Preposition",
+       "trigger": "child",
+       "marks": 1
+      },
+      {
+       "text": "She prepares the meal.",
+       "answer": "Verb",
+       "trigger": "prepare",
+       "marks": 1
+      },
+      {
+       "text": "We help our teacher.",
+       "answer": "Verb",
+       "trigger": "help",
+       "marks": 1
+      },
+      {
+       "text": "I show the picture to my mother.",
+       "answer": "Preposition",
+       "trigger": "mother",
+       "marks": 1
+      },
+      {
+       "text": "This is the house of my uncle.",
+       "answer": "Preposition",
+       "trigger": "uncle",
+       "marks": 1
+      },
+      {
+       "text": "A happy child laughed.",
+       "answer": "Adjective",
+       "trigger": "happy",
+       "marks": 1
+      },
+      {
+       "text": "News came from the village.",
+       "answer": "Preposition",
+       "trigger": "village",
+       "marks": 1
+      },
+      {
+       "text": "I walk with my brother.",
+       "answer": "Preposition",
+       "trigger": "brother",
+       "marks": 1
+      },
+      {
+       "text": "They live in the village.",
+       "answer": "Pronoun",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "They visit the sick.",
+       "answer": "Verb",
+       "trigger": "visit",
+       "marks": 1
+      },
+      {
+       "text": "This is the picture of my school.",
+       "answer": "Preposition",
+       "trigger": "school",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "This is the house ___ my uncle. (belonging to)",
+       "answer": "of",
+       "trigger": "uncle",
+       "marks": 1
+      },
+      {
+       "text": "I play ___ my cousin. (সঙ্গে)",
+       "answer": "with",
+       "trigger": "cousin",
+       "marks": 1
+      },
+      {
+       "text": "A gift arrived ___ my friend. (coming from)",
+       "answer": "from",
+       "trigger": "friend",
+       "marks": 1
+      },
+      {
+       "text": "I live ___ my family. (সঙ্গে)",
+       "answer": "with",
+       "trigger": "family",
+       "marks": 1
+      },
+      {
+       "text": "I sent a letter ___ my brother. (towards)",
+       "answer": "to",
+       "trigger": "brother",
+       "marks": 1
+      },
+      {
+       "text": "A card came ___ my aunt. (coming from)",
+       "answer": "from",
+       "trigger": "aunt",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "This is the picture ( of / to ) my village.",
+       "answer": "of",
+       "trigger": "village",
+       "marks": 1
+      },
+      {
+       "text": "I sit ( with / from ) my father.",
+       "answer": "with",
+       "trigger": "father",
+       "marks": 1
+      },
+      {
+       "text": "I sent a card ( to / of ) my cousin.",
+       "answer": "to",
+       "trigger": "cousin",
+       "marks": 1
+      },
+      {
+       "text": "The gift came ( from / with ) my teacher.",
+       "answer": "from",
+       "trigger": "teacher",
+       "marks": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "CW4",
+   "type": "worksheet",
+   "stated_total": 31,
+   "pair": "HW4",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "This is the house of my uncle.",
+       "answer": "Preposition",
+       "trigger": "uncle",
+       "marks": 1
+      },
+      {
+       "text": "The fish swims in the river.",
+       "answer": "Preposition",
+       "trigger": "river",
+       "marks": 1
+      },
+      {
+       "text": "The girl draws a picture.",
+       "answer": "Verb",
+       "trigger": "draw",
+       "marks": 1
+      },
+      {
+       "text": "They visit the sick.",
+       "answer": "Verb",
+       "trigger": "visit",
+       "marks": 1
+      },
+      {
+       "text": "We give food to the child.",
+       "answer": "Preposition",
+       "trigger": "child",
+       "marks": 1
+      },
+      {
+       "text": "The shop opens at eight o'clock.",
+       "answer": "Preposition",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "The chair stood near the wall.",
+       "answer": "Noun",
+       "trigger": "chair",
+       "marks": 1
+      },
+      {
+       "text": "The tree grows near the river.",
+       "answer": "Preposition",
+       "trigger": "river",
+       "marks": 1
+      },
+      {
+       "text": "The child reads loudly.",
+       "answer": "Adverb",
+       "trigger": "loudly",
+       "marks": 1
+      },
+      {
+       "text": "A small bird drinks water.",
+       "answer": "Adjective",
+       "trigger": "small",
+       "marks": 1
+      },
+      {
+       "text": "The people help one another.",
+       "answer": "Verb",
+       "trigger": "help",
+       "marks": 1
+      },
+      {
+       "text": "The box is empty.",
+       "answer": "Noun",
+       "trigger": "box",
+       "marks": 1
+      },
+      {
+       "text": "The child ran into the park.",
+       "answer": "Preposition",
+       "trigger": "park",
+       "marks": 1
+      },
+      {
+       "text": "She prepares the meal.",
+       "answer": "Verb",
+       "trigger": "prepare",
+       "marks": 1
+      },
+      {
+       "text": "A letter came from the school.",
+       "answer": "Preposition",
+       "trigger": "school",
+       "marks": 1
+      },
+      {
+       "text": "The son obeys his father.",
+       "answer": "Noun",
+       "trigger": "son",
+       "marks": 1
+      },
+      {
+       "text": "This is the picture of my school.",
+       "answer": "Preposition",
+       "trigger": "school",
+       "marks": 1
+      },
+      {
+       "text": "We pray with the people.",
+       "answer": "Preposition",
+       "trigger": "people",
+       "marks": 1
+      },
+      {
+       "text": "We collect the leaves.",
+       "answer": "Verb",
+       "trigger": "collect",
+       "marks": 1
+      },
+      {
+       "text": "This is the book of my sister.",
+       "answer": "Preposition",
+       "trigger": "sister",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "on the desk — labelled Noun → __________",
+       "answer": "Preposition",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "river — labelled Preposition → __________",
+       "answer": "Noun",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "near the shop — labelled Adjective → __________",
+       "answer": "Preposition",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "helps — labelled Preposition → __________",
+       "answer": "Verb",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "with my friend — labelled Noun → __________",
+       "answer": "Preposition",
+       "trigger": null,
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "under — class: ________ · sentence: ______________________________",
+       "answer": null,
+       "marks": 2
+      },
+      {
+       "text": "at — class: ________ · sentence: ______________________________",
+       "answer": null,
+       "marks": 2
+      },
+      {
+       "text": "with — class: ________ · sentence: ______________________________",
+       "answer": null,
+       "marks": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "HW4",
+   "type": "worksheet",
+   "stated_total": 31,
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "We pray in the evening.",
+       "answer": "Preposition",
+       "trigger": "evening",
+       "marks": 1
+      },
+      {
+       "text": "The ball rolled into the box.",
+       "answer": "Preposition",
+       "trigger": "box",
+       "marks": 1
+      },
+      {
+       "text": "The child plays happily.",
+       "answer": "Adverb",
+       "trigger": "happily",
+       "marks": 1
+      },
+      {
+       "text": "We love our parents.",
+       "answer": "Verb",
+       "trigger": "love",
+       "marks": 1
+      },
+      {
+       "text": "We rest on Sunday.",
+       "answer": "Preposition",
+       "trigger": "sunday",
+       "marks": 1
+      },
+      {
+       "text": "A good friend helps.",
+       "answer": "Adjective",
+       "trigger": "good",
+       "marks": 1
+      },
+      {
+       "text": "The flower grows in the pot.",
+       "answer": "Preposition",
+       "trigger": "pot",
+       "marks": 1
+      },
+      {
+       "text": "The shop closes at ten o'clock.",
+       "answer": "Preposition",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "We rest under the tree.",
+       "answer": "Pronoun",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "The seed is in the pot.",
+       "answer": "Preposition",
+       "trigger": "pot",
+       "marks": 1
+      },
+      {
+       "text": "A healthy meal helps us.",
+       "answer": "Adjective",
+       "trigger": "healthy",
+       "marks": 1
+      },
+      {
+       "text": "A fresh flower bloomed.",
+       "answer": "Adjective",
+       "trigger": "fresh",
+       "marks": 1
+      },
+      {
+       "text": "The doctor helps people.",
+       "answer": "Noun",
+       "trigger": "doctor",
+       "marks": 1
+      },
+      {
+       "text": "A gift arrived from my friend.",
+       "answer": "Preposition",
+       "trigger": "friend",
+       "marks": 1
+      },
+      {
+       "text": "We rest near the tree.",
+       "answer": "Preposition",
+       "trigger": "tree",
+       "marks": 1
+      },
+      {
+       "text": "The worker digs slowly.",
+       "answer": "Adverb",
+       "trigger": "slowly",
+       "marks": 1
+      },
+      {
+       "text": "He walks carefully.",
+       "answer": "Adverb",
+       "trigger": "carefully",
+       "marks": 1
+      },
+      {
+       "text": "The children share their food.",
+       "answer": "Verb",
+       "trigger": "share",
+       "marks": 1
+      },
+      {
+       "text": "We sleep at night.",
+       "answer": "Preposition",
+       "trigger": "night",
+       "marks": 1
+      },
+      {
+       "text": "The car stops at the shop.",
+       "answer": "Preposition",
+       "trigger": "shop",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "shop — labelled Preposition → __________",
+       "answer": "Noun",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "in the bag — labelled Verb → __________",
+       "answer": "Preposition",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "plays — labelled Preposition → __________",
+       "answer": "Verb",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "from my aunt — labelled Adjective → __________",
+       "answer": "Preposition",
+       "trigger": null,
+       "marks": 1
+      },
+      {
+       "text": "on the wall — labelled Noun → __________",
+       "answer": "Preposition",
+       "trigger": null,
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "near — class: ________ · sentence: ______________________________",
+       "answer": null,
+       "marks": 2
+      },
+      {
+       "text": "from — class: ________ · sentence: ______________________________",
+       "answer": null,
+       "marks": 2
+      },
+      {
+       "text": "of — class: ________ · sentence: ______________________________",
+       "answer": null,
+       "marks": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "PT",
+   "type": "pt",
+   "stated_total": 36,
+   "parts": [
+    {
+     "name": "A",
+     "marks": 10,
+     "items": []
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "The kind teacher helped the boy.",
+       "answer": "Adjective",
+       "trigger": "kind",
+       "marks": 0.5
+      },
+      {
+       "text": "She keeps her books on the shelf.",
+       "answer": "Adjective",
+       "trigger": null,
+       "marks": 0.5
+      },
+      {
+       "text": "The teacher thanked him warmly.",
+       "answer": "Pronoun",
+       "trigger": null,
+       "marks": 0.5
+      },
+      {
+       "text": "The cat sleeps under the chair.",
+       "answer": "Preposition",
+       "trigger": "chair",
+       "marks": 0.5
+      },
+      {
+       "text": "We meet our friends on Sunday.",
+       "answer": "Preposition",
+       "trigger": "sunday",
+       "marks": 0.5
+      },
+      {
+       "text": "A strong horse pulled the cart.",
+       "answer": "Adjective",
+       "trigger": "strong",
+       "marks": 0.5
+      },
+      {
+       "text": "They walked to the school quietly.",
+       "answer": "Pronoun",
+       "trigger": null,
+       "marks": 0.5
+      },
+      {
+       "text": "The card is from my uncle.",
+       "answer": "Preposition",
+       "trigger": "uncle",
+       "marks": 0.5
+      },
+      {
+       "text": "The doctor treated the patients.",
+       "answer": "Noun",
+       "trigger": "doctor",
+       "marks": 0.5
+      },
+      {
+       "text": "The farmers grow wheat in the field.",
+       "answer": "Verb",
+       "trigger": "grow",
+       "marks": 0.5
+      },
+      {
+       "text": "This school is very quiet.",
+       "answer": "Adjective",
+       "trigger": null,
+       "marks": 0.5
+      },
+      {
+       "text": "The cards lie in the box.",
+       "answer": "Preposition",
+       "trigger": "box",
+       "marks": 0.5
+      },
+      {
+       "text": "We gave the food to the people.",
+       "answer": "Preposition",
+       "trigger": "people",
+       "marks": 0.5
+      },
+      {
+       "text": "My uncle owns a small shop.",
+       "answer": "Noun",
+       "trigger": "uncle",
+       "marks": 0.5
+      },
+      {
+       "text": "We rested near the pond.",
+       "answer": "Pronoun",
+       "trigger": null,
+       "marks": 0.5
+      },
+      {
+       "text": "A fresh flower grew near the river.",
+       "answer": "Adjective",
+       "trigger": "fresh",
+       "marks": 0.5
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "The teacher waits ___ the gate. (that spot)",
+       "answer": "at",
+       "trigger": "gate",
+       "marks": 0.5
+      },
+      {
+       "text": "The train arrives ___ ten o'clock. (exact time)",
+       "answer": "at",
+       "trigger": null,
+       "marks": 0.5
+      },
+      {
+       "text": "We travel ___ winter. (a season)",
+       "answer": "in",
+       "trigger": "winter",
+       "marks": 0.5
+      },
+      {
+       "text": "The letter came ___ my cousin. (coming from)",
+       "answer": "from",
+       "trigger": "cousin",
+       "marks": 0.5
+      },
+      {
+       "text": "The card lies ___ the table. (on the surface)",
+       "answer": "on",
+       "trigger": "table",
+       "marks": 0.5
+      },
+      {
+       "text": "I share my lunch ___ my friend. (সঙ্গে)",
+       "answer": "with",
+       "trigger": "friend",
+       "marks": 0.5
+      },
+      {
+       "text": "The ball rolled ___ the pot. (moving inside)",
+       "answer": "into",
+       "trigger": "pot",
+       "marks": 0.5
+      },
+      {
+       "text": "The school stands ___ the river. (close to)",
+       "answer": "near",
+       "trigger": "river",
+       "marks": 0.5
+      }
+     ]
+    },
+    {
+     "name": "D",
+     "items": [
+      {
+       "text": "Abdullah washed his hands.",
+       "answer": "He",
+       "marks": 1
+      },
+      {
+       "text": "The teacher praised Aisha.",
+       "answer": "her",
+       "marks": 1
+      },
+      {
+       "text": "The boys cleaned the yard.",
+       "answer": "They",
+       "marks": 1
+      },
+      {
+       "text": "Father brought the picture.",
+       "answer": "it",
+       "marks": 1
+      },
+      {
+       "text": "The imam guided the people.",
+       "answer": "them",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "E",
+     "items": [
+      {
+       "text": "river ______________________________________________",
+       "answer": null,
+       "trigger": "river",
+       "marks": 1
+      },
+      {
+       "text": "teacher ____________________________________________",
+       "answer": null,
+       "trigger": "teacher",
+       "marks": 1
+      },
+      {
+       "text": "picture ____________________________________________",
+       "answer": null,
+       "trigger": "picture",
+       "marks": 1
+      },
+      {
+       "text": "village ____________________________________________",
+       "answer": null,
+       "trigger": "village",
+       "marks": 1
+      },
+      {
+       "text": "spoon ______________________________________________",
+       "answer": null,
+       "trigger": "spoon",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "F",
+     "marks": 4,
+     "items": []
+    }
+   ]
+  },
+  {
+   "name": "B5-CW1",
+   "type": "worksheet",
+   "audit_scope": "pt_overlap_only",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "The green leaf falls to the ground."
+      },
+      {
+       "text": "My father reads a short letter."
+      },
+      {
+       "text": "The students write in their books."
+      },
+      {
+       "text": "The small bird sat on the branch."
+      },
+      {
+       "text": "The kind teacher smiles at the class."
+      },
+      {
+       "text": "By the grace of Allah, the doctor helps many sick children."
+      },
+      {
+       "text": "My mother cooks a fresh meal."
+      },
+      {
+       "text": "A beautiful flower grows in the garden."
+      },
+      {
+       "text": "Yusuf washes the dirty spoon."
+      },
+      {
+       "text": "A strong man carries the heavy bag."
+      },
+      {
+       "text": "Aisha draws a colourful picture."
+      },
+      {
+       "text": "The old teacher tells a good story."
+      },
+      {
+       "text": "The cold water was fresh and clean."
+      },
+      {
+       "text": "The big mountain rises above the village."
+      },
+      {
+       "text": "We drink clean water every day."
+      },
+      {
+       "text": "The tall tree stood beside the mosque."
+      },
+      {
+       "text": "Aisha ate a healthy meal."
+      },
+      {
+       "text": "The children play in the park."
+      },
+      {
+       "text": "The new library opened near our school."
+      },
+      {
+       "text": "The farmer grows rice in the field."
+      },
+      {
+       "text": "tree ______________________________________________"
+      },
+      {
+       "text": "meal ______________________________________________"
+      },
+      {
+       "text": "friend ____________________________________________"
+      },
+      {
+       "text": "flower ____________________________________________"
+      },
+      {
+       "text": "bird ______________________________________________"
+      },
+      {
+       "text": "tall ___________________________________________"
+      },
+      {
+       "text": "kind ___________________________________________"
+      },
+      {
+       "text": "healthy ________________________________________"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "B5-CW2",
+   "type": "worksheet",
+   "audit_scope": "pt_overlap_only",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "My friend shares his lunch."
+      },
+      {
+       "text": "Our school stands near the mosque."
+      },
+      {
+       "text": "The children play in the yard."
+      },
+      {
+       "text": "The dirty spoon needed washing."
+      },
+      {
+       "text": "Their village lies beyond the hill."
+      },
+      {
+       "text": "Her mother cooked a fine meal."
+      },
+      {
+       "text": "My uncle writes letters to us."
+      },
+      {
+       "text": "His brother studies in Class Five."
+      },
+      {
+       "text": "That mountain is very high."
+      },
+      {
+       "text": "A kind doctor treated the child."
+      },
+      {
+       "text": "The doctor helps the sick."
+      },
+      {
+       "text": "A tall tree shaded the courtyard."
+      },
+      {
+       "text": "The farmer grows wheat and rice."
+      },
+      {
+       "text": "Your garden looks beautiful today."
+      },
+      {
+       "text": "My teacher explained the lesson well."
+      },
+      {
+       "text": "The old teacher retired last year."
+      },
+      {
+       "text": "This flower smells very sweet."
+      },
+      {
+       "text": "The green leaf turned yellow."
+      },
+      {
+       "text": "A healthy meal gives us energy."
+      },
+      {
+       "text": "This book belongs to the library."
+      },
+      {
+       "text": "______________________________________________"
+      },
+      {
+       "text": "______________________________________________"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "B5-CW3",
+   "type": "worksheet",
+   "audit_scope": "pt_overlap_only",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "She helps her mother at home."
+      },
+      {
+       "text": "This picture hangs on the wall."
+      },
+      {
+       "text": "They study in the same class."
+      },
+      {
+       "text": "It rained heavily last night."
+      },
+      {
+       "text": "Our garden grows many flowers."
+      },
+      {
+       "text": "The teacher praises him for good work."
+      },
+      {
+       "text": "We enjoy the long holiday."
+      },
+      {
+       "text": "Your teacher explained it clearly."
+      },
+      {
+       "text": "He reads the Quran every morning."
+      },
+      {
+       "text": "His sister reads very well."
+      },
+      {
+       "text": "We pray together at the mosque."
+      },
+      {
+       "text": "Aisha gives the book to me."
+      },
+      {
+       "text": "My uncle lives in the city."
+      },
+      {
+       "text": "The doctor helped us kindly."
+      },
+      {
+       "text": "Her mother baked fresh bread."
+      },
+      {
+       "text": "The dog followed them home."
+      },
+      {
+       "text": "That book belongs to my brother."
+      },
+      {
+       "text": "My father met them at the market."
+      },
+      {
+       "text": "The child thanks them politely."
+      },
+      {
+       "text": "Their house stands by the river."
+      },
+      {
+       "text": "Yusuf helps his mother. ______________________________________________"
+      },
+      {
+       "text": "The teacher likes the boy. ______________________________________________"
+      },
+      {
+       "text": "Aisha and Raima live in the village. ______________________________________________"
+      },
+      {
+       "text": "My father met the doctor. ______________________________________________"
+      },
+      {
+       "text": "The bird sat on the leaf. ______________________________________________"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "B5-CW4",
+   "type": "worksheet",
+   "audit_scope": "pt_overlap_only",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "The farmer grows fresh vegetables."
+      },
+      {
+       "text": "The strong boy lifts the box."
+      },
+      {
+       "text": "Father calls us for prayer."
+      },
+      {
+       "text": "My uncle visits the village often."
+      },
+      {
+       "text": "Our school held a sports day."
+      },
+      {
+       "text": "By Allah's mercy, a healthy meal keeps us strong."
+      },
+      {
+       "text": "By Allah's grace, the kind doctor treated the patient."
+      },
+      {
+       "text": "A colourful kite flies high."
+      },
+      {
+       "text": "This bird has bright feathers."
+      },
+      {
+       "text": "The green leaf moved in the wind."
+      },
+      {
+       "text": "My mother washes the clothes."
+      },
+      {
+       "text": "The tall tree gave cool shade."
+      },
+      {
+       "text": "The new book lay on the desk."
+      },
+      {
+       "text": "The children write their lessons."
+      },
+      {
+       "text": "The teacher praises him warmly."
+      },
+      {
+       "text": "He recites the verse clearly."
+      },
+      {
+       "text": "My friend lives next door."
+      },
+      {
+       "text": "They enjoy the long holiday."
+      },
+      {
+       "text": "Aisha paints a beautiful picture."
+      },
+      {
+       "text": "She helps her mother cook."
+      },
+      {
+       "text": "The tall tree gave shade. — Noun → __________"
+      },
+      {
+       "text": "She helps her mother. — Adjective → __________"
+      },
+      {
+       "text": "My mother washes the spoon. — Adjective → __________"
+      },
+      {
+       "text": "our school is clean. — Pronoun → __________"
+      },
+      {
+       "text": "a beautiful picture — Verb → __________"
+      },
+      {
+       "text": "The doctor helped us. — Noun → __________"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "B5-HW1",
+   "type": "worksheet",
+   "audit_scope": "pt_overlap_only",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "The garden looks very nice today."
+      },
+      {
+       "text": "The farmer grows rice and wheat."
+      },
+      {
+       "text": "The weak patient rests in bed."
+      },
+      {
+       "text": "The sick boy stays at home."
+      },
+      {
+       "text": "The birds live in the tall tree."
+      },
+      {
+       "text": "The good son obeyed his parents."
+      },
+      {
+       "text": "A safe road led to the village."
+      },
+      {
+       "text": "My uncle visits us every Friday."
+      },
+      {
+       "text": "The dirty spoon lies on the table."
+      },
+      {
+       "text": "A sad story makes the class quiet."
+      },
+      {
+       "text": "The short letter arrives today."
+      },
+      {
+       "text": "The green leaf floats on the water."
+      },
+      {
+       "text": "The clean water fills the glass."
+      },
+      {
+       "text": "The happy child runs to her mother."
+      },
+      {
+       "text": "The students write their lessons."
+      },
+      {
+       "text": "We collect the ripe fruit."
+      },
+      {
+       "text": "A letter arrived in the morning."
+      },
+      {
+       "text": "A hot meal was ready for dinner."
+      },
+      {
+       "text": "The big river flowed past the town."
+      },
+      {
+       "text": "The kind doctor helped the poor family."
+      },
+      {
+       "text": "mountain __________________________________________"
+      },
+      {
+       "text": "letter ____________________________________________"
+      },
+      {
+       "text": "meal ______________________________________________"
+      },
+      {
+       "text": "tree ______________________________________________"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "B5-HW2",
+   "type": "worksheet",
+   "audit_scope": "pt_overlap_only",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "The big mountain touched the clouds."
+      },
+      {
+       "text": "The clean glass shines in the light."
+      },
+      {
+       "text": "A beautiful garden surrounds the house."
+      },
+      {
+       "text": "A fresh meal waited on the table."
+      },
+      {
+       "text": "The boys play by the river."
+      },
+      {
+       "text": "My mother washes the dishes."
+      },
+      {
+       "text": "Her brother works as a doctor."
+      },
+      {
+       "text": "Their father teaches at our school."
+      },
+      {
+       "text": "The children play after school."
+      },
+      {
+       "text": "This letter came this morning."
+      },
+      {
+       "text": "A strong wind shook the branches."
+      },
+      {
+       "text": "A green leaf falls from the tree."
+      },
+      {
+       "text": "This meal tastes delicious."
+      },
+      {
+       "text": "Our library has many new books."
+      },
+      {
+       "text": "The gardener grows young trees."
+      },
+      {
+       "text": "That flower bloomed this morning."
+      },
+      {
+       "text": "His picture won the prize."
+      },
+      {
+       "text": "The kind teacher praised the students."
+      },
+      {
+       "text": "My sister enjoys her books."
+      },
+      {
+       "text": "Your answer is correct."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "B5-HW3",
+   "type": "worksheet",
+   "audit_scope": "pt_overlap_only",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "Father calls him for dinner."
+      },
+      {
+       "text": "His friend won the race."
+      },
+      {
+       "text": "They live near our house."
+      },
+      {
+       "text": "It flew over the tall tree."
+      },
+      {
+       "text": "Your brother plays football well."
+      },
+      {
+       "text": "The teacher helps us with the lesson."
+      },
+      {
+       "text": "The teacher taught them to read."
+      },
+      {
+       "text": "This garden belongs to the school."
+      },
+      {
+       "text": "Aisha hands the pen to me."
+      },
+      {
+       "text": "They clean the classroom together."
+      },
+      {
+       "text": "Our father works in the field."
+      },
+      {
+       "text": "We thank the kind doctor."
+      },
+      {
+       "text": "That mountain looks beautiful."
+      },
+      {
+       "text": "She waters the plants daily."
+      },
+      {
+       "text": "We enjoy the morning walk."
+      },
+      {
+       "text": "Her picture looks lovely."
+      },
+      {
+       "text": "He writes a letter to his friend."
+      },
+      {
+       "text": "My sister cooks tasty food."
+      },
+      {
+       "text": "The boy showed them the way."
+      },
+      {
+       "text": "The nurse gives me the medicine."
+      },
+      {
+       "text": "The children play in the park. ______________________________________________"
+      },
+      {
+       "text": "Yusuf helped his mother. ______________________________________________"
+      },
+      {
+       "text": "The teacher wrote on the board. ______________________________________________"
+      },
+      {
+       "text": "My uncle met Yusuf and Abdullah. ______________________________________________"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "B5-HW4",
+   "type": "worksheet",
+   "audit_scope": "pt_overlap_only",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "A healthy breakfast starts the day."
+      },
+      {
+       "text": "The children play in the field."
+      },
+      {
+       "text": "The green leaf fell slowly."
+      },
+      {
+       "text": "Our garden has many roses."
+      },
+      {
+       "text": "The doctor examined him carefully."
+      },
+      {
+       "text": "The kind nurse comforted the child."
+      },
+      {
+       "text": "This flower blooms in spring."
+      },
+      {
+       "text": "The teacher thanks him kindly."
+      },
+      {
+       "text": "The big river flows to the sea."
+      },
+      {
+       "text": "Mother gave them some fruit."
+      },
+      {
+       "text": "A beautiful bird sat on the branch."
+      },
+      {
+       "text": "The old teacher loves his students."
+      },
+      {
+       "text": "A letter arrives from the city."
+      },
+      {
+       "text": "She sweeps the floor every morning."
+      },
+      {
+       "text": "The boys play near the pond."
+      },
+      {
+       "text": "He helps the poor gladly."
+      },
+      {
+       "text": "They walk to school together."
+      },
+      {
+       "text": "My uncle repairs old clocks."
+      },
+      {
+       "text": "The baker prepares fresh bread."
+      },
+      {
+       "text": "My father writes in his diary."
+      },
+      {
+       "text": "Write a sentence with an adjective before a noun. Underline the adjective."
+      },
+      {
+       "text": "Write a sentence using a pronoun in place of a name. Underline the pronoun."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "B5-PT",
+   "type": "worksheet",
+   "audit_scope": "pt_overlap_only",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "_______________  2. _______________  3. _______________  4. _______________  5. _______________"
+      },
+      {
+       "text": "_______________  7. _______________  8. _______________  9. _______________  10. _______________"
+      },
+      {
+       "text": "Your teacher is kind."
+      },
+      {
+       "text": "A safe road took us to the park."
+      },
+      {
+       "text": "The new library is near the mosque."
+      },
+      {
+       "text": "The weak plant needed more water."
+      },
+      {
+       "text": "A kind doctor helped the sick child."
+      },
+      {
+       "text": "The green leaf fell on the soil."
+      },
+      {
+       "text": "The doctor meets many children."
+      },
+      {
+       "text": "A nice letter came for my father."
+      },
+      {
+       "text": "The kind boy loves his mother."
+      },
+      {
+       "text": "The doctor helped us."
+      },
+      {
+       "text": "His sister is a doctor. — Pronoun → __________"
+      },
+      {
+       "text": "The children play in the park. — Verb → __________"
+      },
+      {
+       "text": "a healthy meal — Noun → __________"
+      },
+      {
+       "text": "The doctor helped us. — Pronoun → __________"
+      },
+      {
+       "text": "this bird is small — Adjective → __________"
+      },
+      {
+       "text": "My uncle visits the village. — Noun → __________"
+      },
+      {
+       "text": "Yusuf prays at the mosque. ______________________________________________"
+      },
+      {
+       "text": "The teacher helped the students. ______________________________________________"
+      },
+      {
+       "text": "The doctor treated the patient. ______________________________________________"
+      },
+      {
+       "text": "Aisha thanked her mother. ______________________________________________"
+      },
+      {
+       "text": "The bird flew over the tree. ______________________________________________"
+      },
+      {
+       "text": "My father called Abdullah. ______________________________________________"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "dictation": [
+  "pollution",
+  "waste",
+  "smoke",
+  "noise",
+  "air",
+  "ear",
+  "kindness",
+  "people",
+  "street",
+  "clothes"
+ ],
+ "pt_self_try_words": [
+  "on",
+  "near",
+  "from",
+  "kind",
+  "this",
+  "them"
+ ],
+ "demo_box_words": [
+  "under",
+  "at",
+  "with"
+ ]
+}

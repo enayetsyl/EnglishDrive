@@ -241,6 +241,81 @@ Decisions already adopted and applied across the English Drive.
 
 ---
 
+### PD-028 — C3 Block 7 (Adjective): graded-item weighting 55/25/20 across the three strands
+**Decision:** In **C3 Block 7 (Adjective)**, graded items are weighted **55 / 25 / 20** across **descriptive : possessive-demonstrative : number**. The *how many* (number) strand is admitted to the taught cap alongside Drive Plan v1.8 §2 row 7. The **possessive, demonstrative and number strands are taught in full but are not exam-tested**; only the descriptive strand carries an exam anchor.
+**Rationale:** the sole adjective anchor in the binding C3 set is **Annual 2025 Q8** ("Identify adjectives from the following passage", 5×1=5), identify-from-passage and descriptive-only — **HY2025 and HY2026 do not test adjectives at all** (verified against all three papers). The other strands are curriculum-necessary (they carry the Block 7/8 adjective-vs-pronoun boundary) but must not displace exam-weighted practice, so they are taught fully and graded lightly rather than dropped or given equal weight.
+**What led to this:** the C3 Block 7 build session, which set the weighting and admitted *how many* to the cap.
+**Affected files:** `C3_ENG_GrammarBlock07_Adjective_v1.md` (Provenance table, Topic/cap and Weighting rows); C3 Drive Plan §2 row 7.
+**Numbering note:** this ruling was **cited as PD-028** in `extracts/C3/TN/C3_ENG_GrammarBlock07_Adjective_v1.md` but was never appended to this log; the number is now formally assigned to it here, so that in-file citation resolves correctly. That in-file citation is historical and **stays unedited per Charter §K.3**.
+**Status:** Applied (C3 Block 7); logged retrospectively 08.08.26.
+
+---
+
+### PD-029 — C4 spine renumbering (Adjective + Pronoun → Block 5; Preposition → Block 6) and the combined `C4B0506-PT` holiday carry-forward
+**Decision:** Two linked rulings on the Class 4 spine. **(i) Renumbering:** the C4 spine folds **Adjective + Pronoun into a single Block 5** (sub-rows **5a Adjective / 5b Pronoun**) and **Preposition becomes Block 6** (Drive Plan v1.11). Existing `C4B05-*` extract IDs are **unchanged**. **(ii) Assessment carry-forward:** the Week-5 Thursday `C4B05-PT` was **built but never administered** — the slot was lost to a holiday. Its assessment is **carried into the combined `C4B0506-PT`** (in `C4_ENG_Block06_Preposition_v1.md`), which grades Block 5 (Adjective + Pronoun) **and** Block 6 (Preposition) together in the Week-6 slot. `C4B05-PT` is retained as the built-but-unused Block-5 record and is **not to be administered separately** absent a Principal ruling; the combined PT's Adjective/Pronoun items are **freshly authored**, zero-overlap against `C4B05-PT` and all Block-5 worksheets (§6.5 verified during the Block 6 build).
+**Boundary — not a precedent for split blocks.** The combined PT here is a **§6.7 paired-week recovery measure** caused by a lost teaching day, merging two **different block numbers**. It is **not** a design pattern, and it does **not** license a combined PT across the two halves of a **two-week `a`/`b` split block**, which **PD-025** governs (one PT per week, per-anchor mark splits preserved, separate audit surfaces). Run Book v1.17 §6.7 keeps the paired-week block explicitly *distinct from* the two-week block.
+**Rationale:** the renumbering reflects the taught reality that adjective and pronoun are one boundary-sharing unit at C4 level; the carry-forward preserves the assessment rather than discarding a built PT or double-testing pupils on a spent item set.
+**What led to this:** the C4 Block 5/Block 6 build sessions (06.08.26).
+**Affected files:** `C4_ENG_Block05_AdjectivePronoun_v1.md` (numbering note, `C4B05-PT` banner, version log v1.15); `C4_ENG_Block06_Preposition_v1.md` (`C4B0506-PT`); C4 Drive Plan v1.11.
+**Numbering note:** this ruling was **cited as PD-028** in `extracts/C4/TN/C4_ENG_Block05_AdjectivePronoun_v1.md` but was never appended to this log. **PD-028 has been assigned to the C3 Block 7 weighting ruling above**, so this ruling takes **PD-029**. The `PD-028` citation inside the C4 file is therefore **stale and now resolves to a different entry**; it is historical and **stays unedited per Charter §K.3**. Cite **PD-029** for this ruling going forward.
+**Status:** Applied (C4 Blocks 5–6); logged retrospectively 08.08.26.
+
+---
+
+### PD-030 — `C4B04-AK` consolidated to `extracts/`; HW-2 item 28 resolved to *an*
+**Decision:** `extracts/C4/C4B04_AK.md` is the **authoritative** Class 4 Block 4 answer key. **HW-2 item 28** — master item *"She is ______ honest teacher."* — is **`an`** (silent *h*). A second copy at `blocks/C4/C4B04_AK.md` carried **`The`** for that item and has been **removed**: `blocks/` holds **block masters only**, and an answer key is not a master. Three sections that existed only in the removed copy — **Marking notes**, **PT Part A dictation word list** (with its teacher-only caveat and the PD-009 exemplar rule), and the **§6.11 Consistency check table** — were ported into the `extracts/` copy **verbatim, unreworded**.
+**Rationale:** two divergent renderings of one answer key is a marking hazard — a teacher handed the `blocks/` copy would have mismarked HW-2 #28 against the master. Consolidating to one authoritative file removes the divergence; porting the unique sections first means the cleanup costs no content.
+**Evidence / Observation:** verified programmatically, not by eye. Both copies were parsed into item-number → answer maps: **285 numbered answers compared**; the merged `extracts/` file is **identical to the pre-merge `extracts/` copy (0 differences)** and differs from the removed `blocks/` copy at **exactly one item — HW-2 #28** — resolved against the master. All nine stated mark totals unchanged (CW1 54 · HW1 46 · CW2 54 · HW2 46 · CW3 57 · HW3 45 · CW4 38 · HW4 46 · PT 47). The three ported sections were confirmed byte-identical substrings of the source.
+**Note:** the C4 Block 4 v1.1 review log already records an earlier transcription defect in HW-2 (Part B had contained HW-3's Part B verbatim), so this sheet has prior history of copy drift. **No student-facing worksheet and no block master was changed** — the defect existed only in the duplicate key.
+**Affected files:** `extracts/C4/C4B04_AK.md` (consolidated); `blocks/C4/C4B04_AK.md` (removed). Commit `a8e329a`.
+**Status:** Applied (08.08.26).
+
+---
+
+### PD-031 — Sacred words are excluded from match-to-make-a-sentence tasks; the exam format is mirrored on secular content
+**Decision:** In a **match-to-make-a-sentence** task (and any task whose graded act is **assembling or re-forming a sentence**), **no strip, fragment or complement may contain a sacred word** — *Allah, আল্লাহ, Quran, কুরআন*. This holds on worksheets **and** the Performance Test. The exam format is mirrored faithfully on **secular content**; the reverence guard is not traded for format fidelity.
+**Rationale:** Charter §H.3 bars a sacred word as a **graded classification target**. In a match/assembly task the graded act *is* the assembly of the strip, so a sacred-word strip is a graded target — squarely inside §H.3, not a borderline case. A child can also produce a *wrong* pairing of a sacred strip while working, which is precisely what the guard exists to prevent. The format (re-form five mis-paired sentences) transfers completely to secular subject matter, so nothing pedagogical is lost.
+**Boundary vs PD-022:** PD-022 permitted a *Quran* item in C3 Article by **secular transfer, never blanked** — the sacred word was printed intact and the graded blank sat elsewhere in the sentence. That carve-out does **not** extend here, because a match task cannot hold the sacred strip fixed and still be a match task. Teacher script and clue-card prose may continue to reference sacred content normally (§H.3 permits teacher prose).
+**What led to this:** C2 Block 6b, whose binding anchor **AN25 Q11** itself contains the strip *"My father reads the Quran everyday."* The drive mirrors the question's **form**, not that content.
+**Affected files:** `C2_ENG_Block06b_*` master + extracts. Clarifies Charter §H.3 for assembly-type items; amends nothing. Forward-only.
+**Status:** Ruled (Principal, 08.08.26); applies from C2 Block 6b.
+
+---
+
+### PD-032 — Cross-half grading in a two-week split block, and the widened PT zero-overlap audit scope
+**Decision:** In a two-week `a`/`b` split block, the **b-half Performance Test may grade grammar taught in the a-half** where the binding exam format requires it. Where it does, **the PT zero-overlap gate must run against the worksheets of *both* halves**, not just the half under build. For C2 Block 6b this means the `C2B06b-PT` is audited against **sixteen** worksheets (6a's eight + 6b's eight), not eight. **Both the cross-half grading and the widened audit scope are declared explicitly in the b-half master.**
+**Rationale:** AN25 Q11 ("match the words to make five meaningful sentences") is built on **be-forms** — *is/are* — which are 6a's grammar. Mirroring the exam therefore puts 6a content on 6b's graded surface; be-forms are held by W6, so this is pedagogically sound. But PD-025 justified the two-master split partly on **separate audit surfaces**, and a PT that grades both halves has an item-overlap surface spanning both. Auditing it against only its own half would leave a real leak path — a 6b PT item could silently duplicate a 6a worksheet item.
+**Implementation note:** `audits/scripts/run_all.py` `gate_pt_zero_overlap()` compares the PT against worksheets **within the same manifest**. Satisfying this ruling requires the a-half worksheets to be visible to that gate **without** re-running the other gates over an already-validated block. The mechanism (a reference-scope flag on those sheets) is a **minimal additive change to the audit script**, to be approved before use.
+**What led to this:** C2 Block 6b Phase 2 review.
+**Affected files:** `C2_ENG_Block06b_*` master; `audits/scripts/run_all.py`. Extends PD-025; amends nothing. Forward-only.
+**Status:** Ruled (Principal, 08.08.26); applies from C2 Block 6b.
+
+---
+
+### PD-033 — C5 block renumbering: Drive Plan §2 realigned to the build sequence (18 blocks; 4a/4b and 7a/7b sub-rows)
+**Decision:** The **C5 Drive Plan §2 Block column is now the authoritative block number and matches the actual build sequence**, giving **18 blocks**. Two rung-pairs that are taught as one block each are carried as lettered sub-rows: **4a** (noun — common & proper + collective) / **4b** (noun — gender), delivered together at W3; and **7a** (Adjective) / **7b** (Pronoun). **Correspondence and Composition remain separate Blocks 17 and 18** — distinct rungs, not sub-rows (Principal ruling). A permanent **§2A concordance** carries the former §2 row numbers so that citations inside already-delivered block files resolve.
+
+**Mapping (old §2 row → new Block):** 1→1 · 2→2 · 3→3 · **4→4a** · 5→5 · **6→4b** · **7→6** · **8→7a** · **9→7b** · 10→8 · 11→9 · 12→10 · 13→11 · 14→12 · 15→13 · 16→14 · 17→15 · 18→16 · **19a→17** · **19b→18**. Offset pattern: rows 1–3 unchanged, row 7 runs −1, rows 10–18 run −2.
+
+**Why:** two numbering systems had been running in parallel and had begun to corrupt citations. §2 numbered **rungs** (1–18 + 19a/19b = 20); the build numbered **blocks** as shipped. They diverged at the noun cluster — §2 rows 4 and 6 shipped **merged** as build-Block 4, and row 5 as build-Block 5 — so from row 7 the offset was −1, and would become −2 once Adjective + Pronoun merged. The drift was already live and load-bearing: `C5_ENG_Block06_Article_v1_5.md` cites "§2 row 7" six times for what is build-Block 6; §4's map named "Block 11" and "Block 13" for blocks that will build as 9 and 11; and §2 row 8's "the locked Block 7/8 boundary" was an **unmarked C3 cross-reference**, not a C5 one. Left unresolved, every subsequent block file would have compounded the offset.
+
+**Reconciliation with the 2026-07-02 first-teach reframe.** That ruling stated the **block/week count grows — nothing compressed**, and 20 rungs → 18 blocks reads at first glance as the opposite. It is not: **no rung is dropped** (the two merges preserve every rung as a sub-row), and the growth the ruling directed is delivered — **Preposition (Block 8) and Conjunction (Block 13) are now teaching blocks in their own right** rather than clue-card rows inside Block 1, which is what the reframe re-homed them out of.
+
+**Precedent:** **PD-029**, which folded the C4 spine's Adjective + Pronoun into a single Block 5 with sub-rows **5a/5b** and moved Preposition to Block 6, leaving existing `C4B05-*` extract IDs unchanged. This ruling applies the same instrument to C5.
+
+**Scope limit — numbering only.** This ruling takes **no position on the calendar**. The week→block mapping, per-week load, week count, and any pairing/compression decision remain **superseded and pending a separate Principal decision** (Principal instruction, 08.08.26). §4's table has had its block numbers corrected and W1–W5 recorded as delivered fact; **every row from W6 onward is explicitly marked "not ratified."**
+
+**What the renumbering exposed (recorded, not resolved):** with the numbers corrected, the calendar arithmetic is explicit for the first time — **18 blocks**, six delivered (W1–W5) and one in build, against the Charter **§C.1** three-month ceiling measured from the 1 July start. The remaining blocks do not fit one-per-week. Resolving it requires a ruling on pairing/compression or a **§C.5** cap widening, together with the calendar lock that **§C.3/§M.1** required *before* Week 1 and which was never closed.
+
+**Delivered content untouched (Charter §K.2/§K.3).** No delivered C5 block master or extract is edited, and **no block file is renamed** — Blocks 1–6 already carry the corrected numbers, so the correction moves §2's rows onto the build, not the reverse. Historical "§2 row N" citations inside frozen files stay as written and resolve through §2A.
+
+**What led to this:** raised at the opening of the C5 Block 7 (Adjective + Pronoun) build, 08.08.26, when the block's §2 citation could not be stated unambiguously — it is build-Block 7 but §2 rows 8–9. The Principal directed the renumbering be settled before the build continued.
+
+**Affected files:** `C5_ENG_DrivePlan_v1_6.md` (new version; v1_5 retained, forward-only per §K.3) — §2 table, §2 exam-bridge ledger, new §2A concordance, §2 governance note, pre-flight checklist, §3, §4 table + notes, §7 map + new note, §8. `blocks/C5/_wip/STATE.md` (C5B07 citations). **Not modified:** all C5 block masters and extracts, File 2 (its stale week→block labels remain a separate forward-only reconciliation), the Assignment Coverage Log (its C5 entries cite B03/B04, which do not change), and the week-named assignment files.
+**Status:** Applied (Principal, 08.08.26).
+
+---
+
 ### Open item — C3 Exit Check roll size (17) not file-verified
 Recorded for tracking, not a Principal decision. The C3 Block 6 Exit Check tables use a **17-prompt roll** on the Principal's in-session statement; no class roster in the current project files confirms 17. Verify against an authoritative roster, or log a Principal confirmation, before treating the roll as governance-grade. Affects only the per-day Exit Check length (one prompt per student), not any graded item.
 
@@ -410,6 +485,29 @@ Decisions made in principle but not yet implemented. Not official until converte
 - **"No construction before a skill is taught"** — open candidate; watching whether it holds consistently across classes before promoting to PD.
 - **"First-teach tier shifts earlier when a block moves earlier in the spine"** — not recorded yet; revisit after more classes are rebuilt.
 - ~~**Data-integrity flag:** Class 5's "Annual-2025" exam file is byte-identical to HY-2026…~~ **RESOLVED 31.07.26** — Principal ruling logged under *Class 5 Decisions* → "Binding paper set — the C5 'Annual-2025' file is a duplicate of HY-2026". The C5 binding set is three papers; sourcing the genuine Annual-2025 paper remains an open dependency, and Block 3's Annual Q8 evidence stays unverifiable until it is found.
+
+---
+
+### PD-034 — `audit_scope: pt_overlap_only` extends to the §6.7 paired-week recovery
+**Decision:** The manifest flag **`audit_scope: "pt_overlap_only"`** — which makes a sheet visible **only** to `gate_pt_zero_overlap()` — is authorised for a **second** shape alongside PD-032's two-week `a`/`b` split block: the **§6.7 paired-week recovery**, where one week's Performance Test was **built but not administered** and its assessment is carried into a **combined PT** the following week. In that shape the combined PT is audited against **both blocks' worksheets *and* the unadministered PT itself**, because PD-029 requires zero overlap against both.
+**Rationale:** PD-029 imposed the zero-overlap requirement on `C4B0506-PT` (*"freshly authored, zero-overlap against `C4B05-PT` and all Block-5 worksheets"*) but PD-032 scoped the only mechanism that can check it to split blocks, and PD-029 itself states the paired-week recovery is **not** governed by PD-025/PD-032. The requirement was therefore **unverifiable by any script** — a gap, not a design choice. Extending the flag's authorisation closes it without touching the mechanism: `graded_sheets()` already filters scoped sheets out of every other gate, so no de-patterning, mark-total, held-word or values result is affected by loading reference sheets.
+**Evidence that this was not academic:** on first run under the extended scope the `C4B0506-PT` **failed** — PT Part E prompts `meal` and `bird` are **verbatim** duplicates of Block 5 CW-1 Part B (items 22, 25) and HW-1 Part B (item 23), the same *"expand the noun"* task with the same prompt nouns; PT B3 and D4 were near-duplicates of `C4B05-CW4`/`CW2`, and PT D1 (*"Yusuf prayed at dawn"*) shadowed `C4B05-PT` #27 (*"Yusuf prays at the mosque"*) — an **unspent** item, since that PT was never sat. The C4B06 master's v1 log had claimed *"PT zero-overlap verified against all 16 worksheets"*; the claim was false and no script could have caught it.
+**Boundary:** the flag remains **reference-only**. A scoped sheet is never graded, never contributes marks, and never enters the held-word or de-patterning surface. It does not license combining PTs — PD-029's boundary against that stands.
+**What led to this:** the C4 Block 6 review (08.08.26), Principal-approved as part of the F2 ruling.
+**Affected files:** `audits/scripts/run_all.py` (`graded_sheets()` docstring — authorisation only, no logic change); `audits/scripts/README_manifest.md`. Extends PD-032; amends nothing. Forward-only.
+**Status:** Ruled (Principal, 08.08.26); applied at C4 Block 6.
+
+---
+
+### PD-035 — PD-012 block-local status extends to concepts required by the Drive Plan §2 cap without an exam anchor
+**Decision:** The **PD-012 block-local teaching set** may be declared where a **Drive Plan §2 depth cap requires a concept that the held pool cannot supply**, whether or not a binding exam paper tests that concept. PD-012's trigger is widened from *"exam-required"* to *"required by the binding papers **or** by the Drive Plan §2 cap."* Every PD-012 protection is unchanged: block-local words are gradeable **only** inside their own block's CW/HW/PT, are **never** dictation or spelling items, are **not** held by later blocks, and are **not** in the spaced-revision cycle. **First application: the C4 Block 6 time-noun set** — `Sunday · Monday · Thursday · Saturday · June · July · summer · winter · spring · evening · night · dawn` (12). `morning` and `day` are already held and stay held. The set is **block-scoped**: Blocks 8–9 must re-declare if they want the same words; it is **not** a standing C4 set (Principal ruling), and it is **not** added to File 2.
+**Rationale:** the four existing non-held instruments are all anchored to exam requirement — PD-009 exemplars (rule-demonstrators, not vocabulary), PD-011 override (*"exam-anchored vocabulary"*), PD-012 block-local (*"exam-required items"*, rationale *"binding papers test a concept…"*), PD-026 (function-word grammar targets). C4 Block 6's time strand is **book/TG-anchored with no exam anchor at all**: the §2 cap reads *"**Place/time** prepositions"* and TG outcome 9.3.4 reads *"use prepositions to indicate positions **and indicate time**"*, but **both binding C4 preposition items test place** (HY25 Q6(f) *"a bird **on** the tree"*; Annual Q4(f) *"The keys are **on** the desk"*) and HY26 carries no P.O.S. question. So a Drive-Plan-mandated concept had no available instrument — a gap in the instrument set, not a defect in the block.
+**Why recasting was not the alternative:** the at/on/in contrast **is** the concept — the preposition is selected by the *type* of its object (clock time → *at*, day/date → *on*, month/season/part-of-day → *in*). File 2 holds exactly **two** time nouns by W6, `morning` and `day`, and both sit in the **same** category, so the pool cannot produce a single contrasting pair. Recasting onto held vocabulary would not have shrunk the block; it would have deleted a capped concept, which is a Drive Plan change and not the builder's to make.
+**Boundary:** this widens the *trigger* for block-local status, not its *protections*, and it does **not** license open-class vocabulary being used unheld for convenience. The concept must be traceable to a §2 cap line or a binding paper; incidental carriers are recast, not declared. At C4 Block 6 the ten avoidable carriers (*bench, corner, drawer, garden, grandfather, hole, poor, porch, room, run*) were **recast onto held words**, not declared — the declaration covers only what the concept requires.
+**Audit support:** enforced by the new `block_local` manifest field (T1) — a word listed in both `block_local` and `dictation` is a FAIL, as is a word declared both exemplar and block-local. Self-test: `audits/scripts/selftest_block_local.py`.
+**What led to this:** the C4 Block 6 review (08.08.26), F5.
+**Affected files:** `C4_ENG_Block06_Preposition_*` (declaration); `audits/scripts/run_all.py` + `README_manifest.md` (the field). Extends PD-012; amends nothing. Forward-only.
+**Status:** Ruled (Principal, 08.08.26); applied at C4 Block 6.
 
 ---
 

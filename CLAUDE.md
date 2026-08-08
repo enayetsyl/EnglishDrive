@@ -37,6 +37,20 @@ if there is any conflict, STOP and report. Never force-push. Never discard local
 files touched, decisions/approvals given in the session, flags raised and their
 outcomes, in 5–10 lines. Never overwrite past entries.
 
+**Stale git locks.** The working mount may start a session with `unlink` denied
+("Operation not permitted"). A failed git command then leaves `index.lock` /
+`HEAD.lock` / `refs/**/*.lock` behind, and every later command fails with "Another
+git process seems to be running". Fix, in order:
+
+1. Request delete permission for the folder — this is the clean fix and it re-enables
+   `rm` for the whole mount, working tree included.
+2. If delete stays denied, **rename the lock aside**
+   (`mv .git/index.lock .git/index.lock.stale`) — rename is permitted where delete is
+   not. Never leave a renamed lock inside `.git/refs/`; git parses that directory.
+
+Never force-push to work around a lock. Also set `git config user.name "SCD"` /
+`user.email` at session start if commits fail with "Author identity unknown".
+
 **File deletion.** Deleting files inside `.git/` (lock files, git housekeeping) is
 normal operation. Deleting any file OUTSIDE `.git/` requires stating the file and
 reason in chat BEFORE the deletion, every time. Never delete `_wip/` contents except
@@ -77,6 +91,11 @@ Run Book §6–§8. In brief:
   it. Never generate graded items by pairing word lists against sentence frames.
   An arrangement engine may select and order from an approved bank — never invent
   pairings.
+
+**PD numbering.** When a ruling must be logged, the agent assigns the next available
+PD number automatically from the Decision Log's highest numbered entry, states the
+assigned number in chat, and appends the entry. It never asks the user to pick a
+number, and never reuses a number.
 
 **Pending decisions.** Any conflict with the Charter, Run Book, or a Drive Plan, and
 any situation the governing files do not settle, is a Principal Decision. STOP, state
@@ -159,6 +178,9 @@ audits/        scripts/ (the audit suite) · reports/ (per-build outputs)
   inside the file (Charter §K.3).
 - Only surgical edits: change exactly what the review comment specifies; confirm
   scope before anything broader.
+- **Naming (forward-only).** New block masters use the stem
+  `C#_ENG_Block##_Topic_v#.md` (no "GrammarBlock"). Existing filenames are never
+  renamed retroactively.
 
 ## 7. Communication style
 

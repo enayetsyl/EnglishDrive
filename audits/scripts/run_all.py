@@ -35,6 +35,28 @@ def norm(s: str) -> str:
     return s
 
 
+def graded_sheets(m):
+    """Sheets that belong to THIS block's graded surface.
+
+    A sheet may carry "audit_scope": "pt_overlap_only" to be visible ONLY to
+    gate_pt_zero_overlap() — used to bring another block's already-validated
+    worksheets into the PT overlap comparison without re-running the
+    de-patterning / marks / held-word gates over them.
+
+    Authorised for two shapes:
+      - PD-032 — a two-week `a`/`b` split block whose b-half PT grades a-half grammar.
+      - PD-034 — a §6.7 paired-week recovery, where one week's PT was built but not
+        administered and its assessment is carried into a combined PT for the
+        following week (PD-029: `C4B05-PT` → `C4B0506-PT`). The carried PT must be
+        verified against BOTH blocks' worksheets and the unadministered PT itself,
+        which is exactly this flag's comparison surface.
+
+    Additive: a sheet with no "audit_scope" key is graded, so a manifest that
+    declares none behaves exactly as before.
+    """
+    return [s for s in m["sheets"] if s.get("audit_scope") != "pt_overlap_only"]
+
+
 def all_items(sheet):
     for part in sheet.get("parts", []):
         for it in part.get("items", []):
@@ -57,7 +79,7 @@ def sheet_answer_sets(sheet):
 def gate_depattern(m):
     """Max run ≤2 and no strict alternation, per graded answer set."""
     fails, checked = [], 0
-    for sheet in m["sheets"]:
+    for sheet in graded_sheets(m):
         for pname, answers in sheet_answer_sets(sheet):
             checked += 1
             a = [norm(x) for x in answers]
@@ -78,8 +100,8 @@ def gate_depattern(m):
 def gate_pair_overlap(m):
     """CW↔HW positional answer overlap ≤35%; identical item texts ≤2 per day."""
     fails, notes = [], []
-    by_name = {s["name"]: s for s in m["sheets"]}
-    for sheet in m["sheets"]:
+    by_name = {s["name"]: s for s in graded_sheets(m)}
+    for sheet in graded_sheets(m):
         pair = sheet.get("pair")
         if not pair or pair not in by_name:
             continue
@@ -123,7 +145,7 @@ def gate_pt_zero_overlap(m):
 
 def gate_within_sheet_dupes(m):
     fails = []
-    for sheet in m["sheets"]:
+    for sheet in graded_sheets(m):
         texts = [norm(it.get("text", "")) for _, it in all_items(sheet) if it.get("text")]
         for t, c in Counter(texts).items():
             if c > 1:
@@ -144,7 +166,7 @@ def gate_rehearsal_disjoint(m):
 
 def gate_marks(m):
     fails, notes = [], []
-    for sheet in m["sheets"]:
+    for sheet in graded_sheets(m):
         stated = sheet.get("stated_total")
         per = []
         for part in sheet.get("parts", []):
@@ -167,7 +189,7 @@ SACRED = {"allah", "আল্লাহ", "quran", "qur an", "কুরআন", "
 
 def gate_sacred(m):
     fails = []
-    for sheet in m["sheets"]:
+    for sheet in graded_sheets(m):
         for pname, it in all_items(sheet):
             for field in ("answer", "trigger"):
                 v = it.get(field)
@@ -186,17 +208,59 @@ VALUES_LEXICON = {
     "valentine", "গান", "নাচ", "পূজা", "বড়দিন",
 }
 
+# Irregular inflections that stem matching cannot reach from the lexicon entry.
+VALUES_IRREGULAR = {
+    "sang": "sing", "sung": "sing", "sunge": "sing",
+    "danced": "dance", "dancing": "dance",
+    "drummed": "drum", "drumming": "drum",
+}
+
+def _values_hits(text):
+    """Match lexicon entries across inflections (T2).
+
+    The lexicon stores base forms, but student-facing text carries inflected ones
+    (sings / sang / singing / songs). Whole-token equality missed five of six
+    singing items in the C4B06 review, so matching now covers:
+      - exact token            sing
+      - regular suffixes       sings, singing, songs, dances, dancing
+      - irregular forms        sang, sung   (VALUES_IRREGULAR)
+    Prefix matching is length-guarded (base ≥4 chars) so short entries cannot
+    over-match; 'band' will not fire on 'bandage' because the suffix must be one
+    of the inflection endings, not arbitrary text.
+    """
+    SUFFIXES = ("", "s", "es", "d", "ed", "ing", "er", "ers")
+    hits = set()
+    for tok in norm(text).split():
+        if tok in VALUES_LEXICON:
+            hits.add(tok)
+            continue
+        if tok in VALUES_IRREGULAR:
+            hits.add(VALUES_IRREGULAR[tok])
+            continue
+        for base in VALUES_LEXICON:
+            if len(base) < 4:
+                continue
+            for suf in SUFFIXES:
+                if tok == base + suf:
+                    hits.add(base)
+                    break
+            # verbs ending -e drop it before -ing/-ed  (dance -> dancing)
+            if base.endswith("e") and tok in (base[:-1] + "ing", base[:-1] + "ed"):
+                hits.add(base)
+    return hits
+
+
 def gate_values_lexicon(m):
     flags = []
-    for sheet in m["sheets"]:
+    for sheet in graded_sheets(m):
         for pname, it in all_items(sheet):
-            words = set(norm(it.get("text", "")).split())
-            hit = words & VALUES_LEXICON
+            hit = _values_hits(it.get("text", ""))
             if hit:
                 flags.append(f"{sheet['name']} Part {pname}: {sorted(hit)} in "
                              f"\"{it.get('text','')[:60]}\"")
     # This gate FLAGS for human review; lexicon hits are treated as failures until ruled.
-    return ("Values lexicon screen", not flags, "student-facing item texts scanned", flags)
+    return ("Values lexicon screen", not flags,
+            "student-facing item texts scanned (incl. inflections)", flags)
 
 
 def load_file2_words(path):
@@ -254,10 +318,24 @@ def gate_heldword(m, file2_path):
                 "File 2 loaded but no word column recognised — check README_manifest.md",
                 ["unrecognised File 2 layout"])
     exemplars = {norm(w) for w in m.get("exemplars", [])}
+    # PD-012 block-local teaching set (T1): taught in-block, gradeable in-block,
+    # NOT in File 2, NOT held downstream, and NEVER a dictation/spelling item.
+    # Declared separately from exemplars because the two are different instruments
+    # (PD-009 exemplars are rule-demonstrators and are not vocabulary at all), and
+    # because the dictation prohibition below only applies to block-local words.
+    block_local = {norm(w) for w in m.get("block_local", [])}
+    overlap = exemplars & block_local
     build_week = m.get("build_week")
     fails, checked = [], 0
+    if overlap:
+        fails.append("declared as BOTH exemplar and block_local: "
+                     + ", ".join(sorted(overlap)))
+    # PD-012: block-local words are never dictation or spelling items.
+    for w in m.get("dictation", []):
+        if norm(w) in block_local:
+            fails.append(f"dictation: '{w}' is block-local (PD-012 bars it from dictation)")
     targets = []
-    for sheet in m["sheets"]:
+    for sheet in graded_sheets(m):
         for pname, it in all_items(sheet):
             trig = it.get("trigger")
             if trig:
@@ -267,16 +345,18 @@ def gate_heldword(m, file2_path):
     for where, w in targets:
         checked += 1
         nw = norm(w)
-        if nw in exemplars:
+        if nw in exemplars or nw in block_local:
             continue
         if nw not in pool:
-            fails.append(f"{where}: '{w}' not in File 2 pool and not a declared exemplar")
+            fails.append(f"{where}: '{w}' not in File 2 pool and not a declared "
+                         f"exemplar or block-local word")
         elif build_week is not None and pool[nw] is not None and pool[nw] > build_week:
             fails.append(f"{where}: '{w}' released week {pool[nw]} > build week {build_week}")
-    note = f"{checked} graded targets checked against {len(pool)} pool words"
+    note = (f"{checked} graded targets checked against {len(pool)} pool words"
+            f" + {len(exemplars)} exemplars + {len(block_local)} block-local")
     if not targets:
         note += " — WARNING: manifest declares no 'trigger' fields; gate is vacuous"
-    return ("Held-word / exemplar", not fails, note, fails)
+    return ("Held-word / exemplar / block-local", not fails, note, fails)
 
 
 def gate_one_defensible(m):
@@ -284,7 +364,7 @@ def gate_one_defensible(m):
     multiple distinct answers across the block, for HUMAN review."""
     seen = {}
     flags = []
-    for sheet in m["sheets"]:
+    for sheet in graded_sheets(m):
         for pname, it in all_items(sheet):
             t, a = norm(it.get("text", "")), norm(it.get("answer", "") or "")
             if not t or not a:

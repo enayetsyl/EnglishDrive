@@ -77,10 +77,81 @@
 **Part D** (32–37): 32 a · 33 The · 34 an · 35 x · 36 the · 37 an
 **Part E — Self-try (4 marks).** Rubric: content accuracy 1 · reasoning line (b) 1 · organisation 1 · article placed before its noun 1. Box: `M.P. · honest · Bangladesh · sun · money · ticket`. Model (a) M.P. (b) an — em sound (c) *My uncle is an M.P.* (d) *We live in x Bangladesh.*
 
+## PT Part A — dictation word list
+
+*Teacher-only (Run Book §3.12 r.2). Never printed on the student sheet.*
+
+Say each word twice, then read the full list once more at the end.
+
+1. letter  2. envelope  3. stamp  4. holiday  5. ticket
+6. picture  7. mountain  8. library  9. prepare  10. discuss
+
+All ten are W4 held vocabulary. **Grammar Exemplars are never dictation words** (Run Book §5.7, PD-009).
+
+---
+
+---
+
+## Marking notes
+
+**Reason lines (all Part C sections, PT Part C).** Award the article mark and the reason mark **independently** — a correct article with a wrong reason scores 1 of 2. Accept any wording carrying the right idea: *"silent h"*, *"we don't hear the h"*, *"sounds like our"* are all full marks.
+
+**Error-find sections (CW-4 / HW-4 Part A).** 1 mark for the correction, 1 for the reason. There is exactly one mistake per sentence.
+
+**Zero article (x).** Accept **x**, a dash, or a clearly struck-through blank. Do not penalise a student who writes *"no article"* in words.
+
+**Capitalisation.** Many items begin with the blank (e.g. *"______ moon shines at night"*). Where the answer starts a sentence, the key shows a capital — *The*, *An*, *A* — but **accept lower case**. Capitalisation is not the tested skill in this block, and no mark turns on it.
+
+**Sort tasks (CW-3 / HW-3 Part D).** Students write the item **number** in the correct column, not the word. 1 mark per correctly placed number.
+
+**Free-production items** (HW-1 E, HW-2 E, HW-4 D). 1 mark article accuracy + 1 mark sentence sense. Accept any true, simple, on-topic sentence. Do not deduct for short sentences (Run Book §13.2).
+
+**PT Part E — Self-try, 4 marks.** Charter §I.3 (v1.3):
+
+| Criterion | Marks |
+|---|---|
+| Content accuracy — article used correctly | 1 |
+| Reasoning — line (b) names the rule | 1 |
+| Organisation — complete, readable sentence | 1 |
+| Correct word-class placement — article before its noun | 1 |
+| **Total** | **4** |
+
+Each criterion scores **1 or 0** — no partial credit. Line **(b)** carries 1 of 4: a blank reasoning line caps the student at 3.
+
+**Islamic/value alignment is not scored** (Charter §I.3, Run Book §13.1, PD-010). A religiously neutral, on-topic sentence earns full marks. A sentence conflicting with Charter §H is flagged and corrected as a values matter, never marked down as a language error.
+
+The PT word box (`M.P. · honest · Bangladesh · sun · money · ticket`) is deliberately **disjoint** from the Wednesday demo box (Run Book §6.5). A student reproducing a rehearsed sentence has not met the task.
+
+---
+
+---
+
 ## Assignment · `C4B04-AS`
 
 **Not built** — parked by Principal instruction (2026-07-24). Appends here when built, with the §6.11 consistency check re-run across all artefacts.
 
+
+---
+
+## Consistency check — passed
+
+Run per Run Book §6.11 before delivery.
+
+| Artefact | Items | Numbering | Duplicates | Gaps | Marks |
+|---|---|---|---|---|---|
+| CW-1 | 44 | 1–44 | none | none | 54 / 54 |
+| HW-1 | 36 | 1–36 | none | none | 46 / 46 |
+| CW-2 | 44 | 1–44 | none | none | 54 / 54 |
+| HW-2 | 36 | 1–36 | none | none | 46 / 46 |
+| CW-3 | 47 | 1–47 | none | none | 57 / 57 |
+| HW-3 | 37 | 1–37 | none | none | 45 / 45 |
+| CW-4 | 28 | 1–28 | none | none | 38 / 38 |
+| HW-4 | 32 | 1–32 | none | none | 46 / 46 |
+| PT | 38 | 1–38 | none | none | 47 / 47 |
+
+Every graded item has exactly one corresponding answer; no answer references a non-existent item; per-artefact totals computed from this key match the totals printed on each worksheet.
+
+**Assignment — not yet built.** Its section appends here when finalized, and this check re-runs across all ten artefacts.
 
 ---
 
