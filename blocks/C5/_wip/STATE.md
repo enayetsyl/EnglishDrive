@@ -168,6 +168,18 @@ Scope-limited in the same form as the 31.07.26 Block 6 ruling: it governs **this
 
 ---
 
+## Phase 3 — blueprint WRITTEN, awaiting approval
+
+`_wip/C5B07_blueprint.md` written 08.08.26. **No teaching content, no item bank, no worksheet authored.** Phase 4 does not begin until the Principal approves it.
+
+**Carried flag 1 (PD-032 audit scope) is CLEARED** — **PD-034** (ruled 08.08.26 on the C4B06 review) extends `audit_scope: "pt_overlap_only"` to exactly the **§6.7 paired-week recovery** shape: a PT built but not administered, its assessment carried into a combined PT the following week, audited against **both blocks' worksheets and the unadministered PT**. That is `C5B0607-PT`. ⚑ Its evidence section is a live warning: C4's equivalent combined PT **failed** this gate on first run with verbatim duplicates its own version log had claimed were verified.
+
+**PD numbering:** 034 and 035 are taken. If this block's design is logged it takes **PD-036**.
+
 ## Exact next step
 
-**Phase 2 is closed; all gates are clear.** Next: the **Phase 3 pre-build blueprint** written to `_wip/C5B07_blueprint.md` — day-by-day objectives and staging table, the 5-label staging guard (no Pronoun option on Day 1–2 sheets), item-bank plan and held-word/exemplar declaration, worksheet shapes and sizes, Clue Card 5th row, Exit Check sets, the approved PT, Assignment, and the audit plan. **Written for approval before any teaching content or item bank is authored** (CLAUDE.md §3, Phase 3).
+**Principal approves `_wip/C5B07_blueprint.md`.** Then Phase 4 builds one unit at a time (blueprint §13), pausing for review between units.
+
+*(superseded next-step text retained below for the record)*
+
+~~Next: the **Phase 3 pre-build blueprint** written to `_wip/C5B07_blueprint.md`~~ — day-by-day objectives and staging table, the 5-label staging guard (no Pronoun option on Day 1–2 sheets), item-bank plan and held-word/exemplar declaration, worksheet shapes and sizes, Clue Card 5th row, Exit Check sets, the approved PT, Assignment, and the audit plan. **Written for approval before any teaching content or item bank is authored** (CLAUDE.md §3, Phase 3).

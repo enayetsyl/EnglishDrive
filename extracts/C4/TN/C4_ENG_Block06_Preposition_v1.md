@@ -3,7 +3,7 @@
 **Class:** 4 · **Block:** 6 (Preposition) · **Week:** W6 · **Load:** FULL (solo) · **Days:** 4 (Sun–Wed) + combined Performance Test (Thu)
 **Branch:** delivered at Sylhet · binding exam papers are Mohammadpur/Muhammadpur papers
 **Canonical IDs:** master `C4_ENG_Block06_Preposition` · extracts `C4B06-CW1…CW4`, `C4B06-HW1…HW4`, `C4B06-AK`, combined PT `C4B0506-PT`
-**Status:** v1.5 — built 2026-08-06; CW/HW/PT review pass F1–F12 + Principal content edits + cross-sheet repetition pass, 2026-08-08. **All audit gates PASS** — `audits/reports/C4B06_audit_2026-08-08.txt`.
+**Status:** v1.6 — built 2026-08-06; CW/HW/PT review pass F1–F12 + Principal content edits + cross-sheet repetition pass + Principal CW-2/HW-2/CW-3/HW-3/CW-4/HW-4 edits, 2026-08-08. **All audit gates PASS** — `audits/reports/C4B06_audit_2026-08-08.txt`.
 
 ---
 
@@ -22,7 +22,7 @@
 | **Self-construction rubric** | **4 marks**, four criteria at 1 each, uniform across classes; value alignment not scored | Charter §I.3 · Drive Plan §9 · PD-010 |
 | **Held-word scope** | Graded surface built on held W1–W6 vocabulary (73 held nouns + the preposition set as function words) plus **two declared block-local sets (PD-012)**. | `C4_ENG_VocabPool_v4.xlsx` / `VocabBatchOrder_v2.xlsx`, POS-verified |
 | **Block-local set 1 — place nouns (PD-012)** | **box · ball · desk · table · chair · bag · gate · wall · bed · pot · shelf** (11) — taught Day 1 in the box-and-ball demonstration; gradeable in this block's place items. | PD-012 |
-| **Block-local set 2 — time nouns (PD-012, as extended by PD-035)** | **Sunday · Monday · Thursday · Saturday · June · July · summer · winter · spring · evening · night · dawn** (12) — taught Day 2 on the clock/calendar cue; gradeable in this block's time items. *`morning` and `day` are already held (W1) and are not block-local.* **Why declared:** the at/on/in contrast **is** the concept — the preposition is chosen by the *type* of its object — and File 2 holds only `morning` and `day` by W6, both in the same category, so the pool cannot supply one contrasting pair. The §2 cap (*"**Place/time** prepositions"*) and TG outcome 9.3.4 both require the time strand, but **no binding C4 paper tests it** — so PD-012's exam-required trigger did not reach this case until **PD-035** extended it to concepts required by the Drive Plan §2 cap. | PD-012 · **PD-035** |
+| **Block-local set 2 — time nouns (PD-012, as extended by PD-035)** | **Sunday · Monday · Thursday · Saturday · June · July · summer · winter · spring · evening · night · dawn · Ramadan · month** (14) — taught Day 2 on the clock/calendar cue; gradeable in this block's time items. *`morning` and `day` are already held (W1) and are not block-local.* **Why declared:** the at/on/in contrast **is** the concept — the preposition is chosen by the *type* of its object — and File 2 holds only `morning` and `day` by W6, both in the same category, so the pool cannot supply one contrasting pair. The §2 cap (*"**Place/time** prepositions"*) and TG outcome 9.3.4 both require the time strand, but **no binding C4 paper tests it** — so PD-012's exam-required trigger did not reach this case until **PD-035** extended it to concepts required by the Drive Plan §2 cap. | PD-012 · **PD-035** |
 | **Block-local constraints observed** | Both sets are gradeable **only** inside C4B06's CW/HW/PT; **neither appears in the PT Part-A dictation list** (which is the W6 held batch); neither is held by later blocks — Blocks 8–9 must re-declare if they want the time expressions (Principal ruling: block-scoped, not a standing C4 set); neither is added to File 2. | PD-012 · PD-035 |
 | **Class size** | 12 (Sylhet Class 4 roll) — sets the Exit Check prompt count | Principal, confirmed 2026-07-29 |
 | **Values guards** | §H.3 sacred-word guard · §H.8 no living-being imagery on sheets · §H.9 curation · non-mahram pairing screen · attribution screen for natural phenomena | Charter §H |
@@ -700,14 +700,14 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 
 **Part A — Write the part of speech of the bold word (Noun, Verb, Adjective, Adverb, Pronoun, Preposition).** *(20 items, 1 mark each)*
 
-1. A **cold** night came.
+1. Winter brings **cold** mornings.
 2. The **gate** is open.
-3. We return **on** the ninth of May.
+3. We will return **on** the ninth of May, in shaa Allah.
 4. We **collect** the leaves.
 5. The **library** opens in July.
 6. We meet **in** the morning.
 7. The shop opens **at** eight o'clock.
-8. **Hot** days come in summer.
+8. **Green** leaves grow in spring.
 9. Maryam **always** helps her mother.
 10. It is hot **in** summer.
 11. The **chair** stood near the wall.
@@ -716,19 +716,19 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 14. The holiday begins **on** the tenth of May.
 15. We sleep **at** night.
 16. Yusuf **meets** his cousin on Thursday.
-17. School reopens **on** Thursday.
+17. The school reopens **on** Thursday.
 18. It rains a lot **in** July.
 19. The workers **finish** at dawn.
 20. We travel **on** Saturday.
 
 **Part B — Fill in the blank with *at*, *on*, or *in*.** *(6 items, 1 mark each)*
 
-21. The class starts ___ 6 o'clock. *(exact time)*
-22. We go to school ___ Monday. *(a day)*
-23. My exam is ___ June. *(a month)*
-24. We meet ___ the morning. *(part of the day)*
-25. The madrasah closes ___ the tenth of May. *(a date)*
-26. I wake up ___ five o'clock. *(exact time)*
+21. The class starts ___ 6 o'clock.
+22. We go to school ___ Monday.
+23. My exam is ___ June.
+24. We meet ___ the morning.
+25. The madrasah closes ___ the tenth of May.
+26. I wake up ___ five o'clock.
 
 **Part C — Sort each time-word into the correct box: *at* / *on* / *in*.** *(6 items, 1 mark each)*
 
@@ -759,15 +759,15 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 4. The days are long **in** summer.
 5. We **share** our food on Saturday.
 6. **They** meet at school in the morning.
-7. We fast **on** the first of Ramadan.
+7. We fast **in** the month of Ramadan.
 8. The school opens **at** dawn.
 9. The **clean** water is fresh.
-10. We pray **in** the evening.
+10. The school closes **in** winter.
 11. The **river** flows slowly.
 12. Flowers bloom **in** spring.
 13. We rest **on** Sunday.
 14. Raima **writes** a letter on Monday.
-15. The stars shine **in** the night.
+15. The stars shine **at** night.
 16. The class meets **on** Monday.
 17. The **child** smiles.
 18. The family **visits** the village in winter.
@@ -776,12 +776,12 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 
 **Part B — Fill in the blank with *at*, *on*, or *in*.** *(6 items, 1 mark each)*
 
-21. It rains ___ July. *(a month)*
-22. The train leaves ___ 9 o'clock. *(exact time)*
-23. The fair opens ___ the first of June. *(a date)*
-24. The shop closes ___ ten o'clock. *(exact time)*
-25. The children play ___ the morning. *(part of the day)*
-26. We rest ___ Sunday. *(a day)*
+21. It rains ___ July.
+22. The train leaves ___ 9 o'clock.
+23. The fair opens ___ the first of June.
+24. The shop closes ___ ten o'clock.
+25. The children play ___ the morning.
+26. We rest ___ Sunday.
 
 **Part C — Sort each time-word into the correct box: *at* / *on* / *in*.** *(6 items, 1 mark each)*
 
@@ -812,7 +812,7 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 
 **Part A — Write the part of speech of the bold word (Noun, Verb, Adjective, Adverb, Pronoun, Preposition).** *(20 items, 1 mark each)*
 
-1. I sit **with** my teacher.
+1. I sit **with** my friends.
 2. The doctor writes **slowly**.
 3. The **worker** builds the wall.
 4. **He** waits at the shop.
@@ -836,10 +836,10 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 **Part B — Fill in the blank with the correct relation preposition (*with / from / of / to*).** *(6 items, 1 mark each)*
 
 21. I go to school ___ my friend. *(সঙ্গে)*
-22. I got a letter ___ my sister. *(coming from)*
-23. This is the bag ___ my brother. *(belonging to)*
-24. I give the book ___ my teacher. *(towards)*
-25. A gift came ___ my uncle. *(coming from)*
+22. I got a letter ___ my sister. *(থেকে)*
+23. This is the bag ___ my brother. *(এর)*
+24. I give the book ___ my teacher. *(দিকে)*
+25. A gift came ___ my uncle. *(থেকে)*
 26. I walk ___ my father. *(সঙ্গে)*
 
 **Part C — Circle the correct preposition.** *(4 items, 1 mark each)*
@@ -864,7 +864,7 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 
 **Part A — Write the part of speech of the bold word (Noun, Verb, Adjective, Adverb, Pronoun, Preposition).** *(20 items, 1 mark each)*
 
-1. A **fresh** flower bloomed.
+1. A **healthy** child drinks clean water.
 2. The child reads **loudly**.
 3. I bring water **to** my father.
 4. A **strong** man carried the bag.
@@ -887,12 +887,12 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 
 **Part B — Fill in the blank with the correct relation preposition (*with / from / of / to*).** *(6 items, 1 mark each)*
 
-21. This is the house ___ my uncle. *(belonging to)*
+21. This is the house ___ my uncle. *(এর)*
 22. I play ___ my cousin. *(সঙ্গে)*
-23. A gift arrived ___ my friend. *(coming from)*
+23. A gift arrived ___ my friend. *(থেকে)*
 24. I live ___ my family. *(সঙ্গে)*
-25. I sent a letter ___ my brother. *(towards)*
-26. A card came ___ my aunt. *(coming from)*
+25. I sent a letter ___ my brother. *(দিকে)*
+26. A card came ___ my aunt. *(থেকে)*
 
 **Part C — Circle the correct preposition.** *(4 items, 1 mark each)*
 
@@ -931,15 +931,15 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 8. The factory stands **near** the street.
 9. The children play **loudly** in the park.
 10. A **beautiful** flower grows in the park.
-11. The people **help** one another.
+11. Abdullah **borrows** a magazine.
 12. The **poster** is new.
 13. Fatima pours water **into** the glass.
 14. Maryam **mixes** the food.
 15. A letter came **from** the school.
 16. The **son** obeys his father.
 17. Porshi keeps the stamp **in** the envelope.
-18. We pray **with** the people.
-19. The workers **cover** the box.
+18. The family travels **to** the village.
+19. Porshi **collects** the stamps.
 20. The clothes hang **on** the wall.
 
 **Part B — Find the wrong label and correct it.** *Each line shows a word with the wrong part of speech. Write the correct one.* *(5 items, 1 mark each)*
@@ -952,9 +952,9 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 
 **Part C — Name the part of speech, then write one correct sentence** using each preposition. *(3 items, 2 marks each)*
 
-26. **under** — class: ________ · sentence: ______________________________
-27. **at** — class: ________ · sentence: ______________________________
-28. **with** — class: ________ · sentence: ______________________________
+26. **under** — part of speech: ________ · sentence: ______________________________
+27. **at** — part of speech: ________ · sentence: ______________________________
+28. **with** — part of speech: ________ · sentence: ______________________________
 
 **Total: 31 marks**
 
@@ -977,9 +977,9 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 10. The seed is **in** the pot.
 11. A **clean** street is safe.
 12. The **big** mountain stands near the village.
-13. The **daughter** brings the water.
+13. My **uncle** works in the factory.
 14. The ticket came **from** the library.
-15. We rest **near** the tree.
+15. The clothes are **in** the bag.
 16. The worker digs **slowly**.
 17. He walks **carefully**.
 18. The children **share** their food.
@@ -996,9 +996,9 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 
 **Part C — Name the part of speech, then write one correct sentence** using each preposition. *(3 items, 2 marks each)*
 
-26. **near** — class: ________ · sentence: ______________________________
-27. **from** — class: ________ · sentence: ______________________________
-28. **of** — class: ________ · sentence: ______________________________
+26. **near** — part of speech: ________ · sentence: ______________________________
+27. **from** — part of speech: ________ · sentence: ______________________________
+28. **of** — part of speech: ________ · sentence: ______________________________
 
 **Total: 31 marks**
 
@@ -1174,6 +1174,7 @@ Choose **one** word from the box. Then: **(1)** name its part of speech, **(2)**
 
 | Version | Date | Change | By |
 |---|---|---|---|
+| v1.6 | 2026-08-08 | **Principal review edits across CW-2, HW-2, CW-3, HW-3, CW-4, HW-4.** **Wording supplied by the Principal:** CW-2 A3 → *"We will return **on** the ninth of May, in shaa Allah."*; CW-2 A17 → *"The school reopens **on** Thursday."*; HW-2 A15 → *"The stars shine **at** night."*; CW-3 A1 → *"I sit **with** my friends."* (was *my teacher*). **HW-2 A7 — corrected on the way in:** the instruction read *"We fast **on** the month of Ramadan"*, but a month takes ***in*** — the block's own Clue Card teaches *in* for months, so printing *on* would have contradicted the card on the very sheet that drills it. Applied as *"We fast **in** the month of Ramadan."* Answer unchanged (Preposition). **Nine items re-authored** where the instruction was "replace": CW-2 A1 *Winter brings **cold** mornings* · CW-2 A8 ***Green** leaves grow in spring* · HW-2 A10 *The school closes **in** winter* · HW-3 A1 *A **healthy** child drinks clean water* · CW-4 A11 *Abdullah **borrows** a magazine* · CW-4 A18 *The family travels **to** the village* · CW-4 A19 *Porshi **collects** the stamps* · HW-4 A13 *My **uncle** works in the factory* · HW-4 A15 *The clothes are **in** the bag*. Every one preserves its original answer class. **Clue policy now differs by strand, per the Principal:** the **time** fill-ins (CW-2, HW-2 Part B) carry **no clue at all** — the object itself determines at/on/in, so the clue was redundant and gave the answer away; the **relation** fill-ins (CW-3, HW-3 Part B) carry the Clue Card's **Bangla** — *(সঙ্গে) · (থেকে) · (এর) · (দিকে)* — joining the place fill-ins (CW-1, HW-1) already converted at v1.5. **CW-4 / HW-4 Part C** student prompts changed from *"class: ____"* to *"part of speech: ____"*, completing the terminology unification v1.3 began (it had updated the headers but left the six prompts). **Block-local time set extended 12 → 14** with **Ramadan** and **month**, both required by the corrected HW-2 A7 (PD-012 as extended by PD-035; block-scoped, not added to File 2, never dictation items). **Sacred-word note:** *in shaa Allah* (CW-2 A3) and *Ramadan* (HW-2 A7) appear as **carrier text**, never as a graded classification target — the graded word in both items is the preposition. This sits inside Charter §H.3 and follows PD-022's secular-transfer logic (the sacred phrase is printed intact and is never blanked); it is **not** an assembly task, so PD-031 does not bite. **All ten gates PASS; cross-sheet repetition re-verified at 199 sentences, zero repeats; all nine mark totals unchanged.** | Principal / Claude |
 | v1.5 | 2026-08-08 | **Principal content edits and the cross-sheet repetition pass.** **(1) CW-1/HW-1 review edits (Principal):** CW-1 A3 *"The pot stands on the wall"* — an unusual image — became *"The pot is **on** the shelf"*; A7 *"A cold night came"* → *"It was a **cold** night"*; A8's subject *the ball* → *the man*; HW-1 A14 *"A **fresh** flower bloomed"* → *"A **colourful** flower bloomed"* (`red` was proposed but is absent from File 2; `colourful` is held at W3, so no declaration was needed — declaring a pooled word would have misstated its status). **(2) Fill-in clues converted to Bangla.** CW-1 and HW-1 Part B printed English glosses that gave the answer away (*inside* → *in*, *below* → *under*). All twelve now carry the Preposition Clue Card's own Bangla — *(ভিতরে) · (উপরে) · (নিচে) · (কাছে) · (ভিতরের দিকে) · (নির্দিষ্ট জায়গায়)* — matching the `(সঙ্গে)` ruling already applied to the relation items. **(3) `shelf` added to block-local place set 1** (now **11**: box · ball · desk · table · chair · bag · gate · wall · bed · pot · shelf), and reused at CW-4 A7 so the new word gets a second exposure before the PT rather than appearing once. **(4) Vocabulary Writing re-based on the W6 batch.** All four HW boxes had carried **W5** words; they now carry the week's own 18: HW-1 *pollution · waste · smoke · noise · air* · HW-2 *ear · kindness · people · street · clothes* · HW-3 *poster · factory · worker · always* · HW-4 *carefully · slowly · happily · loudly*. HW-1 and HW-2's ten are exactly the PT Part-A dictation list, so pupils copy the words they will be dictated. **(5) Cross-sheet repetition pass — the substantial change.** A sweep across all eight worksheets and the PT found **38 distinct sentences repeated over 78 placements**: the later sheets had been built by recycling the earlier ones, with **CW-4 at 16 of 20 items and HW-4 at 11 of 20** — the Day-4 mixed sheets, the last practice before the Performance Test, were 80% and 55% recycled, and three sentences appeared three times each. **No gate had caught this**: the suite checks within-sheet duplicates and CW↔HW identical items per pair, but nothing compares CW-4 against everything built before it. **40 items re-authored** (CW-2 ×6, HW-2 ×7, CW-4 ×16, HW-4 ×11), keeping the first occurrence in teaching order. **Every replacement preserves its original answer class**, so no AK key, no de-patterning sequence and no mark total moved. New contexts introduced — library, factory, street, poster, envelope, stamp, ticket, mountain, environment — with varied sentence structure and the house names used across both genders without non-mahram pairing. **Verified: 199 sentences compared, zero repeats remaining.** **(6) Manifest tooling:** the trigger lemmatiser was replaced with general pool-backed inflection matching after a hand-maintained map repeatedly missed verbs (*meets · fills · enjoys · mixes*). **All ten gates PASS.** | Principal / Claude |
 | v1.4 | 2026-08-08 | **CW/HW/PT review pass — twelve findings ruled and applied (Principal, 08.08.26). Teacher Script / Teaching Days 1–4 were already checked and are untouched, apart from one citation fix noted below.** This is the block's **first programmatic audit**: no manifest and no audit report had ever existed for it, and the v1 log's claim *"all audits green"* was unevidenced and, on two counts, false. **F1 — CW↔HW answer-key reuse.** Every pair shared an *identical* secondary-part key (HW-1/2/3 Part B, HW-2 Part C, HW-4 Part B), so the homework key was transcribable from the classwork positionally without reading an item. HW items reordered and the AK re-keyed; **no item rewritten**. Positional overlap **39/56/37/48% → 19/22/17/32%**. **F2 — PT overlap with Block 5 (PD-029 breach).** PT Part E prompts `meal` and `bird` were **verbatim** duplicates of `C4B05-CW1` Part B (22, 25) and `C4B05-HW1` Part B (23) — the same *expand-the-noun* task with the same prompt nouns; PT B3/D4 near-duplicated `C4B05-CW4`/`CW2`; PT D1 shadowed **`C4B05-PT` #27**, an **unspent** item. Part E re-authored (river · teacher · picture · village · spoon); B3 *praised*→*thanked*; D1 → *Abdullah washed his hands*; D4 → *Father brought the picture*. **F3 — `quickly` is a W7 word** graded as an Adverb in a W6 block (CW-3 A2, HW-4 A16) → *slowly*. **F4 — `run` is absent from File 2 in any form** yet keyed as a Verb (HW-1 A9, CW-4 A11) → held verbs. **F5 — undeclared non-held vocabulary.** Twelve **time nouns** carrying the whole at/on/in strand were declared nowhere; recasting them was impossible (File 2 holds only `morning`/`day` by W6, both in the same category, so the pool cannot supply one contrasting pair) and the §2 cap requires the time strand while **no binding C4 paper tests it** — a case no existing instrument reached. Declared **block-local under PD-012 as extended by PD-035**; ten avoidable carriers (`bench · corner · drawer · garden · grandfather · hole · poor · porch · room` + `run`) **recast onto held words instead of declared**. **F6 — six singing items** (*bird sang*, *girl sings*, *birds sing*) recast on the approved Block 05 v1.11 precedent; carrier verbs only, every graded target untouched. **F7 — the Part C match tasks were unmarkable**: matching `with·from·of·to` against four person-phrases admits **all 24 pairings** as valid English, so the key was unrecoverable by pupil and teacher alike; the place match was ambiguous too (*on the table* as natural as the keyed *on the wall*). All four converted to **choose-between-two**, the school's own forced-choice format (HY25 Q5, Annual Q7), 18 items authored so the distractor is *impossible* rather than merely less natural. **F8 — citations:** `PD-028` (C3 Block 7 weighting) had been cited for both the block-local set → **PD-012**, and the PT carry-forward → **PD-029**; **PD-026** added as the authority for the function-word graded class. **F9** — "nine cap prepositions" corrected to **ten** (ten were always listed). **F10 — four sheets graded Adverb while their Part-A option list omitted it** (v1.3 fixed only CW-4/HW-4); all eight option lists made uniform at six classes on the Principal's ruling. **F11** — *"A tall tree gives shade"* recast (attribution screen). **F12** — AK gains a marking note for PT Part F `this`/`kind`, where the pupil's own sentence determines the correct class. **Audit-suite changes (approved, separate commit):** `block_local` manifest field (T1) and values-lexicon inflection matching (T2) — the latter had caught **one** of six singing items; `audit_scope: pt_overlap_only` authorised for the paired-week recovery (**PD-034**), without which the PD-029 obligation was unverifiable by any script. **Result: all ten gates PASS** — de-patterning · CW↔HW overlap · PT zero-overlap (vs 409 items: Block 6's own sheets + Block 5's eight worksheets + `C4B05-PT`) · within-sheet duplicates · rehearsal/graded disjointness · mark totals (37/31/38/32/36/30/31/31, PT 36 — unchanged throughout) · sacred-word · values lexicon · held-word/block-local · one-defensible-answer. | Principal / Claude |
 | v1.3 | 2026-08-06 | **Review pass — adverb restored, definitions completed, birthday removed, terminology unified (reviewer batch).** (1) **Adverb restored** where the taught-class inventory had dropped it: the Day-1 Step-1 recall now reads "Noun, Verb, Adjective, Adverb — and Pronoun" (the block's four core classes + pronoun); the Day-4 mixed-identify intro names all six classes and its table gains an adverb item (*The old man walks **slowly*** → Adverb, replacing a duplicate Preposition row); the **CW-4 and HW-4** Part-A instructions change "all five classes" → "noun, verb, adjective, adverb, pronoun, preposition" (label only — both sheets already grade adverb, so no item or key change). (2) **Preposition definition completed** on Day 1: "tells us where a thing is" → "where a thing is, when something happens, or how things relate," with the closing line keeping Day-1 practice anchored on place. (3) **Day-2 Step-2 generalised** — heading and closing line no longer imply *at* is the only dual-job word; *in* and *on* are named as fellow place-and-time prepositions (step-table label synced). (4) **Birthday examples removed** (not used in the school's content): the Day-2 script, Day-2 Exit Check #7, and the CW-2 date items now use "The holiday begins on the [date]"; the CW-2 Part B #25 uses "The madrasah closes on the tenth of May" so it is **distinct from** CW-2 Part A #14 — incidentally resolving a pre-existing within-sheet Part-A/Part-B duplicate. Answers unchanged (Preposition / *on*); CW-2↔HW-2 disjointness and AK keys re-verified. (5) **Terminology unified** — the informal "class / Class?" part-of-speech prompts in the Day-3 sort patter, Day-4 mixed-identify patter, the Self-try instruction/close and demos, and the AK Part-F description now read "part of speech," matching the exam-verbatim wording already used in PT Part F (Charter §K.3 role/part-of-speech convention). The "Role" child-facing column on the Word-Role Clue Card is unchanged. Consistency sweep also updated the Day-2 calendar stage-direction (drawn page "FRIDAY" → "SUNDAY", matching the day-example) and the **CW-4/HW-4 Part-C headers** ("Name the class" → "Name the part of speech", student-facing graded instruction). **Header "five word-classes" references to the five-row Word-Role Clue Card (Day-3/Day-4 identify work) are intentionally left**, as accurate to that card. **No mark total, item count, graded target/key, or audit result changed** — all worksheet totals (37/31/38/32/36/30/31/31) and PT (36) re-verified; adverb coverage, CW↔HW disjointness, and within-sheet de-duplication all green. | Principal / Claude |
