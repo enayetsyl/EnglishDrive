@@ -154,6 +154,9 @@ audits/        scripts/ (the audit suite) · reports/ (per-build outputs)
   inside the file (Charter §K.3).
 - Only surgical edits: change exactly what the review comment specifies; confirm
   scope before anything broader.
+- **Naming (forward-only).** New block masters use the stem
+  `C#_ENG_Block##_Topic_v#.md` (no "GrammarBlock"). Existing filenames are never
+  renamed retroactively.
 
 ## 7. Communication style
 
