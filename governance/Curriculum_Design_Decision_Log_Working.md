@@ -292,6 +292,30 @@ Decisions already adopted and applied across the English Drive.
 
 ---
 
+### PD-033 — C5 block renumbering: Drive Plan §2 realigned to the build sequence (18 blocks; 4a/4b and 7a/7b sub-rows)
+**Decision:** The **C5 Drive Plan §2 Block column is now the authoritative block number and matches the actual build sequence**, giving **18 blocks**. Two rung-pairs that are taught as one block each are carried as lettered sub-rows: **4a** (noun — common & proper + collective) / **4b** (noun — gender), delivered together at W3; and **7a** (Adjective) / **7b** (Pronoun). **Correspondence and Composition remain separate Blocks 17 and 18** — distinct rungs, not sub-rows (Principal ruling). A permanent **§2A concordance** carries the former §2 row numbers so that citations inside already-delivered block files resolve.
+
+**Mapping (old §2 row → new Block):** 1→1 · 2→2 · 3→3 · **4→4a** · 5→5 · **6→4b** · **7→6** · **8→7a** · **9→7b** · 10→8 · 11→9 · 12→10 · 13→11 · 14→12 · 15→13 · 16→14 · 17→15 · 18→16 · **19a→17** · **19b→18**. Offset pattern: rows 1–3 unchanged, row 7 runs −1, rows 10–18 run −2.
+
+**Why:** two numbering systems had been running in parallel and had begun to corrupt citations. §2 numbered **rungs** (1–18 + 19a/19b = 20); the build numbered **blocks** as shipped. They diverged at the noun cluster — §2 rows 4 and 6 shipped **merged** as build-Block 4, and row 5 as build-Block 5 — so from row 7 the offset was −1, and would become −2 once Adjective + Pronoun merged. The drift was already live and load-bearing: `C5_ENG_Block06_Article_v1_5.md` cites "§2 row 7" six times for what is build-Block 6; §4's map named "Block 11" and "Block 13" for blocks that will build as 9 and 11; and §2 row 8's "the locked Block 7/8 boundary" was an **unmarked C3 cross-reference**, not a C5 one. Left unresolved, every subsequent block file would have compounded the offset.
+
+**Reconciliation with the 2026-07-02 first-teach reframe.** That ruling stated the **block/week count grows — nothing compressed**, and 20 rungs → 18 blocks reads at first glance as the opposite. It is not: **no rung is dropped** (the two merges preserve every rung as a sub-row), and the growth the ruling directed is delivered — **Preposition (Block 8) and Conjunction (Block 13) are now teaching blocks in their own right** rather than clue-card rows inside Block 1, which is what the reframe re-homed them out of.
+
+**Precedent:** **PD-029**, which folded the C4 spine's Adjective + Pronoun into a single Block 5 with sub-rows **5a/5b** and moved Preposition to Block 6, leaving existing `C4B05-*` extract IDs unchanged. This ruling applies the same instrument to C5.
+
+**Scope limit — numbering only.** This ruling takes **no position on the calendar**. The week→block mapping, per-week load, week count, and any pairing/compression decision remain **superseded and pending a separate Principal decision** (Principal instruction, 08.08.26). §4's table has had its block numbers corrected and W1–W5 recorded as delivered fact; **every row from W6 onward is explicitly marked "not ratified."**
+
+**What the renumbering exposed (recorded, not resolved):** with the numbers corrected, the calendar arithmetic is explicit for the first time — **18 blocks**, six delivered (W1–W5) and one in build, against the Charter **§C.1** three-month ceiling measured from the 1 July start. The remaining blocks do not fit one-per-week. Resolving it requires a ruling on pairing/compression or a **§C.5** cap widening, together with the calendar lock that **§C.3/§M.1** required *before* Week 1 and which was never closed.
+
+**Delivered content untouched (Charter §K.2/§K.3).** No delivered C5 block master or extract is edited, and **no block file is renamed** — Blocks 1–6 already carry the corrected numbers, so the correction moves §2's rows onto the build, not the reverse. Historical "§2 row N" citations inside frozen files stay as written and resolve through §2A.
+
+**What led to this:** raised at the opening of the C5 Block 7 (Adjective + Pronoun) build, 08.08.26, when the block's §2 citation could not be stated unambiguously — it is build-Block 7 but §2 rows 8–9. The Principal directed the renumbering be settled before the build continued.
+
+**Affected files:** `C5_ENG_DrivePlan_v1_6.md` (new version; v1_5 retained, forward-only per §K.3) — §2 table, §2 exam-bridge ledger, new §2A concordance, §2 governance note, pre-flight checklist, §3, §4 table + notes, §7 map + new note, §8. `blocks/C5/_wip/STATE.md` (C5B07 citations). **Not modified:** all C5 block masters and extracts, File 2 (its stale week→block labels remain a separate forward-only reconciliation), the Assignment Coverage Log (its C5 entries cite B03/B04, which do not change), and the week-named assignment files.
+**Status:** Applied (Principal, 08.08.26).
+
+---
+
 ### Open item — C3 Exit Check roll size (17) not file-verified
 Recorded for tracking, not a Principal decision. The C3 Block 6 Exit Check tables use a **17-prompt roll** on the Principal's in-session statement; no class roster in the current project files confirms 17. Verify against an authoritative roster, or log a Principal confirmation, before treating the roll as governance-grade. Affects only the per-day Exit Check length (one prompt per student), not any graded item.
 

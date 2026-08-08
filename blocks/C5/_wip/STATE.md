@@ -1,6 +1,6 @@
 # C5 Block 7 — build state
 
-**Block ID:** `C5B07` · **Topic:** Adjective + Pronoun (§2 rows 8–9) · **Week:** W6 (proposed) · **Master:** not yet drafted
+**Block ID:** `C5B07` · **Topic:** Adjective + Pronoun (**§2 Blocks 7a + 7b**, PD-033) · **Week:** W6 (proposed) · **Master:** not yet drafted
 **Opened:** 08.08.26 at the Principal's instruction. `C4B06` review and `C2B06b` remain parked in their own STATE files.
 
 ---
@@ -9,14 +9,16 @@
 
 **Phase 1 — Orientation: COMPLETE.** Nothing drafted. Phase 2 questions below are live and block Phase 3.
 
+**Interrupted 08.08.26 for the C5 Drive Plan renumbering (PD-033), now applied.** This block builds against **`C5_ENG_DrivePlan_v1_6.md`**, not v1.5. Under the ruled numbering this block is **Block 7**, carrying sub-rows **7a (Adjective)** and **7b (Pronoun)** — formerly §2 rows 8 and 9. All citations below have been converted; the concordance is Drive Plan **§2A**. **BC-2 is unchanged and still live** — the renumbering was scoped to numbering only and took no position on W6's load.
+
 Files re-opened and re-read this session (not carried from any prior session's citation):
 
 | Reference | Version read | Note |
 |---|---|---|
 | Charter | `English_Drive_Project_Charter_v1_5.md` | §E.1 spine order, §G.2 C5 band, §H, §I.3, §J, §K, §N |
 | Run Book | `English_Drive_Run_Book_v1_17.md` | §3.10–3.17, §5.7–5.9, §6.1–6.11, §9.2–9.4 |
-| Drive Plan | `C5_ENG_DrivePlan_v1_5.md` | §2 rows 8–9 + guardrails, §4, §7, §8, §9, §10 |
-| Decision Log | `Curriculum_Design_Decision_Log_Working.md` | PD-001→PD-032 + C5 section |
+| Drive Plan | **`C5_ENG_DrivePlan_v1_6.md`** (was v1_5 at orientation) | §2 Blocks 7a–7b + guardrails, §2A, §4, §7, §8, §9, §10 |
+| Decision Log | `Curriculum_Design_Decision_Log_Working.md` | PD-001→**PD-033** + C5 section |
 | Spec | `English_Drive_BlockBuild_StarterTemplate_v2.md` | v2.0 |
 | File 2 | `C5_ENG_VocabPool_U18_v1.xlsx` (222) · `C5_ENG_VocabBatchOrder_v1.xlsx` | held scope computed from batch **content** |
 | Binding papers | HY-25 Morning · HY-25 Day · HY-26 · **Annual-2025 (see BC-1)** | all read at source; underline emphasis read from the docx runs, not the text layer |
@@ -28,20 +30,20 @@ Files re-opened and re-read this session (not carried from any prior session's c
 
 ## Derived facts (each cited; nothing assumed)
 
-**Block number.** Build-block **7**. Two numbering systems are live (Drive Plan §4 note, 31.07.26): the noun cluster (§2 rows 4–6) shipped as build-Blocks 4–5, so Article is build-**6** / §2 row **7**. Adjective + Pronoun are §2 rows **8–9** and build-Block **7**. Block files cite §2 row numbers; the ID is `C5B07`.
+**Block number — SETTLED (PD-033, 08.08.26).** Block **7**, sub-rows **7a Adjective** / **7b Pronoun**. The two parallel numbering systems are closed: Drive Plan §2's Block column now matches the build (18 blocks), with the former row numbers retained in §2A for reading citations inside frozen files. Article is Block **6** (was cited as "§2 row 7"); this block is **7** (was rows 8–9). ID `C5B07`; extract IDs `C5B07-CW1…`, `C5B07-PT`, `C5B07-AK` etc. — the sub-row letters qualify the §2 rung, **not** the artefact ID (they are not the Run Book §3.11 `a`/`b` two-week half-qualifier, which this block does not use).
 
-**Depth cap — §2 row 8 (Adjective), verbatim:**
+**Depth cap — §2 Block 7a (Adjective), verbatim:**
 > *"Describing words (**what kind / which / whose**); **includes possessive adjectives my/his/her/our/their** and **this/that before a noun** (the locked Block 7/8 boundary). Identify + use."*
 
-**Guardrail — row 8, verbatim:**
+**Guardrail — Block 7a, verbatim:**
 > *"**No comparative/superlative as a graded item** — book uses "faster than" communicatively; papers do not test comparison. Do **not** relabel *my/his/this* as pronouns before a noun."*
 
-**Depth cap — §2 row 9 (Pronoun), verbatim:**
+**Depth cap — §2 Block 7b (Pronoun), verbatim:**
 > *"Personal pronouns — subject (I, he, she, it, we, they) and object (me, him, her, us, them); they replace a noun. Light *this/that* dual-use note."*
 
-**Guardrail — row 9, verbatim:**
-> *"*my/his/her/our/their* live in **Block 8 (Adjective)**, not here; stand-alone *mine/hers/ours/theirs* not introduced (absent from C5 papers). No relative/reflexive pronouns."*
-*(Row 9's "Block 8" is the plan's own §2-row cross-pointer to the Adjective row — i.e. row 8, this same build-block.)*
+**Guardrail — Block 7b, verbatim:**
+> *"*my/his/her/our/their* live in **Block 7a (Adjective)**, not here; stand-alone *mine/hers/ours/theirs* not introduced (absent from C5 papers). No relative/reflexive pronouns."*
+*(Two stale cross-references in this pair were repaired at v1.6: the guardrail's pointer, which read "Block 8 (Adjective)" under the old rows; and the 7a cap's "the locked Block 7/8 boundary", which was an unmarked **C3** cross-reference and is now stated as such.)*
 
 **Tier — stated vs actual.**
 - Row 8 Adjective = **Re-walk**, and there is something real to re-walk: **C5 Block 1 (W1) taught Adjective** as one of four discovery-pace roles, with the Clue Card row *"নাম সম্পর্কে বাড়তি তথ্য — কেমন / কোনটা / কয়টি"* and examples *grateful · **this** · three*. So *this*-before-a-noun is already on this cohort's wall card; *my/his/her/our/their* are not.
@@ -110,9 +112,9 @@ Drive Plan §4 lists **W6 = "Blocks 8–10 Adjective + Pronoun + Preposition (re
 2. **Graded format and weighting (the substantive one).** Adjective and pronoun have **no dedicated question in any binding paper** — they are graded only as 3 of 16 underlined words inside the parts-of-speech question that §2 assigns to Block 11. Which shape should `C5B07`'s graded surface take?
    *(a)* Mirror the POS-identify format now, with the label set restricted to what the cohort holds — Noun / Verb / Adjective / Adverb / Pronoun — leaving Block 11 to widen it to preposition/conjunction/interjection and to carry the dual-job engine; **or** *(b)* a PD-028-style declared weighting, teaching the full cap but grading the identify strand heavily and the *use*/production strand lightly; **or** *(c)* something else. A recommendation is ready but this is a cap/format decision, not mine to take.
 3. **Pronoun tier.** Confirm **first-teach** (see above — nothing to re-walk; §2 says "Re-walk"). Adjective stays a genuine re-walk of C5 B01 extended to *my/his/her/our/their*.
-4. **"How many" adjectives.** §2 row 8 caps the adjective at *what kind / which / whose* — **number is not in the cap**. But **C5 B01's Clue Card already taught it** (*কয়টি? — three*), so this cohort holds it. C3 admitted number to its adjective cap under PD-028. Admit *how many* to the C5 row-8 cap for consistency with what was taught, or teach it but keep it out of graded items?
+4. **"How many" adjectives.** §2 Block 7a caps the adjective at *what kind / which / whose* — **number is not in the cap**. But **C5 B01's Clue Card already taught it** (*কয়টি? — three*), so this cohort holds it. C3 admitted number to its adjective cap under PD-028. Admit *how many* to the Block 7a cap for consistency with what was taught, or teach it but keep it out of graded items?
 5. **Comparative/superlative.** Row 8 bars it as a **graded item**. May it be *shown* once in teacher prose (the book uses *"faster than"* communicatively), or is it excluded from the block entirely?
-6. **Dual-job depth here vs Block 11.** C5 is the top §N rung (dual-job fluency + find-the-error), but Drive Plan §8 places the engine at Block 11. This block owns a genuine dual-job pair — *her* (adjective before a noun / object pronoun standing alone) and *this/that* (row 9's "light dual-use note"). How far should find-the-error and dual-job discrimination be drilled here, and how much reserved for Block 11?
+6. **Dual-job depth here vs Block 9.** C5 is the top §N rung (dual-job fluency + find-the-error), but Drive Plan §8 places the engine at **Block 9 (Parts of speech)** — renumbered from 11 at PD-033. This block owns a genuine dual-job pair — *her* (adjective before a noun / object pronoun standing alone) and *this/that* (Block 7b's "light dual-use note"). How far should find-the-error and dual-job discrimination be drilled here, and how much reserved for Block 9?
 7. **Assignment.** `C5B06-AS` was never built (master records "Not built"). Should `C5B07` ship its Assignment with the block, or follow the same pattern?
 8. **Roll size.** Confirm the Sylhet Class 5 roll is still **8** (sets the Exit Check prompt count per day).
 9. **Anything else** you want this block to do differently.
@@ -126,6 +128,7 @@ Drive Plan §4 lists **W6 = "Blocks 8–10 Adjective + Pronoun + Preposition (re
 | # | Decision | Who / when |
 |---|---|---|
 | 1 | Build `C5B07` = Adjective + Pronoun; use `C4B05` as a **progression/conventions reference only**, assuming **no** mastery or retention of C4 content; brief foundation/retrieval first, then develop to C5 depth; depth derived from C5's own §2 caps, papers and project rules. | Principal, 08.08.26 |
+| 2 | **C5 block renumbering ruled and applied — PD-033 / Drive Plan v1.6.** §2 realigned to the build (18 blocks); merged rungs carried as sub-rows **4a/4b** and **7a/7b**; Correspondence and Composition kept as **separate Blocks 17 and 18**; permanent §2A concordance added. **Scoped to numbering only** — the W7+ schedule, per-week load and any compression decision were expressly excluded and remain open. Delivered masters unchanged. | Principal, 08.08.26 |
 
 ---
 
