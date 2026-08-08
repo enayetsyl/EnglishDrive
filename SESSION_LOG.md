@@ -52,3 +52,24 @@ Append-only. Newest entry last. Never overwrite past entries.
   clone and pushed from there. Delete permission was requested once and declined.
   Leftover untracked duplicates in the mount: `SESSION_LOG.md.aside2`,
   `SESSION_LOG.md.local-untracked` — safe to delete, identical to `SESSION_LOG.md`.
+
+---
+
+## 2026-08-08 — SCD (almajhudbd@gmail.com) — C4B06 promotion
+
+- Task: **C4B06 (Preposition, W6) — FINAL**. Applied the Principal's CW-1/HW-1 content edits, added
+  `shelf` to the block-local place set, replaced `red` with held `colourful`, converted the Part-B
+  fill-in clues to Bangla, re-based all four Vocabulary Writing boxes onto the W6 batch, and ran a
+  cross-sheet repetition pass.
+- Cross-sheet repetition: **38 sentences repeated over 78 placements** (CW-4 was 16/20 recycled,
+  HW-4 11/20). **40 items re-authored**, every one preserving its original answer class.
+  Re-verified: 199 sentences compared, **zero repeats**. No mark total moved at any point.
+- Promoted: master to `blocks/C4/C4_ENG_Block06_Preposition_v1.md` (internal v1.5); extracts generated
+  to `extracts/C4/` — CW1–4, HW1–4, `C4B0506_PT`, `C4B06_AK`, `C4B06_CC`, `C4B06_TD`, master copy.
+- Decisions: `shelf` → block-local place set (now 11); `colourful` NOT declared (already held W3);
+  40 replacements approved and applied; promotion approved.
+- Flags open: **cross-sheet duplicate gate proposed but unruled** (would need PD-036 to bind the drive);
+  clue/instruction text still unread by every gate; PT Part B lists five classes vs six on the worksheets;
+  attribution line and W7 examples remain in the out-of-scope Teacher Script.
+- Infrastructure: mount still refuses `unlink` and re-materialises renamed files; all git work continues
+  via the sandbox clone. `_wip/` duplicates could not be cleared — `blocks/C4/` is authoritative.

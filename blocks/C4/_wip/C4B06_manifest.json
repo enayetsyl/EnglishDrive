@@ -499,9 +499,9 @@
        "marks": 1
       },
       {
-       "text": "My sister reads a book.",
+       "text": "The library opens in July.",
        "answer": "Noun",
-       "trigger": "sister",
+       "trigger": "library",
        "marks": 1
       },
       {
@@ -517,15 +517,15 @@
        "marks": 1
       },
       {
-       "text": "The tall tree has green leaves.",
+       "text": "Hot days come in summer.",
        "answer": "Adjective",
-       "trigger": "tall",
+       "trigger": "hot",
        "marks": 1
       },
       {
-       "text": "She works carefully.",
+       "text": "Maryam always helps her mother.",
        "answer": "Adverb",
-       "trigger": "carefully",
+       "trigger": "always",
        "marks": 1
       },
       {
@@ -547,9 +547,9 @@
        "marks": 1
       },
       {
-       "text": "A small bird drinks water.",
+       "text": "We take a short trip in spring.",
        "answer": "Adjective",
-       "trigger": "small",
+       "trigger": "short",
        "marks": 1
       },
       {
@@ -565,9 +565,9 @@
        "marks": 1
       },
       {
-       "text": "We wash our hands.",
+       "text": "Yusuf meets his cousin on Thursday.",
        "answer": "Verb",
-       "trigger": "wash",
+       "trigger": "meet",
        "marks": 1
       },
       {
@@ -583,9 +583,9 @@
        "marks": 1
       },
       {
-       "text": "The farmers grow rice.",
+       "text": "The workers finish at dawn.",
        "answer": "Verb",
-       "trigger": "grow",
+       "trigger": "finish",
        "marks": 1
       },
       {
@@ -687,9 +687,9 @@
        "marks": 1
       },
       {
-       "text": "The women carry water.",
+       "text": "Abdullah fills the pot in the morning.",
        "answer": "Verb",
-       "trigger": "carry",
+       "trigger": "fill",
        "marks": 1
       },
       {
@@ -705,13 +705,13 @@
        "marks": 1
       },
       {
-       "text": "The children play happily.",
+       "text": "We share our food on Saturday.",
        "answer": "Verb",
-       "trigger": "play",
+       "trigger": "share",
        "marks": 1
       },
       {
-       "text": "She waits by the gate.",
+       "text": "They meet at school in the morning.",
        "answer": "Pronoun",
        "trigger": null,
        "marks": 1
@@ -759,9 +759,9 @@
        "marks": 1
       },
       {
-       "text": "The girl draws a picture.",
+       "text": "Raima writes a letter on Monday.",
        "answer": "Verb",
-       "trigger": "draw",
+       "trigger": "write",
        "marks": 1
       },
       {
@@ -783,19 +783,19 @@
        "marks": 1
       },
       {
-       "text": "The men dig the soil.",
+       "text": "The family visits the village in winter.",
        "answer": "Verb",
-       "trigger": "dig",
+       "trigger": "visit",
        "marks": 1
       },
       {
-       "text": "A strong wind blew.",
+       "text": "The special trip starts on Sunday.",
        "answer": "Adjective",
-       "trigger": "strong",
+       "trigger": "special",
        "marks": 1
       },
       {
-       "text": "It rests on the mat.",
+       "text": "She writes to her aunt on Thursday.",
        "answer": "Pronoun",
        "trigger": null,
        "marks": 1
@@ -1293,63 +1293,63 @@
      "name": "A",
      "items": [
       {
-       "text": "This is the house of my uncle.",
+       "text": "The gate of the school is open.",
        "answer": "Preposition",
-       "trigger": "uncle",
+       "trigger": "school",
        "marks": 1
       },
       {
-       "text": "The fish swims in the river.",
+       "text": "The seed grows in the soil.",
        "answer": "Preposition",
-       "trigger": "river",
+       "trigger": "soil",
        "marks": 1
       },
       {
-       "text": "The girl draws a picture.",
+       "text": "Jesmin washes the spoon.",
        "answer": "Verb",
-       "trigger": "draw",
+       "trigger": "wash",
        "marks": 1
       },
       {
-       "text": "They visit the sick.",
+       "text": "The team enjoys the trip.",
        "answer": "Verb",
-       "trigger": "visit",
+       "trigger": "enjoy",
        "marks": 1
       },
       {
-       "text": "We give food to the child.",
+       "text": "Abdur Rahim brings water to the worker.",
        "answer": "Preposition",
-       "trigger": "child",
+       "trigger": "worker",
        "marks": 1
       },
       {
-       "text": "The shop opens at eight o'clock.",
+       "text": "The library closes at four o'clock.",
        "answer": "Preposition",
        "trigger": null,
        "marks": 1
       },
       {
-       "text": "The chair stood near the wall.",
+       "text": "The shelf is clean.",
        "answer": "Noun",
-       "trigger": "chair",
+       "trigger": "shelf",
        "marks": 1
       },
       {
-       "text": "The tree grows near the river.",
+       "text": "The factory stands near the street.",
        "answer": "Preposition",
-       "trigger": "river",
+       "trigger": "street",
        "marks": 1
       },
       {
-       "text": "The child reads loudly.",
+       "text": "The children play loudly in the park.",
        "answer": "Adverb",
        "trigger": "loudly",
        "marks": 1
       },
       {
-       "text": "A small bird drinks water.",
+       "text": "A beautiful flower grows in the park.",
        "answer": "Adjective",
-       "trigger": "small",
+       "trigger": "beautiful",
        "marks": 1
       },
       {
@@ -1359,21 +1359,21 @@
        "marks": 1
       },
       {
-       "text": "The box is empty.",
+       "text": "The poster is new.",
        "answer": "Noun",
-       "trigger": "box",
+       "trigger": "poster",
        "marks": 1
       },
       {
-       "text": "The child ran into the park.",
+       "text": "Fatima pours water into the glass.",
        "answer": "Preposition",
-       "trigger": "park",
+       "trigger": "glass",
        "marks": 1
       },
       {
-       "text": "She prepares the meal.",
+       "text": "Maryam mixes the food.",
        "answer": "Verb",
-       "trigger": "prepare",
+       "trigger": "mix",
        "marks": 1
       },
       {
@@ -1389,9 +1389,9 @@
        "marks": 1
       },
       {
-       "text": "This is the picture of my school.",
+       "text": "Porshi keeps the stamp in the envelope.",
        "answer": "Preposition",
-       "trigger": "school",
+       "trigger": "envelope",
        "marks": 1
       },
       {
@@ -1401,15 +1401,15 @@
        "marks": 1
       },
       {
-       "text": "We collect the leaves.",
+       "text": "The workers cover the box.",
        "answer": "Verb",
-       "trigger": "collect",
+       "trigger": "cover",
        "marks": 1
       },
       {
-       "text": "This is the book of my sister.",
+       "text": "The clothes hang on the wall.",
        "answer": "Preposition",
-       "trigger": "sister",
+       "trigger": "wall",
        "marks": 1
       }
      ]
@@ -1480,9 +1480,9 @@
      "name": "A",
      "items": [
       {
-       "text": "We pray in the evening.",
+       "text": "The school opens in June.",
        "answer": "Preposition",
-       "trigger": "evening",
+       "trigger": "june",
        "marks": 1
       },
       {
@@ -1498,21 +1498,21 @@
        "marks": 1
       },
       {
-       "text": "We love our parents.",
+       "text": "We protect the environment.",
        "answer": "Verb",
-       "trigger": "love",
+       "trigger": "protect",
        "marks": 1
       },
       {
-       "text": "We rest on Sunday.",
+       "text": "The team plays on Monday.",
        "answer": "Preposition",
-       "trigger": "sunday",
+       "trigger": "monday",
        "marks": 1
       },
       {
-       "text": "A good friend helps.",
+       "text": "A kind worker helps us.",
        "answer": "Adjective",
-       "trigger": "good",
+       "trigger": "kind",
        "marks": 1
       },
       {
@@ -1528,7 +1528,7 @@
        "marks": 1
       },
       {
-       "text": "We rest under the tree.",
+       "text": "He carries the bag.",
        "answer": "Pronoun",
        "trigger": null,
        "marks": 1
@@ -1540,27 +1540,27 @@
        "marks": 1
       },
       {
-       "text": "A healthy meal helps us.",
+       "text": "A clean street is safe.",
        "answer": "Adjective",
-       "trigger": "healthy",
+       "trigger": "clean",
        "marks": 1
       },
       {
-       "text": "A fresh flower bloomed.",
+       "text": "The big mountain stands near the village.",
        "answer": "Adjective",
-       "trigger": "fresh",
+       "trigger": "big",
        "marks": 1
       },
       {
-       "text": "The doctor helps people.",
+       "text": "The daughter brings the water.",
        "answer": "Noun",
-       "trigger": "doctor",
+       "trigger": "daughter",
        "marks": 1
       },
       {
-       "text": "A gift arrived from my friend.",
+       "text": "The ticket came from the library.",
        "answer": "Preposition",
-       "trigger": "friend",
+       "trigger": "library",
        "marks": 1
       },
       {
@@ -1588,15 +1588,15 @@
        "marks": 1
       },
       {
-       "text": "We sleep at night.",
+       "text": "The family meets at the gate.",
        "answer": "Preposition",
-       "trigger": "night",
+       "trigger": "gate",
        "marks": 1
       },
       {
-       "text": "The car stops at the shop.",
+       "text": "The car stands near the factory.",
        "answer": "Preposition",
-       "trigger": "shop",
+       "trigger": "factory",
        "marks": 1
       }
      ]
