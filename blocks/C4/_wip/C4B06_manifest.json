@@ -13,6 +13,7 @@
   "wall",
   "bed",
   "pot",
+  "shelf",
   "Sunday",
   "Monday",
   "Thursday",
@@ -343,9 +344,9 @@
        "marks": 1
       },
       {
-       "text": "A red flower bloomed.",
+       "text": "A colourful flower bloomed.",
        "answer": "Adjective",
-       "trigger": "red",
+       "trigger": "colourful",
        "marks": 1
       },
       {

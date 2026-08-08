@@ -21,7 +21,7 @@
 | **Bloom band** | Understand/Apply dominant, more Analyze than C3 (sort/find-the-error), guided Create close | Drive Plan §6 · Charter §G · REF-18 §4.1 |
 | **Self-construction rubric** | **4 marks**, four criteria at 1 each, uniform across classes; value alignment not scored | Charter §I.3 · Drive Plan §9 · PD-010 |
 | **Held-word scope** | Graded surface built on held W1–W6 vocabulary (73 held nouns + the preposition set as function words) plus **two declared block-local sets (PD-012)**. | `C4_ENG_VocabPool_v4.xlsx` / `VocabBatchOrder_v2.xlsx`, POS-verified |
-| **Block-local set 1 — place nouns (PD-012)** | **box · ball · desk · table · chair · bag · gate · wall · bed · pot** — taught Day 1 in the box-and-ball demonstration; gradeable in this block's place items. | PD-012 |
+| **Block-local set 1 — place nouns (PD-012)** | **box · ball · desk · table · chair · bag · gate · wall · bed · pot · shelf** (11) — taught Day 1 in the box-and-ball demonstration; gradeable in this block's place items. | PD-012 |
 | **Block-local set 2 — time nouns (PD-012, as extended by PD-035)** | **Sunday · Monday · Thursday · Saturday · June · July · summer · winter · spring · evening · night · dawn** (12) — taught Day 2 on the clock/calendar cue; gradeable in this block's time items. *`morning` and `day` are already held (W1) and are not block-local.* **Why declared:** the at/on/in contrast **is** the concept — the preposition is chosen by the *type* of its object — and File 2 holds only `morning` and `day` by W6, both in the same category, so the pool cannot supply one contrasting pair. The §2 cap (*"**Place/time** prepositions"*) and TG outcome 9.3.4 both require the time strand, but **no binding C4 paper tests it** — so PD-012's exam-required trigger did not reach this case until **PD-035** extended it to concepts required by the Drive Plan §2 cap. | PD-012 · **PD-035** |
 | **Block-local constraints observed** | Both sets are gradeable **only** inside C4B06's CW/HW/PT; **neither appears in the PT Part-A dictation list** (which is the W6 held batch); neither is held by later blocks — Blocks 8–9 must re-declare if they want the time expressions (Principal ruling: block-scoped, not a standing C4 set); neither is added to File 2. | PD-012 · PD-035 |
 | **Class size** | 12 (Sylhet Class 4 roll) — sets the Exit Check prompt count | Principal, confirmed 2026-07-29 |
@@ -653,7 +653,7 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 11. The bird flies **near** the wall.
 12. **You** sit by the tree.
 13. The ball is **under** the bed.
-14. A **red** flower bloomed.
+14. A **colourful** flower bloomed.
 15. The bag lies **under** the chair.
 16. The tree grows **near** the river.
 17. **She** waits by the gate.
