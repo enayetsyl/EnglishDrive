@@ -241,6 +241,37 @@ Decisions already adopted and applied across the English Drive.
 
 ---
 
+### PD-028 — C3 Block 7 (Adjective): graded-item weighting 55/25/20 across the three strands
+**Decision:** In **C3 Block 7 (Adjective)**, graded items are weighted **55 / 25 / 20** across **descriptive : possessive-demonstrative : number**. The *how many* (number) strand is admitted to the taught cap alongside Drive Plan v1.8 §2 row 7. The **possessive, demonstrative and number strands are taught in full but are not exam-tested**; only the descriptive strand carries an exam anchor.
+**Rationale:** the sole adjective anchor in the binding C3 set is **Annual 2025 Q8** ("Identify adjectives from the following passage", 5×1=5), identify-from-passage and descriptive-only — **HY2025 and HY2026 do not test adjectives at all** (verified against all three papers). The other strands are curriculum-necessary (they carry the Block 7/8 adjective-vs-pronoun boundary) but must not displace exam-weighted practice, so they are taught fully and graded lightly rather than dropped or given equal weight.
+**What led to this:** the C3 Block 7 build session, which set the weighting and admitted *how many* to the cap.
+**Affected files:** `C3_ENG_GrammarBlock07_Adjective_v1.md` (Provenance table, Topic/cap and Weighting rows); C3 Drive Plan §2 row 7.
+**Numbering note:** this ruling was **cited as PD-028** in `extracts/C3/TN/C3_ENG_GrammarBlock07_Adjective_v1.md` but was never appended to this log; the number is now formally assigned to it here, so that in-file citation resolves correctly. That in-file citation is historical and **stays unedited per Charter §K.3**.
+**Status:** Applied (C3 Block 7); logged retrospectively 08.08.26.
+
+---
+
+### PD-029 — C4 spine renumbering (Adjective + Pronoun → Block 5; Preposition → Block 6) and the combined `C4B0506-PT` holiday carry-forward
+**Decision:** Two linked rulings on the Class 4 spine. **(i) Renumbering:** the C4 spine folds **Adjective + Pronoun into a single Block 5** (sub-rows **5a Adjective / 5b Pronoun**) and **Preposition becomes Block 6** (Drive Plan v1.11). Existing `C4B05-*` extract IDs are **unchanged**. **(ii) Assessment carry-forward:** the Week-5 Thursday `C4B05-PT` was **built but never administered** — the slot was lost to a holiday. Its assessment is **carried into the combined `C4B0506-PT`** (in `C4_ENG_Block06_Preposition_v1.md`), which grades Block 5 (Adjective + Pronoun) **and** Block 6 (Preposition) together in the Week-6 slot. `C4B05-PT` is retained as the built-but-unused Block-5 record and is **not to be administered separately** absent a Principal ruling; the combined PT's Adjective/Pronoun items are **freshly authored**, zero-overlap against `C4B05-PT` and all Block-5 worksheets (§6.5 verified during the Block 6 build).
+**Boundary — not a precedent for split blocks.** The combined PT here is a **§6.7 paired-week recovery measure** caused by a lost teaching day, merging two **different block numbers**. It is **not** a design pattern, and it does **not** license a combined PT across the two halves of a **two-week `a`/`b` split block**, which **PD-025** governs (one PT per week, per-anchor mark splits preserved, separate audit surfaces). Run Book v1.17 §6.7 keeps the paired-week block explicitly *distinct from* the two-week block.
+**Rationale:** the renumbering reflects the taught reality that adjective and pronoun are one boundary-sharing unit at C4 level; the carry-forward preserves the assessment rather than discarding a built PT or double-testing pupils on a spent item set.
+**What led to this:** the C4 Block 5/Block 6 build sessions (06.08.26).
+**Affected files:** `C4_ENG_Block05_AdjectivePronoun_v1.md` (numbering note, `C4B05-PT` banner, version log v1.15); `C4_ENG_Block06_Preposition_v1.md` (`C4B0506-PT`); C4 Drive Plan v1.11.
+**Numbering note:** this ruling was **cited as PD-028** in `extracts/C4/TN/C4_ENG_Block05_AdjectivePronoun_v1.md` but was never appended to this log. **PD-028 has been assigned to the C3 Block 7 weighting ruling above**, so this ruling takes **PD-029**. The `PD-028` citation inside the C4 file is therefore **stale and now resolves to a different entry**; it is historical and **stays unedited per Charter §K.3**. Cite **PD-029** for this ruling going forward.
+**Status:** Applied (C4 Blocks 5–6); logged retrospectively 08.08.26.
+
+---
+
+### PD-030 — `C4B04-AK` consolidated to `extracts/`; HW-2 item 28 resolved to *an*
+**Decision:** `extracts/C4/C4B04_AK.md` is the **authoritative** Class 4 Block 4 answer key. **HW-2 item 28** — master item *"She is ______ honest teacher."* — is **`an`** (silent *h*). A second copy at `blocks/C4/C4B04_AK.md` carried **`The`** for that item and has been **removed**: `blocks/` holds **block masters only**, and an answer key is not a master. Three sections that existed only in the removed copy — **Marking notes**, **PT Part A dictation word list** (with its teacher-only caveat and the PD-009 exemplar rule), and the **§6.11 Consistency check table** — were ported into the `extracts/` copy **verbatim, unreworded**.
+**Rationale:** two divergent renderings of one answer key is a marking hazard — a teacher handed the `blocks/` copy would have mismarked HW-2 #28 against the master. Consolidating to one authoritative file removes the divergence; porting the unique sections first means the cleanup costs no content.
+**Evidence / Observation:** verified programmatically, not by eye. Both copies were parsed into item-number → answer maps: **285 numbered answers compared**; the merged `extracts/` file is **identical to the pre-merge `extracts/` copy (0 differences)** and differs from the removed `blocks/` copy at **exactly one item — HW-2 #28** — resolved against the master. All nine stated mark totals unchanged (CW1 54 · HW1 46 · CW2 54 · HW2 46 · CW3 57 · HW3 45 · CW4 38 · HW4 46 · PT 47). The three ported sections were confirmed byte-identical substrings of the source.
+**Note:** the C4 Block 4 v1.1 review log already records an earlier transcription defect in HW-2 (Part B had contained HW-3's Part B verbatim), so this sheet has prior history of copy drift. **No student-facing worksheet and no block master was changed** — the defect existed only in the duplicate key.
+**Affected files:** `extracts/C4/C4B04_AK.md` (consolidated); `blocks/C4/C4B04_AK.md` (removed). Commit `a8e329a`.
+**Status:** Applied (08.08.26).
+
+---
+
 ### Open item — C3 Exit Check roll size (17) not file-verified
 Recorded for tracking, not a Principal decision. The C3 Block 6 Exit Check tables use a **17-prompt roll** on the Principal's in-session statement; no class roster in the current project files confirms 17. Verify against an authoritative roster, or log a Principal confirmation, before treating the roll as governance-grade. Affects only the per-day Exit Check length (one prompt per student), not any graded item.
 

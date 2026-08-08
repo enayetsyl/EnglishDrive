@@ -87,6 +87,11 @@ Run Book §6–§8. In brief:
   An arrangement engine may select and order from an approved bank — never invent
   pairings.
 
+**PD numbering.** When a ruling must be logged, the agent assigns the next available
+PD number automatically from the Decision Log's highest numbered entry, states the
+assigned number in chat, and appends the entry. It never asks the user to pick a
+number, and never reuses a number.
+
 **Pending decisions.** Any conflict with the Charter, Run Book, or a Drive Plan, and
 any situation the governing files do not settle, is a Principal Decision. STOP, state
 the conflict precisely, and wait. Never resolve a governance question silently, and
