@@ -418,7 +418,7 @@ Teacher reads; one student per prompt names the bold word's part of speech. **8 
 8. Nusair walks **slowly** along the beach.
 9. **That** museum opened last Friday.
 10. The **child** planted vegetables in the garden.
-11. Porshi writes **secret** poems in the quiet library.
+11. Porshi writes **beautiful** poems in the quiet library.
 12. The neighbours **protect** the mangrove forest.
 13. The **prize** went to the brave champion.
 14. Abdur Rahim visits the mosque **regularly**.
