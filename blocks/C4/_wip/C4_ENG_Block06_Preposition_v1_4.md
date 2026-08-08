@@ -589,12 +589,12 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 
 1. The child plays **in** the park.
 2. A **small** bird drinks water.
-3. The pot stands **on** the wall.
+3. The pot is **on** the shelf.
 4. The fish swims **in** the river.
 5. The farmers **grow** rice.
 6. The cup sits **on** the desk.
-7. A **cold** night came.
-8. The ball rests **under** the tree.
+7. It was a **cold** night.
+8. The man rests **under** the tree.
 9. The **green** leaf fell.
 10. My **father** works hard.
 11. The **tall** tree has green leaves.
@@ -610,12 +610,12 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 
 **Part B — Fill in the blank with the correct preposition of place.** *The clue in brackets helps you.* *(6 items, 1 mark each)*
 
-21. The ball is ___ the box. *(inside)*
-22. The bird sits ___ the tree. *(on top of)*
-23. The bag is ___ the table. *(below)*
-24. The shop is ___ the river. *(close to)*
-25. The ball rolls ___ the box. *(moving inside)*
-26. My uncle waits ___ the shop. *(that spot)*
+21. The ball is ___ the box. *(ভিতরে)*
+22. The bird sits ___ the tree. *(উপরে)*
+23. The bag is ___ the table. *(নিচে)*
+24. The shop is ___ the river. *(কাছে)*
+25. The ball rolls ___ the box. *(ভিতরের দিকে)*
+26. My uncle waits ___ the shop. *(নির্দিষ্ট জায়গায়)*
 
 **Part C — Circle the correct preposition.** *(5 items, 1 mark each)*
 
@@ -653,7 +653,7 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 11. The bird flies **near** the wall.
 12. **You** sit by the tree.
 13. The ball is **under** the bed.
-14. A **fresh** flower bloomed.
+14. A **red** flower bloomed.
 15. The bag lies **under** the chair.
 16. The tree grows **near** the river.
 17. **She** waits by the gate.
@@ -663,12 +663,12 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 
 **Part B — Fill in the blank with the correct preposition of place.** *(6 items, 1 mark each)*
 
-21. The boy stands ___ the shop. *(that spot)*
-22. The ball is ___ the bed. *(below)*
-23. The pen is ___ the bag. *(inside)*
-24. The rain flows ___ the river. *(moving inside)*
-25. The picture hangs ___ the wall. *(on the surface)*
-26. The park is ___ the school. *(close to)*
+21. The boy stands ___ the shop. *(নির্দিষ্ট জায়গায়)*
+22. The ball is ___ the bed. *(নিচে)*
+23. The pen is ___ the bag. *(ভিতরে)*
+24. The rain flows ___ the river. *(ভিতরের দিকে)*
+25. The picture hangs ___ the wall. *(উপরে)*
+26. The park is ___ the school. *(কাছে)*
 
 **Part C — Circle the correct preposition.** *(5 items, 1 mark each)*
 
@@ -683,7 +683,7 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 **Vocabulary Writing** *(practice — not marked; teacher checks spelling and meaning)*
 *Copy each English word, then write its Bangla meaning.*
 
-> **Word Bank:** fair • magazine • form • card • river
+> **Word Bank:** pollution • waste • smoke • noise • air
 
 | English Word | বাংলা অর্থ |
 |---|---|
@@ -795,7 +795,7 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 
 **Vocabulary Writing** *(practice — not marked)*
 
-> **Word Bank:** environment • vehicle • car • earth • rain
+> **Word Bank:** ear • kindness • people • street • clothes
 
 | English Word | বাংলা অর্থ |
 |---|---|
@@ -905,11 +905,10 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 
 **Vocabulary Writing** *(practice — not marked)*
 
-> **Word Bank:** throw • flow • cover • care • share
+> **Word Bank:** poster • factory • worker • always
 
 | English Word | বাংলা অর্থ |
 |---|---|
-|  |  |
 |  |  |
 |  |  |
 |  |  |
@@ -1005,11 +1004,10 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 
 **Vocabulary Writing** *(practice — not marked)*
 
-> **Word Bank:** bring • fill • carry • borrow • destroy
+> **Word Bank:** carefully • slowly • happily • loudly
 
 | English Word | বাংলা অর্থ |
 |---|---|
-|  |  |
 |  |  |
 |  |  |
 |  |  |

@@ -49,9 +49,9 @@
        "marks": 1
       },
       {
-       "text": "The pot stands on the wall.",
+       "text": "The pot is on the shelf.",
        "answer": "Preposition",
-       "trigger": "wall",
+       "trigger": "shelf",
        "marks": 1
       },
       {
@@ -73,13 +73,13 @@
        "marks": 1
       },
       {
-       "text": "A cold night came.",
+       "text": "It was a cold night.",
        "answer": "Adjective",
        "trigger": "cold",
        "marks": 1
       },
       {
-       "text": "The ball rests under the tree.",
+       "text": "The man rests under the tree.",
        "answer": "Preposition",
        "trigger": "tree",
        "marks": 1
@@ -162,37 +162,37 @@
      "name": "B",
      "items": [
       {
-       "text": "The ball is ___ the box. (inside)",
+       "text": "The ball is ___ the box. (ভিতরে)",
        "answer": "in",
        "trigger": "box",
        "marks": 1
       },
       {
-       "text": "The bird sits ___ the tree. (on top of)",
+       "text": "The bird sits ___ the tree. (উপরে)",
        "answer": "on",
        "trigger": "tree",
        "marks": 1
       },
       {
-       "text": "The bag is ___ the table. (below)",
+       "text": "The bag is ___ the table. (নিচে)",
        "answer": "under",
        "trigger": "table",
        "marks": 1
       },
       {
-       "text": "The shop is ___ the river. (close to)",
+       "text": "The shop is ___ the river. (কাছে)",
        "answer": "near",
        "trigger": "river",
        "marks": 1
       },
       {
-       "text": "The ball rolls ___ the box. (moving inside)",
+       "text": "The ball rolls ___ the box. (ভিতরের দিকে)",
        "answer": "into",
        "trigger": "box",
        "marks": 1
       },
       {
-       "text": "My uncle waits ___ the shop. (that spot)",
+       "text": "My uncle waits ___ the shop. (নির্দিষ্ট জায়গায়)",
        "answer": "at",
        "trigger": "shop",
        "marks": 1
@@ -343,9 +343,9 @@
        "marks": 1
       },
       {
-       "text": "A fresh flower bloomed.",
+       "text": "A red flower bloomed.",
        "answer": "Adjective",
-       "trigger": "fresh",
+       "trigger": "red",
        "marks": 1
       },
       {
@@ -390,37 +390,37 @@
      "name": "B",
      "items": [
       {
-       "text": "The boy stands ___ the shop. (that spot)",
+       "text": "The boy stands ___ the shop. (নির্দিষ্ট জায়গায়)",
        "answer": "at",
        "trigger": "shop",
        "marks": 1
       },
       {
-       "text": "The ball is ___ the bed. (below)",
+       "text": "The ball is ___ the bed. (নিচে)",
        "answer": "under",
        "trigger": "bed",
        "marks": 1
       },
       {
-       "text": "The pen is ___ the bag. (inside)",
+       "text": "The pen is ___ the bag. (ভিতরে)",
        "answer": "in",
        "trigger": "bag",
        "marks": 1
       },
       {
-       "text": "The rain flows ___ the river. (moving inside)",
+       "text": "The rain flows ___ the river. (ভিতরের দিকে)",
        "answer": "into",
        "trigger": "river",
        "marks": 1
       },
       {
-       "text": "The picture hangs ___ the wall. (on the surface)",
+       "text": "The picture hangs ___ the wall. (উপরে)",
        "answer": "on",
        "trigger": "wall",
        "marks": 1
       },
       {
-       "text": "The park is ___ the school. (close to)",
+       "text": "The park is ___ the school. (কাছে)",
        "answer": "near",
        "trigger": "school",
        "marks": 1
