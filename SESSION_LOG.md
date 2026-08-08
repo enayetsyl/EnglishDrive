@@ -92,3 +92,9 @@ Append-only. Newest entry last. Never overwrite past entries.
   550 citations / 58 files, 37 PDs defined, 0 unknown, 0 superseded.
 - Flags: C4B06 v1.7 PT review (other session) contains new Principal corrections not yet
   in the ledger — candidate rows for that session or the next review.
+- Follow-up rulings (same session): **PD-038** — PD-036 zero-repeat governs, CW↔HW ≤2
+  allowance kept as backstop only (gate report line updated); threshold stays 0.
+  v1.7 PT corrections logged cross-session as **CR-017** (class list, via CR-008/PD-037),
+  **CR-018** (items 13/16, reason pending), **CR-019** (Part C clue give-aways — CR-016
+  type, 2nd occurrence). CR-018 rationale and the Part E 5→2 reduction await the
+  reviewing session; duplicates to be merged on next view.

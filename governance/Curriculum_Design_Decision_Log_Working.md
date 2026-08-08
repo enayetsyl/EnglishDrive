@@ -533,4 +533,10 @@ Decisions made in principle but not yet implemented. Not official until converte
 
 ---
 
+### PD-038 — PD-036 zero-repeat standard governs; CW↔HW ≤2-identical-items allowance kept as backstop only
+**Decision:** PD-036's zero-repeat standard supersedes the CW↔HW ≤2-identical-items allowance, which can never bind at 0. The ≤2 rule stays in `run_all.py` as a defense-in-depth check but is no longer the governing standard. `CROSS_SHEET_MAX_REPEATS` remains 0 (Principal threshold ruling). The CW↔HW gate's report line now carries "(superseded by PD-036 zero-repeat, kept as backstop)".
+**Status:** Ruled (Principal, 08.08.26).
+
+---
+
 *End of working log as of 01.08.26. Several items from the most recent Class 4 Block 02 and Class 3 Block 02 discussions are still pending your classification/confirmation and are not yet included above.*

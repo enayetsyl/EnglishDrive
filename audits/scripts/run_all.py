@@ -122,7 +122,9 @@ def gate_pair_overlap(m):
         ident = sum(1 for t in ot if t in st)
         if ident > 2:
             fails.append(f"{sheet['name']}↔{pair}: {ident} identical item texts (> 2)")
-    return ("CW↔HW overlap", not fails, "; ".join(notes) or "no pairs declared", fails)
+    note = ("; ".join(notes) or "no pairs declared") + \
+        " (superseded by PD-036 zero-repeat, kept as backstop)"
+    return ("CW↔HW overlap", not fails, note, fails)
 
 
 def gate_pt_zero_overlap(m):
