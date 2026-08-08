@@ -2,6 +2,30 @@
  "block_id": "C4B06",
  "build_week": 6,
  "exemplars": [],
+ "block_local": [
+  "box",
+  "ball",
+  "desk",
+  "table",
+  "chair",
+  "bag",
+  "gate",
+  "wall",
+  "bed",
+  "pot",
+  "Sunday",
+  "Monday",
+  "Thursday",
+  "Saturday",
+  "June",
+  "July",
+  "summer",
+  "winter",
+  "spring",
+  "evening",
+  "night",
+  "dawn"
+ ],
  "sheets": [
   {
    "name": "CW1",
@@ -179,32 +203,32 @@
      "name": "C",
      "items": [
       {
-       "text": "CW1 C row: in / the box",
-       "answer": "the box",
-       "trigger": "box",
+       "text": "The ball is ( under / on ) the bed, so we cannot see it.",
+       "answer": "under",
+       "trigger": "bed",
        "marks": 1
       },
       {
-       "text": "CW1 C row: under / the table",
-       "answer": "the table",
-       "trigger": "table",
+       "text": "The spoon lies ( on / in ) the desk.",
+       "answer": "on",
+       "trigger": "desk",
        "marks": 1
       },
       {
-       "text": "CW1 C row: near / the river",
-       "answer": "the river",
+       "text": "The water is ( in / on ) the glass.",
+       "answer": "in",
+       "trigger": "glass",
+       "marks": 1
+      },
+      {
+       "text": "The park is ( near / in ) the river.",
+       "answer": "near",
        "trigger": "river",
        "marks": 1
       },
       {
-       "text": "CW1 C row: on / the wall",
-       "answer": "the wall",
-       "trigger": "wall",
-       "marks": 1
-      },
-      {
-       "text": "CW1 C row: at / the gate",
-       "answer": "the gate",
+       "text": "The teacher waits ( at / into ) the gate.",
+       "answer": "at",
        "trigger": "gate",
        "marks": 1
       }
@@ -384,9 +408,9 @@
        "marks": 1
       },
       {
-       "text": "The child runs ___ the room. (moving inside)",
+       "text": "The rain flows ___ the river. (moving inside)",
        "answer": "into",
-       "trigger": "room",
+       "trigger": "river",
        "marks": 1
       },
       {
@@ -407,33 +431,33 @@
      "name": "C",
      "items": [
       {
-       "text": "HW1 C row: in / the pot",
-       "answer": "the pot",
-       "trigger": "pot",
+       "text": "The card is ( in / into ) the bag.",
+       "answer": "in",
+       "trigger": "bag",
        "marks": 1
       },
       {
-       "text": "HW1 C row: under / the bed",
-       "answer": "the bed",
-       "trigger": "bed",
+       "text": "The vehicle stops ( at / in ) the gate.",
+       "answer": "at",
+       "trigger": "gate",
        "marks": 1
       },
       {
-       "text": "HW1 C row: near / the school",
-       "answer": "the school",
-       "trigger": "school",
+       "text": "The factory is ( near / in ) the river.",
+       "answer": "near",
+       "trigger": "river",
        "marks": 1
       },
       {
-       "text": "HW1 C row: on / the desk",
-       "answer": "the desk",
+       "text": "The pot is ( under / on ) the desk, so we cannot see it.",
+       "answer": "under",
        "trigger": "desk",
        "marks": 1
       },
       {
-       "text": "HW1 C row: at / the park",
-       "answer": "the park",
-       "trigger": "park",
+       "text": "The poster is ( on / in ) the wall.",
+       "answer": "on",
+       "trigger": "wall",
        "marks": 1
       }
      ]
@@ -510,7 +534,7 @@
        "marks": 1
       },
       {
-       "text": "The chair stood in the room.",
+       "text": "The chair stood near the wall.",
        "answer": "Noun",
        "trigger": "chair",
        "marks": 1
@@ -698,7 +722,7 @@
        "marks": 1
       },
       {
-       "text": "The mosque opens at dawn.",
+       "text": "The school opens at dawn.",
        "answer": "Preposition",
        "trigger": "dawn",
        "marks": 1
@@ -891,7 +915,7 @@
        "marks": 1
       },
       {
-       "text": "You help the poor.",
+       "text": "You help your friend.",
        "answer": "Pronoun",
        "trigger": null,
        "marks": 1
@@ -968,7 +992,7 @@
      "name": "B",
      "items": [
       {
-       "text": "I go to school ___ my friend. (together)",
+       "text": "I go to school ___ my friend. (সঙ্গে)",
        "answer": "with",
        "trigger": "friend",
        "marks": 1
@@ -998,7 +1022,7 @@
        "marks": 1
       },
       {
-       "text": "I walk ___ my father. (together)",
+       "text": "I walk ___ my father. (সঙ্গে)",
        "answer": "with",
        "trigger": "father",
        "marks": 1
@@ -1009,27 +1033,27 @@
      "name": "C",
      "items": [
       {
-       "text": "CW3 C row: with / my friend",
-       "answer": "my friend",
+       "text": "I gave the letter ( to / from ) my aunt.",
+       "answer": "to",
+       "trigger": "aunt",
+       "marks": 1
+      },
+      {
+       "text": "I got a card ( from / to ) my uncle.",
+       "answer": "from",
+       "trigger": "uncle",
+       "marks": 1
+      },
+      {
+       "text": "This is the bag ( of / with ) my cousin.",
+       "answer": "of",
+       "trigger": "cousin",
+       "marks": 1
+      },
+      {
+       "text": "I share my meal ( with / of ) my friend.",
+       "answer": "with",
        "trigger": "friend",
-       "marks": 1
-      },
-      {
-       "text": "CW3 C row: from / my sister",
-       "answer": "my sister",
-       "trigger": "sister",
-       "marks": 1
-      },
-      {
-       "text": "CW3 C row: of / my brother",
-       "answer": "my brother",
-       "trigger": "brother",
-       "marks": 1
-      },
-      {
-       "text": "CW3 C row: to / my teacher",
-       "answer": "my teacher",
-       "trigger": "teacher",
        "marks": 1
       }
      ]
@@ -1131,7 +1155,7 @@
        "marks": 1
       },
       {
-       "text": "We help the poor.",
+       "text": "We help our teacher.",
        "answer": "Verb",
        "trigger": "help",
        "marks": 1
@@ -1196,7 +1220,7 @@
        "marks": 1
       },
       {
-       "text": "I play ___ my cousin. (together)",
+       "text": "I play ___ my cousin. (সঙ্গে)",
        "answer": "with",
        "trigger": "cousin",
        "marks": 1
@@ -1208,7 +1232,7 @@
        "marks": 1
       },
       {
-       "text": "I live ___ my family. (together)",
+       "text": "I live ___ my family. (সঙ্গে)",
        "answer": "with",
        "trigger": "family",
        "marks": 1
@@ -1231,27 +1255,27 @@
      "name": "C",
      "items": [
       {
-       "text": "HW3 C row: with / my cousin",
-       "answer": "my cousin",
+       "text": "This is the picture ( of / to ) my village.",
+       "answer": "of",
+       "trigger": "village",
+       "marks": 1
+      },
+      {
+       "text": "I sit ( with / from ) my father.",
+       "answer": "with",
+       "trigger": "father",
+       "marks": 1
+      },
+      {
+       "text": "I sent a card ( to / of ) my cousin.",
+       "answer": "to",
        "trigger": "cousin",
        "marks": 1
       },
       {
-       "text": "HW3 C row: from / my aunt",
-       "answer": "my aunt",
-       "trigger": "aunt",
-       "marks": 1
-      },
-      {
-       "text": "HW3 C row: of / my uncle",
-       "answer": "my uncle",
-       "trigger": "uncle",
-       "marks": 1
-      },
-      {
-       "text": "HW3 C row: to / my brother",
-       "answer": "my brother",
-       "trigger": "brother",
+       "text": "The gift came ( from / with ) my teacher.",
+       "answer": "from",
+       "trigger": "teacher",
        "marks": 1
       }
      ]
@@ -1304,7 +1328,7 @@
        "marks": 1
       },
       {
-       "text": "The chair stood in the room.",
+       "text": "The chair stood near the wall.",
        "answer": "Noun",
        "trigger": "chair",
        "marks": 1
@@ -1659,15 +1683,15 @@
        "marks": 0.5
       },
       {
-       "text": "The teacher praised him warmly.",
+       "text": "The teacher thanked him warmly.",
        "answer": "Pronoun",
        "trigger": null,
        "marks": 0.5
       },
       {
-       "text": "The cat sleeps under the bench.",
+       "text": "The cat sleeps under the chair.",
        "answer": "Preposition",
-       "trigger": "bench",
+       "trigger": "chair",
        "marks": 0.5
       },
       {
@@ -1683,15 +1707,15 @@
        "marks": 0.5
       },
       {
-       "text": "They walked to the mosque together.",
+       "text": "They walked to the school quietly.",
        "answer": "Pronoun",
        "trigger": null,
        "marks": 0.5
       },
       {
-       "text": "The gift is from my grandfather.",
+       "text": "The card is from my uncle.",
        "answer": "Preposition",
-       "trigger": "grandfather",
+       "trigger": "uncle",
        "marks": 0.5
       },
       {
@@ -1707,21 +1731,21 @@
        "marks": 0.5
       },
       {
-       "text": "This garden is very quiet.",
+       "text": "This school is very quiet.",
        "answer": "Adjective",
        "trigger": null,
        "marks": 0.5
       },
       {
-       "text": "The keys lie in the drawer.",
+       "text": "The cards lie in the box.",
        "answer": "Preposition",
-       "trigger": "drawer",
+       "trigger": "box",
        "marks": 0.5
       },
       {
-       "text": "We gave the food to the poor.",
+       "text": "We gave the food to the people.",
        "answer": "Preposition",
-       "trigger": "poor",
+       "trigger": "people",
        "marks": 0.5
       },
       {
@@ -1737,7 +1761,7 @@
        "marks": 0.5
       },
       {
-       "text": "A fresh breeze cooled the room.",
+       "text": "A fresh flower grew near the river.",
        "answer": "Adjective",
        "trigger": "fresh",
        "marks": 0.5
@@ -1748,9 +1772,9 @@
      "name": "C",
      "items": [
       {
-       "text": "The lamp stands ___ the corner. (that spot)",
+       "text": "The teacher waits ___ the gate. (that spot)",
        "answer": "at",
-       "trigger": "corner",
+       "trigger": "gate",
        "marks": 0.5
       },
       {
@@ -1772,21 +1796,21 @@
        "marks": 0.5
       },
       {
-       "text": "The dog sleeps ___ the porch. (on the surface)",
+       "text": "The card lies ___ the table. (on the surface)",
        "answer": "on",
-       "trigger": "porch",
+       "trigger": "table",
        "marks": 0.5
       },
       {
-       "text": "I share my lunch ___ my friend. (together)",
+       "text": "I share my lunch ___ my friend. (সঙ্গে)",
        "answer": "with",
        "trigger": "friend",
        "marks": 0.5
       },
       {
-       "text": "The ball rolled ___ the hole. (moving inside)",
+       "text": "The ball rolled ___ the pot. (moving inside)",
        "answer": "into",
-       "trigger": "hole",
+       "trigger": "pot",
        "marks": 0.5
       },
       {
@@ -1801,7 +1825,7 @@
      "name": "D",
      "items": [
       {
-       "text": "Yusuf prayed at dawn.",
+       "text": "Abdullah washed his hands.",
        "answer": "He",
        "marks": 1
       },
@@ -1816,7 +1840,7 @@
        "marks": 1
       },
       {
-       "text": "Mother cooked the meal.",
+       "text": "Father brought the picture.",
        "answer": "it",
        "marks": 1
       },
@@ -1837,27 +1861,27 @@
        "marks": 1
       },
       {
-       "text": "meal ______________________________________________",
-       "answer": null,
-       "trigger": "meal",
-       "marks": 1
-      },
-      {
        "text": "teacher ____________________________________________",
        "answer": null,
        "trigger": "teacher",
        "marks": 1
       },
       {
-       "text": "bird ______________________________________________",
+       "text": "picture ____________________________________________",
        "answer": null,
-       "trigger": "bird",
+       "trigger": "picture",
        "marks": 1
       },
       {
-       "text": "garden ____________________________________________",
+       "text": "village ____________________________________________",
        "answer": null,
-       "trigger": "garden",
+       "trigger": "village",
+       "marks": 1
+      },
+      {
+       "text": "spoon ______________________________________________",
+       "answer": null,
+       "trigger": "spoon",
        "marks": 1
       }
      ]

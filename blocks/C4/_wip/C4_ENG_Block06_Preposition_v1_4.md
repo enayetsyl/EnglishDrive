@@ -3,7 +3,7 @@
 **Class:** 4 · **Block:** 6 (Preposition) · **Week:** W6 · **Load:** FULL (solo) · **Days:** 4 (Sun–Wed) + combined Performance Test (Thu)
 **Branch:** delivered at Sylhet · binding exam papers are Mohammadpur/Muhammadpur papers
 **Canonical IDs:** master `C4_ENG_Block06_Preposition` · extracts `C4B06-CW1…CW4`, `C4B06-HW1…HW4`, `C4B06-AK`, combined PT `C4B0506-PT`
-**Status:** v1.3 — built 2026-08-06; review pass (adverb, definitions, birthday, terminology) 2026-08-06
+**Status:** v1.4 — built 2026-08-06; CW/HW/PT review pass F1–F12 (Principal-ruled) 2026-08-08. **All audit gates PASS** — `audits/reports/C4B06_audit_2026-08-08.txt`.
 
 ---
 
@@ -20,14 +20,18 @@
 | **Paper wording adopted** | *"Identify the parts of speech of the underlined words."* / *"Identify the Parts of Speech of the bold word in each sentence."* | HY25 Q6 / Annual Q4 (verbatim) |
 | **Bloom band** | Understand/Apply dominant, more Analyze than C3 (sort/find-the-error), guided Create close | Drive Plan §6 · Charter §G · REF-18 §4.1 |
 | **Self-construction rubric** | **4 marks**, four criteria at 1 each, uniform across classes; value alignment not scored | Charter §I.3 · Drive Plan §9 · PD-010 |
-| **Held-word scope** | Graded surface fully buildable on held W1–W6 vocabulary (73 held nouns + the preposition set as function words). **Block-local concrete place-noun set (PD-028): box, ball, desk, table, chair, bag, gate, wall, bed, pot** — taught Day 1 in the box-and-ball demonstration, held for this block's graded place items. | `C4_ENG_VocabPool_v4.xlsx` / `VocabBatchOrder_v2.xlsx`, POS-verified; PD-028 |
-| **Grammar Exemplars / overrides** | **None.** The preposition is the graded class (function word); every carrier/object noun is held or a permitted carrier (§6.5). No PD-009 / PD-011 mechanism needed. | This build, Phase 1 |
+| **Held-word scope** | Graded surface built on held W1–W6 vocabulary (73 held nouns + the preposition set as function words) plus **two declared block-local sets (PD-012)**. | `C4_ENG_VocabPool_v4.xlsx` / `VocabBatchOrder_v2.xlsx`, POS-verified |
+| **Block-local set 1 — place nouns (PD-012)** | **box · ball · desk · table · chair · bag · gate · wall · bed · pot** — taught Day 1 in the box-and-ball demonstration; gradeable in this block's place items. | PD-012 |
+| **Block-local set 2 — time nouns (PD-012, as extended by PD-035)** | **Sunday · Monday · Thursday · Saturday · June · July · summer · winter · spring · evening · night · dawn** (12) — taught Day 2 on the clock/calendar cue; gradeable in this block's time items. *`morning` and `day` are already held (W1) and are not block-local.* **Why declared:** the at/on/in contrast **is** the concept — the preposition is chosen by the *type* of its object — and File 2 holds only `morning` and `day` by W6, both in the same category, so the pool cannot supply one contrasting pair. The §2 cap (*"**Place/time** prepositions"*) and TG outcome 9.3.4 both require the time strand, but **no binding C4 paper tests it** — so PD-012's exam-required trigger did not reach this case until **PD-035** extended it to concepts required by the Drive Plan §2 cap. | PD-012 · **PD-035** |
+| **Block-local constraints observed** | Both sets are gradeable **only** inside C4B06's CW/HW/PT; **neither appears in the PT Part-A dictation list** (which is the W6 held batch); neither is held by later blocks — Blocks 8–9 must re-declare if they want the time expressions (Principal ruling: block-scoped, not a standing C4 set); neither is added to File 2. | PD-012 · PD-035 |
 | **Class size** | 12 (Sylhet Class 4 roll) — sets the Exit Check prompt count | Principal, confirmed 2026-07-29 |
 | **Values guards** | §H.3 sacred-word guard · §H.8 no living-being imagery on sheets · §H.9 curation · non-mahram pairing screen · attribution screen for natural phenomena | Charter §H |
 
 **Governing versions at build time:** Charter **v1.5** · Run Book **v1.17** · Drive Plan **v1.11** · Pool v4 / Batch Order v2.
 
-**Cross-block dependency (flagged):** the delivered Block 5 master's `C4B05-PT` (Adjective + Pronoun) was **built but not administered** — its W5 Thursday PT was lost to a holiday. Its assessment is carried into this block's **combined `C4B0506-PT`**. A matching pointer sits in the Block 5 master. *(PD-028.)*
+**Cross-block dependency (flagged):** the delivered Block 5 master's `C4B05-PT` (Adjective + Pronoun) was **built but not administered** — its W5 Thursday PT was lost to a holiday. Its assessment is carried into this block's **combined `C4B0506-PT`**. A matching pointer sits in the Block 5 master. *(**PD-029**.)*
+
+**Grammar Exemplars / overrides — none.** The preposition is the graded class and is a **function word**: under **PD-026** a closed-class item that *is* the grammar objective takes none of the three non-held statuses (§5.7 exemplar, §5.8 block-local, §5.9 override) and is correctly absent from File 2. No PD-009 exemplar or PD-011 override is declared. The two block-local sets above are open-class **content** nouns and are declared under PD-012/PD-035, which is a different instrument.
 
 ---
 
@@ -37,13 +41,13 @@
 - **Clue Card:** cap-limited, **non-living** picture chart (place prepositions pictured; time-uses on a clock/calendar cue). Generated externally from a supplied prompt; embedded on the Clue Card only, never on a graded sheet.
 - **Graded items:** text-based identify-P.O.S. (the papers' format); pictures stay on teaching + Clue Card + one non-graded picture-practice cue.
 - **`at` dual-job:** introduced Day 1 (place: *at the shop*) and Day 2 (time: *at 6 o'clock*) with an explicit "same word, two jobs" note.
-- **Cap set (nine, taught):** in · on · under · at · with · from · into · near · of · to. Out of cap (not taught/graded): beside, behind, between, above, below, over, during, among, before, after, etc.
+- **Cap set (ten, taught):** in · on · under · at · with · from · into · near · of · to. Out of cap (not taught/graded): beside, behind, between, above, below, over, during, among, before, after, etc.
 
 ---
 
 ## Teacher checklist
 
-- ☐ Teach only the **nine cap prepositions**; **no prepositional-verb/idiom work.**
+- ☐ Teach only the **ten cap prepositions**; **no prepositional-verb/idiom work.**
 - ☐ Re-walk Block 1 (four core classes: noun, verb, adjective, adverb) + Blocks 5a/5b (adjective/pronoun boundary — the **Word-Role Clue Card from Blocks 1/5**) before the block's own work. **This block's own Preposition Clue Card** (below) is the new concept card.
 - ☐ Teach **place first (box + ball demo), then time (clock/calendar cue)**; `at` on Day 1 (place) and Day 2 (time) with the "two jobs" note.
 - ☐ Graded items use **held or block-local** vocabulary; every underlined target has exactly one defensible class. Preposition graded via identify-P.O.S. (papers' format).
@@ -104,7 +108,7 @@
 > - A preposition shows **where / when**; it does **not describe** a thing (that is an adjective's job).
 > *(preposition জায়গা/সময় দেখায় — বর্ণনা করে না।)*
 
-*(The nine cap prepositions — in · on · under · at · with · from · into · near · of · to. The place row is illustrated by the non-living picture chart (ball + box/table/chair/gate style); the time uses are shown on a clock + calendar cue.)*
+*(The ten cap prepositions — in · on · under · at · with · from · into · near · of · to. The place row is illustrated by the non-living picture chart (ball + box/table/chair/gate style); the time uses are shown on a clock + calendar cue.)*
 
 ---
 
@@ -134,7 +138,7 @@ Books closed. Write on the board: `river · flow · cold · it`
 
 ### Step 2 — Box + ball: the *where* words (5–14 min)
 
-**Hold up the box and the ball.** This is the concept-discovery step — move the ball, let the class name the position. Do it slowly; let them see each one. *(As you name each object — box, ball — write it on the board; these ten concrete words are the block-local set taught today, PD-028.)*
+**Hold up the box and the ball.** This is the concept-discovery step — move the ball, let the class name the position. Do it slowly; let them see each one. *(As you name each object — box, ball — write it on the board; these ten concrete words are the block-local set taught today, PD-012.)*
 
 > **Say:** "Watch my hands. I have a box and a ball. I am going to put the ball in different places, and you tell me **where** it is."
 
@@ -613,15 +617,13 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 25. The ball rolls ___ the box. *(moving inside)*
 26. My uncle waits ___ the shop. *(that spot)*
 
-**Part C — Match the preposition to the phrase.** *Draw a line. Each preposition fits exactly one.* *(5 items, 1 mark each)*
+**Part C — Circle the correct preposition.** *(5 items, 1 mark each)*
 
-| | Preposition | | Phrase |
-|---|---|---|---|
-| 27. | in | | the table |
-| 28. | under | | the wall |
-| 29. | near | | the box |
-| 30. | on | | the gate |
-| 31. | at | | the river |
+27. The ball is ( under / on ) the bed, so we cannot see it.
+28. The spoon lies ( on / in ) the desk.
+29. The water is ( in / on ) the glass.
+30. The park is ( near / in ) the river.
+31. The teacher waits ( at / into ) the gate.
 
 **Part D — Write your own sentence** using a preposition of place with each noun. Underline the preposition. *(3 items, 2 marks each)*
 
@@ -664,19 +666,17 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 21. The boy stands ___ the shop. *(that spot)*
 22. The ball is ___ the bed. *(below)*
 23. The pen is ___ the bag. *(inside)*
-24. The child runs ___ the room. *(moving inside)*
+24. The rain flows ___ the river. *(moving inside)*
 25. The picture hangs ___ the wall. *(on the surface)*
 26. The park is ___ the school. *(close to)*
 
-**Part C — Match the preposition to the phrase.** *(5 items, 1 mark each)*
+**Part C — Circle the correct preposition.** *(5 items, 1 mark each)*
 
-| | Preposition | | Phrase |
-|---|---|---|---|
-| 27. | in | | the bed |
-| 28. | under | | the desk |
-| 29. | near | | the pot |
-| 30. | on | | the school |
-| 31. | at | | the park |
+27. The card is ( in / into ) the bag.
+28. The vehicle stops ( at / in ) the gate.
+29. The factory is ( near / in ) the river.
+30. The pot is ( under / on ) the desk, so we cannot see it.
+31. The poster is ( on / in ) the wall.
 
 **Total: 31 marks**
 
@@ -710,7 +710,7 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 8. The **tall** tree has green leaves.
 9. She works **carefully**.
 10. It is hot **in** summer.
-11. The **chair** stood in the room.
+11. The **chair** stood near the wall.
 12. We meet **at** four o'clock.
 13. A **small** bird drinks water.
 14. The holiday begins **on** the tenth of May.
@@ -760,7 +760,7 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 5. The children **play** happily.
 6. **She** waits by the gate.
 7. We fast **on** the first of Ramadan.
-8. The mosque opens **at** dawn.
+8. The school opens **at** dawn.
 9. The **clean** water is fresh.
 10. We pray **in** the evening.
 11. The **river** flows slowly.
@@ -820,7 +820,7 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 6. This is the bag **of** my friend.
 7. This is the picture **of** my family.
 8. The **village** is quiet.
-9. **You** help the poor.
+9. **You** help your friend.
 10. The gift came **from** the shop.
 11. The **doctor** helps people.
 12. I gave the card **to** my cousin.
@@ -835,21 +835,19 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 
 **Part B — Fill in the blank with the correct relation preposition (*with / from / of / to*).** *(6 items, 1 mark each)*
 
-21. I go to school ___ my friend. *(together)*
+21. I go to school ___ my friend. *(সঙ্গে)*
 22. I got a letter ___ my sister. *(coming from)*
 23. This is the bag ___ my brother. *(belonging to)*
 24. I give the book ___ my teacher. *(towards)*
 25. A gift came ___ my uncle. *(coming from)*
-26. I walk ___ my father. *(together)*
+26. I walk ___ my father. *(সঙ্গে)*
 
-**Part C — Match the preposition to the phrase.** *(4 items, 1 mark each)*
+**Part C — Circle the correct preposition.** *(4 items, 1 mark each)*
 
-| | Preposition | | Phrase |
-|---|---|---|---|
-| 27. | with | | my sister |
-| 28. | from | | my brother |
-| 29. | of | | my teacher |
-| 30. | to | | my friend |
+27. I gave the letter ( to / from ) my aunt.
+28. I got a card ( from / to ) my uncle.
+29. This is the bag ( of / with ) my cousin.
+30. I share my meal ( with / of ) my friend.
 
 **Part D — Write your own sentence** using each relation preposition. Underline it. *(3 items, 2 marks each)*
 
@@ -877,7 +875,7 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 9. I sent a letter **to** my brother.
 10. We give food **to** the child.
 11. She **prepares** the meal.
-12. We **help** the poor.
+12. We **help** our teacher.
 13. I show the picture **to** my mother.
 14. This is the house **of** my uncle.
 15. A **happy** child laughed.
@@ -890,20 +888,18 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 **Part B — Fill in the blank with the correct relation preposition (*with / from / of / to*).** *(6 items, 1 mark each)*
 
 21. This is the house ___ my uncle. *(belonging to)*
-22. I play ___ my cousin. *(together)*
+22. I play ___ my cousin. *(সঙ্গে)*
 23. A gift arrived ___ my friend. *(coming from)*
-24. I live ___ my family. *(together)*
+24. I live ___ my family. *(সঙ্গে)*
 25. I sent a letter ___ my brother. *(towards)*
 26. A card came ___ my aunt. *(coming from)*
 
-**Part C — Match the preposition to the phrase.** *(4 items, 1 mark each)*
+**Part C — Circle the correct preposition.** *(4 items, 1 mark each)*
 
-| | Preposition | | Phrase |
-|---|---|---|---|
-| 27. | with | | my aunt |
-| 28. | from | | my brother |
-| 29. | of | | my cousin |
-| 30. | to | | my uncle |
+27. This is the picture ( of / to ) my village.
+28. I sit ( with / from ) my father.
+29. I sent a card ( to / of ) my cousin.
+30. The gift came ( from / with ) my teacher.
 
 **Total: 30 marks**
 
@@ -932,7 +928,7 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 4. They **visit** the sick.
 5. We give food **to** the child.
 6. The shop opens **at** eight o'clock.
-7. The **chair** stood in the room.
+7. The **chair** stood near the wall.
 8. The tree grows **near** the river.
 9. The child reads **loudly**.
 10. A **small** bird drinks water.
@@ -1025,7 +1021,7 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 
 **Combined Thursday PT · Week 6 · covers Block 5 (Adjective + Pronoun) and Block 6 (Preposition)**
 
-> **Why combined:** the W5 Thursday PT for Block 5 (Adjective + Pronoun) was lost to a holiday, so its assessment folds into this W6 PT alongside Preposition (Block 6). One C4 period. Cross-block dependency: the delivered Block 5 master's `C4B05-PT` was built but not administered — its assessment is carried here; a pointer sits in both files. *(PD-028.)*
+> **Why combined:** the W5 Thursday PT for Block 5 (Adjective + Pronoun) was lost to a holiday, so its assessment folds into this W6 PT alongside Preposition (Block 6). One C4 period. Cross-block dependency: the delivered Block 5 master's `C4B05-PT` was built but not administered — its assessment is carried here; a pointer sits in both files. *(**PD-029**.)*
 
 **Name:** ___________________ **Date:** ___________ **Total: 36 marks**
 
@@ -1044,42 +1040,42 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 
 1. The **kind** teacher helped the boy.
 2. She keeps **her** books on the shelf.
-3. The teacher praised **him** warmly.
-4. The cat sleeps **under** the bench.
+3. The teacher thanked **him** warmly.
+4. The cat sleeps **under** the chair.
 5. We meet our friends **on** Sunday.
 6. A **strong** horse pulled the cart.
-7. **They** walked to the mosque together.
-8. The gift is **from** my grandfather.
+7. **They** walked to the school quietly.
+8. The card is **from** my uncle.
 9. The **doctor** treated the patients.
 10. The farmers **grow** wheat in the field.
-11. **This** garden is very quiet.
-12. The keys lie **in** the drawer.
-13. We gave the food **to** the poor.
+11. **This** school is very quiet.
+12. The cards lie **in** the box.
+13. We gave the food **to** the people.
 14. My **uncle** owns a small shop.
 15. **We** rested near the pond.
-16. A **fresh** breeze cooled the room.
+16. A **fresh** flower grew near the river.
 
 ---
 
 **Part C — Fill in the blank with the correct preposition.** *The clue in brackets helps you.* *(8 items, ½ mark each = 4 marks)*
 
-1. The lamp stands ___ the corner. *(that spot)*
+1. The teacher waits ___ the gate. *(that spot)*
 2. The train arrives ___ ten o'clock. *(exact time)*
 3. We travel ___ winter. *(a season)*
 4. The letter came ___ my cousin. *(coming from)*
-5. The dog sleeps ___ the porch. *(on the surface)*
-6. I share my lunch ___ my friend. *(together)*
-7. The ball rolled ___ the hole. *(moving inside)*
+5. The card lies ___ the table. *(on the surface)*
+6. I share my lunch ___ my friend. *(সঙ্গে)*
+7. The ball rolled ___ the pot. *(moving inside)*
 8. The school stands ___ the river. *(close to)*
 
 ---
 
 **Part D — Rewrite each sentence, replacing the bold noun with the correct pronoun. Write the full new sentence.** *(5 items, 1 mark each = 5 marks)*
 
-1. **Yusuf** prayed at dawn.
+1. **Abdullah** washed his hands.
 2. The teacher praised **Aisha**.
 3. **The boys** cleaned the yard.
-4. Mother cooked **the meal**.
+4. Father brought **the picture**.
 5. The imam guided **the people**.
 
 ---
@@ -1087,10 +1083,10 @@ All eight worksheets follow. **Answer keys are not printed on student sheets** �
 **Part E — Add a describing word (adjective) before each noun and write the full sentence. Underline the adjective.** *(5 items, 1 mark each = 5 marks)*
 
 1. river ______________________________________________
-2. meal ______________________________________________
-3. teacher ____________________________________________
-4. bird ______________________________________________
-5. garden ____________________________________________
+2. teacher ____________________________________________
+3. picture ____________________________________________
+4. village ____________________________________________
+5. spoon ______________________________________________
 
 ---
 
@@ -1136,12 +1132,12 @@ Choose **one** word from the box. Then: **(1)** name its part of speech, **(2)**
 
 ## Secondary-part keys
 
-**CW-1** — Part B (fill place prep): 21.in 22.on 23.under 24.near 25.into 26.at · Part C (match): in→the box, under→the table, near→the river, on→the wall, at→the gate · Part D (32–34): open construction, 2 marks each — preposition of place before the noun, underlined.
-**HW-1** — Part B: 21.at 22.under 23.in 24.into 25.on 26.near · Part C: in→the pot, under→the bed, near→the school, on→the desk, at→the park.
+**CW-1** — Part B (fill place prep): 21.in 22.on 23.under 24.near 25.into 26.at · Part C (circle): 27.under 28.on 29.in 30.near 31.at · Part D (32–34): open construction, 2 marks each — preposition of place before the noun, underlined.
+**HW-1** — Part B: 21.at 22.under 23.in 24.into 25.on 26.near · Part C (circle): 27.in 28.at 29.near 30.under 31.on.
 **CW-2** — Part B (at/on/in): 21.at 22.on 23.in 24.in 25.on 26.at · Part C (sort): **at** — 8 o'clock, six o'clock · **on** — Monday, the fifth of May · **in** — June, the evening · Part D (27–29): open construction, 2 marks each — correct time preposition.
 **HW-2** — Part B: 21.in 22.at 23.on 24.at 25.in 26.on · Part C (sort): **at** — 9 o'clock, ten o'clock · **on** — Sunday, the first of June · **in** — July, the morning.
-**CW-3** — Part B (relation): 21.with 22.from 23.of 24.to 25.from 26.with · Part C (match): with→my friend, from→my sister, of→my brother, to→my teacher · Part D (31–33): open construction, 2 marks each — relation preposition, underlined.
-**HW-3** — Part B: 21.of 22.with 23.from 24.with 25.to 26.from · Part C (match): with→my cousin, from→my aunt, of→my uncle, to→my brother.
+**CW-3** — Part B (relation): 21.with 22.from 23.of 24.to 25.from 26.with · Part C (circle): 27.to 28.from 29.of 30.with · Part D (31–33): open construction, 2 marks each — relation preposition, underlined.
+**HW-3** — Part B: 21.of 22.with 23.from 24.with 25.to 26.from · Part C (circle): 27.of 28.with 29.to 30.from.
 **CW-4** — Part B (correct the wrong label): 21.Preposition 22.Noun 23.Preposition 24.Verb 25.Preposition · Part C (26–28): under→Preposition, at→Preposition, with→Preposition (+ one correct sentence each, 2 marks each).
 **HW-4** — Part B: 21.Noun 22.Preposition 23.Verb 24.Preposition 25.Preposition · Part C (26–28): near→Preposition, from→Preposition, of→Preposition (+ one correct sentence each).
 
@@ -1160,10 +1156,17 @@ Choose **one** word from the box. Then: **(1)** name its part of speech, **(2)**
 **Part C** (½ each): 1.at 2.at 3.in 4.from 5.on 6.with 7.into 8.near
 
 **Part D** (1 each): 1.He 2.her 3.They 4.it 5.them — full sentence required for the mark; accept the pronoun in the correct slot.
+*(D1 `Abdullah`→He · D4 `the picture`→it — freshly authored for this PT, zero-overlap against `C4B05-PT` and all Block-5 worksheets per PD-029.)*
 
 **Part E** (1 each): open construction — sensible adjective before the noun, sentence coheres, adjective underlined.
 
 **Part F** (4, rubric): name the part of speech + one correct sentence. Box (on · near · from · kind · this · them) is **disjoint from the Wednesday demo set** (under · at · with) per §6.5 rehearsal/graded disjointness.
+
+> **Marking note — `this` and `kind`.** If the pupil chooses **this**, mark the part of speech against **their own
+> sentence**, not against a single expected answer: **Adjective** where *this* stands before a noun (*this bird is
+> small*), **Pronoun** where it stands alone (*this is my bag*). Both are correct — this is the Block 5a/5b boundary
+> the block teaches. Same rule for **kind** (Adjective in normal use: *a kind teacher*). Award the
+> "correct word-class placement" mark on whether the pupil's naming matches the pupil's own sentence.
 
 **Timing guide** — A 5 · B 6 · C 4 · D 6 · E 6 · F 5 · 3 checking (~35 min).
 
@@ -1173,6 +1176,7 @@ Choose **one** word from the box. Then: **(1)** name its part of speech, **(2)**
 
 | Version | Date | Change | By |
 |---|---|---|---|
+| v1.4 | 2026-08-08 | **CW/HW/PT review pass — twelve findings ruled and applied (Principal, 08.08.26). Teacher Script / Teaching Days 1–4 were already checked and are untouched, apart from one citation fix noted below.** This is the block's **first programmatic audit**: no manifest and no audit report had ever existed for it, and the v1 log's claim *"all audits green"* was unevidenced and, on two counts, false. **F1 — CW↔HW answer-key reuse.** Every pair shared an *identical* secondary-part key (HW-1/2/3 Part B, HW-2 Part C, HW-4 Part B), so the homework key was transcribable from the classwork positionally without reading an item. HW items reordered and the AK re-keyed; **no item rewritten**. Positional overlap **39/56/37/48% → 19/22/17/32%**. **F2 — PT overlap with Block 5 (PD-029 breach).** PT Part E prompts `meal` and `bird` were **verbatim** duplicates of `C4B05-CW1` Part B (22, 25) and `C4B05-HW1` Part B (23) — the same *expand-the-noun* task with the same prompt nouns; PT B3/D4 near-duplicated `C4B05-CW4`/`CW2`; PT D1 shadowed **`C4B05-PT` #27**, an **unspent** item. Part E re-authored (river · teacher · picture · village · spoon); B3 *praised*→*thanked*; D1 → *Abdullah washed his hands*; D4 → *Father brought the picture*. **F3 — `quickly` is a W7 word** graded as an Adverb in a W6 block (CW-3 A2, HW-4 A16) → *slowly*. **F4 — `run` is absent from File 2 in any form** yet keyed as a Verb (HW-1 A9, CW-4 A11) → held verbs. **F5 — undeclared non-held vocabulary.** Twelve **time nouns** carrying the whole at/on/in strand were declared nowhere; recasting them was impossible (File 2 holds only `morning`/`day` by W6, both in the same category, so the pool cannot supply one contrasting pair) and the §2 cap requires the time strand while **no binding C4 paper tests it** — a case no existing instrument reached. Declared **block-local under PD-012 as extended by PD-035**; ten avoidable carriers (`bench · corner · drawer · garden · grandfather · hole · poor · porch · room` + `run`) **recast onto held words instead of declared**. **F6 — six singing items** (*bird sang*, *girl sings*, *birds sing*) recast on the approved Block 05 v1.11 precedent; carrier verbs only, every graded target untouched. **F7 — the Part C match tasks were unmarkable**: matching `with·from·of·to` against four person-phrases admits **all 24 pairings** as valid English, so the key was unrecoverable by pupil and teacher alike; the place match was ambiguous too (*on the table* as natural as the keyed *on the wall*). All four converted to **choose-between-two**, the school's own forced-choice format (HY25 Q5, Annual Q7), 18 items authored so the distractor is *impossible* rather than merely less natural. **F8 — citations:** `PD-028` (C3 Block 7 weighting) had been cited for both the block-local set → **PD-012**, and the PT carry-forward → **PD-029**; **PD-026** added as the authority for the function-word graded class. **F9** — "nine cap prepositions" corrected to **ten** (ten were always listed). **F10 — four sheets graded Adverb while their Part-A option list omitted it** (v1.3 fixed only CW-4/HW-4); all eight option lists made uniform at six classes on the Principal's ruling. **F11** — *"A tall tree gives shade"* recast (attribution screen). **F12** — AK gains a marking note for PT Part F `this`/`kind`, where the pupil's own sentence determines the correct class. **Audit-suite changes (approved, separate commit):** `block_local` manifest field (T1) and values-lexicon inflection matching (T2) — the latter had caught **one** of six singing items; `audit_scope: pt_overlap_only` authorised for the paired-week recovery (**PD-034**), without which the PD-029 obligation was unverifiable by any script. **Result: all ten gates PASS** — de-patterning · CW↔HW overlap · PT zero-overlap (vs 409 items: Block 6's own sheets + Block 5's eight worksheets + `C4B05-PT`) · within-sheet duplicates · rehearsal/graded disjointness · mark totals (37/31/38/32/36/30/31/31, PT 36 — unchanged throughout) · sacred-word · values lexicon · held-word/block-local · one-defensible-answer. | Principal / Claude |
 | v1.3 | 2026-08-06 | **Review pass — adverb restored, definitions completed, birthday removed, terminology unified (reviewer batch).** (1) **Adverb restored** where the taught-class inventory had dropped it: the Day-1 Step-1 recall now reads "Noun, Verb, Adjective, Adverb — and Pronoun" (the block's four core classes + pronoun); the Day-4 mixed-identify intro names all six classes and its table gains an adverb item (*The old man walks **slowly*** → Adverb, replacing a duplicate Preposition row); the **CW-4 and HW-4** Part-A instructions change "all five classes" → "noun, verb, adjective, adverb, pronoun, preposition" (label only — both sheets already grade adverb, so no item or key change). (2) **Preposition definition completed** on Day 1: "tells us where a thing is" → "where a thing is, when something happens, or how things relate," with the closing line keeping Day-1 practice anchored on place. (3) **Day-2 Step-2 generalised** — heading and closing line no longer imply *at* is the only dual-job word; *in* and *on* are named as fellow place-and-time prepositions (step-table label synced). (4) **Birthday examples removed** (not used in the school's content): the Day-2 script, Day-2 Exit Check #7, and the CW-2 date items now use "The holiday begins on the [date]"; the CW-2 Part B #25 uses "The madrasah closes on the tenth of May" so it is **distinct from** CW-2 Part A #14 — incidentally resolving a pre-existing within-sheet Part-A/Part-B duplicate. Answers unchanged (Preposition / *on*); CW-2↔HW-2 disjointness and AK keys re-verified. (5) **Terminology unified** — the informal "class / Class?" part-of-speech prompts in the Day-3 sort patter, Day-4 mixed-identify patter, the Self-try instruction/close and demos, and the AK Part-F description now read "part of speech," matching the exam-verbatim wording already used in PT Part F (Charter §K.3 role/part-of-speech convention). The "Role" child-facing column on the Word-Role Clue Card is unchanged. Consistency sweep also updated the Day-2 calendar stage-direction (drawn page "FRIDAY" → "SUNDAY", matching the day-example) and the **CW-4/HW-4 Part-C headers** ("Name the class" → "Name the part of speech", student-facing graded instruction). **Header "five word-classes" references to the five-row Word-Role Clue Card (Day-3/Day-4 identify work) are intentionally left**, as accurate to that card. **No mark total, item count, graded target/key, or audit result changed** — all worksheet totals (37/31/38/32/36/30/31/31) and PT (36) re-verified; adverb coverage, CW↔HW disjointness, and within-sheet de-duplication all green. | Principal / Claude |
 | v1.2 | 2026-08-06 | **Day-example corrected Friday→Sunday for the Bangladesh school week (reviewer request).** *"We go to school on Friday"* is factually wrong for Bangladesh (the school week runs Sun–Thu; Friday is the weekend). All "Friday" day-examples were changed: the Preposition Clue Card cell, the teacher script (Day-2 board work, the place-or-time table, the error-correction line, Day-2 Exit Check, and the Day-3/Day-4 recall lists), and the PT Part-B item now read **Sunday**. To preserve CW-2↔HW-2 disjointness (HW-2 already uses Sunday as its day-example), the **CW-2 worksheet** items (fill #22, sort token, write-own #27) and the matching AK sort key use **Monday** instead — a different Bangladesh school-week day, so the two sheets stay 0-shared. "Monday" and "Sunday" function only as **cues/carriers** (the graded answer is always *on*), so no answer-copyable repeat, no within-sheet cap breach, and no CW↔HW collision — re-verified. The Day-1 lesson label "Class 1 (Sunday)" (a teaching day-of-week, not an example) is unchanged. No graded target, class, mark total, or other audit result affected. | Principal / Claude |
 | v1.1 | 2026-08-06 | **Clue Card converted to preposition-only (reviewer request).** The cumulative five-row **Word-Role Clue Card** (noun/verb/adjective/pronoun/preposition) embedded in this master was replaced with a dedicated **Preposition Clue Card** — preposition only, no other word-classes — organised by the block's three jobs (Place / Time / Relation), each row giving the preposition, a Bangla gloss, and a worked example, plus a "remember" block (before-a-noun rule, the *at* dual-job, the where/when-not-describe boundary) with inline Bangla. The nine cap prepositions and the non-living picture-chart note are carried on the new card. Five teaching-script references that pointed at "the Clue Card's five rows / now five rows / add the Preposition row" were **repointed**: Day 1 Step 5, Day 2 Step 6, and Day 3 Step 5 now introduce/point to the Place / Time / Relation rows of the Preposition Clue Card (headings and day-plan step-table labels synced); Day 3 Step 3 and the two checklist lines now direct the Day 3–4 **identify-P.O.S.** work to the cumulative **Word-Role Clue Card from Blocks 1/5** (the five-way wall chart the exam format needs), which is no longer reprinted in this file. Day-1 Step-1 oral re-walk of the four prior classes is unchanged (pedagogically needed to set up the new word-class). **No worksheet, PT, AK, graded item, mark total, or audit result changed** — teaching-aid and reference-pointer edits only. | Principal / Claude |

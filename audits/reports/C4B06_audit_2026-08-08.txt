@@ -4,79 +4,14 @@ file2: file2/C4_ENG_VocabBatchOrder_v2.xlsx
 ------------------------------------------------------------------------
 [PASS] De-patterning                    25 answer sets checked
 [PASS] CW↔HW overlap                    CW1↔HW1: positional 19%; CW2↔HW2: positional 22%; CW3↔HW3: positional 17%; CW4↔HW4: positional 32%
-[FAIL] PT zero-overlap                  34 PT items vs 409 worksheet items
-        - PT Part E: item duplicates B5-HW1: "meal ______________________________________________"
-        - PT Part E: item duplicates B5-CW1: "bird ______________________________________________"
+[PASS] PT zero-overlap                  34 PT items vs 409 worksheet items
 [PASS] Within-sheet duplicates          all sheets scanned
 [PASS] Rehearsal/graded disjoint        6 self-try vs 3 demo words
 [PASS] Mark totals                      CW1: 37/37; HW1: 31/31; CW2: 38/38; HW2: 32/32; CW3: 36/36; HW3: 30/30; CW4: 31/31; HW4: 31/31; PT: 36/36
 [PASS] Sacred-word guard                graded targets + dictation scanned
 [PASS] Values lexicon screen            student-facing item texts scanned (incl. inflections)
-[FAIL] Held-word / exemplar / block-local 222 graded targets checked against 160 pool words + 0 exemplars + 0 block-local
-        - CW1 A: 'wall' not in File 2 pool and not a declared exemplar or block-local word
-        - CW1 A: 'desk' not in File 2 pool and not a declared exemplar or block-local word
-        - CW1 A: 'box' not in File 2 pool and not a declared exemplar or block-local word
-        - CW1 A: 'pot' not in File 2 pool and not a declared exemplar or block-local word
-        - CW1 A: 'table' not in File 2 pool and not a declared exemplar or block-local word
-        - CW1 A: 'bed' not in File 2 pool and not a declared exemplar or block-local word
-        - CW1 B: 'box' not in File 2 pool and not a declared exemplar or block-local word
-        - CW1 B: 'table' not in File 2 pool and not a declared exemplar or block-local word
-        - CW1 B: 'box' not in File 2 pool and not a declared exemplar or block-local word
-        - CW1 C: 'box' not in File 2 pool and not a declared exemplar or block-local word
-        - CW1 C: 'table' not in File 2 pool and not a declared exemplar or block-local word
-        - CW1 C: 'wall' not in File 2 pool and not a declared exemplar or block-local word
-        - CW1 C: 'gate' not in File 2 pool and not a declared exemplar or block-local word
-        - HW1 A: 'wall' not in File 2 pool and not a declared exemplar or block-local word
-        - HW1 A: 'desk' not in File 2 pool and not a declared exemplar or block-local word
-        - HW1 A: 'wall' not in File 2 pool and not a declared exemplar or block-local word
-        - HW1 A: 'bed' not in File 2 pool and not a declared exemplar or block-local word
-        - HW1 A: 'chair' not in File 2 pool and not a declared exemplar or block-local word
-        - HW1 A: 'gate' not in File 2 pool and not a declared exemplar or block-local word
-        - HW1 A: 'box' not in File 2 pool and not a declared exemplar or block-local word
-        - HW1 B: 'bed' not in File 2 pool and not a declared exemplar or block-local word
-        - HW1 B: 'bag' not in File 2 pool and not a declared exemplar or block-local word
-        - HW1 B: 'room' not in File 2 pool and not a declared exemplar or block-local word
-        - HW1 B: 'wall' not in File 2 pool and not a declared exemplar or block-local word
-        - HW1 C: 'pot' not in File 2 pool and not a declared exemplar or block-local word
-        - HW1 C: 'bed' not in File 2 pool and not a declared exemplar or block-local word
-        - HW1 C: 'desk' not in File 2 pool and not a declared exemplar or block-local word
-        - CW2 A: 'gate' not in File 2 pool and not a declared exemplar or block-local word
-        - CW2 A: 'summer' not in File 2 pool and not a declared exemplar or block-local word
-        - CW2 A: 'chair' not in File 2 pool and not a declared exemplar or block-local word
-        - CW2 A: 'night' not in File 2 pool and not a declared exemplar or block-local word
-        - CW2 A: 'thursday' not in File 2 pool and not a declared exemplar or block-local word
-        - CW2 A: 'july' not in File 2 pool and not a declared exemplar or block-local word
-        - CW2 A: 'saturday' not in File 2 pool and not a declared exemplar or block-local word
-        - CW2 B: 'monday' not in File 2 pool and not a declared exemplar or block-local word
-        - CW2 B: 'june' not in File 2 pool and not a declared exemplar or block-local word
-        - HW2 A: 'summer' not in File 2 pool and not a declared exemplar or block-local word
-        - HW2 A: 'dawn' not in File 2 pool and not a declared exemplar or block-local word
-        - HW2 A: 'evening' not in File 2 pool and not a declared exemplar or block-local word
-        - HW2 A: 'spring' not in File 2 pool and not a declared exemplar or block-local word
-        - HW2 A: 'sunday' not in File 2 pool and not a declared exemplar or block-local word
-        - HW2 A: 'night' not in File 2 pool and not a declared exemplar or block-local word
-        - HW2 A: 'monday' not in File 2 pool and not a declared exemplar or block-local word
-        - HW2 B: 'july' not in File 2 pool and not a declared exemplar or block-local word
-        - HW2 B: 'sunday' not in File 2 pool and not a declared exemplar or block-local word
-        - CW4 A: 'chair' not in File 2 pool and not a declared exemplar or block-local word
-        - CW4 A: 'box' not in File 2 pool and not a declared exemplar or block-local word
-        - HW4 A: 'evening' not in File 2 pool and not a declared exemplar or block-local word
-        - HW4 A: 'box' not in File 2 pool and not a declared exemplar or block-local word
-        - HW4 A: 'sunday' not in File 2 pool and not a declared exemplar or block-local word
-        - HW4 A: 'pot' not in File 2 pool and not a declared exemplar or block-local word
-        - HW4 A: 'pot' not in File 2 pool and not a declared exemplar or block-local word
-        - HW4 A: 'night' not in File 2 pool and not a declared exemplar or block-local word
-        - PT B: 'bench' not in File 2 pool and not a declared exemplar or block-local word
-        - PT B: 'sunday' not in File 2 pool and not a declared exemplar or block-local word
-        - PT B: 'grandfather' not in File 2 pool and not a declared exemplar or block-local word
-        - PT B: 'drawer' not in File 2 pool and not a declared exemplar or block-local word
-        - PT B: 'poor' not in File 2 pool and not a declared exemplar or block-local word
-        - PT C: 'corner' not in File 2 pool and not a declared exemplar or block-local word
-        - PT C: 'winter' not in File 2 pool and not a declared exemplar or block-local word
-        - PT C: 'porch' not in File 2 pool and not a declared exemplar or block-local word
-        - PT C: 'hole' not in File 2 pool and not a declared exemplar or block-local word
-        - PT E: 'garden' not in File 2 pool and not a declared exemplar or block-local word
+[PASS] Held-word / exemplar / block-local 222 graded targets checked against 160 pool words + 0 exemplars + 22 block-local
 [PASS] One-defensible-answer (human)    no conflicting-answer candidates; full check remains a human read
 ------------------------------------------------------------------------
-RESULT: FAILURES PRESENT — do not finalize
+RESULT: ALL GATES PASS
 Reminder: the naturalness gate and full one-defensible-answer check are HUMAN.
