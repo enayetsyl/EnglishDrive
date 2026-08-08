@@ -809,9 +809,9 @@
        "marks": 1
       },
       {
-       "text": "Nusair read a secret poem.",
+       "text": "Nusair read an interesting poem.",
        "answer": "Adjective",
-       "trigger": "secret",
+       "trigger": "interesting",
        "marks": 1
       },
       {
