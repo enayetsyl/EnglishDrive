@@ -1663,7 +1663,7 @@
   {
    "name": "PT",
    "type": "pt",
-   "stated_total": 36,
+   "stated_total": 33,
    "parts": [
     {
      "name": "A",
@@ -1746,9 +1746,9 @@
        "marks": 0.5
       },
       {
-       "text": "We gave the food to the people.",
+       "text": "The worker carries the bag to the factory.",
        "answer": "Preposition",
-       "trigger": "people",
+       "trigger": "factory",
        "marks": 0.5
       },
       {
@@ -1764,9 +1764,9 @@
        "marks": 0.5
       },
       {
-       "text": "A fresh flower grew near the river.",
+       "text": "The clean glass is on the shelf.",
        "answer": "Adjective",
-       "trigger": "fresh",
+       "trigger": "clean",
        "marks": 0.5
       }
      ]
@@ -1775,49 +1775,49 @@
      "name": "C",
      "items": [
       {
-       "text": "The teacher waits ___ the gate. (that spot)",
+       "text": "The vehicle stops ___ the shop.",
        "answer": "at",
-       "trigger": "gate",
+       "trigger": "shop",
        "marks": 0.5
       },
       {
-       "text": "The train arrives ___ ten o'clock. (exact time)",
+       "text": "The train arrives ___ ten o'clock.",
        "answer": "at",
        "trigger": null,
        "marks": 0.5
       },
       {
-       "text": "We travel ___ winter. (a season)",
+       "text": "We travel ___ winter.",
        "answer": "in",
        "trigger": "winter",
        "marks": 0.5
       },
       {
-       "text": "The letter came ___ my cousin. (coming from)",
+       "text": "The letter came ___ my cousin.",
        "answer": "from",
        "trigger": "cousin",
        "marks": 0.5
       },
       {
-       "text": "The card lies ___ the table. (on the surface)",
+       "text": "The poster hangs ___ the gate.",
        "answer": "on",
-       "trigger": "table",
+       "trigger": "gate",
        "marks": 0.5
       },
       {
-       "text": "I share my lunch ___ my friend. (সঙ্গে)",
+       "text": "I share my lunch ___ my friend.",
        "answer": "with",
        "trigger": "friend",
        "marks": 0.5
       },
       {
-       "text": "The ball rolled ___ the pot. (moving inside)",
+       "text": "The ball rolled ___ the pot.",
        "answer": "into",
        "trigger": "pot",
        "marks": 0.5
       },
       {
-       "text": "The school stands ___ the river. (close to)",
+       "text": "The school stands ___ the river.",
        "answer": "near",
        "trigger": "river",
        "marks": 0.5
@@ -1867,24 +1867,6 @@
        "text": "teacher ____________________________________________",
        "answer": null,
        "trigger": "teacher",
-       "marks": 1
-      },
-      {
-       "text": "picture ____________________________________________",
-       "answer": null,
-       "trigger": "picture",
-       "marks": 1
-      },
-      {
-       "text": "village ____________________________________________",
-       "answer": null,
-       "trigger": "village",
-       "marks": 1
-      },
-      {
-       "text": "spoon ______________________________________________",
-       "answer": null,
-       "trigger": "spoon",
        "marks": 1
       }
      ]
