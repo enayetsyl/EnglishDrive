@@ -32,6 +32,11 @@ git push
 If push is rejected (remote ahead): `git pull --no-rebase`, resolve nothing silently —
 if there is any conflict, STOP and report. Never force-push. Never discard local work.
 
+**Session log.** On every "save state and sync", also append an entry to
+`SESSION_LOG.md` at repo root: date, user (from git identity), task worked on,
+files touched, decisions/approvals given in the session, flags raised and their
+outcomes, in 5–10 lines. Never overwrite past entries.
+
 **File deletion.** Deleting files inside `.git/` (lock files, git housekeeping) is
 normal operation. Deleting any file OUTSIDE `.git/` requires stating the file and
 reason in chat BEFORE the deletion, every time. Never delete `_wip/` contents except
