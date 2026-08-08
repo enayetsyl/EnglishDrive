@@ -272,6 +272,26 @@ Decisions already adopted and applied across the English Drive.
 
 ---
 
+### PD-031 — Sacred words are excluded from match-to-make-a-sentence tasks; the exam format is mirrored on secular content
+**Decision:** In a **match-to-make-a-sentence** task (and any task whose graded act is **assembling or re-forming a sentence**), **no strip, fragment or complement may contain a sacred word** — *Allah, আল্লাহ, Quran, কুরআন*. This holds on worksheets **and** the Performance Test. The exam format is mirrored faithfully on **secular content**; the reverence guard is not traded for format fidelity.
+**Rationale:** Charter §H.3 bars a sacred word as a **graded classification target**. In a match/assembly task the graded act *is* the assembly of the strip, so a sacred-word strip is a graded target — squarely inside §H.3, not a borderline case. A child can also produce a *wrong* pairing of a sacred strip while working, which is precisely what the guard exists to prevent. The format (re-form five mis-paired sentences) transfers completely to secular subject matter, so nothing pedagogical is lost.
+**Boundary vs PD-022:** PD-022 permitted a *Quran* item in C3 Article by **secular transfer, never blanked** — the sacred word was printed intact and the graded blank sat elsewhere in the sentence. That carve-out does **not** extend here, because a match task cannot hold the sacred strip fixed and still be a match task. Teacher script and clue-card prose may continue to reference sacred content normally (§H.3 permits teacher prose).
+**What led to this:** C2 Block 6b, whose binding anchor **AN25 Q11** itself contains the strip *"My father reads the Quran everyday."* The drive mirrors the question's **form**, not that content.
+**Affected files:** `C2_ENG_Block06b_*` master + extracts. Clarifies Charter §H.3 for assembly-type items; amends nothing. Forward-only.
+**Status:** Ruled (Principal, 08.08.26); applies from C2 Block 6b.
+
+---
+
+### PD-032 — Cross-half grading in a two-week split block, and the widened PT zero-overlap audit scope
+**Decision:** In a two-week `a`/`b` split block, the **b-half Performance Test may grade grammar taught in the a-half** where the binding exam format requires it. Where it does, **the PT zero-overlap gate must run against the worksheets of *both* halves**, not just the half under build. For C2 Block 6b this means the `C2B06b-PT` is audited against **sixteen** worksheets (6a's eight + 6b's eight), not eight. **Both the cross-half grading and the widened audit scope are declared explicitly in the b-half master.**
+**Rationale:** AN25 Q11 ("match the words to make five meaningful sentences") is built on **be-forms** — *is/are* — which are 6a's grammar. Mirroring the exam therefore puts 6a content on 6b's graded surface; be-forms are held by W6, so this is pedagogically sound. But PD-025 justified the two-master split partly on **separate audit surfaces**, and a PT that grades both halves has an item-overlap surface spanning both. Auditing it against only its own half would leave a real leak path — a 6b PT item could silently duplicate a 6a worksheet item.
+**Implementation note:** `audits/scripts/run_all.py` `gate_pt_zero_overlap()` compares the PT against worksheets **within the same manifest**. Satisfying this ruling requires the a-half worksheets to be visible to that gate **without** re-running the other gates over an already-validated block. The mechanism (a reference-scope flag on those sheets) is a **minimal additive change to the audit script**, to be approved before use.
+**What led to this:** C2 Block 6b Phase 2 review.
+**Affected files:** `C2_ENG_Block06b_*` master; `audits/scripts/run_all.py`. Extends PD-025; amends nothing. Forward-only.
+**Status:** Ruled (Principal, 08.08.26); applies from C2 Block 6b.
+
+---
+
 ### Open item — C3 Exit Check roll size (17) not file-verified
 Recorded for tracking, not a Principal decision. The C3 Block 6 Exit Check tables use a **17-prompt roll** on the Principal's in-session statement; no class roster in the current project files confirms 17. Verify against an authoritative roster, or log a Principal confirmation, before treating the roll as governance-grade. Affects only the per-day Exit Check length (one prompt per student), not any graded item.
 

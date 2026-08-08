@@ -7,7 +7,8 @@
 
 ## Phase reached
 
-**Phase 1 — Orientation: COMPLETE (08.08.26).** Phase 2 questions issued to the Principal; awaiting answers.
+**Phase 3 — Pre-build blueprint: DRAFTED (08.08.26), awaiting Principal approval.**
+Phase 1 complete. Phase 2 complete — all 7 questions ruled. Blueprint at `_wip/C2B06b_blueprint.md`.
 No build content drafted. No sentence bank drafted.
 
 ## Decisions confirmed
@@ -33,19 +34,24 @@ No build content drafted. No sentence bank drafted.
 - **Governing PDs in force:** PD-025 (two-week shape, one PT/week) · PD-026 (have/has is a function-word grammar target — no held-word trace needed, no §5.7 exemplar) · PD-027 (worksheet word box permitted where answers repeat; **PT boxless**) · PD-008 (de-patterning) · PD-010 (4-mark self-try) · PD-015 (Vocabulary Writing on every HW).
 - **Assignment:** `assignments/C2/C2_Eng_Assignment_W6.docx` **already exists** and is a cumulative Blocks 1–5 revision sheet (naming/doing words, common-proper + capitals, a/an/the …). Whether 6b builds a new assignment is Phase 2 question 7.
 
-## Pending — Phase 2 questions with the Principal (7)
+## Phase 2 — all 7 ruled (Principal, 08.08.26)
 
-1. Sacred-word guard vs the AN25 Q11 *"reads the Quran"* strip (§H.3 / PD-022).
-2. Match-task presentation: mirror the paper's mis-paired-rows form, or a ruled table.
-3. have/has scope: *I have*, *have got*, negatives/questions.
-4. Verb pool for the match task: W6 batch only, or W5+W6.
-5. Cross-half re-grade: the match format necessarily re-grades 6a's am/is/are.
-6. Living beings in items: *giraffe* is unheld; carry 06a's forest/tree/pond restriction?
-7. Assignment: is the existing W6 docx the W6 assignment, or does 6b build one?
+1. **Sacred words excluded** from all 6b match strips, worksheets and PT; format mirrored on secular content. → **PD-031**
+2. **Mirror the printed form** — numbered mis-paired sentences, pupil re-forms five, 1 mark each.
+3. **Teach *I/we/you have* orally, grade 3rd person only**; bar *have got*, negatives, questions.
+4. **W5+W6 held pool**; every W6 verb staged to its teaching day.
+5. **Cross-half grading allowed**; PT zero-overlap gate widened to **all sixteen** sheets (6a's 8 + 6b's 8). Both declared explicitly in the master. → **PD-032**
+6. **Held animals only**, 06a's forest/tree/pond restriction carried. **No giraffe.**
+7. **6b builds its own assignment** per `AssignmentGenerator_Spec_v1_2` + Coverage Log — coverage check, novelty check, draft questions for review before finalizing. Timing per Charter §M.3 (after the PT). Existing W6 cumulative sheet stays as-is; blueprint flags coexistence.
+
+## Blockers raised in the blueprint (need ruling before Phase 4)
+
+- **`run_all.py` change required** for PD-032: `gate_pt_zero_overlap()` only compares within one manifest. Proposed additive `"audit_scope": "pt_overlap_only"` flag. Touches `audits/` — needs explicit approval.
+- **Coverage Log is stale** — reads `last run = C5 W3 · 2026-07-21`; C2 ledger has no W4/W5 rows though those assignments exist. Spec §2 says the generator **halts**. Options (a) reconcile / (b) Special Instruction / (c) defer the assignment.
+- **Confirm PT part split** — A 10 · B 5 · C 5 · D 6 · E 4 = 30.
 
 ## Exact next step
 
-Principal answers the 7 Phase 2 questions → agent writes the **Phase 3 pre-build blueprint** to
-`blocks/C2/_wip/C2B06b_blueprint.md` for approval. **No build content and no sentence bank
-before that approval.** The have/has + match **sentence bank is hand-authored and comes to the
-Principal for approval before any worksheet uses it.**
+Principal reviews `_wip/C2B06b_blueprint.md` and rules the three open items in its §10.
+On approval → **Phase 4 unit 1 = the hand-authored sentence bank**, which comes to the Principal
+for approval **before any worksheet uses it**. **No build content before blueprint approval.**
