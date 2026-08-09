@@ -6,7 +6,7 @@ file2: file2/C2_ENG_VocabPool_U110_v1.xlsx
 [FAIL] CW↔HW overlap                    CW1↔HW1: positional 54%; CW2↔HW2: positional 40%; CW3↔HW3: positional 0%; CW4↔HW4: positional 4% (superseded by PD-036 zero-repeat, kept as backstop)
         - CW1↔HW1: positional overlap 54% (> 35%)
         - CW2↔HW2: positional overlap 40% (> 35%)
-[FAIL] PT zero-overlap                  28 PT items vs 208 worksheet items
+[FAIL] PT zero-overlap                  28 PT items vs 209 worksheet items
         - PT Part D: item duplicates CW2: "Yusuf and Abdullah ____ two books."
         - PT Part D: item duplicates CW4: "Maryam ____ a book."
         - PT Part D: item duplicates HW4: "Aisha and Maryam ____ two jars."
@@ -14,7 +14,7 @@ file2: file2/C2_ENG_VocabPool_U110_v1.xlsx
 [PASS] Within-sheet duplicates          all sheets scanned
 [PASS] Option-list completeness         26 option-listed parts checked
 [PASS] HW key transcribability          4 paired parts compared
-[FAIL] Cross-sheet repetition (PD-036)  232 distinct texts across 9 sheets; threshold 0
+[FAIL] Cross-sheet repetition (PD-036)  233 distinct texts across 9 sheets; threshold 0
         - "abdullah ____ a friend" on 2 sheets: CW4, PT
         - "aisha and maryam ____ two jars" on 3 sheets: HW2, HW4, PT
         - "aisha has a story book" on 2 sheets: HW1, HW2
@@ -39,7 +39,6 @@ file2: file2/C2_ENG_VocabPool_U110_v1.xlsx
         - "the girls ____ two hands" on 2 sheets: CW1, HW2
         - "the hen ____ an egg" on 2 sheets: HW1, HW4
         - "the hens has have eggs" on 2 sheets: HW3, HW4
-        - "the sun gives us light" on 2 sheets: CW3, HW4
         - "the tree has leaves" on 3 sheets: CW2, HW1, HW4
         - "we ____ our books" on 2 sheets: CW1, CW2
         - "yusuf and abdullah ____ two books" on 2 sheets: CW2, PT

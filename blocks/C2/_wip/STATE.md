@@ -194,10 +194,18 @@ one-defensible-answer all PASS.
 **Not touched, as instructed:** the two pre-existing same-verb sets (CW3 Set 4 *brush/brushes*, HW3 Set 3 *goes/go*) —
 noted only; the pairs stay unambiguous on number and gender.
 
-## Open — §H.9 attribution
+## §H.9 attribution — CLOSED 09.08.26 (Option A, predicate only)
 
-`The sun → gives us light` remains on **CW3 Set 2 row 5**, **HW4 Set 1 row 5** and in the **Tuesday script sample
-(line 260)**. Recast options put to the Principal 09.08.26; nothing applied. Note **PD-031 rules out** the
-attribute-by-naming form here — no sacred word may appear in any match strip — so the recast must be a
-non-giving secular predicate.
+`The sun → gives us light` is recast in all three places, one cell each:
+**CW3 Set 2 → *comes in the morning*** · **HW4 Set 1 → *goes in the evening*** · **Tuesday script sample** matched to
+the CW3 form. *come · go · morning · evening* are all held. The two graded forms differ, so no new repeat is created.
+**PD-031 ruled out** the attribute-by-naming alternative — no sacred word may sit in a match strip — so a secular
+non-giving predicate was the only compliant route. Logged **CR-023**; this is the **2nd occurrence of the CR-004
+attribution type**, one short of PATTERN.
 
+## Audit run 3 — 09.08.26 (final for this pass)
+
+**11 PASS · 3 FAIL, and every failure is already ruled.** Cross-sheet repetition is down to **31 — all of them
+have/has items** ruled acceptable under PD-045(5a); no match repeat and no attribution item remains.
+CW↔HW positional (54% / 40%) is the ruled gate artefact; PT zero-overlap is the four PD-041(c) waived reuses.
+**Mark totals unchanged on all nine sheets.** Corrections logged: **CR-020 … CR-024**.

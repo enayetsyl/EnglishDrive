@@ -257,7 +257,7 @@ One oral prompt per student: teacher says the subject, student completes it into
 
 1. The birds … · 2. Maryam … · 3. The cow … · 4. My father … · 5. Yusuf … · 6. The frog … · 7. Fatima … · 8. The children … · 9. The sun … · 10. Nusair … · 11. My mother … · 12. The boys … · 13. Aisha … · 14. The insect …
 
-*(Sample good answers: The birds live in the tree · The cow eats grass · Yusuf brushes his teeth · The sun gives us light.)*
+*(Sample good answers: The birds live in the tree · The cow eats grass · Yusuf brushes his teeth · The sun comes in the morning.)*
 Target: **build one sensible sentence.** Record for Wednesday.
 
 ---
@@ -558,7 +558,7 @@ Target: **independent build.** This previews the PT self-try. Record readiness.
 | 1 | Maryam | —— | counts the stones |
 | 2 | Rabab | —— | fly over the bridge |
 | 3 | The insects | —— | reads a book |
-| 4 | Nusair | —— | gives us light |
+| 4 | Nusair | —— | comes in the morning |
 | 5 | The sun | —— | draws a square |
 
 *Set 3:*
@@ -756,7 +756,7 @@ Target: **independent build.** This previews the PT self-try. Record readiness.
 |---|---|---|---|
 | 1 | The bird | —— | grows near the school |
 | 2 | Raima | —— | reads the story |
-| 3 | The tree | —— | gives us light |
+| 3 | The tree | —— | goes in the evening |
 | 4 | Fatima | —— | sits on the bridge |
 | 5 | The sun | —— | opens the book |
 
@@ -870,13 +870,13 @@ Target: **independent build.** This previews the PT self-try. Record readiness.
 
 **HW2** (Mon) — **A_circle:** have·have·has·have·has·have  **B_fill:** has·have·has·have·has·have·have  **C_match:** Set1: My brother→goes to school; The children→listen to the story; The frogs→live in the pond; Raima→points at the clock; Nusair→draws a rectangle  **D_underline:** has·has·have·has·have·has·have  
 
-**CW3** (Tue) — **A_circle:** have·have·has·have  **B_fill:** have·has·have·have·has  **C_match:** Set1: Jesmin→draws a rainbow; Abdur Rahim→reads the book; The girls→listen to the story; Raima→opens the jar; The children→play in the field | Set2: Maryam→reads a book; Rabab→draws a square; The insects→fly over the bridge; Nusair→counts the stones; The sun→gives us light | Set3: The frog→sits on a stone; The cow→stands near the tree; My sister→makes food; Porshi→opens the book; Nusair→draws a car | Set4: The children→brush their teeth; The frogs→sit near the water; Abdullah→brushes his teeth; The insect→sits on a leaf; My sister→waits at home  **D_underline:** has·has·have·has·have  
+**CW3** (Tue) — **A_circle:** have·have·has·have  **B_fill:** have·has·have·have·has  **C_match:** Set1: Jesmin→draws a rainbow; Abdur Rahim→reads the book; The girls→listen to the story; Raima→opens the jar; The children→play in the field | Set2: Maryam→reads a book; Rabab→draws a square; The insects→fly over the bridge; Nusair→counts the stones; The sun→comes in the morning | Set3: The frog→sits on a stone; The cow→stands near the tree; My sister→makes food; Porshi→opens the book; Nusair→draws a car | Set4: The children→brush their teeth; The frogs→sit near the water; Abdullah→brushes his teeth; The insect→sits on a leaf; My sister→waits at home  **D_underline:** has·has·have·has·have  
 
 **HW3** (Tue) — **A_circle:** has·has·have·has  **B_fill:** has·have·has·has  **C_match:** Set1: The bird→waits on the tree; The boys→count the pebbles; Maryam→draws a triangle; The insects→live in the leaves; The frog→looks at the pond | Set2: Abdullah→goes to school; My mother→makes breakfast; The hen→sits on the egg; The tree→grows in the forest; My father→rides in the car | Set3: My father→goes to the village; Yusuf→looks at the clock; The boys→go to school; The cows→eat grass near the pond; Jesmin→reads the story  **D_underline:** have·has·have·has·has  
 
 **CW4** (Wed) — **A_circle:** has·has·have·has·has·have  **B_fill:** has·has·have·has·have·has  **C_match:** Set1: My sister→makes breakfast; The frogs→live in the water; Yusuf→reads the book; The birds→fly over the tree; The hen→waits on the tree | Set2: Abdur Rahim→draws a car; Abdullah→counts the stones; Aisha→reads a book; Raima→looks at the rainbow; The tree→grows near the pond | Set3: Maryam→draws a rainbow; My brother→rides in the car; Fatima→points at the clock; The cows→eat grass near the tree; My mother→makes food  **D_underline:** has·has·have·has·have·has·have  
 
-**HW4** (Wed) — **A_circle:** have·have·has·have·have·has  **B_fill:** have·have·has·have·has·have  **C_match:** Set1: The bird→sits on the bridge; Raima→opens the book; The tree→grows near the school; Fatima→reads the story; The sun→gives us light | Set2: The insect→sits on a stone; Raima→draws a triangle; The children→play in the morning; Nusair→brushes his teeth; The girls→count the pebbles  **D_underline:** has·have·has·have·has·has  
+**HW4** (Wed) — **A_circle:** have·have·has·have·have·has  **B_fill:** have·have·has·have·has·have  **C_match:** Set1: The bird→sits on the bridge; Raima→opens the book; The tree→grows near the school; Fatima→reads the story; The sun→goes in the evening | Set2: The insect→sits on a stone; Raima→draws a triangle; The children→play in the morning; Nusair→brushes his teeth; The girls→count the pebbles  **D_underline:** has·have·has·have·has·has  
 
 **PT `C2B06ab-PT`**
 - **A Dictation** (teacher-read, not printed): come · give · help · show · brush · point · grow · ride · village · bridge
