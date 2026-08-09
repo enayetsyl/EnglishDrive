@@ -1,0 +1,93 @@
+AUDIT REPORT — C3B07 — 2026-08-09
+manifest: blocks/C3/_wip/C3B07_manifest.json
+file2: file2/C3_ENG_VocabPool_U18_v2.xlsx
+------------------------------------------------------------------------
+[FAIL] De-patterning                    27 answer sets checked
+        - PT Part F: strict alternation
+[PASS] CW↔HW overlap                    CW1↔HW1: positional 0%; CW2↔HW2: positional 0%; CW3↔HW3: positional 0%; CW4↔HW4: positional 0% (superseded by PD-036 zero-repeat, kept as backstop)
+[FAIL] PT zero-overlap                  29 PT items vs 154 worksheet items
+        - PT Part E: item duplicates CW4: "We see a polluted river."
+        - PT Part E: item duplicates HW2: "Porshi has two gardens."
+        - PT Part E: item duplicates HW3: "That hat is on the bed."
+[PASS] Within-sheet duplicates          all sheets scanned
+[PASS] Option-list completeness         5 option-listed parts checked
+[PASS] HW key transcribability          10 paired parts compared
+[FAIL] Cross-sheet repetition (PD-036)  180 distinct texts across 9 sheets; threshold 0
+        - "a clean towel is on the bed ____" on 2 sheets: CW3, CW4
+        - "abdullah has a simple book" on 3 sheets: CW2, HW1, HW3
+        - "abdullah is a good man" on 2 sheets: CW2, CW4
+        - "abdur rahim has three brothers" on 2 sheets: CW4, HW3
+        - "aisha has a ____ bag" on 2 sheets: CW4, HW1
+        - "aisha has a ____ book" on 2 sheets: CW3, CW4
+        - "aisha has a ____ towel" on 2 sheets: CW2, HW3
+        - "aisha has a nice wash shoe" on 2 sheets: CW4, HW3
+        - "aisha has a wet hand" on 2 sheets: HW2, HW3
+        - "aisha has two books" on 2 sheets: CW2, HW1
+        - "aisha lives in a clean house" on 2 sheets: CW1, CW4
+        - "clean the bag rabab ____" on 2 sheets: HW3, HW4
+        - "his table is near the bed" on 2 sheets: HW2, HW3
+        - "it is a ____ day" on 2 sheets: CW1, CW4
+        - "it is a ____ evening" on 2 sheets: HW1, HW3
+        - "it is a ____ morning" on 2 sheets: HW1, HW2
+        - "it is a fine day" on 2 sheets: HW1, HW4
+        - "it is a joyful afternoon" on 2 sheets: CW1, CW3
+        - "it is a joyful enjoy evening" on 2 sheets: HW2, HW3
+        - "it is a joyful morning" on 3 sheets: HW1, HW2, HW4
+        - "my book is on the shelf" on 2 sheets: HW2, HW4
+        - "nusair has a ____ kite" on 2 sheets: CW3, HW2
+        - "nusair has a different story" on 3 sheets: CW2, CW3, HW1
+        - "nusair has a favourite book" on 2 sheets: CW1, HW3
+        - "nusair has clean hands ____" on 2 sheets: CW3, CW4
+        - "nusair keeps a ____ mat" on 2 sheets: CW1, HW2
+        - "nusair keeps four mats" on 2 sheets: HW1, HW4
+        - "please clean the mat ____" on 2 sheets: HW3, HW4
+        - "porshi has a ____ shoe" on 2 sheets: HW2, HW3
+        - "porshi has some hens" on 2 sheets: HW1, HW3
+        - "porshi has two gardens" on 3 sheets: CW1, HW2, PT
+        - "porshi sees four hens" on 2 sheets: CW1, HW2
+        - "rabab has a different hat" on 2 sheets: CW3, HW2
+        - "rabab has a wooden hat" on 2 sheets: CW3, HW4
+        - "rabab has many friends" on 2 sheets: HW1, HW2
+        - "rabab has many hats" on 2 sheets: CW1, CW2
+        - "rabab has some towels" on 2 sheets: CW4, HW1
+        - "raima has a ____ pen" on 2 sheets: CW1, HW3
+        - "raima has a ____ story" on 2 sheets: CW2, HW4
+        - "raima has a favourite pen" on 2 sheets: CW2, HW1
+        - "raima has a red kite" on 2 sheets: CW1, HW3
+        - "that hat is on the bed" on 3 sheets: HW2, HW3, PT
+        - "their hut is here" on 3 sheets: CW2, CW3, CW4
+        - "they have a ____ home" on 2 sheets: CW2, HW4
+        - "this hat is on the shelf" on 2 sheets: CW2, HW3
+        - "this pen is in the bag" on 2 sheets: CW3, CW4
+        - "this shoe is on the mat" on 2 sheets: CW3, HW4
+        - "we clean the school ____" on 2 sheets: CW3, CW4
+        - "we see a ____ field" on 2 sheets: HW1, HW3
+        - "we see a ____ house" on 2 sheets: CW1, CW4
+        - "we see a ____ river" on 2 sheets: CW1, CW2
+        - "we see a beautiful garden" on 2 sheets: CW1, HW2
+        - "we see a big school" on 2 sheets: CW1, HW4
+        - "we see a good school" on 3 sheets: CW2, CW3, HW1
+        - "we see a polluted city" on 2 sheets: CW3, HW4
+        - "we see a polluted river" on 4 sheets: CW1, CW4, HW3, PT
+        - "we see a see beautiful river" on 2 sheets: CW2, CW3
+        - "yusuf has a ____ card" on 2 sheets: HW1, HW2
+        - "yusuf has a ____ pen" on 2 sheets: CW2, CW3
+        - "yusuf has a clean face ____" on 2 sheets: HW3, HW4
+        - "yusuf has a clean hand" on 3 sheets: CW1, CW2, CW3
+        - "yusuf has a fine card" on 3 sheets: CW2, HW1, HW4
+        - "yusuf has a good book" on 2 sheets: HW1, HW2
+        - "yusuf has many stories" on 2 sheets: CW3, HW2
+[PASS] Rehearsal/graded disjoint        4 self-try vs 0 demo words
+[FAIL] Mark totals                      CW1: no stated total (computed 33); HW1: no stated total (computed 33); CW2: no stated total (computed 33); HW2: no stated total (computed 33); CW3: no stated total (computed 32); HW3: no stated total (computed 32); CW4: no stated total (computed 36); HW4: no stated total (computed 34); PT: 34.5/34
+        - PT: computed 34.5 ≠ stated 34
+[PASS] Sacred-word guard                graded targets + dictation scanned
+[PASS] Values lexicon screen            student-facing item texts scanned (incl. inflections)
+[FAIL] Held-word / exemplar / block-local 180 graded targets checked against 195 pool words + 15 exemplars + 0 block-local
+        - CW1 A: 'big' not in File 2 pool and not a declared exemplar or block-local word
+        - HW2 A: 'big' not in File 2 pool and not a declared exemplar or block-local word
+        - HW2 A: 'big' not in File 2 pool and not a declared exemplar or block-local word
+        - HW4 A: 'big' not in File 2 pool and not a declared exemplar or block-local word
+[PASS] One-defensible-answer (human)    no conflicting-answer candidates; full check remains a human read
+------------------------------------------------------------------------
+RESULT: FAILURES PRESENT — do not finalize
+Reminder: the naturalness gate and full one-defensible-answer check are HUMAN.

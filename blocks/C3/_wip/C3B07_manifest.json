@@ -1,0 +1,1776 @@
+{
+ "block_id": "C3B07",
+ "build_week": 6,
+ "exemplars": [
+  "two",
+  "three",
+  "four",
+  "five",
+  "many",
+  "some",
+  "few",
+  "all",
+  "my",
+  "his",
+  "her",
+  "our",
+  "their",
+  "this",
+  "that"
+ ],
+ "block_local": [],
+ "sheets": [
+  {
+   "name": "CW1",
+   "type": "worksheet",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "It is a joyful afternoon.",
+       "marks": 1,
+       "answer": "joyful",
+       "trigger": "joyful"
+      },
+      {
+       "text": "Porshi has two gardens.",
+       "marks": 1,
+       "answer": "two",
+       "trigger": "two"
+      },
+      {
+       "text": "Yusuf has a clean hand.",
+       "marks": 1,
+       "answer": "clean",
+       "trigger": "clean"
+      },
+      {
+       "text": "Raima has two bags.",
+       "marks": 1,
+       "answer": "two",
+       "trigger": "two"
+      },
+      {
+       "text": "We see a polluted river.",
+       "marks": 1,
+       "answer": "polluted",
+       "trigger": "polluted"
+      },
+      {
+       "text": "Rabab has many hats.",
+       "marks": 1,
+       "answer": "many",
+       "trigger": "many"
+      },
+      {
+       "text": "We see a beautiful garden.",
+       "marks": 1,
+       "answer": "beautiful",
+       "trigger": "beautiful"
+      },
+      {
+       "text": "Aisha has a wet face.",
+       "marks": 1,
+       "answer": "wet",
+       "trigger": "wet"
+      },
+      {
+       "text": "Nusair has a favourite book.",
+       "marks": 1,
+       "answer": "favourite",
+       "trigger": "favourite"
+      },
+      {
+       "text": "Yusuf is a good friend.",
+       "marks": 1,
+       "answer": "good",
+       "trigger": "good"
+      },
+      {
+       "text": "Porshi sees four hens.",
+       "marks": 1,
+       "answer": "four",
+       "trigger": "four"
+      },
+      {
+       "text": "Porshi keeps an old towel.",
+       "marks": 1,
+       "answer": "old",
+       "trigger": "old"
+      },
+      {
+       "text": "Raima has a red kite.",
+       "marks": 1,
+       "answer": "red",
+       "trigger": "red"
+      },
+      {
+       "text": "We see a big school.",
+       "marks": 1,
+       "answer": "big",
+       "trigger": "big"
+      },
+      {
+       "text": "Abdur Rahim holds a new pen.",
+       "marks": 1,
+       "answer": "new",
+       "trigger": "new"
+      },
+      {
+       "text": "Yusuf has a nice card.",
+       "marks": 1,
+       "answer": "nice",
+       "trigger": "nice"
+      },
+      {
+       "text": "Abdullah has few cats.",
+       "marks": 1,
+       "answer": "few",
+       "trigger": "few"
+      },
+      {
+       "text": "Aisha lives in a clean house.",
+       "marks": 1,
+       "answer": "clean",
+       "trigger": "clean"
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "marks": 5,
+     "items": []
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "We see a ____ house.",
+       "marks": 1
+      },
+      {
+       "text": "Nusair keeps a ____ mat.",
+       "marks": 1
+      },
+      {
+       "text": "We see a ____ river.",
+       "marks": 1
+      },
+      {
+       "text": "It is a ____ day.",
+       "marks": 1
+      },
+      {
+       "text": "Raima has a ____ pen.",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "D",
+     "items": [
+      {
+       "text": "Yusuf has a ( simple / keep ) story.",
+       "marks": 1,
+       "answer": "simple",
+       "trigger": "simple"
+      },
+      {
+       "text": "Rabab has a ( wash / different ) hat.",
+       "marks": 1,
+       "answer": "different",
+       "trigger": "different"
+      },
+      {
+       "text": "We see a ( cut / hard ) road.",
+       "marks": 1,
+       "answer": "hard",
+       "trigger": "hard"
+      }
+     ]
+    },
+    {
+     "name": "E",
+     "items": [
+      {
+       "text": "Write a sentence about a shoe. Use a describing word (what kind) before it. Underline it.",
+       "marks": 1
+      },
+      {
+       "text": "Write a sentence with a 'how many' word (like two, many, few) before a naming word. Underline the number word.",
+       "marks": 1
+      }
+     ]
+    }
+   ],
+   "pair": "HW1"
+  },
+  {
+   "name": "HW1",
+   "type": "worksheet",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "Porshi has a nice shoe.",
+       "marks": 1,
+       "answer": "nice",
+       "trigger": "nice"
+      },
+      {
+       "text": "We see an old house.",
+       "marks": 1,
+       "answer": "old",
+       "trigger": "old"
+      },
+      {
+       "text": "Yusuf has a good book.",
+       "marks": 1,
+       "answer": "good",
+       "trigger": "good"
+      },
+      {
+       "text": "We see a grassy garden.",
+       "marks": 1,
+       "answer": "grassy",
+       "trigger": "grassy"
+      },
+      {
+       "text": "Rabab has many friends.",
+       "marks": 1,
+       "answer": "many",
+       "trigger": "many"
+      },
+      {
+       "text": "Yusuf lives in a simple home.",
+       "marks": 1,
+       "answer": "simple",
+       "trigger": "simple"
+      },
+      {
+       "text": "It is a cold evening.",
+       "marks": 1,
+       "answer": "cold",
+       "trigger": "cold"
+      },
+      {
+       "text": "Abdullah has a simple book.",
+       "marks": 1,
+       "answer": "simple",
+       "trigger": "simple"
+      },
+      {
+       "text": "Yusuf has a fine card.",
+       "marks": 1,
+       "answer": "fine",
+       "trigger": "fine"
+      },
+      {
+       "text": "It is a joyful morning.",
+       "marks": 1,
+       "answer": "joyful",
+       "trigger": "joyful"
+      },
+      {
+       "text": "It is a fine day.",
+       "marks": 1,
+       "answer": "fine",
+       "trigger": "fine"
+      },
+      {
+       "text": "Aisha has two books.",
+       "marks": 1,
+       "answer": "two",
+       "trigger": "two"
+      },
+      {
+       "text": "Nusair has a different story.",
+       "marks": 1,
+       "answer": "different",
+       "trigger": "different"
+      },
+      {
+       "text": "Rabab has some towels.",
+       "marks": 1,
+       "answer": "some",
+       "trigger": "some"
+      },
+      {
+       "text": "Nusair keeps four mats.",
+       "marks": 1,
+       "answer": "four",
+       "trigger": "four"
+      },
+      {
+       "text": "We see a good school.",
+       "marks": 1,
+       "answer": "good",
+       "trigger": "good"
+      },
+      {
+       "text": "Raima has a favourite pen.",
+       "marks": 1,
+       "answer": "favourite",
+       "trigger": "favourite"
+      },
+      {
+       "text": "Porshi has some hens.",
+       "marks": 1,
+       "answer": "some",
+       "trigger": "some"
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "marks": 5,
+     "items": []
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "Yusuf has a ____ card.",
+       "marks": 1
+      },
+      {
+       "text": "We see a ____ field.",
+       "marks": 1
+      },
+      {
+       "text": "It is a ____ morning.",
+       "marks": 1
+      },
+      {
+       "text": "It is a ____ evening.",
+       "marks": 1
+      },
+      {
+       "text": "Aisha has a ____ bag.",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "D",
+     "items": [
+      {
+       "text": "Raima has a ( beautiful / keep ) story.",
+       "marks": 1,
+       "answer": "beautiful",
+       "trigger": "beautiful"
+      },
+      {
+       "text": "Nusair has a ( wet / wash ) towel.",
+       "marks": 1,
+       "answer": "wet",
+       "trigger": "wet"
+      },
+      {
+       "text": "Rabab has a ( hold / wooden ) table.",
+       "marks": 1,
+       "answer": "wooden",
+       "trigger": "wooden"
+      }
+     ]
+    },
+    {
+     "name": "E",
+     "items": [
+      {
+       "text": "Write a sentence about a book. Use a describing word (what kind) before it. Underline it.",
+       "marks": 1
+      },
+      {
+       "text": "Think of your favourite thing. Write a sentence describing it with a 'what kind' word. Underline the describing word.",
+       "marks": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "CW2",
+   "type": "worksheet",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "We see a good school.",
+       "marks": 1,
+       "answer": "good",
+       "trigger": "good"
+      },
+      {
+       "text": "Nusair lives in a cozy hut.",
+       "marks": 1,
+       "answer": "cozy",
+       "trigger": "cozy"
+      },
+      {
+       "text": "Her hat is on the bed.",
+       "marks": 1,
+       "answer": "her",
+       "trigger": "her"
+      },
+      {
+       "text": "That hen is in the hut.",
+       "marks": 1,
+       "answer": "that",
+       "trigger": "that"
+      },
+      {
+       "text": "Yusuf has a clean hand.",
+       "marks": 1,
+       "answer": "clean",
+       "trigger": "clean"
+      },
+      {
+       "text": "Aisha has a new book.",
+       "marks": 1,
+       "answer": "new",
+       "trigger": "new"
+      },
+      {
+       "text": "Aisha has two books.",
+       "marks": 1,
+       "answer": "two",
+       "trigger": "two"
+      },
+      {
+       "text": "This hat is on the shelf.",
+       "marks": 1,
+       "answer": "this",
+       "trigger": "this"
+      },
+      {
+       "text": "Raima keeps two cats.",
+       "marks": 1,
+       "answer": "two",
+       "trigger": "two"
+      },
+      {
+       "text": "Raima has a favourite pen.",
+       "marks": 1,
+       "answer": "favourite",
+       "trigger": "favourite"
+      },
+      {
+       "text": "Nusair has a clean towel.",
+       "marks": 1,
+       "answer": "clean",
+       "trigger": "clean"
+      },
+      {
+       "text": "Abdullah is a good man.",
+       "marks": 1,
+       "answer": "good",
+       "trigger": "good"
+      },
+      {
+       "text": "Abdullah has a simple book.",
+       "marks": 1,
+       "answer": "simple",
+       "trigger": "simple"
+      },
+      {
+       "text": "Yusuf has a fine card.",
+       "marks": 1,
+       "answer": "fine",
+       "trigger": "fine"
+      },
+      {
+       "text": "Nusair has a different story.",
+       "marks": 1,
+       "answer": "different",
+       "trigger": "different"
+      },
+      {
+       "text": "Abdullah has three friends.",
+       "marks": 1,
+       "answer": "three",
+       "trigger": "three"
+      },
+      {
+       "text": "Their hut is here.",
+       "marks": 1,
+       "answer": "their",
+       "trigger": "their"
+      },
+      {
+       "text": "Rabab has many hats.",
+       "marks": 1,
+       "answer": "many",
+       "trigger": "many"
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "marks": 5,
+     "items": []
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "Aisha has a ____ towel.",
+       "marks": 1
+      },
+      {
+       "text": "We see a ____ river.",
+       "marks": 1
+      },
+      {
+       "text": "They have a ____ home.",
+       "marks": 1
+      },
+      {
+       "text": "Raima has a ____ story.",
+       "marks": 1
+      },
+      {
+       "text": "Yusuf has a ____ pen.",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "D",
+     "items": [
+      {
+       "text": "Yusuf has a ( wash / nice ) shoe.",
+       "marks": 1,
+       "answer": "nice",
+       "trigger": "nice"
+      },
+      {
+       "text": "Rabab has a ( hold / favourite ) kite.",
+       "marks": 1,
+       "answer": "favourite",
+       "trigger": "favourite"
+      },
+      {
+       "text": "We see a ( see / beautiful ) river.",
+       "marks": 1,
+       "answer": "beautiful",
+       "trigger": "beautiful"
+      }
+     ]
+    },
+    {
+     "name": "E",
+     "items": [
+      {
+       "text": "Write a sentence about a bag. Use a describing word (what kind) before it. Underline it.",
+       "marks": 1
+      },
+      {
+       "text": "Write a sentence using 'my' or 'our' before a naming word. Underline the describing word.",
+       "marks": 1
+      }
+     ]
+    }
+   ],
+   "pair": "HW2"
+  },
+  {
+   "name": "HW2",
+   "type": "worksheet",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "Porshi sees four hens.",
+       "marks": 1,
+       "answer": "four",
+       "trigger": "four"
+      },
+      {
+       "text": "Yusuf has a good book.",
+       "marks": 1,
+       "answer": "good",
+       "trigger": "good"
+      },
+      {
+       "text": "Porshi has two gardens.",
+       "marks": 1,
+       "answer": "two",
+       "trigger": "two"
+      },
+      {
+       "text": "They have a big house.",
+       "marks": 1,
+       "answer": "big",
+       "trigger": "big"
+      },
+      {
+       "text": "Raima has a wet towel.",
+       "marks": 1,
+       "answer": "wet",
+       "trigger": "wet"
+      },
+      {
+       "text": "We see a beautiful garden.",
+       "marks": 1,
+       "answer": "beautiful",
+       "trigger": "beautiful"
+      },
+      {
+       "text": "Rabab has many friends.",
+       "marks": 1,
+       "answer": "many",
+       "trigger": "many"
+      },
+      {
+       "text": "My book is on the shelf.",
+       "marks": 1,
+       "answer": "my",
+       "trigger": "my"
+      },
+      {
+       "text": "Yusuf has many stories.",
+       "marks": 1,
+       "answer": "many",
+       "trigger": "many"
+      },
+      {
+       "text": "Yusuf has a big kite.",
+       "marks": 1,
+       "answer": "big",
+       "trigger": "big"
+      },
+      {
+       "text": "Aisha keeps a dirty mat.",
+       "marks": 1,
+       "answer": "dirty",
+       "trigger": "dirty"
+      },
+      {
+       "text": "It is a joyful morning.",
+       "marks": 1,
+       "answer": "joyful",
+       "trigger": "joyful"
+      },
+      {
+       "text": "His table is near the bed.",
+       "marks": 1,
+       "answer": "his",
+       "trigger": "his"
+      },
+      {
+       "text": "That hat is on the bed.",
+       "marks": 1,
+       "answer": "that",
+       "trigger": "that"
+      },
+      {
+       "text": "That pen is in the bag.",
+       "marks": 1,
+       "answer": "that",
+       "trigger": "that"
+      },
+      {
+       "text": "We see a grassy field.",
+       "marks": 1,
+       "answer": "grassy",
+       "trigger": "grassy"
+      },
+      {
+       "text": "Rabab has a different hat.",
+       "marks": 1,
+       "answer": "different",
+       "trigger": "different"
+      },
+      {
+       "text": "Aisha has a wet hand.",
+       "marks": 1,
+       "answer": "wet",
+       "trigger": "wet"
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "marks": 5,
+     "items": []
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "Yusuf has a ____ card.",
+       "marks": 1
+      },
+      {
+       "text": "It is a ____ morning.",
+       "marks": 1
+      },
+      {
+       "text": "Porshi has a ____ shoe.",
+       "marks": 1
+      },
+      {
+       "text": "Nusair keeps a ____ mat.",
+       "marks": 1
+      },
+      {
+       "text": "Nusair has a ____ kite.",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "D",
+     "items": [
+      {
+       "text": "Nusair has a ( wooden / hold ) table.",
+       "marks": 1,
+       "answer": "wooden",
+       "trigger": "wooden"
+      },
+      {
+       "text": "It is a ( joyful / enjoy ) evening.",
+       "marks": 1,
+       "answer": "joyful",
+       "trigger": "joyful"
+      },
+      {
+       "text": "Aisha has a ( red / hold ) bag.",
+       "marks": 1,
+       "answer": "red",
+       "trigger": "red"
+      }
+     ]
+    },
+    {
+     "name": "E",
+     "items": [
+      {
+       "text": "Write a sentence about a hat. Use a describing word (what kind) before it. Underline it.",
+       "marks": 1
+      },
+      {
+       "text": "Write a sentence using 'this' or 'that' before a naming word. Underline the describing word.",
+       "marks": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "CW3",
+   "type": "worksheet",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "Rabab has a different hat.",
+       "marks": 1,
+       "answer": "different",
+       "trigger": "different"
+      },
+      {
+       "text": "We see a polluted city.",
+       "marks": 1,
+       "answer": "polluted",
+       "trigger": "polluted"
+      },
+      {
+       "text": "It is a joyful afternoon.",
+       "marks": 1,
+       "answer": "joyful",
+       "trigger": "joyful"
+      },
+      {
+       "text": "Nusair has a different story.",
+       "marks": 1,
+       "answer": "different",
+       "trigger": "different"
+      },
+      {
+       "text": "Our school is near our home.",
+       "marks": 1,
+       "answer": "our",
+       "trigger": "our"
+      },
+      {
+       "text": "We see a good school.",
+       "marks": 1,
+       "answer": "good",
+       "trigger": "good"
+      },
+      {
+       "text": "Their hut is here.",
+       "marks": 1,
+       "answer": "their",
+       "trigger": "their"
+      },
+      {
+       "text": "This shoe is on the mat.",
+       "marks": 1,
+       "answer": "this",
+       "trigger": "this"
+      },
+      {
+       "text": "Rabab has a wooden hat.",
+       "marks": 1,
+       "answer": "wooden",
+       "trigger": "wooden"
+      },
+      {
+       "text": "Nusair sees many trees.",
+       "marks": 1,
+       "answer": "many",
+       "trigger": "many"
+      },
+      {
+       "text": "This pen is in the bag.",
+       "marks": 1,
+       "answer": "this",
+       "trigger": "this"
+      },
+      {
+       "text": "Yusuf has many stories.",
+       "marks": 1,
+       "answer": "many",
+       "trigger": "many"
+      },
+      {
+       "text": "It is a beautiful evening.",
+       "marks": 1,
+       "answer": "beautiful",
+       "trigger": "beautiful"
+      },
+      {
+       "text": "Yusuf has a clean hand.",
+       "marks": 1,
+       "answer": "clean",
+       "trigger": "clean"
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "marks": 5,
+     "items": []
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "Aisha has a ____ book.",
+       "marks": 1
+      },
+      {
+       "text": "Yusuf has a ____ pen.",
+       "marks": 1
+      },
+      {
+       "text": "We see a ____ garden.",
+       "marks": 1
+      },
+      {
+       "text": "Porshi has a ____ hat.",
+       "marks": 1
+      },
+      {
+       "text": "Nusair has a ____ kite.",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "D",
+     "items": [
+      {
+       "text": "We clean the school.   ____",
+       "marks": 1,
+       "answer": "verb",
+       "trigger": "clean"
+      },
+      {
+       "text": "A clean towel is on the bed.   ____",
+       "marks": 1,
+       "answer": "adjective",
+       "trigger": "clean"
+      },
+      {
+       "text": "Nusair has clean hands.   ____",
+       "marks": 1,
+       "answer": "adjective",
+       "trigger": "clean"
+      }
+     ],
+     "options": [
+      "adjective",
+      "verb"
+     ]
+    },
+    {
+     "name": "E",
+     "items": [
+      {
+       "text": "Rabab has a ( keep / simple ) story.",
+       "marks": 1,
+       "answer": "simple",
+       "trigger": "simple"
+      },
+      {
+       "text": "We see a ( see / beautiful ) river.",
+       "marks": 1,
+       "answer": "beautiful",
+       "trigger": "beautiful"
+      },
+      {
+       "text": "Rabab has a ( see / cozy ) home.",
+       "marks": 1,
+       "answer": "cozy",
+       "trigger": "cozy"
+      }
+     ]
+    },
+    {
+     "name": "F",
+     "items": [
+      {
+       "text": "Write a sentence about a kite. Use a describing word (what kind) before it. Underline it.",
+       "marks": 1
+      },
+      {
+       "text": "Write two naming words and put a different describing word before each. Underline both.",
+       "marks": 1
+      }
+     ]
+    }
+   ],
+   "pair": "HW3"
+  },
+  {
+   "name": "HW3",
+   "type": "worksheet",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "Abdullah has a simple book.",
+       "marks": 1,
+       "answer": "simple",
+       "trigger": "simple"
+      },
+      {
+       "text": "Raima has a red kite.",
+       "marks": 1,
+       "answer": "red",
+       "trigger": "red"
+      },
+      {
+       "text": "Our garden is near the house.",
+       "marks": 1,
+       "answer": "our",
+       "trigger": "our"
+      },
+      {
+       "text": "Nusair has a favourite book.",
+       "marks": 1,
+       "answer": "favourite",
+       "trigger": "favourite"
+      },
+      {
+       "text": "Aisha has a wet hand.",
+       "marks": 1,
+       "answer": "wet",
+       "trigger": "wet"
+      },
+      {
+       "text": "Nusair keeps a clean mat.",
+       "marks": 1,
+       "answer": "clean",
+       "trigger": "clean"
+      },
+      {
+       "text": "Abdur Rahim has three brothers.",
+       "marks": 1,
+       "answer": "three",
+       "trigger": "three"
+      },
+      {
+       "text": "That hat is on the bed.",
+       "marks": 1,
+       "answer": "that",
+       "trigger": "that"
+      },
+      {
+       "text": "This hat is on the shelf.",
+       "marks": 1,
+       "answer": "this",
+       "trigger": "this"
+      },
+      {
+       "text": "Raima has a good story.",
+       "marks": 1,
+       "answer": "good",
+       "trigger": "good"
+      },
+      {
+       "text": "We see a polluted river.",
+       "marks": 1,
+       "answer": "polluted",
+       "trigger": "polluted"
+      },
+      {
+       "text": "Aisha is a good girl.",
+       "marks": 1,
+       "answer": "good",
+       "trigger": "good"
+      },
+      {
+       "text": "His table is near the bed.",
+       "marks": 1,
+       "answer": "his",
+       "trigger": "his"
+      },
+      {
+       "text": "Porshi has some hens.",
+       "marks": 1,
+       "answer": "some",
+       "trigger": "some"
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "marks": 5,
+     "items": []
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "We see a ____ field.",
+       "marks": 1
+      },
+      {
+       "text": "Porshi has a ____ shoe.",
+       "marks": 1
+      },
+      {
+       "text": "It is a ____ evening.",
+       "marks": 1
+      },
+      {
+       "text": "Raima has a ____ pen.",
+       "marks": 1
+      },
+      {
+       "text": "Aisha has a ____ towel.",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "D",
+     "items": [
+      {
+       "text": "Yusuf has a clean face.   ____",
+       "marks": 1,
+       "answer": "adjective",
+       "trigger": "clean"
+      },
+      {
+       "text": "Please clean the mat.   ____",
+       "marks": 1,
+       "answer": "verb",
+       "trigger": "clean"
+      },
+      {
+       "text": "Clean the bag, Rabab.   ____",
+       "marks": 1,
+       "answer": "verb",
+       "trigger": "clean"
+      }
+     ],
+     "options": [
+      "adjective",
+      "verb"
+     ]
+    },
+    {
+     "name": "E",
+     "items": [
+      {
+       "text": "Yusuf has a ( hold / favourite ) kite.",
+       "marks": 1,
+       "answer": "favourite",
+       "trigger": "favourite"
+      },
+      {
+       "text": "Aisha has a ( nice / wash ) shoe.",
+       "marks": 1,
+       "answer": "nice",
+       "trigger": "nice"
+      },
+      {
+       "text": "It is a ( joyful / enjoy ) evening.",
+       "marks": 1,
+       "answer": "joyful",
+       "trigger": "joyful"
+      }
+     ]
+    },
+    {
+     "name": "F",
+     "items": [
+      {
+       "text": "Write a sentence about a towel. Use a describing word (what kind) before it. Underline it.",
+       "marks": 1
+      },
+      {
+       "text": "Write a sentence with a 'how many' word and a 'what kind' word (like 'two clean bags'). Underline both.",
+       "marks": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "CW4",
+   "type": "worksheet",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "My bag is here.",
+       "marks": 1,
+       "answer": "my",
+       "trigger": "my"
+      },
+      {
+       "text": "This pen is in the bag.",
+       "marks": 1,
+       "answer": "this",
+       "trigger": "this"
+      },
+      {
+       "text": "Aisha lives in a clean house.",
+       "marks": 1,
+       "answer": "clean",
+       "trigger": "clean"
+      },
+      {
+       "text": "They have a cozy home.",
+       "marks": 1,
+       "answer": "cozy",
+       "trigger": "cozy"
+      },
+      {
+       "text": "We see a polluted river.",
+       "marks": 1,
+       "answer": "polluted",
+       "trigger": "polluted"
+      },
+      {
+       "text": "Abdullah is a good man.",
+       "marks": 1,
+       "answer": "good",
+       "trigger": "good"
+      },
+      {
+       "text": "Their hut is here.",
+       "marks": 1,
+       "answer": "their",
+       "trigger": "their"
+      },
+      {
+       "text": "That kite is on the roof.",
+       "marks": 1,
+       "answer": "that",
+       "trigger": "that"
+      },
+      {
+       "text": "Abdur Rahim has three brothers.",
+       "marks": 1,
+       "answer": "three",
+       "trigger": "three"
+      },
+      {
+       "text": "Aisha has a nice bag.",
+       "marks": 1,
+       "answer": "nice",
+       "trigger": "nice"
+      },
+      {
+       "text": "Rabab has some towels.",
+       "marks": 1,
+       "answer": "some",
+       "trigger": "some"
+      },
+      {
+       "text": "Yusuf has three cards.",
+       "marks": 1,
+       "answer": "three",
+       "trigger": "three"
+      },
+      {
+       "text": "Rabab has a joyful story.",
+       "marks": 1,
+       "answer": "joyful",
+       "trigger": "joyful"
+      },
+      {
+       "text": "Yusuf has a red kite.",
+       "marks": 1,
+       "answer": "red",
+       "trigger": "red"
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "marks": 5,
+     "items": []
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "Aisha has a ____ bag.",
+       "marks": 1
+      },
+      {
+       "text": "It is a ____ day.",
+       "marks": 1
+      },
+      {
+       "text": "Rabab has a ____ kite.",
+       "marks": 1
+      },
+      {
+       "text": "We see a ____ house.",
+       "marks": 1
+      },
+      {
+       "text": "Aisha has a ____ book.",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "D",
+     "items": [
+      {
+       "text": "We clean the school.   ____",
+       "marks": 1,
+       "answer": "verb",
+       "trigger": "clean"
+      },
+      {
+       "text": "Nusair has clean hands.   ____",
+       "marks": 1,
+       "answer": "adjective",
+       "trigger": "clean"
+      },
+      {
+       "text": "A clean towel is on the bed.   ____",
+       "marks": 1,
+       "answer": "adjective",
+       "trigger": "clean"
+      }
+     ],
+     "options": [
+      "adjective",
+      "verb"
+     ]
+    },
+    {
+     "name": "E",
+     "items": [
+      {
+       "text": "The wet sun is very hot.   → ______",
+       "marks": 1,
+       "answer": "wet (a sun is not wet)"
+      },
+      {
+       "text": "My friend has a sad book.   → ______",
+       "marks": 1,
+       "answer": "sad (a book is not sad)"
+      },
+      {
+       "text": "Aisha has a cold book.   → ______",
+       "marks": 1,
+       "answer": "cold (a book is not cold)"
+      },
+      {
+       "text": "His hand has a red story.   → ______",
+       "marks": 1,
+       "answer": "red (a story is not red)"
+      }
+     ]
+    },
+    {
+     "name": "F",
+     "items": [
+      {
+       "text": "Aisha has a ( nice / wash ) shoe.",
+       "marks": 1,
+       "answer": "nice",
+       "trigger": "nice"
+      },
+      {
+       "text": "Aisha has a ( favourite / hold ) kite.",
+       "marks": 1,
+       "answer": "favourite",
+       "trigger": "favourite"
+      },
+      {
+       "text": "Yusuf has a ( wooden / hold ) table.",
+       "marks": 1,
+       "answer": "wooden",
+       "trigger": "wooden"
+      }
+     ]
+    },
+    {
+     "name": "G",
+     "items": [
+      {
+       "text": "Write a sentence about a pen. Use a describing word (what kind) before it. Underline it.",
+       "marks": 1
+      },
+      {
+       "text": "Write a sentence, then write which question your describing word answers (what kind / how many / which / whose).",
+       "marks": 1
+      }
+     ]
+    }
+   ],
+   "pair": "HW4"
+  },
+  {
+   "name": "HW4",
+   "type": "worksheet",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "It is a fine day.",
+       "marks": 1,
+       "answer": "fine",
+       "trigger": "fine"
+      },
+      {
+       "text": "My book is on the shelf.",
+       "marks": 1,
+       "answer": "my",
+       "trigger": "my"
+      },
+      {
+       "text": "This shoe is on the mat.",
+       "marks": 1,
+       "answer": "this",
+       "trigger": "this"
+      },
+      {
+       "text": "Nusair keeps four mats.",
+       "marks": 1,
+       "answer": "four",
+       "trigger": "four"
+      },
+      {
+       "text": "Rabab lives in a nice house.",
+       "marks": 1,
+       "answer": "nice",
+       "trigger": "nice"
+      },
+      {
+       "text": "That book is here.",
+       "marks": 1,
+       "answer": "that",
+       "trigger": "that"
+      },
+      {
+       "text": "We see a big school.",
+       "marks": 1,
+       "answer": "big",
+       "trigger": "big"
+      },
+      {
+       "text": "Nusair has four shoes.",
+       "marks": 1,
+       "answer": "four",
+       "trigger": "four"
+      },
+      {
+       "text": "It is a joyful morning.",
+       "marks": 1,
+       "answer": "joyful",
+       "trigger": "joyful"
+      },
+      {
+       "text": "We see a polluted city.",
+       "marks": 1,
+       "answer": "polluted",
+       "trigger": "polluted"
+      },
+      {
+       "text": "Rabab has a wooden hat.",
+       "marks": 1,
+       "answer": "wooden",
+       "trigger": "wooden"
+      },
+      {
+       "text": "Yusuf has a fine card.",
+       "marks": 1,
+       "answer": "fine",
+       "trigger": "fine"
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "marks": 5,
+     "items": []
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "Yusuf has a ____ bag.",
+       "marks": 1
+      },
+      {
+       "text": "Raima has a ____ story.",
+       "marks": 1
+      },
+      {
+       "text": "Rabab has a ____ mat.",
+       "marks": 1
+      },
+      {
+       "text": "Nusair has a ____ shoe.",
+       "marks": 1
+      },
+      {
+       "text": "They have a ____ home.",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "D",
+     "items": [
+      {
+       "text": "Please clean the mat.   ____",
+       "marks": 1,
+       "answer": "verb",
+       "trigger": "clean"
+      },
+      {
+       "text": "Clean the bag, Rabab.   ____",
+       "marks": 1,
+       "answer": "verb",
+       "trigger": "clean"
+      },
+      {
+       "text": "Yusuf has a clean face.   ____",
+       "marks": 1,
+       "answer": "adjective",
+       "trigger": "clean"
+      }
+     ],
+     "options": [
+      "adjective",
+      "verb"
+     ]
+    },
+    {
+     "name": "E",
+     "items": [
+      {
+       "text": "Two boy play in the garden.   → ______",
+       "marks": 1,
+       "answer": "boy → boys (number)"
+      },
+      {
+       "text": "Many cat sat on the mat.   → ______",
+       "marks": 1,
+       "answer": "cat → cats (number)"
+      },
+      {
+       "text": "Three hen are in the hut.   → ______",
+       "marks": 1,
+       "answer": "hen → hens (number)"
+      },
+      {
+       "text": "Some friend came to school.   → ______",
+       "marks": 1,
+       "answer": "friend → friends (number)"
+      }
+     ]
+    },
+    {
+     "name": "F",
+     "items": [
+      {
+       "text": "We see a ( beautiful / see ) river.",
+       "marks": 1,
+       "answer": "beautiful",
+       "trigger": "beautiful"
+      },
+      {
+       "text": "Rabab has a ( red / hold ) bag.",
+       "marks": 1,
+       "answer": "red",
+       "trigger": "red"
+      },
+      {
+       "text": "Aisha has a ( different / wash ) hat.",
+       "marks": 1,
+       "answer": "different",
+       "trigger": "different"
+      }
+     ]
+    },
+    {
+     "name": "G",
+     "items": [
+      {
+       "text": "Write a sentence about a mat. Use a describing word (what kind) before it. Underline it.",
+       "marks": 1
+      },
+      {
+       "text": "Write a sentence using a describing word that tells 'whose' (my, his, her, our, their). Underline it.",
+       "marks": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "PT",
+   "type": "pt",
+   "stated_total": 34,
+   "parts": [
+    {
+     "name": "A",
+     "marks": 10,
+     "items": []
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "Yusuf has ___ egg and ___ book.",
+       "answer": "an egg / a book",
+       "marks": 1.0
+      },
+      {
+       "text": "___ sun rises in the morning.",
+       "answer": "The sun",
+       "marks": 0.5
+      },
+      {
+       "text": "She waited ___ hour for her friend.",
+       "answer": "an hour",
+       "marks": 0.5
+      },
+      {
+       "text": "He is ___ honest boy.",
+       "answer": "an honest",
+       "marks": 0.5
+      },
+      {
+       "text": "___ owl sat on the roof.",
+       "answer": "An owl",
+       "marks": 0.5
+      },
+      {
+       "text": "Rani has ___ apple and ___ card.",
+       "answer": "an apple / a card",
+       "marks": 1.0
+      },
+      {
+       "text": "It is ___ university bag.",
+       "answer": "a university",
+       "marks": 0.5
+      },
+      {
+       "text": "I see ___ cat and ___ ostrich.",
+       "answer": "a cat / an ostrich",
+       "marks": 1.0
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "She opened a umbrella.",
+       "answer": "an",
+       "marks": 0.5
+      },
+      {
+       "text": "He ate an orange.",
+       "answer": "✓ correct",
+       "marks": 0.5
+      },
+      {
+       "text": "Rani has a onion.",
+       "answer": "an",
+       "marks": 0.5
+      },
+      {
+       "text": "It is a university bag.",
+       "answer": "✓ correct",
+       "marks": 0.5
+      },
+      {
+       "text": "He saw an owl.",
+       "answer": "✓ correct",
+       "marks": 0.5
+      },
+      {
+       "text": "She has an kite.",
+       "answer": "a",
+       "marks": 0.5
+      },
+      {
+       "text": "I ate a egg.",
+       "answer": "an",
+       "marks": 0.5
+      },
+      {
+       "text": "He read an book.",
+       "answer": "a",
+       "marks": 0.5
+      }
+     ]
+    },
+    {
+     "name": "D",
+     "items": [
+      {
+       "text": "Yusuf keeps his old book on a clean shelf. He reads many stories in the bright morning.",
+       "answer": "old, clean, many, bright, his",
+       "marks": 5
+      }
+     ]
+    },
+    {
+     "name": "E",
+     "items": [
+      {
+       "text": "Raima has a cozy bag.",
+       "answer": "cozy",
+       "marks": 0.5,
+       "trigger": "cozy"
+      },
+      {
+       "text": "Nusair has an old book.",
+       "answer": "old",
+       "marks": 0.5,
+       "trigger": "old"
+      },
+      {
+       "text": "Aisha has some kites.",
+       "answer": "some",
+       "marks": 0.5,
+       "trigger": "some"
+      },
+      {
+       "text": "We see a polluted river.",
+       "answer": "polluted",
+       "marks": 0.5,
+       "trigger": "polluted"
+      },
+      {
+       "text": "His mat is on the shelf.",
+       "answer": "His",
+       "marks": 0.5,
+       "trigger": "His"
+      },
+      {
+       "text": "Porshi has two gardens.",
+       "answer": "two",
+       "marks": 0.5,
+       "trigger": "two"
+      },
+      {
+       "text": "It is a bright morning.",
+       "answer": "bright",
+       "marks": 0.5,
+       "trigger": "bright"
+      },
+      {
+       "text": "That hat is on the bed.",
+       "answer": "That",
+       "marks": 0.5,
+       "trigger": "That"
+      }
+     ]
+    },
+    {
+     "name": "F",
+     "items": [
+      {
+       "text": "A clean bag is on the bed.",
+       "answer": "adjective",
+       "marks": 0.5
+      },
+      {
+       "text": "Please clean the pen box.",
+       "answer": "verb",
+       "marks": 0.5
+      },
+      {
+       "text": "Nusair has clean hands.",
+       "answer": "adjective",
+       "marks": 0.5
+      },
+      {
+       "text": "We clean the school.",
+       "answer": "verb",
+       "marks": 0.5
+      }
+     ],
+     "options": [
+      "adjective",
+      "verb"
+     ]
+    },
+    {
+     "name": "G",
+     "marks": 4,
+     "items": []
+    }
+   ]
+  }
+ ],
+ "dictation": [
+  "wash",
+  "brush",
+  "river",
+  "shoe",
+  "bright",
+  "dirty",
+  "habit",
+  "mouth",
+  "beautiful",
+  "rubbish"
+ ],
+ "pt_self_try_words": [
+  "egg",
+  "kite",
+  "onion",
+  "sun"
+ ],
+ "demo_box_words": []
+}
