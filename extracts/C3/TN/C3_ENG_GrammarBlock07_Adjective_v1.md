@@ -2,7 +2,7 @@
 *Master file · teacher-scripted week plan + worksheets + Performance Test + answer key*
 
 **Class:** 3 · **Block:** 7 · **Week:** 6 · **Days:** 4 teaching (Sun–Wed) + Performance Test (Thu)
-**Filename:** `C3_ENG_GrammarBlock07_Adjective_v1.md`
+**Filename:** `C3_ENG_Block07_Adjective_v1.md`
 
 ---
 
@@ -16,7 +16,7 @@
 | Exam anchor | **Annual 2025 Q8** — "Identify adjectives from the following passage" [5×1=5], identify-from-passage. **HY2025 & HY2026 do not test adjectives** (verified against all three papers) | Annual Q8; HY papers read in full |
 | Weighting | Graded items **55/25/20 descriptive : possessive-demonstrative : number** (PD-028); possessive/demonstrative/number strands taught fully but not exam-tested | This session |
 | Bloom | Class 3 = Understand/Apply; climb within block to simple Analyze / guided Create | Charter §G.2–G.3 |
-| Held-word scope | **All 29 pool adjectives held by end W6 — zero gap; no block-local set, no override.** Number/possessive/demonstrative words are carriers (not pool-held) | VocabPool v2 + BatchOrder v1 |
+| Held-word scope | **All 29 pool adjectives held by end W6 — zero gap.** **Block-local set (PD-047): `big`, `table`**; **the combined PT additionally carries Block 6's declared 14-word Article set** — `owl · ostrich · orange · egg · apple · umbrella · hour · honest · university · onion · ant · olive · elephant · ox` — because **PD-043** makes `C3B0607-PT` an assessment of Block 6 content as well (**PD-050**). None of these 14 is in File 2; all are declared block-local by the Block 6 master under PD-012 — declared under PD-012 as extended by PD-035; taught in-block, gradeable in this block only, never dictation or spelling items, not held downstream, not added to File 2. Number/possessive/demonstrative words are carriers (not pool-held) | VocabPool v2 + BatchOrder v1 |
 | Self-try rubric | 4 marks, four criteria at 1 each; value alignment not scored | Charter §I.3 · PD-010 |
 | Roll / Exit Check | **17** (one prompt per student) — Principal ruling, not file-verified | This session |
 | Values guards | §H.3 sacred-word · §H.4 mahram · §H.5 house names · §H.8 no living-being imagery · §H.9 attribution-in-place | Charter §H |
@@ -121,7 +121,7 @@ Keep it concrete — don't define "adjective" in the abstract. Anchor it on the 
 | favourite | a favourite book |
 | big | a big school |
 
-*Draw on 3–4. Keep them things a child in Sylhet actually sees. (**big** and **table** are taught this block — PD-029, PD-030 — so a **big table**, a **big bag**, a **wooden table** are all fair game.)*
+*Draw on 3–4. Keep them things a child in Sylhet actually sees. (**big** and **table** are taught this block — **block-local, PD-047** — so a **big table**, a **big bag**, a **wooden table** are all fair game.)*
 
 **Then extend to *how many* (about 4 minutes).** *"Adjectives don't only tell what kind. They can also tell **how many**. Listen: how many books are on my table? Two books. How many friends do you have at school? Many friends."* Write and underline the number word:
 
@@ -353,7 +353,7 @@ One prompt per child (17). Most prompts: name the describing word and its questi
 **Then — the describing word is missing.** The class adds one (keep it **before** the naming word):
 
 ```
-4. Rani has a ___ room.            → clean / small / cozy
+4. Porshi has a ___ room.            → clean / small / cozy
 5. We saw ___ birds in the garden. → many / two / some
 ```
 
@@ -700,10 +700,10 @@ One prompt per child (17): a mix of find-the-adjective, name-its-question, and 2
 | Describing word | | Naming word |
 |---|---|---|
 | cold | | towel |
-| wooden | | garden |
-| clean | | river |
-| new | | bed |
-| grassy | | bag |
+| wooden | | kite |
+| clean | | garden |
+| new | | morning |
+| grassy | | hut |
 
 **Part C — Fill in a describing word that makes sense. Then underline it.**
 
@@ -760,11 +760,11 @@ One prompt per child (17): a mix of find-the-adjective, name-its-question, and 2
 
 | Describing word | | Naming word |
 |---|---|---|
-| beautiful | | house |
-| wet | | garden |
-| wooden | | towel |
-| bright | | table |
-| old | | sun |
+| beautiful | | table |
+| wet | | day |
+| wooden | | house |
+| bright | | garden |
+| old | | towel |
 
 **Part C — Fill in a describing word that makes sense. Then underline it.**
 
@@ -835,11 +835,11 @@ One prompt per child (17): a mix of find-the-adjective, name-its-question, and 2
 
 | Describing word | | Naming word |
 |---|---|---|
-| beautiful | | towel |
-| cozy | | bag |
-| new | | hut |
-| simple | | garden |
-| clean | | story |
+| beautiful | | shoe |
+| cozy | | story |
+| new | | towel |
+| simple | | river |
+| clean | | hut |
 
 **Part C — Fill in a describing word that makes sense. Then underline it.**
 
@@ -902,10 +902,10 @@ One prompt per child (17): a mix of find-the-adjective, name-its-question, and 2
 | Describing word | | Naming word |
 |---|---|---|
 | grassy | | bed |
-| bright | | pen |
-| hard | | garden |
-| dirty | | sun |
-| new | | shoe |
+| bright | | river |
+| hard | | pen |
+| dirty | | field |
+| new | | afternoon |
 
 **Part C — Fill in a describing word that makes sense. Then underline it.**
 
@@ -965,7 +965,7 @@ One prompt per child (17): a mix of find-the-adjective, name-its-question, and 2
 **English Skill-Building Drive · Class 3 · Blocks 6 (Article) + 7 (Adjective) · Combined**  
 **In-school, teacher-administered · Full Marks: 34**
 
-*This combined test covers Block 6 (Article) and Block 7 (Adjective) together, as the Block 6 test was postponed by the holiday (PD-031). Scoring: 0.5 marks per sentence in Parts B, C, E, F.*
+*This combined test covers Block 6 (Article) and Block 7 (Adjective) together, as the Block 6 test was postponed by the holiday (PD-043). Scoring: 0.5 marks per sentence in Parts B, C, E, F.*
 
 Name: ____________________  Date: __________
 
@@ -982,16 +982,16 @@ Name: ____________________  Date: __________
 3. She waited ___ hour for her friend.
 4. He is ___ honest boy.
 5. ___ owl sat on the roof.
-6. Rani has ___ apple and ___ card.
+6. Maryam has ___ apple and ___ card.
 7. It is ___ university bag.
-8. I see ___ cat and ___ ostrich.
+8. I see ___ ostrich.
 
 **Part C — Find the wrong article and write the correct one. Some are already correct. [8 × 0.5 = 4]**
 
 1. She opened a umbrella.   → ______
 2. He ate an orange.   → ______
-3. Rani has a onion.   → ______
-4. It is a university bag.   → ______
+3. Fatima has a onion.   → ______
+4. Abdullah saw an ox.   → ______
 5. He saw an owl.   → ______
 6. She has an kite.   → ______
 7. I ate a egg.   → ______
@@ -1015,8 +1015,8 @@ Read the passage. Underline **five** describing words (adjectives).
 
 **Part F — Is *clean* an adjective or a verb? [4 × 0.5 = 2]**
 
-1. A clean bag is on the bed.   ______
-2. Please clean the pen box.   ______
+1. Please clean the pen box.   ______
+2. A clean bag is on the bed.   ______
 3. Nusair has clean hands.   ______
 4. We clean the school.   ______
 
@@ -1049,13 +1049,13 @@ My word: ______   My sentence: ________________________________
 5. An owl
 6. an apple / a card
 7. a university
-8. a cat / an ostrich
+8. an ostrich
 
 **Part C — Find wrong article [8 × 0.5 = 4]:** *(✓ = already correct)*
 1. an umbrella  (wrong → an)
 2. an orange  (✓ correct)
 3. an onion  (wrong → an)
-4. a university  (✓ correct — "yu" sound takes *a*)
+4. an ox  (✓ correct)
 5. an owl  (✓ correct)
 6. a kite  (wrong → a)
 7. an egg  (wrong → an)
@@ -1075,8 +1075,8 @@ My word: ______   My sentence: ________________________________
 8. That
 
 **Part F — Dual-job [4 × 0.5 = 2]:**
-1. adjective (clean describes bag)
-2. verb (clean is the action)
+1. verb (clean is the action)
+2. adjective (clean describes bag)
 3. adjective (clean describes hands)
 4. verb (clean is the action)
 
@@ -1223,7 +1223,7 @@ Part match: red–kite, bright–morning, wooden–bed, simple–story, dirty–
 12. many
 13. beautiful
 14. clean
-Part match: cold–river, wooden–bed, clean–towel, new–bag, grassy–garden
+Part match: cold–morning, wooden–hut, clean–towel, new–kite, grassy–garden
 15. (open — any sensible adjective)
 16. (open — any sensible adjective)
 17. (open — any sensible adjective)
@@ -1253,7 +1253,7 @@ Part match: cold–river, wooden–bed, clean–towel, new–bag, grassy–garde
 12. good
 13. his
 14. some
-Part match: beautiful–garden, wet–towel, wooden–table, bright–sun, old–house
+Part match: beautiful–garden, wet–towel, wooden–table, bright–day, old–house
 15. (open — any sensible adjective)
 16. (open — any sensible adjective)
 17. (open — any sensible adjective)
@@ -1283,7 +1283,7 @@ Part match: beautiful–garden, wet–towel, wooden–table, bright–sun, old�
 12. three
 13. joyful
 14. red
-Part match: beautiful–garden, cozy–hut, new–bag, simple–story, clean–towel
+Part match: beautiful–river, cozy–hut, new–shoe, simple–story, clean–towel
 15. (open — any sensible adjective)
 16. (open — any sensible adjective)
 17. (open — any sensible adjective)
@@ -1315,7 +1315,7 @@ Part match: beautiful–garden, cozy–hut, new–bag, simple–story, clean–t
 10. polluted
 11. wooden
 12. fine
-Part match: grassy–garden, bright–sun, hard–bed, dirty–shoe, new–pen
+Part match: grassy–field, bright–afternoon, hard–bed, dirty–river, new–pen
 13. (open — any sensible adjective)
 14. (open — any sensible adjective)
 15. (open — any sensible adjective)
@@ -1334,9 +1334,16 @@ Part match: grassy–garden, bright–sun, hard–bed, dirty–shoe, new–pen
 28. (open — practice)
 29. (open — practice)
 
-**C3B07-PT**
+**`C3B0607-PT` — Part A dictation word list** *(the ten words; also on the `C3B07-TD` sheet)*
 Part A (dictation): wash, brush, river, shoe, bright, dirty, habit, mouth, beautiful, rubbish
-Part B (passage): his, old, clean, many, bright
-Part C: 1. cozy; 2. her; 3. this; 4. old; 5. red; 6. some
-Part D: 1. adjective; 2. verb
-Part E (self-try): rubric-scored (4 marks)
+
+> ⛔ **DO NOT MARK FROM THE FOUR LINES BELOW.** They are a **superseded draft key** for an earlier
+> **adjective-only** Performance Test that was never administered. The live paper is the combined
+> Article + Adjective `C3B0607-PT`, and its **only valid key is the one under
+> *Answer Key → Performance Test* above** (Parts A–G, 34 marks). Retained struck through, not deleted
+> (Charter §K.3 forward-only). Corrected 09.08.26 — key-only, no graded content touched.
+
+~~Part B (passage): his, old, clean, many, bright~~
+~~Part C: 1. cozy; 2. her; 3. this; 4. old; 5. red; 6. some~~
+~~Part D: 1. adjective; 2. verb~~
+~~Part E (self-try): rubric-scored (4 marks)~~
