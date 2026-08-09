@@ -636,4 +636,28 @@ Decisions made in principle but not yet implemented. Not official until converte
 
 ---
 
+### PD-046 — C2 Block 6b: two am/is/are PT items repeated from 6a are accepted; PD-041(c) is **not** amended
+**Decision:** The PD-032 widened PT zero-overlap run (09.08.26) compared `C2B06ab-PT` against all sixteen sheets — 6b's eight plus 6a's eight, loaded as `audit_scope: pt_overlap_only` reference under PD-034 — and found **two** PT items repeated verbatim from the W5 half:
+
+| PT item | Duplicates | Answer |
+|---|---|---|
+| **Part C #1** — `I ___ in the classroom.` | `6a-CW4` | *am* |
+| **Part C #5** — `The birds ___ in the tree.` | `6a-CW3` | *are* |
+
+**Both items stand. Neither is re-authored.**
+
+**Basis — lack of meaningful assessment advantage.** Each answer is derived directly from the subject by the taught rule: *I* takes **am**, a plural subject takes **are**. Nothing about the sentence has to be recalled for a pupil to answer it, so a pupil who met the item in W5 holds no advantage over a pupil meeting it for the first time and applying the rule. This is the reasoning already established in **PD-044** and applied per-failure in **PD-045**. The files were delivered before the audit existed, and valid Performance-Test content is not rewritten to resolve a governance/scope mismatch that carries no marks consequence.
+
+**What this ruling deliberately does NOT do:**
+- It **does not amend PD-041(c)** or alter a word of its original text. PD-041(c)'s waiver remains what it says: verbatim reuse is waived **for the have/has section only**, and dictation, doing-word, am/is/are and match remain fully disjoint as written. This entry sits **beside** that clause; it does not widen it.
+- It **does not establish a drive-wide waiver.** It is scoped to `C2B06b` and to the two item texts named above, and to no other item, block, class or cycle.
+- It **does not change the zero-overlap standard for future blocks.** `gate_pt_zero_overlap()` is unchanged, `CROSS_SHEET_MAX_REPEATS` stays 0, and PD-036/PD-038 are unamended. The next block is authored against full zero-overlap exactly as before.
+- It **does not endorse** the master's answer-key claim that *"the 6a-side is fully disjoint from worksheets."* That claim is **disproved** by this run and is recorded as false in `blocks/C2/_wip/STATE.md`; it is left in the delivered file only because correcting it is a content edit the Principal has declined at this stage.
+
+**Consequence for the gate.** `run_all.py` will keep reporting these two as PT zero-overlap failures whenever the widened manifest is run. That is expected and correct; per CLAUDE.md §4 this entry is the explicit ruling that lets `C2B06b` be presented as content-complete with them outstanding.
+**Affected files:** `blocks/C2/_wip/STATE.md`, `blocks/C2/_wip/C2B06b_manifest.json` (reference sheets only). **No student-facing content changed.**
+**Status:** Ruled (Principal, 09.08.26).
+
+---
+
 *End of working log as of 01.08.26. Several items from the most recent Class 4 Block 02 and Class 3 Block 02 discussions are still pending your classification/confirmation and are not yet included above.*

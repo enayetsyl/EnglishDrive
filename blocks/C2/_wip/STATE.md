@@ -232,10 +232,19 @@ and states in terms that *"dictation, doing-word, am/is/are and match remain ful
 items, so they sit **outside** the waiver and contradict a recorded consequence of PD-041. The master's answer-key note
 — *"PT: match/dictation/6a-side fully disjoint from worksheets"* — is disproved by this run.
 
-**Assessment impact:** low. Both answers are derived from person/number (*I → am*, *The birds → are*), the taught rule,
-so a pupil who met the sentence in W5 gains nothing over one who applies the rule — the PD-044 reasoning. The issue is
-governance, not marks: either the two items are re-authored, or PD-041(c)'s waiver is widened to cover them.
-**Reported for ruling; no content changed** (Principal instruction, 09.08.26).
+**RULED 09.08.26 — PD-046. Both items stand; neither is re-authored.** Each answer is derived from the subject by the
+taught rule (*I* → **am**, plural → **are**), so a pupil who met the sentence in W5 holds no advantage over one applying
+the rule — the PD-044 reasoning, applied per-item. Valid delivered PT content is not rewritten to resolve a
+governance/scope mismatch that carries no marks consequence.
+
+**PD-046 is deliberately narrow.** It is scoped to `C2B06b` and to these two item texts only. It **does not amend
+PD-041(c)** or alter a word of it — that waiver still reads, as written, that only the have/has section is waived and
+am/is/are stays disjoint. It creates **no drive-wide waiver**, and **no change to the zero-overlap standard for future
+blocks** (`gate_pt_zero_overlap()` unchanged, `CROSS_SHEET_MAX_REPEATS` still 0, PD-036/PD-038 unamended).
+
+**One thing the ruling does not cover:** the master's answer-key line *"PT: match/dictation/6a-side fully disjoint from
+worksheets"* is **false** and this run proves it. It stays in the delivered file only because correcting it is a content
+edit declined at this stage. Recorded here so no future build cites it as verified.
 
 **All other gate results are unchanged by the widened run** — the manifest addition is additive and invisible to every
 gate except PT overlap.
@@ -260,4 +269,24 @@ Flagged only — no rule introduced, nothing edited.
 2. **W6 assignment** — blocked on the stale Coverage Log (`last run = C5 W3 · 2026-07-21`); the generator halts per
    spec §2 and the reconcile/Special-Instruction/defer choice is unruled. Not built.
 3. **The two 6a-side PT items above** — awaiting ruling.
+
+---
+
+## C2B06b — CLOSED, content-complete · 09.08.26
+
+**Final suite run (widened manifest, all sixteen sheets): 11 PASS · 3 FAIL — every failure ruled, none unruled.**
+
+| Failure | Ruling |
+|---|---|
+| CW↔HW positional 54% / 40% | **PD-045** — gate artefact (flattened, misaligned comparison across unequal part lengths) |
+| PT zero-overlap — 4 Part D items | **PD-041(c)** — have/has held-scope exhaustion, waiver intact and unamended |
+| PT zero-overlap — 2 Part C items vs 6a | **PD-046** — rule-derived answers, no assessment advantage; block-scoped |
+| Cross-sheet repetition — 31 texts | **PD-045(5a)** — all have/has, rule-derived |
+
+Mark totals exact on all nine sheets (32 · 26 · 34 · 25 · 34 · 28 · 38 · 28 · PT 30). De-patterning, HW-key
+transcribability, within-sheet duplicates, option lists, rehearsal disjointness, sacred-word, values lexicon,
+held-word and one-defensible-answer all PASS. The master has not been touched since the §H.9 recast — verified by diff.
+
+**Parked, not blocking closure:** PD-042 §H.5 drive-wide re-screen · W6 assignment (blocked on the stale Coverage Log)
+· CR-023 one occurrence from PATTERN. **Block remains in `_wip/` — promotion still needs an explicit "done".**
 
