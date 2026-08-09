@@ -2,100 +2,50 @@ AUDIT REPORT — C2B06b — 2026-08-09
 manifest: blocks/C2/_wip/C2B06b_manifest.json
 file2: file2/C2_ENG_VocabPool_U110_v1.xlsx
 ------------------------------------------------------------------------
-[FAIL] De-patterning                    34 answer sets checked
-        - CW1 Part C: strict alternation
-        - HW1 Part A: strict alternation
-        - HW1 Part B: strict alternation
-        - HW1 Part C: strict alternation
-        - CW2 Part A: strict alternation
-        - CW2 Part B: strict alternation
-        - CW2 Part D: strict alternation
-        - HW2 Part A: strict alternation
-        - HW2 Part B: strict alternation
-        - HW2 Part D: strict alternation
-        - CW3 Part D: strict alternation
-        - HW3 Part D: strict alternation
-        - CW4 Part D: strict alternation
-        - HW4 Part D: strict alternation
-        - PT Part D: strict alternation
-[FAIL] CW↔HW overlap                    CW1↔HW1: positional 65%; CW2↔HW2: positional 52%; CW3↔HW3: positional 0%; CW4↔HW4: positional 4% (superseded by PD-036 zero-repeat, kept as backstop)
-        - CW1↔HW1: positional overlap 65% (> 35%)
-        - CW2↔HW2: positional overlap 52% (> 35%)
-[FAIL] PT zero-overlap                  28 PT items vs 166 worksheet items
+[PASS] De-patterning                    34 answer sets checked
+[FAIL] CW↔HW overlap                    CW1↔HW1: positional 54%; CW2↔HW2: positional 40%; CW3↔HW3: positional 0%; CW4↔HW4: positional 4% (superseded by PD-036 zero-repeat, kept as backstop)
+        - CW1↔HW1: positional overlap 54% (> 35%)
+        - CW2↔HW2: positional overlap 40% (> 35%)
+[FAIL] PT zero-overlap                  28 PT items vs 208 worksheet items
         - PT Part D: item duplicates CW2: "Yusuf and Abdullah ____ two books."
         - PT Part D: item duplicates CW4: "Maryam ____ a book."
         - PT Part D: item duplicates HW4: "Aisha and Maryam ____ two jars."
         - PT Part D: item duplicates CW4: "Abdullah ____ a friend."
 [PASS] Within-sheet duplicates          all sheets scanned
 [PASS] Option-list completeness         26 option-listed parts checked
-[FAIL] HW key transcribability          4 paired parts compared
-        - CW3↔HW3 Part D: identical answer sequence (have · has · have · has · have)
-[FAIL] Cross-sheet repetition (PD-036)  190 distinct texts across 9 sheets; threshold 0
+[PASS] HW key transcribability          4 paired parts compared
+[FAIL] Cross-sheet repetition (PD-036)  232 distinct texts across 9 sheets; threshold 0
         - "abdullah ____ a friend" on 2 sheets: CW4, PT
-        - "abdullah looks at the clock" on 2 sheets: CW2, HW3
-        - "abdur rahim reads the book" on 2 sheets: CW3, CW4
         - "aisha and maryam ____ two jars" on 3 sheets: HW2, HW4, PT
-        - "aisha and raima ____ two clocks" on 2 sheets: CW2, CW4
-        - "aisha draws a triangle" on 3 sheets: CW2, HW3, HW4
         - "aisha has a story book" on 2 sheets: HW1, HW2
-        - "fatima ____ a jar" on 2 sheets: CW2, HW1
         - "fatima and jesmin have two books" on 3 sheets: HW1, HW2, HW4
         - "fatima has have a story book" on 3 sheets: CW1, CW2, CW4
-        - "fatima looks at the rainbow" on 2 sheets: CW2, CW4
-        - "jesmin draws a rainbow" on 2 sheets: CW3, CW4
-        - "jesmin reads the story" on 2 sheets: HW3, HW4
         - "maryam ____ a book" on 2 sheets: CW4, PT
-        - "maryam reads a book" on 2 sheets: CW3, CW4
         - "my brother and sister has have two books" on 2 sheets: CW4, HW1
-        - "my brother draws a car" on 3 sheets: CW2, CW3, CW4
-        - "my brother goes to school" on 2 sheets: HW2, HW3
         - "my brother has a home" on 2 sheets: CW2, CW3
-        - "my father rides in the car" on 2 sheets: CW4, HW3
         - "my mother ____ a plant" on 2 sheets: CW1, HW4
-        - "my mother makes breakfast" on 2 sheets: CW4, HW3
-        - "my mother waits at home" on 2 sheets: CW2, CW3
         - "my sister ____ a jar" on 2 sheets: CW2, HW1
-        - "my sister makes food" on 2 sheets: CW3, CW4
         - "nusair and yusuf ____ two cars" on 2 sheets: CW1, HW4
-        - "nusair counts the stones" on 2 sheets: CW3, CW4
         - "porshi ____ a plant" on 2 sheets: CW1, CW4
-        - "porshi opens the book" on 2 sheets: CW3, HW4
         - "rabab has have a seed" on 2 sheets: CW2, CW4
-        - "raima and fatima have two seeds" on 2 sheets: CW4, HW2
-        - "raima has have a pot" on 3 sheets: CW1, CW3, HW2
+        - "raima has have a pot" on 2 sheets: CW1, CW3
         - "raima has have a seed" on 2 sheets: HW2, HW3
-        - "raima points at the clock" on 2 sheets: CW4, HW2
         - "the bird has two feet" on 2 sheets: CW1, HW2
-        - "the bird waits on the tree" on 2 sheets: CW4, HW3
-        - "the birds fly over the bridge" on 3 sheets: CW2, CW3, CW4
         - "the birds has have two feet" on 2 sheets: CW4, HW2
-        - "the birds have seeds" on 3 sheets: CW2, CW3, CW4
-        - "the boys count the pebbles" on 2 sheets: HW3, HW4
         - "the boys has have two books" on 3 sheets: CW1, CW2, HW4
-        - "the boys play in the field" on 2 sheets: CW2, CW3
         - "the children have their books" on 2 sheets: HW3, HW4
-        - "the children listen to the story" on 2 sheets: CW3, HW2
-        - "the cows eat grass in the field" on 3 sheets: CW2, CW4, HW3
-        - "the frog sits on a stone" on 2 sheets: CW3, HW4
-        - "the frogs live in the pond" on 2 sheets: CW4, HW2
         - "the girl ____ a clock" on 2 sheets: CW2, HW3
         - "the girl has a clock" on 2 sheets: HW1, HW4
         - "the girls ____ two hands" on 2 sheets: CW1, HW2
-        - "the girls have two hands" on 2 sheets: CW4, HW3
         - "the hen ____ an egg" on 2 sheets: HW1, HW4
         - "the hens has have eggs" on 2 sheets: HW3, HW4
-        - "the insects live in the grass" on 2 sheets: CW2, HW3
         - "the sun gives us light" on 2 sheets: CW3, HW4
-        - "the tree grows in the forest" on 2 sheets: HW3, HW4
         - "the tree has leaves" on 3 sheets: CW2, HW1, HW4
-        - "they has have a home" on 2 sheets: CW2, HW4
         - "we ____ our books" on 2 sheets: CW1, CW2
-        - "we have two jars" on 2 sheets: CW2, CW4
         - "yusuf and abdullah ____ two books" on 2 sheets: CW2, PT
-        - "yusuf and abdullah have two books" on 3 sheets: HW1, HW3, HW4
+        - "yusuf and abdullah have two books" on 2 sheets: HW1, HW3
         - "yusuf and nusair ____ two pots" on 2 sheets: CW3, HW4
         - "yusuf and nusair have two pots" on 2 sheets: CW1, CW2
-        - "yusuf brushes his teeth" on 3 sheets: CW2, CW3, HW4
         - "yusuf has a jar" on 2 sheets: HW2, HW4
 [PASS] Rehearsal/graded disjoint        3 self-try vs 4 demo words
 [PASS] Mark totals                      CW1: 32/32; HW1: 26/26; CW2: 34/34; HW2: 25/25; CW3: 34/34; HW3: 28/28; CW4: 38/38; HW4: 28/28; PT: 30/30

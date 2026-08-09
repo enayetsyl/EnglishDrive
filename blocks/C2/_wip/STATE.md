@@ -166,3 +166,38 @@ breach**, not an overlap question, and no ruling above covers it.
 **Status:** the two defects are **OPEN**. Edit plan reported to the Principal 09.08.26; **no replacement content
 drafted or applied** pending review of the scale.
 
+---
+
+## Audit run 2 — 09.08.26 · minimum-change repair applied · `audits/reports/C2B06b_audit_2026-08-09.txt`
+
+**48 changes applied** to the master, answer keys and manifest together, exactly as approved. Nothing else touched.
+
+- **#1 — 15 subject-number flips** (CW1 C1 · HW1 A1/B1/C1 · CW2 A8/B8/D8 · HW2 A1/B7/D1 · CW3 D1 · HW3 D5 · CW4 D1 · HW4 D6 · PT D8), each keeping the item's object, task, marks and part answer-class.
+- **HW1 Part C #2 key correction** — *"We have a home."* was keyed `has` after the v1.1 sentence change and is now keyed `have`. A pupil underlining *have* was being marked wrong.
+- **#5b — 32 of 33 match replacements** (CW3 6 · HW3 5 · CW4 14 · HW4 7). 26 are one-word subject swaps; 6 change an object noun where no other subject makes sense. The 33rd, `The sun → gives us light`, is **deliberately not changed** — held for the §H.9 decision.
+- **Printed match columns re-deranged** on 5 of the 12 changed sets (HW3 Set1/Set3, CW4 Set1/Set3, HW4 Set1); the other 7 retained their existing shuffle, which was still a valid derangement.
+
+**Result: 11 PASS · 3 FAIL — every failure already ruled.**
+
+| Gate | Before | After |
+|---|---|---|
+| De-patterning | FAIL — 15 alternating sets | **PASS** |
+| HW key transcribability | FAIL — CW3↔HW3 Part D | **PASS** |
+| Cross-sheet repetition | FAIL — 66 repeats | FAIL — **32** (31 have/has, ruled PD-045(5a); +1 the held sun item) |
+| CW↔HW positional overlap | FAIL — 65% / 52% | FAIL — 54% / 40% (gate artefact, ruled PD-045) |
+| PT zero-overlap | FAIL — 4 items | FAIL — same 4 (**PD-041(c) waiver intact**) |
+| Mark totals | PASS | **PASS — all nine sheets unchanged** (32/26/34/25/34/28/38/28, PT 30) |
+
+Within-sheet duplicates, option lists, rehearsal disjointness, sacred-word, values lexicon, held-word and
+one-defensible-answer all PASS.
+
+**Not touched, as instructed:** the two pre-existing same-verb sets (CW3 Set 4 *brush/brushes*, HW3 Set 3 *goes/go*) —
+noted only; the pairs stay unambiguous on number and gender.
+
+## Open — §H.9 attribution
+
+`The sun → gives us light` remains on **CW3 Set 2 row 5**, **HW4 Set 1 row 5** and in the **Tuesday script sample
+(line 260)**. Recast options put to the Principal 09.08.26; nothing applied. Note **PD-031 rules out** the
+attribute-by-naming form here — no sacred word may appear in any match strip — so the recast must be a
+non-giving secular predicate.
+

@@ -138,9 +138,9 @@
      "name": "C",
      "items": [
       {
-       "text": "The hens have two eyes.",
+       "text": "The hen has two eyes.",
        "marks": 1,
-       "answer": "have"
+       "answer": "has"
       },
       {
        "text": "Raima has a seed.",
@@ -210,9 +210,9 @@
      "name": "A",
      "items": [
       {
-       "text": "The cow ( has / have ) two eyes.",
+       "text": "The cows ( has / have ) two eyes.",
        "marks": 1,
-       "answer": "has"
+       "answer": "have"
       },
       {
        "text": "Raima and Fatima ( has / have ) two seeds.",
@@ -259,9 +259,9 @@
      "name": "B",
      "items": [
       {
-       "text": "Fatima ____ a jar.",
+       "text": "Fatima and Jesmin ____ two jars.",
        "marks": 1,
-       "answer": "has"
+       "answer": "have"
       },
       {
        "text": "They ____ two clocks.",
@@ -313,14 +313,14 @@
      "name": "C",
      "items": [
       {
-       "text": "The children have their homework.",
+       "text": "The child has his homework.",
        "marks": 1,
-       "answer": "have"
+       "answer": "has"
       },
       {
        "text": "We have a home.",
        "marks": 1,
-       "answer": "has"
+       "answer": "have"
       },
       {
        "text": "The birds have two feet.",
@@ -409,9 +409,9 @@
        "answer": "has"
       },
       {
-       "text": "They ( has / have ) a home.",
+       "text": "He ( has / have ) a home.",
        "marks": 1,
-       "answer": "have"
+       "answer": "has"
       }
      ],
      "options": [
@@ -458,9 +458,9 @@
        "answer": "has"
       },
       {
-       "text": "Aisha and Raima ____ two clocks.",
+       "text": "Aisha ____ two clocks.",
        "marks": 1,
-       "answer": "have"
+       "answer": "has"
       }
      ],
      "options": [
@@ -562,9 +562,9 @@
        "answer": "has"
       },
       {
-       "text": "We have two jars.",
+       "text": "He has two jars.",
        "marks": 1,
-       "answer": "have"
+       "answer": "has"
       }
      ],
      "options": [
@@ -584,9 +584,9 @@
      "name": "A",
      "items": [
       {
-       "text": "Raima ( has / have ) a pot.",
+       "text": "Raima and Porshi ( has / have ) two pots.",
        "marks": 1,
-       "answer": "has"
+       "answer": "have"
       },
       {
        "text": "The birds ( has / have ) two feet.",
@@ -653,9 +653,9 @@
        "answer": "have"
       },
       {
-       "text": "The frog ____ two eyes.",
+       "text": "The hens ____ two eyes.",
        "marks": 1,
-       "answer": "has"
+       "answer": "have"
       }
      ],
      "options": [
@@ -697,9 +697,9 @@
      "name": "D",
      "items": [
       {
-       "text": "Raima and Fatima have two seeds.",
+       "text": "Raima has two seeds.",
        "marks": 1,
-       "answer": "have"
+       "answer": "has"
       },
       {
        "text": "Yusuf has a jar.",
@@ -821,7 +821,7 @@
        "marks": 1
       },
       {
-       "text": "The children listen to the story.",
+       "text": "The girls listen to the story.",
        "answer": "listen to the story",
        "marks": 1
       },
@@ -831,7 +831,7 @@
        "marks": 1
       },
       {
-       "text": "The boys play in the field.",
+       "text": "The children play in the field.",
        "answer": "play in the field",
        "marks": 1
       },
@@ -846,7 +846,7 @@
        "marks": 1
       },
       {
-       "text": "The birds fly over the bridge.",
+       "text": "The insects fly over the bridge.",
        "answer": "fly over the bridge",
        "marks": 1
       },
@@ -881,7 +881,7 @@
        "marks": 1
       },
       {
-       "text": "My brother draws a car.",
+       "text": "Nusair draws a car.",
        "answer": "draws a car",
        "marks": 1
       },
@@ -896,7 +896,7 @@
        "marks": 1
       },
       {
-       "text": "Yusuf brushes his teeth.",
+       "text": "Abdullah brushes his teeth.",
        "answer": "brushes his teeth",
        "marks": 1
       },
@@ -906,7 +906,7 @@
        "marks": 1
       },
       {
-       "text": "My mother waits at home.",
+       "text": "My sister waits at home.",
        "answer": "waits at home",
        "marks": 1
       }
@@ -916,9 +916,9 @@
      "name": "D",
      "items": [
       {
-       "text": "The birds have seeds.",
+       "text": "The bird has seeds.",
        "marks": 1,
-       "answer": "have"
+       "answer": "has"
       },
       {
        "text": "Fatima has a story book.",
@@ -1026,13 +1026,13 @@
        "marks": 1
       },
       {
-       "text": "Aisha draws a triangle.",
+       "text": "Maryam draws a triangle.",
        "answer": "draws a triangle",
        "marks": 1
       },
       {
-       "text": "The insects live in the grass.",
-       "answer": "live in the grass",
+       "text": "The insects live in the leaves.",
+       "answer": "live in the leaves",
        "marks": 1
       },
       {
@@ -1041,7 +1041,7 @@
        "marks": 1
       },
       {
-       "text": "My brother goes to school.",
+       "text": "Abdullah goes to school.",
        "answer": "goes to school",
        "marks": 1
       },
@@ -1071,7 +1071,7 @@
        "marks": 1
       },
       {
-       "text": "Abdullah looks at the clock.",
+       "text": "Yusuf looks at the clock.",
        "answer": "looks at the clock",
        "marks": 1
       },
@@ -1081,8 +1081,8 @@
        "marks": 1
       },
       {
-       "text": "The cows eat grass in the field.",
-       "answer": "eat grass in the field",
+       "text": "The cows eat grass near the pond.",
+       "answer": "eat grass near the pond",
        "marks": 1
       },
       {
@@ -1116,9 +1116,9 @@
        "answer": "has"
       },
       {
-       "text": "The girls have two hands.",
+       "text": "The girl has two hands.",
        "marks": 1,
-       "answer": "have"
+       "answer": "has"
       }
      ],
      "options": [
@@ -1215,47 +1215,47 @@
      "name": "C",
      "items": [
       {
-       "text": "My mother makes breakfast.",
+       "text": "My sister makes breakfast.",
        "answer": "makes breakfast",
        "marks": 1
       },
       {
-       "text": "The frogs live in the pond.",
-       "answer": "live in the pond",
+       "text": "The frogs live in the water.",
+       "answer": "live in the water",
        "marks": 1
       },
       {
-       "text": "Abdur Rahim reads the book.",
+       "text": "Yusuf reads the book.",
        "answer": "reads the book",
        "marks": 1
       },
       {
-       "text": "The birds fly over the bridge.",
-       "answer": "fly over the bridge",
+       "text": "The birds fly over the tree.",
+       "answer": "fly over the tree",
        "marks": 1
       },
       {
-       "text": "The bird waits on the tree.",
+       "text": "The hen waits on the tree.",
        "answer": "waits on the tree",
        "marks": 1
       },
       {
-       "text": "My brother draws a car.",
+       "text": "Abdur Rahim draws a car.",
        "answer": "draws a car",
        "marks": 1
       },
       {
-       "text": "Nusair counts the stones.",
+       "text": "Abdullah counts the stones.",
        "answer": "counts the stones",
        "marks": 1
       },
       {
-       "text": "Maryam reads a book.",
+       "text": "Aisha reads a book.",
        "answer": "reads a book",
        "marks": 1
       },
       {
-       "text": "Fatima looks at the rainbow.",
+       "text": "Raima looks at the rainbow.",
        "answer": "looks at the rainbow",
        "marks": 1
       },
@@ -1265,27 +1265,27 @@
        "marks": 1
       },
       {
-       "text": "Jesmin draws a rainbow.",
+       "text": "Maryam draws a rainbow.",
        "answer": "draws a rainbow",
        "marks": 1
       },
       {
-       "text": "My father rides in the car.",
+       "text": "My brother rides in the car.",
        "answer": "rides in the car",
        "marks": 1
       },
       {
-       "text": "Raima points at the clock.",
+       "text": "Fatima points at the clock.",
        "answer": "points at the clock",
        "marks": 1
       },
       {
-       "text": "The cows eat grass in the field.",
-       "answer": "eat grass in the field",
+       "text": "The cows eat grass near the tree.",
+       "answer": "eat grass near the tree",
        "marks": 1
       },
       {
-       "text": "My sister makes food.",
+       "text": "My mother makes food.",
        "answer": "makes food",
        "marks": 1
       }
@@ -1295,9 +1295,9 @@
      "name": "D",
      "items": [
       {
-       "text": "The birds have seeds.",
+       "text": "The bird has a seed.",
        "marks": 1,
-       "answer": "have"
+       "answer": "has"
       },
       {
        "text": "My sister has a clock.",
@@ -1435,17 +1435,17 @@
        "marks": 1
       },
       {
-       "text": "Porshi opens the book.",
+       "text": "Raima opens the book.",
        "answer": "opens the book",
        "marks": 1
       },
       {
-       "text": "The tree grows in the forest.",
-       "answer": "grows in the forest",
+       "text": "The tree grows near the school.",
+       "answer": "grows near the school",
        "marks": 1
       },
       {
-       "text": "Jesmin reads the story.",
+       "text": "Fatima reads the story.",
        "answer": "reads the story",
        "marks": 1
       },
@@ -1455,12 +1455,12 @@
        "marks": 1
       },
       {
-       "text": "The frog sits on a stone.",
+       "text": "The insect sits on a stone.",
        "answer": "sits on a stone",
        "marks": 1
       },
       {
-       "text": "Aisha draws a triangle.",
+       "text": "Raima draws a triangle.",
        "answer": "draws a triangle",
        "marks": 1
       },
@@ -1470,12 +1470,12 @@
        "marks": 1
       },
       {
-       "text": "Yusuf brushes his teeth.",
+       "text": "Nusair brushes his teeth.",
        "answer": "brushes his teeth",
        "marks": 1
       },
       {
-       "text": "The boys count the pebbles.",
+       "text": "The girls count the pebbles.",
        "answer": "count the pebbles",
        "marks": 1
       }
@@ -1510,9 +1510,9 @@
        "answer": "has"
       },
       {
-       "text": "Yusuf and Abdullah have two books.",
+       "text": "Yusuf has two books.",
        "marks": 1,
-       "answer": "have"
+       "answer": "has"
       }
      ],
      "options": [
@@ -1666,8 +1666,8 @@
        "marks": 0.5
       },
       {
-       "text": "Raima and Fatima ____ two seeds.",
-       "answer": "have",
+       "text": "Raima ____ two seeds.",
+       "answer": "has",
        "marks": 0.5
       }
      ],

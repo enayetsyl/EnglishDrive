@@ -342,7 +342,7 @@ Target: **independent build.** This previews the PT self-try. Record readiness.
 11. Rabab ____ a seed.
 
 **Part C — Underline the owning word (has / have)** **[11]**
-1. The hens have two eyes.
+1. The hen has two eyes.
 2. Raima has a seed.
 3. The hens have eggs.
 4. Abdullah has a car.
@@ -360,7 +360,7 @@ Target: **independent build.** This previews the PT self-try. Record readiness.
 *English throughout. One owner → **has**; many owners → **have**. Read every line — does it make sense?*
 
 **Part A — Circle the right word** *(has or have)* **[8]**
-1. The cow ( has / have ) two eyes.
+1. The cows ( has / have ) two eyes.
 2. Raima and Fatima ( has / have ) two seeds.
 3. The plant ( has / have ) a leaf.
 4. My brother and sister ( has / have ) two books.
@@ -370,7 +370,7 @@ Target: **independent build.** This previews the PT self-try. Record readiness.
 8. Aisha and Maryam ( has / have ) two jars.
 
 **Part B — Write *has* or *have*** **[9]**
-1. Fatima ____ a jar.
+1. Fatima and Jesmin ____ two jars.
 2. They ____ two clocks.
 3. The hen ____ an egg.
 4. The girls ____ two jars.
@@ -381,7 +381,7 @@ Target: **independent build.** This previews the PT self-try. Record readiness.
 9. The tree ____ a leaf.
 
 **Part C — Underline the owning word (has / have)** **[9]**
-1. The children have their homework.
+1. The child has his homework.
 2. We have a home.
 3. The birds have two feet.
 4. The tree has leaves.
@@ -419,7 +419,7 @@ Target: **independent build.** This previews the PT self-try. Record readiness.
 5. Fatima ( has / have ) a story book.
 6. The boys ( has / have ) two books.
 7. Rabab ( has / have ) a seed.
-8. They ( has / have ) a home.
+8. He ( has / have ) a home.
 
 **Part B — Write *has* or *have*** **[8]**
 1. Fatima ____ a jar.
@@ -429,7 +429,7 @@ Target: **independent build.** This previews the PT self-try. Record readiness.
 5. The hen ____ two feet.
 6. We ____ our books.
 7. My sister ____ a jar.
-8. Aisha and Raima ____ two clocks.
+8. Aisha ____ two clocks.
 
 **Part C — Match to make a sentence** *(each set: join every left part to the one right part that makes sense)* **[10]**
 
@@ -461,7 +461,7 @@ Target: **independent build.** This previews the PT self-try. Record readiness.
 5. My brother has a home.
 6. The girls have two jars.
 7. Porshi has a clock.
-8. We have two jars.
+8. He has two jars.
 
 *(Canonical ID: C2B06b-CW2 · Mon · no answer key on student sheet)*
 
@@ -469,7 +469,7 @@ Target: **independent build.** This previews the PT self-try. Record readiness.
 *English throughout. One owner → **has**; many owners → **have**. Read every line — does it make sense?*
 
 **Part A — Circle the right word** *(has or have)* **[6]**
-1. Raima ( has / have ) a pot.
+1. Raima and Porshi ( has / have ) two pots.
 2. The birds ( has / have ) two feet.
 3. The tree ( has / have ) a leaf.
 4. They ( has / have ) two cars.
@@ -483,7 +483,7 @@ Target: **independent build.** This previews the PT self-try. Record readiness.
 4. Aisha and Maryam ____ two jars.
 5. Jesmin ____ a book.
 6. The girls ____ two hands.
-7. The frog ____ two eyes.
+7. The hens ____ two eyes.
 
 **Part C — Match to make a sentence** *(each set: join every left part to the one right part that makes sense)* **[5]**
 
@@ -498,7 +498,7 @@ Target: **independent build.** This previews the PT self-try. Record readiness.
 | 5 | Nusair | —— | listen to the story |
 
 **Part D — Underline the owning word (has / have)** **[7]**
-1. Raima and Fatima have two seeds.
+1. Raima has two seeds.
 2. Yusuf has a jar.
 3. The frogs have two eyes.
 4. Aisha has a story book.
@@ -547,9 +547,9 @@ Target: **independent build.** This previews the PT self-try. Record readiness.
 |---|---|---|---|
 | 1 | Jesmin | —— | opens the jar |
 | 2 | Abdur Rahim | —— | listen to the story |
-| 3 | The children | —— | draws a rainbow |
+| 3 | The girls | —— | draws a rainbow |
 | 4 | Raima | —— | play in the field |
-| 5 | The boys | —— | reads the book |
+| 5 | The children | —— | reads the book |
 
 *Set 2:*
 
@@ -557,7 +557,7 @@ Target: **independent build.** This previews the PT self-try. Record readiness.
 |---|---|---|---|
 | 1 | Maryam | —— | counts the stones |
 | 2 | Rabab | —— | fly over the bridge |
-| 3 | The birds | —— | reads a book |
+| 3 | The insects | —— | reads a book |
 | 4 | Nusair | —— | gives us light |
 | 5 | The sun | —— | draws a square |
 
@@ -569,7 +569,7 @@ Target: **independent build.** This previews the PT self-try. Record readiness.
 | 2 | The cow | —— | opens the book |
 | 3 | My sister | —— | sits on a stone |
 | 4 | Porshi | —— | draws a car |
-| 5 | My brother | —— | makes food |
+| 5 | Nusair | —— | makes food |
 
 *Set 4:*
 
@@ -577,12 +577,12 @@ Target: **independent build.** This previews the PT self-try. Record readiness.
 |---|---|---|---|
 | 1 | The children | —— | sits on a leaf |
 | 2 | The frogs | —— | waits at home |
-| 3 | Yusuf | —— | sit near the water |
+| 3 | Abdullah | —— | sit near the water |
 | 4 | The insect | —— | brushes his teeth |
-| 5 | My mother | —— | brush their teeth |
+| 5 | My sister | —— | brush their teeth |
 
 **Part D — Underline the owning word (has / have)** **[5]**
-1. The birds have seeds.
+1. The bird has seeds.
 2. Fatima has a story book.
 3. They have a home.
 4. My brother has a home.
@@ -611,17 +611,17 @@ Target: **independent build.** This previews the PT self-try. Record readiness.
 
 | # | Naming part | | Doing / joining part |
 |---|---|---|---|
-| 1 | The bird | —— | live in the grass |
-| 2 | The boys | —— | looks at the pond |
-| 3 | Aisha | —— | waits on the tree |
-| 4 | The insects | —— | draws a triangle |
+| 1 | The bird | —— | draws a triangle |
+| 2 | The boys | —— | live in the leaves |
+| 3 | Maryam | —— | looks at the pond |
+| 4 | The insects | —— | waits on the tree |
 | 5 | The frog | —— | count the pebbles |
 
 *Set 2:*
 
 | # | Naming part | | Doing / joining part |
 |---|---|---|---|
-| 1 | My brother | —— | rides in the car |
+| 1 | Abdullah | —— | rides in the car |
 | 2 | My mother | —— | grows in the forest |
 | 3 | The hen | —— | makes breakfast |
 | 4 | The tree | —— | sits on the egg |
@@ -632,17 +632,17 @@ Target: **independent build.** This previews the PT self-try. Record readiness.
 | # | Naming part | | Doing / joining part |
 |---|---|---|---|
 | 1 | My father | —— | go to school |
-| 2 | Abdullah | —— | reads the story |
-| 3 | The boys | —— | goes to the village |
-| 4 | The cows | —— | looks at the clock |
-| 5 | Jesmin | —— | eat grass in the field |
+| 2 | Yusuf | —— | eat grass near the pond |
+| 3 | The boys | —— | reads the story |
+| 4 | The cows | —— | goes to the village |
+| 5 | Jesmin | —— | looks at the clock |
 
 **Part D — Underline the owning word (has / have)** **[5]**
 1. The children have their books.
 2. Yusuf has a book.
 3. Yusuf and Abdullah have two books.
 4. The hen has two feet.
-5. The girls have two hands.
+5. The girl has two hands.
 
 **Vocabulary Writing** *(not marked — teacher checks spelling and meaning; excluded from the HW total)*
 *Copy each English word once, then write its Bangla meaning.*
@@ -686,34 +686,34 @@ Target: **independent build.** This previews the PT self-try. Record readiness.
 
 | # | Naming part | | Doing / joining part |
 |---|---|---|---|
-| 1 | My mother | —— | fly over the bridge |
-| 2 | The frogs | —— | waits on the tree |
-| 3 | Abdur Rahim | —— | live in the pond |
-| 4 | The birds | —— | reads the book |
-| 5 | The bird | —— | makes breakfast |
+| 1 | My sister | —— | reads the book |
+| 2 | The frogs | —— | fly over the tree |
+| 3 | Yusuf | —— | waits on the tree |
+| 4 | The birds | —— | makes breakfast |
+| 5 | The hen | —— | live in the water |
 
 *Set 2:*
 
 | # | Naming part | | Doing / joining part |
 |---|---|---|---|
-| 1 | My brother | —— | looks at the rainbow |
-| 2 | Nusair | —— | reads a book |
-| 3 | Maryam | —— | draws a car |
-| 4 | Fatima | —— | grows near the pond |
+| 1 | Abdur Rahim | —— | looks at the rainbow |
+| 2 | Abdullah | —— | reads a book |
+| 3 | Aisha | —— | draws a car |
+| 4 | Raima | —— | grows near the pond |
 | 5 | The tree | —— | counts the stones |
 
 *Set 3:*
 
 | # | Naming part | | Doing / joining part |
 |---|---|---|---|
-| 1 | Jesmin | —— | eat grass in the field |
-| 2 | My father | —— | makes food |
-| 3 | Raima | —— | rides in the car |
+| 1 | Maryam | —— | points at the clock |
+| 2 | My brother | —— | eat grass near the tree |
+| 3 | Fatima | —— | makes food |
 | 4 | The cows | —— | draws a rainbow |
-| 5 | My sister | —— | points at the clock |
+| 5 | My mother | —— | rides in the car |
 
 **Part D — Underline the owning word (has / have)** **[7]**
-1. The birds have seeds.
+1. The bird has a seed.
 2. My sister has a clock.
 3. Raima and Fatima have two seeds.
 4. My brother has a car.
@@ -754,21 +754,21 @@ Target: **independent build.** This previews the PT self-try. Record readiness.
 
 | # | Naming part | | Doing / joining part |
 |---|---|---|---|
-| 1 | The bird | —— | reads the story |
-| 2 | Porshi | —— | gives us light |
-| 3 | The tree | —— | sits on the bridge |
-| 4 | Jesmin | —— | opens the book |
-| 5 | The sun | —— | grows in the forest |
+| 1 | The bird | —— | grows near the school |
+| 2 | Raima | —— | reads the story |
+| 3 | The tree | —— | gives us light |
+| 4 | Fatima | —— | sits on the bridge |
+| 5 | The sun | —— | opens the book |
 
 *Set 2:*
 
 | # | Naming part | | Doing / joining part |
 |---|---|---|---|
-| 1 | The frog | —— | count the pebbles |
-| 2 | Aisha | —— | play in the morning |
+| 1 | The insect | —— | count the pebbles |
+| 2 | Raima | —— | play in the morning |
 | 3 | The children | —— | sits on a stone |
-| 4 | Yusuf | —— | draws a triangle |
-| 5 | The boys | —— | brushes his teeth |
+| 4 | Nusair | —— | draws a triangle |
+| 5 | The girls | —— | brushes his teeth |
 
 **Part D — Underline the owning word (has / have)** **[6]**
 1. The girl has a clock.
@@ -776,7 +776,7 @@ Target: **independent build.** This previews the PT self-try. Record readiness.
 3. Yusuf has a jar.
 4. The children have their books.
 5. The tree has leaves.
-6. Yusuf and Abdullah have two books.
+6. Yusuf has two books.
 
 **Vocabulary Writing** *(not marked — teacher checks spelling and meaning; excluded from the HW total)*
 *Copy each English word once, then write its Bangla meaning.*
@@ -839,7 +839,7 @@ Target: **independent build.** This previews the PT self-try. Record readiness.
 5. Maryam ____ a book.
 6. Aisha and Maryam ____ two jars.
 7. Abdullah ____ a friend.
-8. Raima and Fatima ____ two seeds.
+8. Raima ____ two seeds.
 
 **Part E — Match to make a sentence.** [4] *(AN25 Q11 format · join each left part to the one right part that makes sense)*
 
@@ -862,27 +862,27 @@ Target: **independent build.** This previews the PT self-try. Record readiness.
 ## Answer Keys (teacher — master file only; not on any student extract)
 *Programmatically verified: key accuracy, held-word/staging, de-patterning (has/have run ≤2, no strict alternation), single defensible answer, match-set unambiguity (distinct subjects + distinct main verbs), match derangement, same-day CW↔HW disjointness (0 shared has/have, 0 shared match pairs), caps (subj ≤5 · obj ≤4 · match-pred ≤2). PT: match/dictation/6a-side fully disjoint from worksheets; have/has section reuses 5 held strings by necessity (binary-target held-scope exhaustion — logged PD-041).*
 
-**CW1** (Sun) — **A_circle:** has·has·have·has·has·have·has·has·have·has  **B_fill:** has·have·has·has·have·has·has·have·has·have·has  **C_underline:** have·has·have·has·have·has·have·has·have·has·have
+**CW1** (Sun) — **A_circle:** has·has·have·has·has·have·has·has·have·has  **B_fill:** has·have·has·has·have·has·has·have·has·have·has  **C_underline:** has·has·have·has·have·has·have·has·have·has·have  
 
-**HW1** (Sun) — **A_circle:** has·have·has·have·has·have·has·have  **B_fill:** has·have·has·have·has·have·has·have·has  **C_underline:** have·has·have·has·have·has·have·has·have
+**HW1** (Sun) — **A_circle:** have·have·has·have·has·have·has·have  **B_fill:** have·have·has·have·has·have·has·have·has  **C_underline:** has·have·have·has·have·has·have·has·have  
 
-**CW2** (Mon) — **A_circle:** has·have·has·have·has·have·has·have  **B_fill:** has·have·has·have·has·have·has·have  **C_match:** Set1: Fatima→looks at the rainbow; Yusuf→brushes his teeth; Aisha→draws a triangle; The cows→eat grass in the field; The boys→play in the field | Set2: Abdullah→looks at the clock; The insects→live in the grass; My brother→draws a car; The birds→fly over the bridge; My mother→waits at home  **D_underline:** has·have·has·have·has·have·has·have
+**CW2** (Mon) — **A_circle:** has·have·has·have·has·have·has·has  **B_fill:** has·have·has·have·has·have·has·has  **C_match:** Set1: Fatima→looks at the rainbow; Yusuf→brushes his teeth; Aisha→draws a triangle; The cows→eat grass in the field; The boys→play in the field | Set2: Abdullah→looks at the clock; The insects→live in the grass; My brother→draws a car; The birds→fly over the bridge; My mother→waits at home  **D_underline:** has·have·has·have·has·have·has·has  
 
-**HW2** (Mon) — **A_circle:** has·have·has·have·has·have  **B_fill:** has·have·has·have·has·have·has  **C_match:** Set1: My brother→goes to school; The children→listen to the story; The frogs→live in the pond; Raima→points at the clock; Nusair→draws a rectangle  **D_underline:** have·has·have·has·have·has·have
+**HW2** (Mon) — **A_circle:** have·have·has·have·has·have  **B_fill:** has·have·has·have·has·have·have  **C_match:** Set1: My brother→goes to school; The children→listen to the story; The frogs→live in the pond; Raima→points at the clock; Nusair→draws a rectangle  **D_underline:** has·has·have·has·have·has·have  
 
-**CW3** (Tue) — **A_circle:** have·have·has·have  **B_fill:** have·has·have·have·has  **C_match:** Set1: Jesmin→draws a rainbow; Abdur Rahim→reads the book; The children→listen to the story; Raima→opens the jar; The boys→play in the field | Set2: Maryam→reads a book; Rabab→draws a square; The birds→fly over the bridge; Nusair→counts the stones; The sun→gives us light | Set3: The frog→sits on a stone; The cow→stands near the tree; My sister→makes food; Porshi→opens the book; My brother→draws a car | Set4: The children→brush their teeth; The frogs→sit near the water; Yusuf→brushes his teeth; The insect→sits on a leaf; My mother→waits at home  **D_underline:** have·has·have·has·have
+**CW3** (Tue) — **A_circle:** have·have·has·have  **B_fill:** have·has·have·have·has  **C_match:** Set1: Jesmin→draws a rainbow; Abdur Rahim→reads the book; The girls→listen to the story; Raima→opens the jar; The children→play in the field | Set2: Maryam→reads a book; Rabab→draws a square; The insects→fly over the bridge; Nusair→counts the stones; The sun→gives us light | Set3: The frog→sits on a stone; The cow→stands near the tree; My sister→makes food; Porshi→opens the book; Nusair→draws a car | Set4: The children→brush their teeth; The frogs→sit near the water; Abdullah→brushes his teeth; The insect→sits on a leaf; My sister→waits at home  **D_underline:** has·has·have·has·have  
 
-**HW3** (Tue) — **A_circle:** has·has·have·has  **B_fill:** has·have·has·has  **C_match:** Set1: The bird→waits on the tree; The boys→count the pebbles; Aisha→draws a triangle; The insects→live in the grass; The frog→looks at the pond | Set2: My brother→goes to school; My mother→makes breakfast; The hen→sits on the egg; The tree→grows in the forest; My father→rides in the car | Set3: My father→goes to the village; Abdullah→looks at the clock; The boys→go to school; The cows→eat grass in the field; Jesmin→reads the story  **D_underline:** have·has·have·has·have
+**HW3** (Tue) — **A_circle:** has·has·have·has  **B_fill:** has·have·has·has  **C_match:** Set1: The bird→waits on the tree; The boys→count the pebbles; Maryam→draws a triangle; The insects→live in the leaves; The frog→looks at the pond | Set2: Abdullah→goes to school; My mother→makes breakfast; The hen→sits on the egg; The tree→grows in the forest; My father→rides in the car | Set3: My father→goes to the village; Yusuf→looks at the clock; The boys→go to school; The cows→eat grass near the pond; Jesmin→reads the story  **D_underline:** have·has·have·has·has  
 
-**CW4** (Wed) — **A_circle:** has·has·have·has·has·have  **B_fill:** has·has·have·has·have·has  **C_match:** Set1: My mother→makes breakfast; The frogs→live in the pond; Abdur Rahim→reads the book; The birds→fly over the bridge; The bird→waits on the tree | Set2: My brother→draws a car; Nusair→counts the stones; Maryam→reads a book; Fatima→looks at the rainbow; The tree→grows near the pond | Set3: Jesmin→draws a rainbow; My father→rides in the car; Raima→points at the clock; The cows→eat grass in the field; My sister→makes food  **D_underline:** have·has·have·has·have·has·have
+**CW4** (Wed) — **A_circle:** has·has·have·has·has·have  **B_fill:** has·has·have·has·have·has  **C_match:** Set1: My sister→makes breakfast; The frogs→live in the water; Yusuf→reads the book; The birds→fly over the tree; The hen→waits on the tree | Set2: Abdur Rahim→draws a car; Abdullah→counts the stones; Aisha→reads a book; Raima→looks at the rainbow; The tree→grows near the pond | Set3: Maryam→draws a rainbow; My brother→rides in the car; Fatima→points at the clock; The cows→eat grass near the tree; My mother→makes food  **D_underline:** has·has·have·has·have·has·have  
 
-**HW4** (Wed) — **A_circle:** have·have·has·have·have·has  **B_fill:** have·have·has·have·has·have  **C_match:** Set1: The bird→sits on the bridge; Porshi→opens the book; The tree→grows in the forest; Jesmin→reads the story; The sun→gives us light | Set2: The frog→sits on a stone; Aisha→draws a triangle; The children→play in the morning; Yusuf→brushes his teeth; The boys→count the pebbles  **D_underline:** has·have·has·have·has·have
+**HW4** (Wed) — **A_circle:** have·have·has·have·have·has  **B_fill:** have·have·has·have·has·have  **C_match:** Set1: The bird→sits on the bridge; Raima→opens the book; The tree→grows near the school; Fatima→reads the story; The sun→gives us light | Set2: The insect→sits on a stone; Raima→draws a triangle; The children→play in the morning; Nusair→brushes his teeth; The girls→count the pebbles  **D_underline:** has·have·has·have·has·has  
 
 **PT `C2B06ab-PT`**
 - **A Dictation** (teacher-read, not printed): come · give · help · show · brush · point · grow · ride · village · bridge
 - **B doing-word:** sits·writes·eat·waits·opens·go·looks·points
 - **C am/is/are:** am·is·are·is·are·is·are·are
-- **D have/has:** has·have·has·have·has·have·has·have  *(5 strings reused from worksheets — see PD-041)*
+- **D have/has:** has·have·has·have·has·have·has·has  *(5 strings reused from worksheets — see PD-041)*
 - **E match:** Fatima→writes on the board; The cow→eats grass; The birds→live in the tree; Abdullah→counts the seeds
 - **F self-try:** 4-mark rubric (anchor: Rabab / have-has)
 
