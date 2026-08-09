@@ -115,3 +115,35 @@ Append-only. Newest entry last. Never overwrite past entries.
   pre-draft ledger read. Phase 4 authorized for both blocks; C2 unit 1 is the
   sentence bank (Principal approval required before use).
 - Files touched: `blocks/C2/_wip/STATE.md`, `blocks/C5/_wip/STATE.md`, `SESSION_LOG.md`.
+
+---
+
+## 2026-08-09 — SCD (almajhudbd@gmail.com) — C1/C2/C3 W6 chat-built blocks imported
+
+- **Repo recovery first.** The mount's `git pull` failed on divergent branches with three stale locks
+  (`index.lock`, `HEAD.lock`, `ORIG_HEAD.lock`) and `unlink` denied. Delete permission was requested and
+  **granted** this session. Local (C5B07 Phase 4 units 1–7 + review edits) was committed, then merged
+  `--no-rebase` with remote (C4B06 FINAL, corrections-ledger, PD-036/037/038, C2B06b + C5B07 blueprint
+  approvals). 18 add/add conflicts were content-identical; **two real conflicts** resolved as a union —
+  `blocks/C5/_wip/STATE.md` (BC-1 CLOSED kept, blueprint-APPROVED ruling kept) and `SESSION_LOG.md`.
+  Nothing discarded. Merge `a5694b7`, pushed.
+- **Task:** three W6 masters built in chat (not in Cowork) imported to `_wip/` —
+  `blocks/C1/_wip/C1_ENG_Block06_Pronoun_v1.md`, `blocks/C2/_wip/C2_ENG_Block06b_HaveHas_Match_v1.md`,
+  `blocks/C3/_wip/C3_ENG_Block07_Adjective_v1.md`. Forward-only stems (CLAUDE.md §6), CRLF normalised,
+  internal Master-ID / Filename fields updated. **None promoted.**
+- **PD collisions.** Every provisional PD number in the C1 and C2 files was already taken. Reassigned and
+  logged: **PD-039** (C1 B6 S3 cap-lift, overrides Ruling A) · **PD-040** (C1 combined `C1B0506-PT`) ·
+  **PD-041** (C2 combined `C2B06ab-PT` — **reverses** the 08.08.26 "stale citation, disregarded" ruling,
+  Principal 09.08.26) · **PD-042** (house character **Rabab reclassified male**, Charter §H.5 amendment,
+  drive-wide non-mahram re-screen OPEN) · **PD-043** (C3 combined `C3B0607-PT`). C2's block-local *field*
+  repointed to PD-012/PD-035. C3's PD-028 weighting citation was correct and left alone.
+- **Flagged, not resolved:** **PD-036 is assigned twice** in the Decision Log (C5 Annual-paper ruling and
+  the cross-sheet repetition gate). Both are live and cited in delivered files. Principal ruling needed.
+- **Open per block:** C1 — PT Parts F/G overlap waiver is narrower than the §4 zero-overlap gate as
+  tightened by PD-036/038. C2 — PD-031/PD-032 not declared in the file; the widened sixteen-sheet PT
+  overlap has never been run. C3 — **BC-1**: *big* / *table* cited to PD-029/PD-030 (neither holds that
+  ruling) and contradicting the header's "no block-local set"; citation replaced with a pending marker.
+- **The big one:** **none of the three blocks has a manifest, and `run_all.py` has never been run on any
+  of them.** Their in-file "programmatically verified / seven-audit sweep PASS" lines come from the chat
+  build, not this repo's suite, and do not satisfy CLAUDE.md §4 (ten gates). Recorded in all three STATEs.
+

@@ -7,20 +7,47 @@
 
 ## Phase reached
 
-**Phase 3 — Pre-build blueprint: DRAFTED (08.08.26), awaiting Principal approval.**
-Phase 1 complete. Phase 2 complete — all 7 questions ruled. Blueprint at `_wip/C2B06b_blueprint.md`.
-No build content drafted. No sentence bank drafted.
+**Phase 4 — BUILT IN CHAT, IMPORTED TO `_wip/` 09.08.26. NOT AUDITED. NOT PROMOTED.**
+Phase 1 complete. Phase 2 complete — all 7 questions ruled. Phase 3 blueprint **APPROVED** (Principal, 09.08.26).
+Phase 4 was authored **outside the repo, in chat**, not unit-by-unit in-repo; the master (internal v1.1, including a
+Principal inline-review pass) was imported on 09.08.26 as `_wip/C2_ENG_Block06b_HaveHas_Match_v1.md`.
+
+**Consequence:** no `_wip/C2B06b_manifest.json` exists and `audits/scripts/run_all.py` has **never been run** on this
+block. The file's own claims of "programmatically verified" gates come from the chat build, not from this repo's audit
+suite, and do not satisfy CLAUDE.md §4. **The block may not be presented as final until the manifest is built and every
+gate returns PASS.**
 
 ## Decisions confirmed
 
 | # | Decision | Who / when |
 |---|---|---|
-| 1 | **PT shape: `C2B06b-PT` is its own W6 Performance Test**, per PD-025. The "combined 6a+6b PT / PD-028" line in the kickoff message was a **stale citation** and is disregarded — the Decision Log is authoritative. | Principal, 08.08.26 |
+| 1 | ~~**PT shape: `C2B06b-PT` is its own W6 Performance Test**, per PD-025. The "combined 6a+6b PT / PD-028" line in the kickoff message was a **stale citation** and is disregarded.~~ **REVERSED 09.08.26 — see decision 7.** | Principal, 08.08.26 |
 | 2 | Filename normalisation: 14 `" (1)"` suffixes stripped across `blocks/`; no collisions, no content change. | Principal, 08.08.26 · commit `e2a188a` |
 | 3 | Stem convention **not** retro-renamed; forward-only rule added to CLAUDE.md §6. | Principal, 08.08.26 |
 | 4 | `C4B04-AK` consolidated to `extracts/`; HW-2 #28 = *an*; `blocks/` duplicate removed. Logged **PD-030**. | Principal, 08.08.26 · commit `a8e329a` |
 | 5 | PD numbering: agent assigns the next free number automatically (CLAUDE.md §3). Applied — **PD-028** (C3 B07 weighting), **PD-029** (C4 renumbering + `C4B0506-PT`), **PD-030**. | Principal, 08.08.26 · commit `a6e9347` |
 | 6 | Lock-file workaround (rename aside; request delete permission first) approved as standing practice; noted in CLAUDE.md §1. | Principal, 08.08.26 |
+
+| 7 | **REVERSAL of decision 1 — the combined PT stands.** The chat-built master's **`C2B06ab-PT`** (30 marks, covering 6a doing-words/am-is-are **and** 6b have-has/match) is what is wanted. Logged **PD-041**, which overrides PD-025 for this cycle only. The 08.08.26 disregard is superseded, retained struck through. Blueprint annotated, not rewritten. | Principal, 09.08.26 |
+| 8 | **Stale PD numbers corrected on import.** Combined-PT **PD-028 → PD-041**; block-local *field* **PD-029 → PD-012 (as extended by PD-035)**; Rabab-is-male **PD-030 → PD-042**. All three provisional numbers had already been taken in the Decision Log. | Agent, 09.08.26 |
+| 9 | Master imported to `_wip/` under the blueprint's planned stem `C2_ENG_Block06b_HaveHas_Match_v1.md`; CRLF normalised to LF. **Not promoted** — promotion waits on the audit run and an explicit "done". | Agent, 09.08.26 |
+
+---
+
+## Pending — must close before promotion
+
+1. **Manifest + full audit run.** Build `_wip/C2B06b_manifest.json` (schema `audits/scripts/README_manifest.md`) covering all 8 worksheets + `C2B06ab-PT`, then run `run_all.py` and save the verbatim report. **Nothing in this block has been checked by a script in this repo.**
+2. **PD-032 widened PT zero-overlap — never run.** The gate must compare `C2B06ab-PT` against **all sixteen** sheets (6a's 8 + 6b's 8). The `audit_scope: pt_overlap_only` mechanism this needs now exists (PD-034). The imported master declares neither PD-031 nor PD-032; both declarations are owed in the file.
+3. **PD-042 §H.5 re-screen.** Rabab is now male drive-wide. Only C2B06b has been swept; **every other delivered block still needs a non-mahram re-screen**, and the Charter §H.5 roster plus CLAUDE.md §5 house-character line still list Rabab as a girl's name.
+4. **Pointers owed:** dependency pointer on `C2_ENG_GrammarBlock06a_Verbs_v1.md` ("W5 PT postponed; assessed in combined `C2B06ab-PT`, PD-041"); C2 Drive Plan §4/§7 forward-only note.
+5. **Assignment (Phase-2 ruling 7) not built.** The Coverage Log is still stale (`last run = C5 W3 · 2026-07-21`, no C2 W4/W5 rows) — the generator halts per spec §2. Options (a) reconcile / (b) Special Instruction / (c) defer. Unruled.
+6. **Blueprint blocker still open:** the `run_all.py` `audit_scope` change was requested in the blueprint; PD-034 has since ruled it, so this is now closed for scope but the run itself is outstanding.
+
+## Next step
+
+Build `_wip/C2B06b_manifest.json` from the imported master, run `python3 audits/scripts/run_all.py _wip/C2B06b_manifest.json --file2 file2/<C2 pool>`, paste the verbatim output, and bring any FAIL to the Principal before promotion.
+
+---
 
 ## Orientation findings (Phase 1, verified at source)
 

@@ -3,7 +3,9 @@
 **Block:** `C2B06b` · **Class 2** · **Week 6** (Sun–Wed teaching, Thu Performance Test)
 **Topic:** **have / has** + **match-to-make-a-sentence**
 **Master (planned):** `blocks/C2/C2_ENG_Block06b_HaveHas_Match_v1.md` — new stem per CLAUDE.md §6 (no "GrammarBlock")
-**Status:** ⛔ **Awaiting Principal approval. No build content drafted. No sentence bank drafted.**
+**Status:** ✅ **APPROVED (Principal, 09.08.26).** Build content was authored in chat rather than in-repo; the resulting master was imported to `_wip/` on 09.08.26.
+
+> **⚑ Superseded on one point — the Performance Test.** This blueprint plans a standalone **`C2B06b-PT`** per PD-025 (§6, §13 item 3), following the 08.08.26 ruling that the "combined 6a+6b PT" citation was stale. On **09.08.26 the Principal reversed that**: the delivered master's **combined `C2B06ab-PT`** stands and is logged as **PD-041**, which overrides PD-025 for this cycle. Wherever this blueprint says `C2B06b-PT`, read `C2B06ab-PT` (30 marks, covering both halves). Every other section of the blueprint stands as approved. Forward-only — nothing below is edited.
 
 ---
 

@@ -551,4 +551,50 @@ Decisions made in principle but not yet implemented. Not official until converte
 
 ---
 
+### PD-039 — C1 Block 6: the recognition-only cap is lifted to S3 free pronoun rewrite (this block only)
+**Decision:** C1 Drive Plan §2 row 6 caps Block 6 at *"recognition ONLY… NO sentence rewriting, NO pronoun production"* (Ruling A, with the 5-mark Annual gap accepted). For **C1 Block 6 only** this is lifted to **S3 free rewrite** — the child rewrites a given sentence replacing the naming word with its pronoun, no word box — so that the Annual Q3 format (*"Rewrite the sentences using pronouns"* [5]) is taught directly and the accepted gap is closed. Graded rewrite targets **he / she / it / they** only; **I / we / you** stay at recognition and matching. The Bloom band is knowingly stretched to Apply/Create for this task; the cohort-age objection was recorded and overruled. Block-scoped: it does not propagate to other classes and does not reopen frozen blocks. Ruling A is annotated *"superseded for C1 B6 by PD-039"*, not deleted (Charter §K.3, forward-only).
+**What led to this:** the C1 Block 6 build (W6) was authored in chat against a provisional number **PD-028**, which the Decision Log had already assigned to the C3 Block 7 weighting ruling. The citation is corrected to PD-039 throughout `blocks/C1/_wip/C1_ENG_Block06_Pronoun_v1.md` on import.
+**Affected files:** `blocks/C1/_wip/C1_ENG_Block06_Pronoun_v1.md`; forward-only note owed on C1 Drive Plan §2 row 6, §7 and §9b.
+**Status:** Ruled (Principal, 09.08.26).
+
+---
+
+### PD-040 — C1: combined Block 5 + Block 6 Performance Test `C1B0506-PT`
+**Decision:** Block 5's Performance Test was postponed by a holiday, so Blocks 5 and 6 fall on the same Thursday. They are assessed by one canonical combined test, **`C1B0506-PT`** (27 marks). Block 5 (demonstratives) is assessed **text-based** — fill-blank with a bracketed near/far · one/many hint — not picture-cued, matching the Sunday W6 reteach. A pointer is added to `C1B05-PT` recording that its live PT is superseded by `C1B0506-PT`. All W6 worksheets carry the `C1B06-` prefix so they do not collide with Block 5's W5 picture sheets.
+**What led to this:** same provisional-numbering error as PD-039 — the build cited **PD-029**, which the log had already assigned to the C4 spine renumbering. Corrected to PD-040 on import.
+**Affected files:** `blocks/C1/_wip/C1_ENG_Block06_Pronoun_v1.md`; pointer owed on `C1B05-PT`; C1 Drive Plan §4 W6 row.
+**Status:** Ruled (Principal, 09.08.26).
+
+---
+
+### PD-041 — C2: combined Block 6a + 6b Performance Test `C2B06ab-PT` (reverses the 08.08.26 disregard)
+**Decision:** 6a's Thursday Performance Test was postponed by a holiday; both halves of the two-week Block 6 now fall on one Thursday and are delivered as a **single combined test, `C2B06ab-PT`** (30 marks), covering 6a (doing words · am/is/are) and 6b (have/has · match). This **overrides PD-025's one-PT-per-week shape for this cycle only**. Consequences recorded: (a) 6a's master has no live standalone PT this cycle — its items are carried into the combined PT, and a dependency pointer is owed on the 6a master; (b) the combined PT is the **first retention signal** for the whole two-week block, so it — not a separate 6a PT — sizes the post-W6 batch (Run Book §9.8); (c) the have/has section of the PT reuses **5 held subject+object strings** from the worksheets because the Class-2 held-scope have/has pair space is exhausted by eight full-scale worksheets — verbatim-disjointness is **waived for the have/has section only**; dictation, doing-word, am/is/are and match remain fully disjoint. ID coinage `C2B06ab-PT` follows the Run Book §7 half-qualifier convention, extended to a combined test.
+**This reverses an earlier ruling.** On 08.08.26 the "combined 6a+6b PT / PD-028" line in the C2B06b kickoff was ruled a **stale citation and disregarded**, and the approved Phase 3 blueprint was built on a standalone `C2B06b-PT` per PD-025. On 09.08.26 the Principal ruled that the combined test is what is wanted: the chat-built 6b master stands, the 08.08.26 disregard is **superseded**, and the blueprint and `blocks/C2/_wip/STATE.md` are corrected to match. The earlier ruling is retained struck through, not deleted (Charter §K.3).
+**Supersedes:** PD-025 for this cycle only; the 08.08.26 C2B06b STATE decision 1.
+**Affected files:** `blocks/C2/_wip/C2_ENG_Block06b_HaveHasMatch_v1.md`, `blocks/C2/_wip/C2B06b_blueprint.md`, `blocks/C2/_wip/STATE.md`; pointer owed on `C2_ENG_GrammarBlock06a_Verbs_v1.md`; C2 Drive Plan §4 / §7 forward-only note.
+**Status:** Ruled (Principal, 09.08.26).
+
+---
+
+### PD-042 — House character **Rabab** is male (Charter §H.5 amendment); project-wide non-mahram re-screen owed
+**Decision:** Charter §H.5's house-character roster lists Rabab among the girls' names. Rabab is **reclassified male**. The C2 Block 6b Principal review pass applied this immediately: a non-mahram sweep of that block fixed four female+Rabab / cross-gender pairs (Porshi and Rabab ×3, Maryam and Yusuf). Because the roster is used drive-wide, a **project-wide §H.4 non-mahram re-screen of every delivered block** is owed — flagged here, not yet run.
+**What led to this:** the 6b build cited a provisional **PD-030**, a number the log had already assigned to the `C4B04-AK` consolidation. Corrected to PD-042 on import.
+**Affected files:** Charter §H.5 roster; `CLAUDE.md` §5 house-character line; every delivered block master (re-screen pending).
+**Status:** Ruled (Principal, 09.08.26). Re-screen **OPEN**.
+
+---
+
+### PD-043 — C3: combined Block 6 (Article) + Block 7 (Adjective) Performance Test `C3B0607-PT`
+**Decision:** Block 6's Performance Test was postponed by the holiday, so Blocks 6 and 7 are assessed together in one combined Thursday test, **`C3B0607-PT`** (34 marks: Article 9 · Adjective 11 · shared dictation 10 · self-try 4), scored at 0.5 marks per sentence in Parts B, C, E and F. The PT leads with dictation (Part A) then grammar (Parts B–E) as a single continuous A–E run — a deliberate house convention that reverses the binding-paper order.
+**What led to this:** the C3 Block 7 build cited a provisional **PD-031**, already assigned to the sacred-words-in-match ruling. Corrected to PD-043 on import. The same file's answer-key heading read `C3B07-PT` against a paper ID of `C3B0607-PT`; corrected to the canonical ID.
+**Affected files:** `blocks/C3/_wip/C3_ENG_Block07_Adjective_v1.md`; C3 Drive Plan §4 / §7 forward-only note.
+**Status:** Ruled (Principal, 09.08.26).
+
+---
+
+### ⚑ Numbering defect flagged 09.08.26 — **PD-036 is assigned twice**
+`PD-036 — The genuine C5 Annual-2025 paper is in the project; the binding set is four` and `PD-036 — Cross-sheet repetition gate: no carrier sentence repeats across a block's sheets` are both present in this log under the same number. Both are live and cited in delivered files (C5 Drive Plan v1.7 and the C4B06 promotion respectively). **Pending Principal ruling** on which keeps PD-036 and what number the other takes. Not resolved silently. No new PD number was consumed by this flag.
+
+---
+
 *End of working log as of 01.08.26. Several items from the most recent Class 4 Block 02 and Class 3 Block 02 discussions are still pending your classification/confirmation and are not yet included above.*
