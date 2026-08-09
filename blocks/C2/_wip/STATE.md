@@ -142,3 +142,27 @@ exact, PT 30/30)** · sacred-word · values lexicon · held-word · one-defensib
 
 **Manifest limitation:** the held-word gate checked only 10 targets (the dictation list). *have/has* needs no trace
 (PD-026) and match objects were not given triggers — declare them before the next run if the gate is to be meaningful.
+
+---
+
+## Triage ruling on Audit run 1 — 09.08.26 · **PD-045**
+
+Each of the five failures was assessed for **assessment impact** before any content was drafted.
+
+| Failure | Disposition |
+|---|---|
+| CW↔HW positional 65% / 52% | **Ruled acceptable — gate artefact.** The metric flattens all parts into one sequence; C2's HW sheets are shorter than their CW by design, so the comparison misaligns past the first part. CW3↔HW3 reads 0% while its Part D key is identical — the correctly-aligned `gate_hw_key()` is the governing test. `run_all.py` unchanged. |
+| PT Part D, 4 reuses | **Ruled — already covered by PD-041(c).** |
+| 38 have/has cross-sheet repeats | **Ruled acceptable** — rule-derived, no recall advantage (PD-044 principle). |
+| **Strict alternation, 15 answer sets** | **DEFECT — 108 of 275 marks winnable by alternating.** CW3↔HW3 Part D's identical key closes with it. |
+| **28 match-task cross-sheet repeats** | **DEFECT** — pupil recalls the pairing instead of working it out. 5 appear on three sheets. |
+
+**Corrected this pass (no content touched):** CW1 and HW1 answer keys relabelled `D_underline` → `C_underline`
+to match the Part C printed on those sheets.
+
+**Held separately:** `The sun → gives us light` (CW3 Set 2, HW4 Set 1, Tuesday script) is a **§H.9 attribution
+breach**, not an overlap question, and no ruling above covers it.
+
+**Status:** the two defects are **OPEN**. Edit plan reported to the Principal 09.08.26; **no replacement content
+drafted or applied** pending review of the scale.
+
