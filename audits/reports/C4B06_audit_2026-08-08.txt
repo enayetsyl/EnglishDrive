@@ -4,16 +4,14 @@ file2: file2/C4_ENG_VocabBatchOrder_v2.xlsx
 ------------------------------------------------------------------------
 [PASS] De-patterning                    25 answer sets checked
 [PASS] CW↔HW overlap                    CW1↔HW1: positional 19%; CW2↔HW2: positional 22%; CW3↔HW3: positional 17%; CW4↔HW4: positional 32%
-[PASS] PT zero-overlap                  34 PT items vs 411 worksheet items
+[PASS] PT zero-overlap                  31 PT items vs 451 worksheet items
 [PASS] Within-sheet duplicates          all sheets scanned
 [PASS] Rehearsal/graded disjoint        6 self-try vs 3 demo words
-[PASS] Mark totals                      CW1: 37/37; HW1: 31/31; CW2: 38/38; HW2: 32/32; CW3: 36/36; HW3: 30/30; CW4: 31/31; HW4: 31/31; PT: 36/36
+[PASS] Mark totals                      CW1: 37/37; HW1: 31/31; CW2: 38/38; HW2: 32/32; CW3: 36/36; HW3: 30/30; CW4: 31/31; HW4: 31/31; PT: 33/33
 [PASS] Sacred-word guard                graded targets + dictation scanned
 [PASS] Values lexicon screen            student-facing item texts scanned (incl. inflections)
-[FAIL] Held-word / exemplar / block-local 222 graded targets checked against 160 pool words + 0 exemplars + 22 block-local
-        - CW1 A: 'shelf' not in File 2 pool and not a declared exemplar or block-local word
-        - HW1 A: 'red' not in File 2 pool and not a declared exemplar or block-local word
+[PASS] Held-word / exemplar / block-local 220 graded targets checked against 160 pool words + 0 exemplars + 25 block-local
 [PASS] One-defensible-answer (human)    no conflicting-answer candidates; full check remains a human read
 ------------------------------------------------------------------------
-RESULT: FAILURES PRESENT — do not finalize
+RESULT: ALL GATES PASS
 Reminder: the naturalness gate and full one-defensible-answer check are HUMAN.
