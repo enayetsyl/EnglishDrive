@@ -991,7 +991,7 @@ Name: ____________________  Date: __________
 1. She opened a umbrella.   → ______
 2. He ate an orange.   → ______
 3. Fatima has a onion.   → ______
-4. It is a university bag.   → ______
+4. Abdullah saw an ox.   → ______
 5. He saw an owl.   → ______
 6. She has an kite.   → ______
 7. I ate a egg.   → ______
@@ -1055,7 +1055,7 @@ My word: ______   My sentence: ________________________________
 1. an umbrella  (wrong → an)
 2. an orange  (✓ correct)
 3. an onion  (wrong → an)
-4. a university  (✓ correct — "yu" sound takes *a*)
+4. an ox  (✓ correct)
 5. an owl  (✓ correct)
 6. a kite  (wrong → a)
 7. an egg  (wrong → an)

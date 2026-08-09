@@ -1896,10 +1896,10 @@
        "trigger": "onion"
       },
       {
-       "text": "It is a university bag.",
+       "text": "Abdullah saw an ox.",
        "answer": "✓ correct",
        "marks": 0.5,
-       "trigger": "university"
+       "trigger": "ox"
       },
       {
        "text": "He saw an owl.",

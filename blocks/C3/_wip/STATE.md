@@ -251,3 +251,46 @@ minimum defensible intervention is therefore **3 items, not 2**. No replacements
 
 **Ruled this pass:** Part C #6 (`She has an kite.`) accepted — **PD-049**. Part B #4 / #7 **OPEN**.
 
+---
+
+## Audit run 3 — 09.08.26 · final for this pass
+
+**One content change applied**, exactly as approved: **PT Part C #4** `It is a university bag.` →
+**`Abdullah saw an ox.`** (✓ correct), key updated to `an ox`. The **within-paper leak is closed** — *university* is
+no longer decisive twice on one paper, and `ox` is decisive nowhere else, so no leak is created in either direction.
+Part C stays **5 wrong / 3 correct**, 8 × 0.5 = 4, **PT 34/34**.
+
+> **Note on the first replacement.** The originally approved `Nusair has an umbrella.` was **withdrawn before it was
+> written**: Part C #1 (`She opened a umbrella.`) already establishes *an umbrella*, so it would have reproduced the
+> very leak being removed, one row over. Caught by checking Part C against itself — the first draft had been checked
+> only against Block 6 and the worksheets.
+
+**Result: 11 PASS · 2 FAIL — every failure ruled.**
+
+| Gate | Status |
+|---|---|
+| De-patterning · CW↔HW overlap · within-sheet duplicates · option lists · HW key · rehearsal · sacred · values · one-defensible | **PASS** |
+| Mark totals | **PASS — PT 34/34**, all sheets |
+| Held-word / block-local | **PASS — 236 targets** vs 195 pool + 15 exemplars + 16 block-local |
+| PT zero-overlap | FAIL — 6 items, **all ruled**: B#4 · B#7 (PD-050b) · C#6 (PD-049) · 3 × Part E (PD-048.8) |
+| Cross-sheet repetition | FAIL — 208 texts, **all ruled** (PD-048.6/7/9) |
+
+**No unruled failure remains.**
+
+## Corrections ledger — one type now at PATTERN
+
+**CR-032 flagged as the 3rd occurrence of the unchecked-graded-content blind-spot type**, alongside **CR-028**
+(C3 match parts held as a mark value, 40 placements unitemised) and **C1B06's 29 house-name items** carrying no
+trigger. Under CLAUDE.md §5A a third occurrence obliges a proposal for a check or standing rule.
+**None created — Principal instruction; awaiting decision.** The candidate, recorded but not implemented, is a
+**manifest-completeness check**: every graded part declares itemised content and a trigger, or is explicitly marked
+exempt. Two other types remain at 2 (attribution CR-004/CR-023; match repetition CR-022/CR-026).
+
+## Still open — unchanged
+
+File 2 size-adjective gap (kept separate from C3) · roll = 17 unverified · PD-042 §H.5 re-screen ·
+`extracts/C3/TN/` duplicate to regenerate at promotion · no worksheet prints a mark total (gap, not a failure) ·
+`Rani` ×6 in the **promoted** Block 6 master — **recorded as a future observation only, not reopened**.
+
+**Block remains in `_wip/` — not promoted.**
+
