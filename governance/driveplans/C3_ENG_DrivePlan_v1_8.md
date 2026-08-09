@@ -86,6 +86,13 @@ The **cap** is the guardrail: teach *to* the cap, never past it. "Re-walk" = a f
 
 ## §4 — Block-by-week schedule
 
+> **Forward-only note (09.08.26) — Block 6's Performance Test is combined with Block 7 this cycle.** A holiday
+> postponed Block 6's Thursday test, so Blocks 6 (Article) and 7 (Adjective) are assessed on one Thursday by a single
+> paper, **`C3B0607-PT`** — 34 marks (Article 9 · Adjective 11 · shared dictation 10 · self-try 4), 0.5 marks per
+> sentence in Parts B, C, E and F. **PD-043.** The W6 row's standalone Block 6 PT is not administered. Nothing below
+> is amended (Charter §K.3).
+
+
 This is the operating sequence (from the batch order). The 14 spine blocks (§2) compress into 12 weeks where the school's paper groups them (e.g. noun common/proper + number share a week; conjunction + adverb share a week).
 
 Two independent tracks share each week and must not be conflated: the **grammar track** (what rung is taught) and the **vocabulary track** (fresh batch vs. spaced revision). Every grammar block is **first-teaching of its rung**, including in W8–W12 — the "no fresh vocabulary" status of those weeks describes the *vocabulary* track only and does not make the grammar block a revision block (§1, first-appearance teaching).
@@ -140,6 +147,11 @@ Two independent tracks share each week and must not be conflated: the **grammar 
 ---
 
 ## §7 — Exam-format map (what each block's practice must look like)
+
+> **Forward-only note (09.08.26).** Block 7's exam anchor **Annual 2025 Q8** (*"Identify adjectives from the
+> following passage"* [5×1=5]) is examined in the combined **`C3B0607-PT`** (**PD-043**), alongside Block 6's article
+> anchors. The per-anchor mark values are preserved inside the combined paper. Rows below are unamended.
+
 
 Confirmed from the binding **Mohammadpur Half-Yearly 2026** paper and the Annual 2025 paper. Each block's practice set uses the **format the school tests that structure in**, so drive practice transfers directly to exam performance. Mark splits and instruction wording below are taken from these papers; where a block is HY-tested, the HY2026 split governs.
 

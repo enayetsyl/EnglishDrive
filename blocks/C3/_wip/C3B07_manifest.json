@@ -1995,6 +1995,1176 @@
      "items": []
     }
    ]
+  },
+  {
+   "name": "B6-CW1",
+   "type": "worksheet",
+   "audit_scope": "pt_overlap_only",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "Rani is ___ honest girl.",
+       "marks": 1
+      },
+      {
+       "text": "The boy has ___ kite.",
+       "marks": 1
+      },
+      {
+       "text": "He took ___ book from the bag.",
+       "marks": 1
+      },
+      {
+       "text": "Mother gave me ___ orange.",
+       "marks": 1
+      },
+      {
+       "text": "She opened ___ umbrella in the rain.",
+       "marks": 1
+      },
+      {
+       "text": "It is ___ university bag.",
+       "marks": 1
+      },
+      {
+       "text": "She ate ___ apple and ___ egg.",
+       "marks": 1
+      },
+      {
+       "text": "He kept ___ pen on the shelf.",
+       "marks": 1
+      },
+      {
+       "text": "We waited ___ hour.",
+       "marks": 1
+      },
+      {
+       "text": "I see ___ hen near the hut.",
+       "marks": 1
+      },
+      {
+       "text": "I saw ___ owl and ___ ostrich in the garden.",
+       "marks": 1
+      },
+      {
+       "text": "Father reads ___ story to us.",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "_____ apple",
+       "marks": 1
+      },
+      {
+       "text": "_____ book",
+       "marks": 1
+      },
+      {
+       "text": "_____ egg",
+       "marks": 1
+      },
+      {
+       "text": "_____ hen",
+       "marks": 1
+      },
+      {
+       "text": "_____ owl",
+       "marks": 1
+      },
+      {
+       "text": "_____ kite",
+       "marks": 1
+      },
+      {
+       "text": "_____ hour",
+       "marks": 1
+      },
+      {
+       "text": "_____ cat",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "She holds ___ umbrella.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "He met ___ friend.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "I ate ___ orange.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "The man wore ___ hat.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "We saw ___ ostrich.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "She keeps ___ cat.  — Why? __________",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "E",
+     "items": [
+      {
+       "text": "Write a sentence using **an egg**.",
+       "marks": 1
+      },
+      {
+       "text": "Write a sentence using **a kite**.",
+       "marks": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "B6-HW1",
+   "type": "worksheet",
+   "audit_scope": "pt_overlap_only",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "She gave me ___ apple.",
+       "marks": 1
+      },
+      {
+       "text": "I took ___ pen and ___ card from the desk.",
+       "marks": 1
+      },
+      {
+       "text": "He ate ___ egg for breakfast.",
+       "marks": 1
+      },
+      {
+       "text": "Yusuf saw ___ owl in the tree.",
+       "marks": 1
+      },
+      {
+       "text": "He holds ___ university card.",
+       "marks": 1
+      },
+      {
+       "text": "It was ___ honest answer.",
+       "marks": 1
+      },
+      {
+       "text": "She likes ___ old kite.",
+       "marks": 1
+      },
+      {
+       "text": "We keep ___ hen at home.",
+       "marks": 1
+      },
+      {
+       "text": "Mother cuts ___ orange.",
+       "marks": 1
+      },
+      {
+       "text": "Father gave us ___ book.",
+       "marks": 1
+      },
+      {
+       "text": "The girl has ___ hat.",
+       "marks": 1
+      },
+      {
+       "text": "I see ___ ostrich and ___ owl at the zoo.",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "_____ orange",
+       "marks": 1
+      },
+      {
+       "text": "_____ cat",
+       "marks": 1
+      },
+      {
+       "text": "_____ egg",
+       "marks": 1
+      },
+      {
+       "text": "_____ bag",
+       "marks": 1
+      },
+      {
+       "text": "_____ ostrich",
+       "marks": 1
+      },
+      {
+       "text": "_____ pen",
+       "marks": 1
+      },
+      {
+       "text": "_____ apple",
+       "marks": 1
+      },
+      {
+       "text": "_____ kite",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "I hold ___ apple.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "She has ___ book.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "He saw ___ owl.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "We met ___ girl.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "She ate ___ egg.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "He keeps ___ pen.  — Why? __________",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "E",
+     "items": [
+      {
+       "text": "Write a sentence using **an apple**.",
+       "marks": 1
+      },
+      {
+       "text": "Write a sentence using **a book**.",
+       "marks": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "B6-CW2",
+   "type": "worksheet",
+   "audit_scope": "pt_overlap_only",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "She met ___ friend near the library.",
+       "marks": 1
+      },
+      {
+       "text": "___ sky is blue.",
+       "marks": 1
+      },
+      {
+       "text": "He gave me ___ orange.",
+       "marks": 1
+      },
+      {
+       "text": "We waited ___ hour.",
+       "marks": 1
+      },
+      {
+       "text": "___ Meghna is a wide river.",
+       "marks": 1
+      },
+      {
+       "text": "___ moon shines at night.",
+       "marks": 1
+      },
+      {
+       "text": "I saw ___ owl. ___ owl was white.",
+       "marks": 1
+      },
+      {
+       "text": "___ Padma is a big river.",
+       "marks": 1
+      },
+      {
+       "text": "She ate ___ apple.",
+       "marks": 1
+      },
+      {
+       "text": "I bought ___ kite. ___ kite is green.",
+       "marks": 1
+      },
+      {
+       "text": "___ sun rises in the east.",
+       "marks": 1
+      },
+      {
+       "text": "He reads ___ book. ___ book is new.",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "_____ sun",
+       "marks": 1
+      },
+      {
+       "text": "_____ egg",
+       "marks": 1
+      },
+      {
+       "text": "_____ moon",
+       "marks": 1
+      },
+      {
+       "text": "_____ book",
+       "marks": 1
+      },
+      {
+       "text": "_____ sky",
+       "marks": 1
+      },
+      {
+       "text": "_____ owl",
+       "marks": 1
+      },
+      {
+       "text": "_____ apple",
+       "marks": 1
+      },
+      {
+       "text": "_____ Padma",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "___ sun gives us light.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "She held ___ egg.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "___ Jamuna is long.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "He has ___ kite.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "___ book on my desk is new.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "I ate ___ orange.  — Why? __________",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "E",
+     "items": [
+      {
+       "text": "Write a sentence using **the sun**.",
+       "marks": 1
+      },
+      {
+       "text": "Write a sentence using **the moon**.",
+       "marks": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "B6-HW2",
+   "type": "worksheet",
+   "audit_scope": "pt_overlap_only",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "___ moon is far away.",
+       "marks": 1
+      },
+      {
+       "text": "I bought ___ pen. ___ pen is blue.",
+       "marks": 1
+      },
+      {
+       "text": "We waited ___ hour.",
+       "marks": 1
+      },
+      {
+       "text": "___ Meghna is a big river.",
+       "marks": 1
+      },
+      {
+       "text": "She took ___ apple.",
+       "marks": 1
+      },
+      {
+       "text": "He met ___ teacher near the school.",
+       "marks": 1
+      },
+      {
+       "text": "___ Jamuna is a long river.",
+       "marks": 1
+      },
+      {
+       "text": "She gave me ___ book. ___ book was old.",
+       "marks": 1
+      },
+      {
+       "text": "___ sky is grey.",
+       "marks": 1
+      },
+      {
+       "text": "He ate ___ egg.",
+       "marks": 1
+      },
+      {
+       "text": "I saw ___ ostrich. ___ ostrich was tall.",
+       "marks": 1
+      },
+      {
+       "text": "___ sun is warm today.",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "_____ moon",
+       "marks": 1
+      },
+      {
+       "text": "_____ apple",
+       "marks": 1
+      },
+      {
+       "text": "_____ sun",
+       "marks": 1
+      },
+      {
+       "text": "_____ pen",
+       "marks": 1
+      },
+      {
+       "text": "_____ sky",
+       "marks": 1
+      },
+      {
+       "text": "_____ egg",
+       "marks": 1
+      },
+      {
+       "text": "_____ orange",
+       "marks": 1
+      },
+      {
+       "text": "_____ Meghna",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "___ moon is bright.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "He holds ___ apple.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "___ Padma is deep.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "She has ___ book.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "___ pen on my desk is red.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "She holds ___ egg.  — Why? __________",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "E",
+     "items": [
+      {
+       "text": "Write a sentence using **the sky**.",
+       "marks": 1
+      },
+      {
+       "text": "Write a sentence using **the Padma**.",
+       "marks": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "B6-CW3",
+   "type": "worksheet",
+   "audit_scope": "pt_overlap_only",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "He saw ___ ant and ___ owl.",
+       "marks": 1
+      },
+      {
+       "text": "___ ostrich is ___ big bird.",
+       "marks": 1
+      },
+      {
+       "text": "I saw ___ ant near the door.",
+       "marks": 1
+      },
+      {
+       "text": "___ cow is ___ useful animal.",
+       "marks": 1
+      },
+      {
+       "text": "Mother cuts ___ onion.",
+       "marks": 1
+      },
+      {
+       "text": "Yusuf ate ___ olive.",
+       "marks": 1
+      },
+      {
+       "text": "___ moon is far away.",
+       "marks": 1
+      },
+      {
+       "text": "She keeps ___ egg in the bowl.",
+       "marks": 1
+      },
+      {
+       "text": "She has ___ orange.",
+       "marks": 1
+      },
+      {
+       "text": "___ owl is ___ night bird.",
+       "marks": 1
+      },
+      {
+       "text": "I met ___ friend near the library.",
+       "marks": 1
+      },
+      {
+       "text": "___ boy in class three is my friend.",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "_____ onion",
+       "marks": 1
+      },
+      {
+       "text": "_____ card",
+       "marks": 1
+      },
+      {
+       "text": "_____ ant",
+       "marks": 1
+      },
+      {
+       "text": "_____ sky",
+       "marks": 1
+      },
+      {
+       "text": "_____ olive",
+       "marks": 1
+      },
+      {
+       "text": "_____ book",
+       "marks": 1
+      },
+      {
+       "text": "_____ moon",
+       "marks": 1
+      },
+      {
+       "text": "_____ egg",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "___ cow gives us milk.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "He keeps ___ onion in the bowl.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "___ moon is far.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "She ate ___ olive.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "___ girl near the door is my sister.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "I saw ___ ant.  — Why? __________",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "E",
+     "items": [
+      {
+       "text": "Write a sentence using **an onion**.",
+       "marks": 1
+      },
+      {
+       "text": "Write a sentence using **the cow** (all cows).",
+       "marks": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "B6-HW3",
+   "type": "worksheet",
+   "audit_scope": "pt_overlap_only",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "___ girl in class three is my sister.",
+       "marks": 1
+      },
+      {
+       "text": "She keeps ___ egg on the shelf.",
+       "marks": 1
+      },
+      {
+       "text": "I met ___ friend near home.",
+       "marks": 1
+      },
+      {
+       "text": "___ owl is ___ wise bird.",
+       "marks": 1
+      },
+      {
+       "text": "I saw ___ ant on the floor.",
+       "marks": 1
+      },
+      {
+       "text": "___ ostrich is ___ tall bird.",
+       "marks": 1
+      },
+      {
+       "text": "She has ___ apple.",
+       "marks": 1
+      },
+      {
+       "text": "___ sun is warm today.",
+       "marks": 1
+      },
+      {
+       "text": "He saw ___ owl and ___ ant.",
+       "marks": 1
+      },
+      {
+       "text": "___ cow is ___ gentle animal.",
+       "marks": 1
+      },
+      {
+       "text": "Father cuts ___ onion.",
+       "marks": 1
+      },
+      {
+       "text": "Rani ate ___ olive.",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "_____ ant",
+       "marks": 1
+      },
+      {
+       "text": "_____ book",
+       "marks": 1
+      },
+      {
+       "text": "_____ onion",
+       "marks": 1
+      },
+      {
+       "text": "_____ sun",
+       "marks": 1
+      },
+      {
+       "text": "_____ olive",
+       "marks": 1
+      },
+      {
+       "text": "_____ card",
+       "marks": 1
+      },
+      {
+       "text": "_____ sky",
+       "marks": 1
+      },
+      {
+       "text": "_____ orange",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "___ ostrich runs fast.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "She holds ___ onion.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "___ sun is bright.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "She ate ___ olive.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "___ boy near the gate is my brother.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "I saw ___ ant.  — Why? __________",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "E",
+     "items": [
+      {
+       "text": "Write a sentence using **an ant**.",
+       "marks": 1
+      },
+      {
+       "text": "Write a sentence using **the ostrich** (all ostriches).",
+       "marks": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "B6-CW4",
+   "type": "worksheet",
+   "audit_scope": "pt_overlap_only",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "___ elephant is ___ big animal.",
+       "marks": 1
+      },
+      {
+       "text": "He is ___ honest man.",
+       "marks": 1
+      },
+      {
+       "text": "___ Padma is a big river.",
+       "marks": 1
+      },
+      {
+       "text": "Mother cuts ___ onion.",
+       "marks": 1
+      },
+      {
+       "text": "I saw ___ owl. ___ owl was white.",
+       "marks": 1
+      },
+      {
+       "text": "It is ___ university book.",
+       "marks": 1
+      },
+      {
+       "text": "She ate ___ apple.",
+       "marks": 1
+      },
+      {
+       "text": "We waited ___ hour near the school.",
+       "marks": 1
+      },
+      {
+       "text": "___ sun is bright today.",
+       "marks": 1
+      },
+      {
+       "text": "I saw ___ elephant and ___ ox at the farm.",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "_____ egg",
+       "marks": 1
+      },
+      {
+       "text": "_____ card",
+       "marks": 1
+      },
+      {
+       "text": "_____ sun",
+       "marks": 1
+      },
+      {
+       "text": "_____ onion",
+       "marks": 1
+      },
+      {
+       "text": "_____ kite",
+       "marks": 1
+      },
+      {
+       "text": "_____ moon",
+       "marks": 1
+      },
+      {
+       "text": "_____ apple",
+       "marks": 1
+      },
+      {
+       "text": "_____ university",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "___ elephant is a big animal.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "He waited ___ hour.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "___ moon is far.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "It is ___ university bag.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "She ate ___ olive.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "___ book on my desk is new.  — Why? __________",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "D",
+     "items": [
+      {
+       "text": "I saw a owl.",
+       "marks": 1
+      },
+      {
+       "text": "An book is on the desk.",
+       "marks": 1
+      },
+      {
+       "text": "Rani ate a egg.",
+       "marks": 1
+      },
+      {
+       "text": "I waited an hour.",
+       "marks": 1
+      },
+      {
+       "text": "He has a university bag.",
+       "marks": 1
+      },
+      {
+       "text": "She has an kite.",
+       "marks": 1
+      },
+      {
+       "text": "Mother cuts a onion.",
+       "marks": 1
+      },
+      {
+       "text": "The cow is an useful animal.",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "E",
+     "items": [
+      {
+       "text": "Write a sentence using **an egg**.",
+       "marks": 1
+      },
+      {
+       "text": "Write a sentence using **the sun**.",
+       "marks": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "B6-HW4",
+   "type": "worksheet",
+   "audit_scope": "pt_overlap_only",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "She saw ___ elephant and ___ ox in the field.",
+       "marks": 1
+      },
+      {
+       "text": "___ Meghna is a long river.",
+       "marks": 1
+      },
+      {
+       "text": "Father cuts ___ onion.",
+       "marks": 1
+      },
+      {
+       "text": "___ moon is bright tonight.",
+       "marks": 1
+      },
+      {
+       "text": "It is ___ university bag.",
+       "marks": 1
+      },
+      {
+       "text": "He ate ___ olive.",
+       "marks": 1
+      },
+      {
+       "text": "___ ox is ___ strong animal.",
+       "marks": 1
+      },
+      {
+       "text": "I saw ___ ostrich. ___ ostrich was tall.",
+       "marks": 1
+      },
+      {
+       "text": "I waited ___ hour near the library.",
+       "marks": 1
+      },
+      {
+       "text": "He is ___ honest boy.",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "_____ egg",
+       "marks": 1
+      },
+      {
+       "text": "_____ book",
+       "marks": 1
+      },
+      {
+       "text": "_____ moon",
+       "marks": 1
+      },
+      {
+       "text": "_____ onion",
+       "marks": 1
+      },
+      {
+       "text": "_____ card",
+       "marks": 1
+      },
+      {
+       "text": "_____ sun",
+       "marks": 1
+      },
+      {
+       "text": "_____ orange",
+       "marks": 1
+      },
+      {
+       "text": "_____ university",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "___ ox is a strong animal.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "She waited ___ hour.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "___ sun is far.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "It is ___ university book.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "She holds ___ olive.  — Why? __________",
+       "marks": 1
+      },
+      {
+       "text": "___ pen on my desk is red.  — Why? __________",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "D",
+     "items": [
+      {
+       "text": "She saw a elephant.",
+       "marks": 1
+      },
+      {
+       "text": "An pen is on the bed.",
+       "marks": 1
+      },
+      {
+       "text": "He ate a egg.",
+       "marks": 1
+      },
+      {
+       "text": "She waited an hour.",
+       "marks": 1
+      },
+      {
+       "text": "He has a university book.",
+       "marks": 1
+      },
+      {
+       "text": "He has an kite.",
+       "marks": 1
+      },
+      {
+       "text": "Father cuts a onion.",
+       "marks": 1
+      },
+      {
+       "text": "The ox is an useful animal.",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "E",
+     "items": [
+      {
+       "text": "Write a sentence using **an apple**.",
+       "marks": 1
+      },
+      {
+       "text": "Write a sentence using **the moon**.",
+       "marks": 1
+      }
+     ]
+    }
+   ]
   }
  ],
  "dictation": [

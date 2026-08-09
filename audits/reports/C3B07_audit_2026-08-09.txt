@@ -4,7 +4,10 @@ file2: file2/C3_ENG_VocabPool_U18_v2.xlsx
 ------------------------------------------------------------------------
 [PASS] De-patterning                    35 answer sets checked
 [PASS] CW↔HW overlap                    CW1↔HW1: positional 4%; CW2↔HW2: positional 0%; CW3↔HW3: positional 0%; CW4↔HW4: positional 0% (superseded by PD-036 zero-repeat, kept as backstop)
-[FAIL] PT zero-overlap                  29 PT items vs 182 worksheet items
+[FAIL] PT zero-overlap                  29 PT items vs 353 worksheet items
+        - PT Part B: item duplicates B6-HW4: "He is ___ honest boy."
+        - PT Part B: item duplicates B6-HW4: "It is ___ university bag."
+        - PT Part C: item duplicates B6-CW4: "She has an kite."
         - PT Part E: item duplicates CW4: "We see a polluted river."
         - PT Part E: item duplicates HW2: "Porshi has two gardens."
         - PT Part E: item duplicates HW3: "That hat is on the bed."

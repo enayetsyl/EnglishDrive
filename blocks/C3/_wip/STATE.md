@@ -151,3 +151,55 @@ rehearsal disjointness, sacred-word, values lexicon and one-defensible-answer al
 
 **Block remains in `_wip/` — not promoted.** Corrections logged **CR-025 … CR-030**.
 
+---
+
+## PD-032 / PD-034 widened PT overlap — RUN 09.08.26 · ⚑ 3 NEW findings, no content changed
+
+Block 6's **eight Article worksheets (236 items)** loaded into `_wip/C3B07_manifest.json` as
+`"audit_scope": "pt_overlap_only"` reference. `C3B0607-PT` is now compared against **353 worksheet items** across both
+blocks. Block 6's own PT was not loaded — it was never administered and its assessment is carried into this paper
+(PD-043), so comparing against it would flag the carry itself.
+
+**Result — the Article half of the PT is not disjoint from Block 6.**
+
+| PT item | Duplicates | Answer |
+|---|---|---|
+| **Part B #4** — `He is ___ honest boy.` | `B6-HW4` | *an* |
+| **Part B #7** — `It is ___ university bag.` | `B6-HW4` | *a* |
+| **Part C #6** — `She has an kite.` | `B6-CW4` | *a* |
+
+**Assessment impact — not uniform, and two of these are stronger than earlier overlap findings.**
+
+- **Part C #6 (`kite`) is straightforwardly rule-derived** — a consonant sound takes *a*. Same standing as the items
+  ruled under PD-044/PD-046; no meaningful advantage.
+- **Part B #4 and #7 are the two exception items of the whole Article topic** — silent-*h* (*honest* sounds like a
+  vowel → *an*) and the *"yu"* sound (*university* → *a*). These are precisely the cases where a pupil is most likely
+  to **recall** rather than apply the sound test, because the rule's surface form (look at the letter) gives the wrong
+  answer. A pupil who met these exact sentences in Block 6 homework can reproduce them without hearing the sound.
+  The advantage is real, though it is worth **1 mark in total** (2 blanks × 0.5).
+- Both Part B hits come from **the same sheet, `B6-HW4`**, which suggests the PT's Article half was drafted with that
+  homework open rather than authored fresh.
+
+**Reported for ruling; no content changed** (Principal instruction, 09.08.26). Unlike the C2 equivalent, this one is
+not covered by any existing waiver.
+
+**No other gate result moved** — the reference sheets are visible only to the PT overlap gate.
+
+## C3 Drive Plan §4 / §7 — DONE 09.08.26
+
+`governance/driveplans/C3_ENG_DrivePlan_v1_8.md` — forward-only notes at **§4** (Block 6's PT combined into
+`C3B0607-PT` this cycle, 34 marks, PD-043) and **§7** (Annual 2025 Q8 examined in the combined paper, per-anchor mark
+values preserved). No row amended.
+
+## Corrections approaching PATTERN — flagged only, no rule created
+
+Three types now sit at **2 occurrences**; a third makes each PATTERN under CLAUDE.md §5A and obliges a proposal:
+
+| Type | Occurrences | Origin |
+|---|---|---|
+| **Attribution — autonomous natural giver** | CR-004 (C4B06) · CR-023 (C2B06b) | *"the sun gives us light"* |
+| **Cross-sheet repetition of match pairings** | CR-022 (C2B06b) · CR-026 (C3B07) | recall instead of derivation |
+| **Unheld word graded** | CR-001 (C4B06) · CR-030 (C3B07) | `quickly`/`run`/`shelf` · `big`/`table` |
+
+**No standing rule introduced and no gate changed.** Recorded so the third occurrence is recognised when it arrives.
+
