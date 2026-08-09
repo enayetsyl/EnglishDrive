@@ -149,7 +149,7 @@ rehearsal disjointness, sacred-word, values lexicon and one-defensible-answer al
 6. **`extracts/C3/TN/` duplicate** under the old stem — regenerate from the master at promotion, don't edit in place.
 7. **No worksheet prints a mark total** — recorded as a gap, not a failure (PD-048); no governing file requires one.
 
-**Block remains in `_wip/` — not promoted.** Corrections logged **CR-025 … CR-030**.
+**PROMOTED 09.08.26** on the Principal's "done" — see below. Corrections logged **CR-025 … CR-030**.
 
 ---
 
@@ -292,5 +292,46 @@ File 2 size-adjective gap (kept separate from C3) · roll = 17 unverified · PD-
 `extracts/C3/TN/` duplicate to regenerate at promotion · no worksheet prints a mark total (gap, not a failure) ·
 `Rani` ×6 in the **promoted** Block 6 master — **recorded as a future observation only, not reopened**.
 
-**Block remains in `_wip/` — not promoted.**
+**PROMOTED 09.08.26** on the Principal's "done" — see below.
+
+---
+
+## PROMOTION — 09.08.26
+
+Principal: *"C3B07 is done. You may promote it from `_wip/`."*
+
+**Promoted master:** `blocks/C3/C3_ENG_Block07_Adjective_v1.md`
+(moved from `blocks/C3/_wip/`; `blocks/C3/` now holds Blocks 1–7.)
+
+`_wip/` retains `C3B07_manifest.json` and this STATE file — the audit trail stays with the block, as C4B06's and
+C2B06b's did. No `_wip/` history cleared.
+
+### ⚑ Extracts — NONE exist. Twelve are owed as a deliverable.
+
+The master defines twelve canonical IDs. **Not one has been generated**; `extracts/C3/` currently holds only a stale
+copy of the master itself (see below).
+
+| Owed | IDs |
+|---|---|
+| Classwork | `C3B07-CW1` · `CW2` · `CW3` · `CW4` |
+| Homework | `C3B07-HW1` · `HW2` · `HW3` · `HW4` |
+| Performance Test | `C3B0607-PT` (combined Article + Adjective, 34 marks) |
+| Answer key | `C3B07-AK` |
+| Clue card | `C3B07-CC` |
+| Teacher dictation | `C3B07-TD` (carries the ten Part A words) |
+
+For comparison, C4B06 shipped 13 extracts to `extracts/C4/` at promotion. **C2B06b is in the same position** — promoted
+earlier today with none of its extracts generated either. Both sets are outstanding.
+
+### ⚑ The `extracts/C3/TN/` copy is now actively stale, not merely duplicated
+
+`extracts/C3/TN/C3_ENG_GrammarBlock07_Adjective_v1.md` was byte-identical to the master at import. It now differs by
+**91 lines** — it predates every repair made today: the PT Part B blank fix (it still computes 34.5), the nine match
+replacements, the Part F reorder, the superseded stale key, the `Rani` replacements, the Part C #4 leak fix and the
+`big`/`table` declaration.
+
+**A teacher opening that file today gets the unfixed block.** It must be regenerated from the promoted master, not
+edited in place. Until then it is the more visible copy, since it sits in `extracts/`.
+
+**Not done and not assumed** — flagged for a separate instruction.
 
