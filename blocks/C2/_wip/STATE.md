@@ -288,5 +288,20 @@ transcribability, within-sheet duplicates, option lists, rehearsal disjointness,
 held-word and one-defensible-answer all PASS. The master has not been touched since the §H.9 recast — verified by diff.
 
 **Parked, not blocking closure:** PD-042 §H.5 drive-wide re-screen · W6 assignment (blocked on the stale Coverage Log)
-· CR-023 one occurrence from PATTERN. **Block remains in `_wip/` — promotion still needs an explicit "done".**
+· CR-023 one occurrence from PATTERN. **PROMOTED 09.08.26** on the Principal's "done" — master now at `blocks/C2/C2_ENG_Block06b_HaveHas_Match_v1.md`.
+
+---
+
+## PROMOTION — 09.08.26
+
+Principal: *"C2B06b is done. You may promote it from `_wip`."*
+
+Master moved `blocks/C2/_wip/` → **`blocks/C2/C2_ENG_Block06b_HaveHas_Match_v1.md`**. `_wip/` retains the blueprint,
+this STATE file and `C2B06b_manifest.json` (the manifest stays with the audit trail, as C4B06's did) — no `_wip/`
+history cleared.
+
+**Not yet generated: the student extracts.** The master's own *Extract manifest* section lists them as
+regenerate-only from this file — CW1–4, HW1–4, `C2B06ab-PT`, `C2B06b-AK`, `C2B06b-CC`, `C2B06b-TD`. C4B06 shipped 13
+extracts to `extracts/C4/` at promotion; C2B06b has none in `extracts/C2/` beyond the 6a set. Flagged as the next
+deliverable, not assumed.
 
