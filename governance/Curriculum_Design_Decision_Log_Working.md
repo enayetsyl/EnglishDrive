@@ -614,4 +614,26 @@ Decisions made in principle but not yet implemented. Not official until converte
 
 ---
 
+### PD-045 — C2 Block 6b: audit triage — three failures ruled acceptable, two ruled genuine defects
+**Decision:** `C2B06b`'s first audit run returned five gate failures. Each was assessed for **assessment impact** before any content was drafted (the PD-044 principle, applied per-failure). Disposition:
+
+**Ruled acceptable — no worksheet changed:**
+1. **CW↔HW positional overlap (65% CW1↔HW1, 52% CW2↔HW2) — gate artefact.** `gate_pair_overlap()` flattens every part of a sheet into one sequence and compares position-by-position, truncated to the shorter sheet. C2's homework sheets are deliberately shorter than their classwork, so past the first part the comparison is misaligned across part boundaries — it compares CW1 Part A item 9 against HW1 Part B item 1. The metric is only meaningful where paired sheets have identical part lengths. Demonstration: CW3↔HW3 reports **0%** while its Part D key is **identical** (caught instead by `gate_hw_key()`, which aligns same-named parts of equal length). The correctly-aligned gate is the governing one here. **No script change is made** — this entry records the limitation; a fix to `gate_pair_overlap()` would be a separate ruling.
+2. **PT Part D, four items reused from worksheets.** Already waived by **PD-041(c)** (binary-target held-scope exhaustion). No further action. The answer follows from subject number — the taught rule — so there is no recall advantage, the same reasoning as PD-044.
+3. **38 of the 66 cross-sheet repeated sentences are have/has items.** Rule-derived: meeting `Fatima ____ a jar.` twice gains a pupil nothing over applying one-owner/many-owners. Ruled acceptable under the PD-044 principle.
+
+**Ruled genuine defects — to be corrected:**
+4. **Strict have/has alternation in 15 answer sets** (CW1 C · HW1 A/B/C · CW2 A/B/D · HW2 A/B/D · CW3 D · HW3 D · CW4 D · HW4 D · PT D). **108 of the block's 275 marks are winnable by alternating** without applying the rule. This is a real assessment defect, not an overlap question. **CW3↔HW3 Part D's identical key** (the `gate_hw_key` failure) is the same defect and closes with it — the two parts must not receive the same correction.
+5. **28 of the 66 cross-sheet repeats are match-task sentences.** Different in kind from (3): the pupil has already seen the correct pairing, so the task drops from *work out which predicate fits* to *recall*. Five appear on three sheets. Ruled a genuine defect.
+
+**Also corrected (marking usability, no content touched):** CW1's and HW1's answer keys labelled their third part `D_underline` while the sheets print **Part C** — a teacher marking CW1 found no Part C key. Relabelled `C_underline` on both.
+
+**Held separately:** `The sun → gives us light` (graded match answer on CW3 and HW4, plus a Tuesday script sample) is a **Charter §H.9 / CLAUDE.md §5 attribution breach**, not an overlap question, and is not covered by any ruling above.
+
+**Scope.** Block-scoped to C2 Block 6b. `CROSS_SHEET_MAX_REPEATS` stays 0; PD-036, PD-038 and PD-041 are unamended; `run_all.py` is unchanged. Per CLAUDE.md §4 the three accepted failures will keep reporting as FAIL, and this entry is the ruling that permits it.
+**Affected files:** `blocks/C2/_wip/C2_ENG_Block06b_HaveHas_Match_v1.md` (key labels only), `blocks/C2/_wip/STATE.md`.
+**Status:** Ruled (Principal, 09.08.26). Defects 4 and 5 **OPEN** — edit plan under review, no content drafted.
+
+---
+
 *End of working log as of 01.08.26. Several items from the most recent Class 4 Block 02 and Class 3 Block 02 discussions are still pending your classification/confirmation and are not yet included above.*

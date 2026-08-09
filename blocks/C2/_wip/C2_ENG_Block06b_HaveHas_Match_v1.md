@@ -862,9 +862,9 @@ Target: **independent build.** This previews the PT self-try. Record readiness.
 ## Answer Keys (teacher — master file only; not on any student extract)
 *Programmatically verified: key accuracy, held-word/staging, de-patterning (has/have run ≤2, no strict alternation), single defensible answer, match-set unambiguity (distinct subjects + distinct main verbs), match derangement, same-day CW↔HW disjointness (0 shared has/have, 0 shared match pairs), caps (subj ≤5 · obj ≤4 · match-pred ≤2). PT: match/dictation/6a-side fully disjoint from worksheets; have/has section reuses 5 held strings by necessity (binary-target held-scope exhaustion — logged PD-041).*
 
-**CW1** (Sun) — **A_circle:** has·has·have·has·has·have·has·has·have·has  **B_fill:** has·have·has·has·have·has·has·have·has·have·has  **D_underline:** have·has·have·has·have·has·have·has·have·has·have
+**CW1** (Sun) — **A_circle:** has·has·have·has·has·have·has·has·have·has  **B_fill:** has·have·has·has·have·has·has·have·has·have·has  **C_underline:** have·has·have·has·have·has·have·has·have·has·have
 
-**HW1** (Sun) — **A_circle:** has·have·has·have·has·have·has·have  **B_fill:** has·have·has·have·has·have·has·have·has  **D_underline:** have·has·have·has·have·has·have·has·have
+**HW1** (Sun) — **A_circle:** has·have·has·have·has·have·has·have  **B_fill:** has·have·has·have·has·have·has·have·has  **C_underline:** have·has·have·has·have·has·have·has·have
 
 **CW2** (Mon) — **A_circle:** has·have·has·have·has·have·has·have  **B_fill:** has·have·has·have·has·have·has·have  **C_match:** Set1: Fatima→looks at the rainbow; Yusuf→brushes his teeth; Aisha→draws a triangle; The cows→eat grass in the field; The boys→play in the field | Set2: Abdullah→looks at the clock; The insects→live in the grass; My brother→draws a car; The birds→fly over the bridge; My mother→waits at home  **D_underline:** has·have·has·have·has·have·has·have
 
