@@ -52,6 +52,27 @@ No build content drafted. No sentence bank drafted.
 
 ## Exact next step
 
-Principal reviews `_wip/C2B06b_blueprint.md` and rules the three open items in its §10.
-On approval → **Phase 4 unit 1 = the hand-authored sentence bank**, which comes to the Principal
-for approval **before any worksheet uses it**. **No build content before blueprint approval.**
+~~Principal reviews `_wip/C2B06b_blueprint.md` and rules the three open items in its §10.~~
+**RULED — see Principal ruling below (09.08.26).** Phase 4 may begin.
+**Unit 1 = the hand-authored sentence bank**, which comes to the Principal for approval
+**before any worksheet uses it**.
+
+---
+
+## Principal ruling — 09.08.26 (recorded cross-session)
+
+**Blueprint APPROVED.** §10 rulings:
+
+1. **§10-1 (audit_scope script change): already implemented and ruled** — PD-032/PD-034;
+   the flag exists in `run_all.py` with self-test `selftest_audit_scope.py`. Nothing to write.
+2. **§10-2 (Coverage Log): option (a) — reconcile first**, starting from
+   `_wip/CoverageLog_reconciliation_draft.md`, then generate `C2B06b-AS`.
+3. **§10-3 (PT split): confirmed** — A 10 · B 5 · C 5 · D 6 · E 4 = 30.
+
+**Note for the build:** the audit suite has grown since the blueprint was written —
+**PD-036** cross-sheet repetition gate (zero repeats across all the block's sheets;
+the "≤2 identical/day" allowance is backstop only per **PD-038**), **PD-037**
+option-list completeness (declare `options` on identify parts in the manifest) and
+HW-key transcribability (no HW part's key positionally identical to its CW part).
+See `governance/CORRECTIONS.md` and CLAUDE.md §5A — state applicable PATTERN/PROMOTED
+rules before drafting each sheet. Next free PD number: **PD-039**.

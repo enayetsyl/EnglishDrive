@@ -188,7 +188,30 @@ Scope-limited in the same form as the 31.07.26 Block 6 ruling: it governs **this
 
 ## Exact next step
 
-**Principal approves `_wip/C5B07_blueprint.md`.** Then Phase 4 builds one unit at a time (blueprint §13), pausing for review between units.
+~~**Principal approves `_wip/C5B07_blueprint.md`.**~~
+**APPROVED — see Principal ruling below (09.08.26).** Phase 4 builds one unit at a time
+(blueprint §13), pausing for review between units.
+
+---
+
+## Principal ruling — 09.08.26 (recorded cross-session)
+
+**Blueprint APPROVED.** With it, the carried flags are ruled:
+
+1. **Cover (not remove)** the Article Clue Card and the new Pronoun row during
+   Thursday's `C5B0607-PT` — the cards are needed after the test.
+2. **Half-marks: yes** — the mark sheet accepts `.5`; part and paper totals stay whole.
+3. **Drive Plan §4 W6 forward-only note: authorized** — record the A3/BC-2 load ruling.
+
+**§12 correction:** PD-036–038 are now taken (Decision Log; `governance/CORRECTIONS.md`).
+If this block's design is logged it takes **PD-039**.
+
+**Note for the build:** the audit suite has grown since the blueprint was written —
+**PD-036** cross-sheet repetition gate (zero repeats across all the block's sheets + PT;
+"≤2 identical/day" is backstop only per **PD-038**) and **PD-037** option-list
+completeness (declare `options` on Parts A/C/E identify-type parts) + HW-key
+transcribability (no HW part's key positionally identical to its CW part). Per
+CLAUDE.md §5A, state applicable PATTERN/PROMOTED rules before drafting each sheet.
 
 *(superseded next-step text retained below for the record)*
 

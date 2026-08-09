@@ -523,4 +523,32 @@ Decisions made in principle but not yet implemented. Not official until converte
 
 ---
 
+### PD-036 — Cross-sheet repetition gate: no carrier sentence repeats across a block's sheets
+**Decision:** A new audit gate, `gate_cross_sheet_repetition()` in `audits/scripts/run_all.py`, fails any block in which the same normalised item text appears on more than one graded sheet (CW, HW, or PT). **Threshold: `CROSS_SHEET_MAX_REPEATS = 0`** — the maximum number of identical carrier sentences tolerated across a block's sheets is zero; every graded sentence is unique across the block. The constant is a single named value so the Principal can loosen it later if it proves too strict.
+**Rationale:** C4 Block 6 reached review with **38 sentences repeated over 78 placements** (CW-4 was 16/20 recycled, HW-4 11/20); 40 items had to be re-authored by hand at promotion. The de-patterning, within-sheet duplicate, and CW↔HW gates each look at a narrower surface and all passed while this accumulated. The C4B06 promotion standard (199 sentences, zero repeats) is codified as the threshold.
+**Relation to existing gates:** strictly tighter than the CW↔HW "≤2 identical item texts per day" allowance (Run Book §6.5), which remains on the books but can never bind while this gate holds at 0. `audit_scope: "pt_overlap_only"` reference sheets are excluded, as everywhere.
+**Corrections ledger:** promotes **CR-009** (PATTERN → PROMOTED). Self-test with seeded error: `audits/scripts/selftest_cross_sheet.py`.
+**What led to this:** the C4 Block 6 promotion sweep (08.08.26); gate drafted there and flagged for ruling; ruled at the corrections-ledger promotions (08.08.26).
+**Affected files:** `audits/scripts/run_all.py`, `audits/scripts/selftest_cross_sheet.py`, `audits/scripts/README_manifest.md`, `governance/CORRECTIONS.md`. Additive. Forward-only.
+**Status:** Ruled (Principal, 08.08.26).
+
+---
+
+### PD-037 — Corrections-ledger promotions, batch 1: option-list completeness and HW key transcribability gates
+**Decision:** Two PATTERN rows of `governance/CORRECTIONS.md` are promoted to audit gates in `audits/scripts/run_all.py`, both additive:
+1. **Option-list completeness** (`gate_option_list()`, promotes **CR-008**): every keyed answer in a part must appear in that part's printed option list, declared via a new optional part-level `"options"` manifest field. Parts that declare no `options` are not checked (the gate reports itself vacuous). Six C4B06 sheets historically keyed *Adverb* against printed options that excluded it — the one defect class a pupil meets directly in the exam-hall sense.
+2. **HW key transcribability** (`gate_hw_key()`, promotes **CR-006**): no part's answer sequence may be positionally identical to the same-named part of its paired sheet (sequences of length ≥3, compared once per pair). The whole-sheet ≤35% positional gate passed C4B06 while five individual HW parts carried keys identical to their CW counterparts, making the homework key transcribable positionally.
+**Corrections ledger:** CR-006 and CR-008 move PATTERN → PROMOTED citing this PD. Self-tests with seeded errors: `audits/scripts/selftest_option_list.py`, `audits/scripts/selftest_hw_key.py`.
+**What led to this:** CLAUDE.md §5A corrections feedback loop, first promotion batch (08.08.26); both error types reached 3+ occurrences in the C4B06 review.
+**Affected files:** `audits/scripts/run_all.py`, the two self-tests, `audits/scripts/README_manifest.md`, `governance/CORRECTIONS.md`. Additive. Forward-only.
+**Status:** Ruled (Principal, 08.08.26).
+
+---
+
+### PD-038 — PD-036 zero-repeat standard governs; CW↔HW ≤2-identical-items allowance kept as backstop only
+**Decision:** PD-036's zero-repeat standard supersedes the CW↔HW ≤2-identical-items allowance, which can never bind at 0. The ≤2 rule stays in `run_all.py` as a defense-in-depth check but is no longer the governing standard. `CROSS_SHEET_MAX_REPEATS` remains 0 (Principal threshold ruling). The CW↔HW gate's report line now carries "(superseded by PD-036 zero-repeat, kept as backstop)".
+**Status:** Ruled (Principal, 08.08.26).
+
+---
+
 *End of working log as of 01.08.26. Several items from the most recent Class 4 Block 02 and Class 3 Block 02 discussions are still pending your classification/confirmation and are not yet included above.*

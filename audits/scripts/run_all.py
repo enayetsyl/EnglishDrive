@@ -122,7 +122,9 @@ def gate_pair_overlap(m):
         ident = sum(1 for t in ot if t in st)
         if ident > 2:
             fails.append(f"{sheet['name']}↔{pair}: {ident} identical item texts (> 2)")
-    return ("CW↔HW overlap", not fails, "; ".join(notes) or "no pairs declared", fails)
+    note = ("; ".join(notes) or "no pairs declared") + \
+        " (superseded by PD-036 zero-repeat, kept as backstop)"
+    return ("CW↔HW overlap", not fails, note, fails)
 
 
 def gate_pt_zero_overlap(m):
@@ -151,6 +153,92 @@ def gate_within_sheet_dupes(m):
             if c > 1:
                 fails.append(f"{sheet['name']}: duplicate item ×{c}: \"{t[:60]}\"")
     return ("Within-sheet duplicates", not fails, "all sheets scanned", fails)
+
+
+def gate_option_list(m):
+    """Every keyed answer in a part must appear in that part's printed option list.
+
+    CR-008 / PD-037: six sheets historically keyed an answer (Adverb) that the
+    printed instruction options excluded — the one defect a pupil meets directly.
+    Additive: only parts that declare an "options" field are checked, so existing
+    manifests without the field behave exactly as before (the note says vacuous).
+    """
+    fails, checked = [], 0
+    for sheet in graded_sheets(m):
+        for part in sheet.get("parts", []):
+            opts = part.get("options")
+            if not opts:
+                continue
+            checked += 1
+            nopts = {norm(o) for o in opts}
+            for it in part.get("items", []):
+                a = it.get("answer")
+                if a is not None and norm(a) not in nopts:
+                    fails.append(f"{sheet['name']} Part {part.get('name', '?')}: keyed "
+                                 f"answer '{a}' missing from printed options {opts}")
+    note = (f"{checked} option-listed parts checked" if checked else
+            "no parts declare 'options' — gate vacuous; declare on identify parts")
+    return ("Option-list completeness", not fails, note, fails)
+
+
+def gate_hw_key(m):
+    """No part's answer sequence may be positionally identical to the same-named
+    part of its paired sheet — the HW key must not be transcribable from the CW.
+
+    CR-006 / PD-037: the whole-sheet ≤35% positional gate passed C4B06 while five
+    individual HW parts carried keys identical to their CW counterparts. Compares
+    same-named parts of a declared pair, sequences of length ≥3 and equal length.
+    """
+    fails, checked = [], 0
+    by_name = {s["name"]: s for s in graded_sheets(m)}
+    seen = set()
+    for sheet in graded_sheets(m):
+        pair = sheet.get("pair")
+        if not pair or pair not in by_name:
+            continue
+        key = tuple(sorted((sheet["name"], pair)))
+        if key in seen:
+            continue
+        seen.add(key)
+        other = by_name[pair]
+        oparts = {p: a for p, a in sheet_answer_sets(other)}
+        for pname, answers in sheet_answer_sets(sheet):
+            oa = oparts.get(pname)
+            if oa is None or len(answers) < 3 or len(answers) != len(oa):
+                continue
+            checked += 1
+            if [norm(x) for x in answers] == [norm(x) for x in oa]:
+                fails.append(f"{sheet['name']}↔{other['name']} Part {pname}: identical "
+                             f"answer sequence ({' · '.join(answers)})")
+    return ("HW key transcribability", not fails, f"{checked} paired parts compared", fails)
+
+
+# PD-036: max identical carrier sentences tolerated across a block's sheets.
+# 0 = every normalised item text unique across all graded sheets (the C4B06
+# promotion standard: 199 sentences, zero repeats). Raise to loosen.
+CROSS_SHEET_MAX_REPEATS = 0
+
+def gate_cross_sheet_repetition(m):
+    """No item text may appear on more than one of the block's graded sheets.
+
+    CR-009 / PD-036: C4B06 reached review with 38 sentences repeated over 78
+    placements (CW-4 was 16/20 recycled). Threshold: a text on N sheets fails
+    when (N - 1) > CROSS_SHEET_MAX_REPEATS. Strictly tighter than the CW↔HW
+    "≤2 identical items per day" allowance, which can never bind while this
+    gate holds at 0.
+    """
+    where = {}
+    for sheet in graded_sheets(m):
+        for _pname, it in all_items(sheet):
+            t = norm(it.get("text", ""))
+            if t:
+                where.setdefault(t, set()).add(sheet["name"])
+    fails = [f"\"{t[:60]}\" on {len(s)} sheets: {', '.join(sorted(s))}"
+             for t, s in sorted(where.items())
+             if (len(s) - 1) > CROSS_SHEET_MAX_REPEATS]
+    return ("Cross-sheet repetition (PD-036)", not fails,
+            f"{len(where)} distinct texts across {len(graded_sheets(m))} sheets; "
+            f"threshold {CROSS_SHEET_MAX_REPEATS}", fails)
 
 
 def gate_rehearsal_disjoint(m):
@@ -403,6 +491,9 @@ def main():
         gate_pair_overlap(m),
         gate_pt_zero_overlap(m),
         gate_within_sheet_dupes(m),
+        gate_option_list(m),
+        gate_hw_key(m),
+        gate_cross_sheet_repetition(m),
         gate_rehearsal_disjoint(m),
         gate_marks(m),
         gate_sacred(m),
