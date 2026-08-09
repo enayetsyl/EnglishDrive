@@ -147,3 +147,38 @@ Append-only. Newest entry last. Never overwrite past entries.
   of them.** Their in-file "programmatically verified / seven-audit sweep PASS" lines come from the chat
   build, not this repo's suite, and do not satisfy CLAUDE.md §4 (ten gates). Recorded in all three STATEs.
 
+---
+
+## 2026-08-09 — SCD (almajhudbd@gmail.com) — C1/C2/C3 W6 blocks: import → audit → repair → promotion
+
+- **Task.** Three W6 masters built in chat (C1 Block 6 Pronoun, C2 Block 6b Have/Has+Match, C3 Block 7 Adjective)
+  imported to `_wip/`, audited for the first time, repaired to the Principal's minimum-change standard, and promoted.
+- **Promoted:** `blocks/C1/C1_ENG_Block06_Pronoun_v1.md` · `blocks/C2/C2_ENG_Block06b_HaveHas_Match_v1.md` ·
+  `blocks/C3/C3_ENG_Block07_Adjective_v1.md`. `_wip/` retains each manifest + STATE as the audit trail.
+- **Working method, set by the Principal early and applied throughout:** report each gate failure's **assessment
+  impact** first; fix only what has one; rule the rest. Content changes were minimised because the files were already
+  delivered. Net: **C1 nil content changes**, **C2 48**, **C3 15**.
+- **First audit runs.** None of the three had ever been through `run_all.py`; their in-file "audited" claims came from
+  the chat build. Manifests were built (C1 88 items, C2 269, C3 295) and the suite run repeatedly.
+- **Substantive defects found and fixed.** C2: 15 answer sets in strict has/have alternation (**108 of 275 marks
+  winnable by alternating**), a key error marking a correct answer wrong, 32 match-pair repeats, a §H.9 attribution
+  breach (*"the sun gives us light"*). C3: PT computing 34.5 against a stated 34, 9 over-repeated match pairs, a
+  strict-alternation PT part fixed by **reordering with no sentence rewritten**, two conflicting answer keys, an
+  off-roster name, and a **within-paper answer leak** (Part B #7 handed the pupil Part C #4).
+- **Blind spots the gates could not see.** C3's 40 match placements and the PT's entire 16-item Article half were
+  invisible to every gate — both found by hand extraction, both now itemised/declared. C1's 29 house-name items remain
+  outside the held-word gate. Three occurrences → **CR-032 flagged PATTERN**; **no rule created** (Principal's call).
+- **PDs logged: PD-039 … PD-050** (12). Included **PD-041** reversing an earlier ruling, **PD-042** reclassifying a
+  house character, **PD-047** closing BC-1, and **PD-050** in which the agent's own argument was **withdrawn as
+  overstated** after the Principal challenged it. **Corrections CR-020 … CR-032** (13) logged to the ledger — overdue,
+  since §5A requires them in-session.
+- **Also delivered:** 24 canonical extracts generated from the promoted C2 and C3 masters; C3's `extracts/TN/` copy
+  regenerated (91 stale pre-repair lines gone, now byte-identical); dependency pointers on the C2 6a and C1 B5 masters;
+  forward-only Drive Plan notes for C1 (§2/§7/§9b), C2 (§4/§7) and C3 (§4/§7).
+- **Two agent errors caught and corrected in-session:** a replacement item proposed for C3 PT Part C #4 would have
+  recreated the very leak it was fixing (withdrawn before writing); and two Block 6 overlap sources were misattributed
+  to one sheet. Both recorded in STATE rather than quietly fixed.
+- **Outstanding, tracked separately:** C1's 12 canonical extracts · the CR-028/CR-032 PATTERN governance decision ·
+  PD-042 §H.5 drive-wide re-screen · C3 File 2 size-adjective gap · C2 W6 assignment (blocked on the stale Coverage
+  Log) · `Rani` ×6 in the promoted C3 Block 6 master (observation only, not reopened).
+
