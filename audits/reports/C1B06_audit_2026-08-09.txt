@@ -1,0 +1,26 @@
+AUDIT REPORT — C1B06 — 2026-08-09
+manifest: blocks/C1/_wip/C1B06_manifest.json
+file2: file2/C1_ENG_VocabPool_v1.xlsx
+------------------------------------------------------------------------
+[PASS] De-patterning                    10 answer sets checked
+[PASS] CW↔HW overlap                    CW1↔HW1: positional 20%; CW2↔HW2: positional 30%; CW3↔HW3: positional 30%; CW4↔HW4: positional 0% (superseded by PD-036 zero-repeat, kept as backstop)
+[FAIL] PT zero-overlap                  8 PT items vs 79 worksheet items
+        - PT Part F: item duplicates CW1: "______ is a pen. (near, one)"
+        - PT Part F: item duplicates HW1: "______ are cows. (far, many)"
+[PASS] Within-sheet duplicates          all sheets scanned
+[PASS] Option-list completeness         7 option-listed parts checked
+[PASS] HW key transcribability          4 paired parts compared
+[FAIL] Cross-sheet repetition (PD-036)  85 distinct texts across 9 sheets; threshold 0
+        - "______ are cows far many" on 2 sheets: HW1, PT
+        - "______ is a pen near one" on 2 sheets: CW1, PT
+        - "abdur rahim sits on the chair" on 2 sheets: CW3, HW4
+[PASS] Rehearsal/graded disjoint        3 self-try vs 6 demo words
+[PASS] Mark totals                      CW1: 10/10; HW1: 10/10; CW2: 10/10; HW2: 10/10; CW3: 10/10; HW3: 10/10; CW4: 10/10; HW4: 10/10; PT: 27/27
+[PASS] Sacred-word guard                graded targets + dictation scanned
+[PASS] Values lexicon screen            student-facing item texts scanned (incl. inflections)
+[PASS] Held-word / exemplar / block-local 59 graded targets checked against 82 pool words + 0 exemplars + 0 block-local
+[PASS] One-defensible-answer (human)    1 candidates for human review
+        - same item, different answers: "abdur rahim sits on the chair" → he (CW3 A) vs he sits on the chair (HW4 A)
+------------------------------------------------------------------------
+RESULT: FAILURES PRESENT — do not finalize
+Reminder: the naturalness gate and full one-defensible-answer check are HUMAN.

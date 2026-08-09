@@ -1,0 +1,710 @@
+{
+ "block_id": "C1B06",
+ "build_week": 6,
+ "exemplars": [],
+ "block_local": [],
+ "sheets": [
+  {
+   "name": "CW1",
+   "type": "worksheet",
+   "stated_total": 10,
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "______ is a book. (near, one)",
+       "answer": "This",
+       "marks": 1,
+       "trigger": "book"
+      },
+      {
+       "text": "______ is a cow. (far, one)",
+       "answer": "That",
+       "marks": 1,
+       "trigger": "cow"
+      },
+      {
+       "text": "______ are pens. (near, many)",
+       "answer": "These",
+       "marks": 1,
+       "trigger": "pen"
+      },
+      {
+       "text": "______ are trees. (far, many)",
+       "answer": "Those",
+       "marks": 1,
+       "trigger": "tree"
+      },
+      {
+       "text": "______ is a chair. (near, one)",
+       "answer": "This",
+       "marks": 1,
+       "trigger": "chair"
+      },
+      {
+       "text": "______ are birds. (far, many)",
+       "answer": "Those",
+       "marks": 1,
+       "trigger": "bird"
+      },
+      {
+       "text": "______ is a table. (far, one)",
+       "answer": "That",
+       "marks": 1,
+       "trigger": "table"
+      },
+      {
+       "text": "______ are cats. (near, many)",
+       "answer": "These",
+       "marks": 1,
+       "trigger": "cat"
+      },
+      {
+       "text": "______ is a pen. (near, one)",
+       "answer": "This",
+       "marks": 1,
+       "trigger": "pen"
+      },
+      {
+       "text": "______ are houses. (far, many)",
+       "answer": "Those",
+       "marks": 1,
+       "trigger": "house"
+      }
+     ],
+     "options": [
+      "This",
+      "That",
+      "These",
+      "Those"
+     ]
+    }
+   ],
+   "pair": "HW1"
+  },
+  {
+   "name": "HW1",
+   "type": "worksheet",
+   "stated_total": 10,
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "______ are books. (near, many)",
+       "answer": "These",
+       "marks": 1,
+       "trigger": "book"
+      },
+      {
+       "text": "______ is a bird. (far, one)",
+       "answer": "That",
+       "marks": 1,
+       "trigger": "bird"
+      },
+      {
+       "text": "______ is a bag. (near, one)",
+       "answer": "This",
+       "marks": 1,
+       "trigger": "bag"
+      },
+      {
+       "text": "______ are chairs. (far, many)",
+       "answer": "Those",
+       "marks": 1,
+       "trigger": "chair"
+      },
+      {
+       "text": "______ are pencils. (near, many)",
+       "answer": "These",
+       "marks": 1,
+       "trigger": "pencil"
+      },
+      {
+       "text": "______ is a tree. (far, one)",
+       "answer": "That",
+       "marks": 1,
+       "trigger": "tree"
+      },
+      {
+       "text": "______ is a door. (near, one)",
+       "answer": "This",
+       "marks": 1,
+       "trigger": "door"
+      },
+      {
+       "text": "______ are cows. (far, many)",
+       "answer": "Those",
+       "marks": 1,
+       "trigger": "cow"
+      },
+      {
+       "text": "______ is a wall. (far, one)",
+       "answer": "That",
+       "marks": 1,
+       "trigger": "wall"
+      },
+      {
+       "text": "______ are ponds. (near, many)",
+       "answer": "These",
+       "marks": 1,
+       "trigger": "pond"
+      }
+     ],
+     "options": [
+      "This",
+      "That",
+      "These",
+      "Those"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "CW2",
+   "type": "worksheet",
+   "stated_total": 10,
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "Yusuf",
+       "answer": "he",
+       "marks": 1
+      },
+      {
+       "text": "Aisha",
+       "answer": "she",
+       "marks": 1
+      },
+      {
+       "text": "a cat",
+       "answer": "it",
+       "marks": 1,
+       "trigger": "cat"
+      },
+      {
+       "text": "father and mother",
+       "answer": "they",
+       "marks": 1,
+       "trigger": "father"
+      },
+      {
+       "text": "Yusuf and I",
+       "answer": "we",
+       "marks": 1
+      },
+      {
+       "text": "Maryam",
+       "answer": "she",
+       "marks": 1
+      },
+      {
+       "text": "Abdullah",
+       "answer": "he",
+       "marks": 1
+      },
+      {
+       "text": "birds",
+       "answer": "they",
+       "marks": 1,
+       "trigger": "bird"
+      },
+      {
+       "text": "Aisha and I",
+       "answer": "we",
+       "marks": 1
+      },
+      {
+       "text": "a tree",
+       "answer": "it",
+       "marks": 1,
+       "trigger": "tree"
+      }
+     ],
+     "options": [
+      "he",
+      "she",
+      "it",
+      "they",
+      "we"
+     ]
+    }
+   ],
+   "pair": "HW2"
+  },
+  {
+   "name": "HW2",
+   "type": "worksheet",
+   "stated_total": 10,
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "a bird",
+       "answer": "it",
+       "marks": 1,
+       "trigger": "bird"
+      },
+      {
+       "text": "Raima",
+       "answer": "she",
+       "marks": 1
+      },
+      {
+       "text": "Yusuf and Nusair",
+       "answer": "they",
+       "marks": 1
+      },
+      {
+       "text": "Abdur Rahim",
+       "answer": "he",
+       "marks": 1
+      },
+      {
+       "text": "Maryam and I",
+       "answer": "we",
+       "marks": 1
+      },
+      {
+       "text": "cows",
+       "answer": "they",
+       "marks": 1,
+       "trigger": "cow"
+      },
+      {
+       "text": "Fatima",
+       "answer": "she",
+       "marks": 1
+      },
+      {
+       "text": "Nusair and I",
+       "answer": "we",
+       "marks": 1
+      },
+      {
+       "text": "teacher",
+       "answer": "he",
+       "marks": 1,
+       "trigger": "teacher"
+      },
+      {
+       "text": "a bag",
+       "answer": "it",
+       "marks": 1,
+       "trigger": "bag"
+      }
+     ],
+     "options": [
+      "he",
+      "she",
+      "it",
+      "they",
+      "we"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "CW3",
+   "type": "worksheet",
+   "stated_total": 10,
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "**Abdullah** reads a book.",
+       "answer": "He",
+       "marks": 1
+      },
+      {
+       "text": "**Aisha** has a pen.",
+       "answer": "She",
+       "marks": 1
+      },
+      {
+       "text": "The **cat** is on the mat.",
+       "answer": "It",
+       "marks": 1,
+       "trigger": "cat"
+      },
+      {
+       "text": "**Yusuf and Nusair** play in the field.",
+       "answer": "They",
+       "marks": 1
+      },
+      {
+       "text": "**Nusair and I** read the Quran.",
+       "answer": "We",
+       "marks": 1
+      },
+      {
+       "text": "**Maryam** is a good student.",
+       "answer": "She",
+       "marks": 1
+      },
+      {
+       "text": "**Abdur Rahim** sits on the chair.",
+       "answer": "He",
+       "marks": 1
+      },
+      {
+       "text": "The **cows** are in the field.",
+       "answer": "They",
+       "marks": 1,
+       "trigger": "cow"
+      },
+      {
+       "text": "The **book** is on the table.",
+       "answer": "It",
+       "marks": 1,
+       "trigger": "book"
+      },
+      {
+       "text": "**Yusuf and I** go to school.",
+       "answer": "We",
+       "marks": 1
+      }
+     ],
+     "options": [
+      "He",
+      "She",
+      "It",
+      "They",
+      "We"
+     ]
+    }
+   ],
+   "pair": "HW3"
+  },
+  {
+   "name": "HW3",
+   "type": "worksheet",
+   "stated_total": 10,
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "The **cow** is in the field.",
+       "answer": "It",
+       "marks": 1,
+       "trigger": "cow"
+      },
+      {
+       "text": "**Raima** has a bag.",
+       "answer": "She",
+       "marks": 1
+      },
+      {
+       "text": "**Fatima and Raima** are sisters.",
+       "answer": "They",
+       "marks": 1,
+       "trigger": "sister"
+      },
+      {
+       "text": "**Nusair** sits on the chair.",
+       "answer": "He",
+       "marks": 1
+      },
+      {
+       "text": "**Abdullah and I** look at the board.",
+       "answer": "We",
+       "marks": 1
+      },
+      {
+       "text": "**Aisha** is a good girl.",
+       "answer": "She",
+       "marks": 1
+      },
+      {
+       "text": "The **birds** are in the tree.",
+       "answer": "They",
+       "marks": 1,
+       "trigger": "bird"
+      },
+      {
+       "text": "**Abdur Rahim** looks at the door.",
+       "answer": "He",
+       "marks": 1
+      },
+      {
+       "text": "**Fatima and I** sit on the chair.",
+       "answer": "We",
+       "marks": 1
+      },
+      {
+       "text": "The **bag** is on the chair.",
+       "answer": "It",
+       "marks": 1,
+       "trigger": "bag"
+      }
+     ],
+     "options": [
+      "He",
+      "She",
+      "It",
+      "They",
+      "We"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "CW4",
+   "type": "worksheet",
+   "stated_total": 10,
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "Yusuf reads the Quran.",
+       "answer": "He reads the Quran.",
+       "marks": 1
+      },
+      {
+       "text": "Aisha has a white cat.",
+       "answer": "She has a white cat.",
+       "marks": 1,
+       "trigger": "cat"
+      },
+      {
+       "text": "The tree has green leaves.",
+       "answer": "It has green leaves.",
+       "marks": 1,
+       "trigger": "tree"
+      },
+      {
+       "text": "Nusair and Abdullah play in the field.",
+       "answer": "They play in the field.",
+       "marks": 1
+      },
+      {
+       "text": "Maryam is a good girl.",
+       "answer": "She is a good girl.",
+       "marks": 1
+      },
+      {
+       "text": "The bird sits on the wall.",
+       "answer": "It sits on the wall.",
+       "marks": 1,
+       "trigger": "bird"
+      },
+      {
+       "text": "Abdur Rahim has a big bag.",
+       "answer": "He has a big bag.",
+       "marks": 1
+      },
+      {
+       "text": "Raima and Fatima are sisters.",
+       "answer": "They are sisters.",
+       "marks": 1,
+       "trigger": "sister"
+      },
+      {
+       "text": "The bird is in the tree.",
+       "answer": "It is in the tree.",
+       "marks": 1,
+       "trigger": "bird"
+      },
+      {
+       "text": "Abdullah looks at the board.",
+       "answer": "He looks at the board.",
+       "marks": 1
+      }
+     ]
+    }
+   ],
+   "pair": "HW4"
+  },
+  {
+   "name": "HW4",
+   "type": "worksheet",
+   "stated_total": 10,
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "Abdullah prays Fajr salah.",
+       "answer": "He prays Fajr salah.",
+       "marks": 1
+      },
+      {
+       "text": "Fatima and Raima are two sisters.",
+       "answer": "They are two sisters.",
+       "marks": 1,
+       "trigger": "sister"
+      },
+      {
+       "text": "Aisha has a red pen.",
+       "answer": "She has a red pen.",
+       "marks": 1,
+       "trigger": "pen"
+      },
+      {
+       "text": "The cat has a small nose.",
+       "answer": "It has a small nose.",
+       "marks": 1,
+       "trigger": "cat"
+      },
+      {
+       "text": "Abdur Rahim sits on the chair.",
+       "answer": "He sits on the chair.",
+       "marks": 1
+      },
+      {
+       "text": "The birds are in the forest.",
+       "answer": "They are in the forest.",
+       "marks": 1,
+       "trigger": "bird"
+      },
+      {
+       "text": "Maryam has a clean bag.",
+       "answer": "She has a clean bag.",
+       "marks": 1,
+       "trigger": "bag"
+      },
+      {
+       "text": "The pen is on the table.",
+       "answer": "It is on the table.",
+       "marks": 1,
+       "trigger": "pen"
+      },
+      {
+       "text": "Yusuf and Abdur Rahim read books.",
+       "answer": "They read books.",
+       "marks": 1
+      },
+      {
+       "text": "The cow has a brown head.",
+       "answer": "It has a brown head.",
+       "marks": 1,
+       "trigger": "cow"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "PT",
+   "type": "pt",
+   "stated_total": 27,
+   "parts": [
+    {
+     "name": "A",
+     "marks": 5,
+     "items": []
+    },
+    {
+     "name": "B",
+     "marks": 5,
+     "items": []
+    },
+    {
+     "name": "C",
+     "marks": 3,
+     "items": []
+    },
+    {
+     "name": "D",
+     "marks": 2,
+     "items": []
+    },
+    {
+     "name": "E",
+     "marks": 4,
+     "items": []
+    },
+    {
+     "name": "F",
+     "items": [
+      {
+       "text": "______ is a chair. (far, one)",
+       "answer": "That",
+       "marks": 1,
+       "trigger": "chair"
+      },
+      {
+       "text": "______ are birds. (near, many)",
+       "answer": "These",
+       "marks": 1,
+       "trigger": "bird"
+      },
+      {
+       "text": "______ is a pen. (near, one)",
+       "answer": "This",
+       "marks": 1,
+       "trigger": "pen"
+      },
+      {
+       "text": "______ are cows. (far, many)",
+       "answer": "Those",
+       "marks": 1,
+       "trigger": "cow"
+      }
+     ],
+     "options": [
+      "This",
+      "That",
+      "These",
+      "Those"
+     ]
+    },
+    {
+     "name": "G",
+     "items": [
+      {
+       "text": "Fatima has a red pen.",
+       "answer": "She has a red pen.",
+       "marks": 1,
+       "trigger": "pen"
+      },
+      {
+       "text": "Nusair and Yusuf go to the field.",
+       "answer": "They go to the field.",
+       "marks": 1
+      },
+      {
+       "text": "The frog is on the leaf.",
+       "answer": "It is on the leaf.",
+       "marks": 1,
+       "trigger": "frog"
+      },
+      {
+       "text": "Father looks at the board.",
+       "answer": "He looks at the board.",
+       "marks": 1,
+       "trigger": "father"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "dictation": [
+  "chair",
+  "table",
+  "door",
+  "question",
+  "wall"
+ ],
+ "pt_self_try_words": [
+  "sister",
+  "goes",
+  "school"
+ ],
+ "demo_box_words": [
+  "brother",
+  "father",
+  "aisha",
+  "maryam",
+  "duck",
+  "pond"
+ ]
+}
