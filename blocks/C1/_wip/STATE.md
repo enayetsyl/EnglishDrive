@@ -40,3 +40,27 @@ this repo's audit suite, and does not satisfy CLAUDE.md §4 — which also requi
 ## Next step
 
 Build `_wip/C1B06_manifest.json` from the imported master, run the audit suite, and bring the PT-overlap waiver (pending item 2) to the Principal as a ruling before anything is promoted.
+
+---
+
+## Audit run 1 — 09.08.26 · `audits/reports/C1B06_audit_2026-08-09.txt`
+
+Manifest `_wip/C1B06_manifest.json` built from the master (9 sheets, 88 items). **First script run in this repo.**
+**10 gates PASS · 2 FAIL** — result: FAILURES PRESENT, do not finalize.
+
+**FAIL 1 — PT zero-overlap (2 items).** PT Part F reuses two worksheet items verbatim:
+`______ is a pen. (near, one)` = CW-1 #9 · `______ are cows. (far, many)` = HW-1 #8.
+The master waives Parts F/G overlap on "Block 4/B5 precedent"; that waiver is narrower than CLAUDE.md §4 as
+tightened by PD-036/PD-038 and has **no logged PD**. Either rule the waiver or re-author the two items.
+
+**FAIL 2 — cross-sheet repetition (PD-036).** `Abdur Rahim sits on the chair.` appears on **CW-3 #7 and HW-4 #5**.
+The master's own consistency check called this "permitted — differs in task"; under PD-036/PD-038 (threshold 0) it is a FAIL.
+
+**Passed:** de-patterning (10 sets) · CW↔HW overlap (20/30/30/0%) · within-sheet duplicates · option lists (7 parts) ·
+HW key transcribability · rehearsal disjointness · mark totals (8×10/10, PT 27/27) · sacred-word · values lexicon ·
+held-word (59 targets vs 82 pool words, 0 misses).
+
+**Manifest limitation to note.** Items whose graded target is a house-character name (*Yusuf → he*) carry **no `trigger`** —
+the schema has no instrument for Charter §H.5 roster names as graded antecedents (File 2 holds no proper nouns; PD-009
+exemplars and PD-012 block-local are both the wrong instrument). 29 of 88 items are therefore outside the held-word gate.
+Flagged for a schema ruling, not worked around.

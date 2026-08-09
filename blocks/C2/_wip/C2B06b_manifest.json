@@ -1,0 +1,1735 @@
+{
+ "block_id": "C2B06b",
+ "build_week": 6,
+ "exemplars": [],
+ "block_local": [
+  "field"
+ ],
+ "sheets": [
+  {
+   "name": "CW1",
+   "type": "worksheet",
+   "stated_total": 32,
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "Fatima ( has / have ) a story book.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "Porshi ( has / have ) a clock.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "Aisha and Raima ( has / have ) two clocks.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "Raima ( has / have ) a pot.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "Maryam ( has / have ) a nail.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "The boys ( has / have ) two books.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "The bird ( has / have ) two eyes.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "Jesmin ( has / have ) a plant.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "The boys ( has / have ) two hands.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "Nusair ( has / have ) a seed.",
+       "marks": 1,
+       "answer": "has"
+      }
+     ],
+     "options": [
+      "has",
+      "have"
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "Porshi ____ a plant.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "Nusair and Yusuf ____ two cars.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "Yusuf ____ a jar.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "My mother ____ a plant.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "They ____ a car.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "My brother ____ a home.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "Rabab ____ a pot.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "The girls ____ two hands.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "The boy ____ a nail.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "We ____ our books.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "Rabab ____ a seed.",
+       "marks": 1,
+       "answer": "has"
+      }
+     ],
+     "options": [
+      "has",
+      "have"
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "The hens have two eyes.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "Raima has a seed.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "The hens have eggs.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "Abdullah has a car.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "We have our books.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "Aisha has two hands.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "Yusuf and Nusair have two pots.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "Nusair has a jar.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "My mother and father have two books.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "The bird has two feet.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "They have two cars.",
+       "marks": 1,
+       "answer": "have"
+      }
+     ],
+     "options": [
+      "has",
+      "have"
+     ]
+    }
+   ],
+   "pair": "HW1"
+  },
+  {
+   "name": "HW1",
+   "type": "worksheet",
+   "stated_total": 26,
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "The cow ( has / have ) two eyes.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "Raima and Fatima ( has / have ) two seeds.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "The plant ( has / have ) a leaf.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "My brother and sister ( has / have ) two books.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "My brother ( has / have ) a car.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "The children ( has / have ) their books.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "The hen ( has / have ) two feet.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "Aisha and Maryam ( has / have ) two jars.",
+       "marks": 1,
+       "answer": "have"
+      }
+     ],
+     "options": [
+      "has",
+      "have"
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "Fatima ____ a jar.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "They ____ two clocks.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "The hen ____ an egg.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "The girls ____ two jars.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "My sister ____ a jar.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "The birds ____ seeds.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "Yusuf ____ a book.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "The trees ____ leaves.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "The tree ____ a leaf.",
+       "marks": 1,
+       "answer": "has"
+      }
+     ],
+     "options": [
+      "has",
+      "have"
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "The children have their homework.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "We have a home.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "The birds have two feet.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "The tree has leaves.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "Yusuf and Abdullah have two books.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "Aisha has a story book.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "Porshi and Jesmin have two pots.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "The girl has a clock.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "Fatima and Jesmin have two books.",
+       "marks": 1,
+       "answer": "have"
+      }
+     ],
+     "options": [
+      "has",
+      "have"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "CW2",
+   "type": "worksheet",
+   "stated_total": 34,
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "Nusair ( has / have ) a car.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "The hens ( has / have ) two eyes.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "The hen ( has / have ) an egg.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "They ( has / have ) a car.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "Fatima ( has / have ) a story book.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "The boys ( has / have ) two books.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "Rabab ( has / have ) a seed.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "They ( has / have ) a home.",
+       "marks": 1,
+       "answer": "have"
+      }
+     ],
+     "options": [
+      "has",
+      "have"
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "Fatima ____ a jar.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "The children ____ their books.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "The girl ____ a clock.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "Yusuf and Abdullah ____ two books.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "The hen ____ two feet.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "We ____ our books.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "My sister ____ a jar.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "Aisha and Raima ____ two clocks.",
+       "marks": 1,
+       "answer": "have"
+      }
+     ],
+     "options": [
+      "has",
+      "have"
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "Fatima looks at the rainbow.",
+       "answer": "looks at the rainbow",
+       "marks": 1
+      },
+      {
+       "text": "Yusuf brushes his teeth.",
+       "answer": "brushes his teeth",
+       "marks": 1
+      },
+      {
+       "text": "Aisha draws a triangle.",
+       "answer": "draws a triangle",
+       "marks": 1
+      },
+      {
+       "text": "The cows eat grass in the field.",
+       "answer": "eat grass in the field",
+       "marks": 1
+      },
+      {
+       "text": "The boys play in the field.",
+       "answer": "play in the field",
+       "marks": 1
+      },
+      {
+       "text": "Abdullah looks at the clock.",
+       "answer": "looks at the clock",
+       "marks": 1
+      },
+      {
+       "text": "The insects live in the grass.",
+       "answer": "live in the grass",
+       "marks": 1
+      },
+      {
+       "text": "My brother draws a car.",
+       "answer": "draws a car",
+       "marks": 1
+      },
+      {
+       "text": "The birds fly over the bridge.",
+       "answer": "fly over the bridge",
+       "marks": 1
+      },
+      {
+       "text": "My mother waits at home.",
+       "answer": "waits at home",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "D",
+     "items": [
+      {
+       "text": "Nusair has two eyes.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "Yusuf and Nusair have two pots.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "The tree has leaves.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "The birds have seeds.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "My brother has a home.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "The girls have two jars.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "Porshi has a clock.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "We have two jars.",
+       "marks": 1,
+       "answer": "have"
+      }
+     ],
+     "options": [
+      "has",
+      "have"
+     ]
+    }
+   ],
+   "pair": "HW2"
+  },
+  {
+   "name": "HW2",
+   "type": "worksheet",
+   "stated_total": 25,
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "Raima ( has / have ) a pot.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "The birds ( has / have ) two feet.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "The tree ( has / have ) a leaf.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "They ( has / have ) two cars.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "Raima ( has / have ) a seed.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "The trees ( has / have ) leaves.",
+       "marks": 1,
+       "answer": "have"
+      }
+     ],
+     "options": [
+      "has",
+      "have"
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "Aisha ____ two hands.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "The hens ____ eggs.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "Jesmin ____ a story book.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "Aisha and Maryam ____ two jars.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "Jesmin ____ a book.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "The girls ____ two hands.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "The frog ____ two eyes.",
+       "marks": 1,
+       "answer": "has"
+      }
+     ],
+     "options": [
+      "has",
+      "have"
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "My brother goes to school.",
+       "answer": "goes to school",
+       "marks": 1
+      },
+      {
+       "text": "The children listen to the story.",
+       "answer": "listen to the story",
+       "marks": 1
+      },
+      {
+       "text": "The frogs live in the pond.",
+       "answer": "live in the pond",
+       "marks": 1
+      },
+      {
+       "text": "Raima points at the clock.",
+       "answer": "points at the clock",
+       "marks": 1
+      },
+      {
+       "text": "Nusair draws a rectangle.",
+       "answer": "draws a rectangle",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "D",
+     "items": [
+      {
+       "text": "Raima and Fatima have two seeds.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "Yusuf has a jar.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "The frogs have two eyes.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "Aisha has a story book.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "Fatima and Jesmin have two books.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "The bird has two feet.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "The boys have two hands.",
+       "marks": 1,
+       "answer": "have"
+      }
+     ],
+     "options": [
+      "has",
+      "have"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "CW3",
+   "type": "worksheet",
+   "stated_total": 34,
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "The girls ( has / have ) two jars.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "Fatima and Jesmin ( has / have ) two books.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "Raima ( has / have ) a pot.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "The children ( has / have ) their homework.",
+       "marks": 1,
+       "answer": "have"
+      }
+     ],
+     "options": [
+      "has",
+      "have"
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "Yusuf and Nusair ____ two pots.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "The bird ____ two feet.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "We ____ two jars.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "My brother and sister ____ two books.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "The bird ____ two eyes.",
+       "marks": 1,
+       "answer": "has"
+      }
+     ],
+     "options": [
+      "has",
+      "have"
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "Jesmin draws a rainbow.",
+       "answer": "draws a rainbow",
+       "marks": 1
+      },
+      {
+       "text": "Abdur Rahim reads the book.",
+       "answer": "reads the book",
+       "marks": 1
+      },
+      {
+       "text": "The children listen to the story.",
+       "answer": "listen to the story",
+       "marks": 1
+      },
+      {
+       "text": "Raima opens the jar.",
+       "answer": "opens the jar",
+       "marks": 1
+      },
+      {
+       "text": "The boys play in the field.",
+       "answer": "play in the field",
+       "marks": 1
+      },
+      {
+       "text": "Maryam reads a book.",
+       "answer": "reads a book",
+       "marks": 1
+      },
+      {
+       "text": "Rabab draws a square.",
+       "answer": "draws a square",
+       "marks": 1
+      },
+      {
+       "text": "The birds fly over the bridge.",
+       "answer": "fly over the bridge",
+       "marks": 1
+      },
+      {
+       "text": "Nusair counts the stones.",
+       "answer": "counts the stones",
+       "marks": 1
+      },
+      {
+       "text": "The sun gives us light.",
+       "answer": "gives us light",
+       "marks": 1
+      },
+      {
+       "text": "The frog sits on a stone.",
+       "answer": "sits on a stone",
+       "marks": 1
+      },
+      {
+       "text": "The cow stands near the tree.",
+       "answer": "stands near the tree",
+       "marks": 1
+      },
+      {
+       "text": "My sister makes food.",
+       "answer": "makes food",
+       "marks": 1
+      },
+      {
+       "text": "Porshi opens the book.",
+       "answer": "opens the book",
+       "marks": 1
+      },
+      {
+       "text": "My brother draws a car.",
+       "answer": "draws a car",
+       "marks": 1
+      },
+      {
+       "text": "The children brush their teeth.",
+       "answer": "brush their teeth",
+       "marks": 1
+      },
+      {
+       "text": "The frogs sit near the water.",
+       "answer": "sit near the water",
+       "marks": 1
+      },
+      {
+       "text": "Yusuf brushes his teeth.",
+       "answer": "brushes his teeth",
+       "marks": 1
+      },
+      {
+       "text": "The insect sits on a leaf.",
+       "answer": "sits on a leaf",
+       "marks": 1
+      },
+      {
+       "text": "My mother waits at home.",
+       "answer": "waits at home",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "D",
+     "items": [
+      {
+       "text": "The birds have seeds.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "Fatima has a story book.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "They have a home.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "My brother has a home.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "The trees have leaves.",
+       "marks": 1,
+       "answer": "have"
+      }
+     ],
+     "options": [
+      "has",
+      "have"
+     ]
+    }
+   ],
+   "pair": "HW3"
+  },
+  {
+   "name": "HW3",
+   "type": "worksheet",
+   "stated_total": 28,
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "The girl ( has / have ) a jar.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "Raima ( has / have ) a seed.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "The hens ( has / have ) eggs.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "Jesmin ( has / have ) a story book.",
+       "marks": 1,
+       "answer": "has"
+      }
+     ],
+     "options": [
+      "has",
+      "have"
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "My father ____ a home.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "Porshi and Jesmin ____ two pots.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "The girl ____ a clock.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "Nusair ____ two eyes.",
+       "marks": 1,
+       "answer": "has"
+      }
+     ],
+     "options": [
+      "has",
+      "have"
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "The bird waits on the tree.",
+       "answer": "waits on the tree",
+       "marks": 1
+      },
+      {
+       "text": "The boys count the pebbles.",
+       "answer": "count the pebbles",
+       "marks": 1
+      },
+      {
+       "text": "Aisha draws a triangle.",
+       "answer": "draws a triangle",
+       "marks": 1
+      },
+      {
+       "text": "The insects live in the grass.",
+       "answer": "live in the grass",
+       "marks": 1
+      },
+      {
+       "text": "The frog looks at the pond.",
+       "answer": "looks at the pond",
+       "marks": 1
+      },
+      {
+       "text": "My brother goes to school.",
+       "answer": "goes to school",
+       "marks": 1
+      },
+      {
+       "text": "My mother makes breakfast.",
+       "answer": "makes breakfast",
+       "marks": 1
+      },
+      {
+       "text": "The hen sits on the egg.",
+       "answer": "sits on the egg",
+       "marks": 1
+      },
+      {
+       "text": "The tree grows in the forest.",
+       "answer": "grows in the forest",
+       "marks": 1
+      },
+      {
+       "text": "My father rides in the car.",
+       "answer": "rides in the car",
+       "marks": 1
+      },
+      {
+       "text": "My father goes to the village.",
+       "answer": "goes to the village",
+       "marks": 1
+      },
+      {
+       "text": "Abdullah looks at the clock.",
+       "answer": "looks at the clock",
+       "marks": 1
+      },
+      {
+       "text": "The boys go to school.",
+       "answer": "go to school",
+       "marks": 1
+      },
+      {
+       "text": "The cows eat grass in the field.",
+       "answer": "eat grass in the field",
+       "marks": 1
+      },
+      {
+       "text": "Jesmin reads the story.",
+       "answer": "reads the story",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "D",
+     "items": [
+      {
+       "text": "The children have their books.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "Yusuf has a book.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "Yusuf and Abdullah have two books.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "The hen has two feet.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "The girls have two hands.",
+       "marks": 1,
+       "answer": "have"
+      }
+     ],
+     "options": [
+      "has",
+      "have"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "CW4",
+   "type": "worksheet",
+   "stated_total": 38,
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "My sister ( has / have ) a jar.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "Rabab ( has / have ) a seed.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "The birds ( has / have ) two feet.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "Fatima ( has / have ) a story book.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "The frog ( has / have ) two eyes.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "My brother and sister ( has / have ) two books.",
+       "marks": 1,
+       "answer": "have"
+      }
+     ],
+     "options": [
+      "has",
+      "have"
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "Raima ____ a pot.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "Maryam ____ a book.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "The children ____ their homework.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "Porshi ____ a plant.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "Aisha and Raima ____ two clocks.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "Abdullah ____ a friend.",
+       "marks": 1,
+       "answer": "has"
+      }
+     ],
+     "options": [
+      "has",
+      "have"
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "My mother makes breakfast.",
+       "answer": "makes breakfast",
+       "marks": 1
+      },
+      {
+       "text": "The frogs live in the pond.",
+       "answer": "live in the pond",
+       "marks": 1
+      },
+      {
+       "text": "Abdur Rahim reads the book.",
+       "answer": "reads the book",
+       "marks": 1
+      },
+      {
+       "text": "The birds fly over the bridge.",
+       "answer": "fly over the bridge",
+       "marks": 1
+      },
+      {
+       "text": "The bird waits on the tree.",
+       "answer": "waits on the tree",
+       "marks": 1
+      },
+      {
+       "text": "My brother draws a car.",
+       "answer": "draws a car",
+       "marks": 1
+      },
+      {
+       "text": "Nusair counts the stones.",
+       "answer": "counts the stones",
+       "marks": 1
+      },
+      {
+       "text": "Maryam reads a book.",
+       "answer": "reads a book",
+       "marks": 1
+      },
+      {
+       "text": "Fatima looks at the rainbow.",
+       "answer": "looks at the rainbow",
+       "marks": 1
+      },
+      {
+       "text": "The tree grows near the pond.",
+       "answer": "grows near the pond",
+       "marks": 1
+      },
+      {
+       "text": "Jesmin draws a rainbow.",
+       "answer": "draws a rainbow",
+       "marks": 1
+      },
+      {
+       "text": "My father rides in the car.",
+       "answer": "rides in the car",
+       "marks": 1
+      },
+      {
+       "text": "Raima points at the clock.",
+       "answer": "points at the clock",
+       "marks": 1
+      },
+      {
+       "text": "The cows eat grass in the field.",
+       "answer": "eat grass in the field",
+       "marks": 1
+      },
+      {
+       "text": "My sister makes food.",
+       "answer": "makes food",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "D",
+     "items": [
+      {
+       "text": "The birds have seeds.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "My sister has a clock.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "Raima and Fatima have two seeds.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "My brother has a car.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "We have two jars.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "Maryam has a clock.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "The girls have two hands.",
+       "marks": 1,
+       "answer": "have"
+      }
+     ],
+     "options": [
+      "has",
+      "have"
+     ]
+    },
+    {
+     "name": "E",
+     "marks": 4,
+     "items": []
+    }
+   ],
+   "pair": "HW4"
+  },
+  {
+   "name": "HW4",
+   "type": "worksheet",
+   "stated_total": 28,
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "They ( has / have ) a home.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "The hens ( has / have ) eggs.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "Fatima ( has / have ) a jar.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "My brother and sister ( has / have ) two seeds.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "The boys ( has / have ) two books.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "The boy ( has / have ) a nail.",
+       "marks": 1,
+       "answer": "has"
+      }
+     ],
+     "options": [
+      "has",
+      "have"
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "The frogs ____ two eyes.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "Yusuf and Nusair ____ two pots.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "The hen ____ an egg.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "Aisha and Maryam ____ two jars.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "My mother ____ a plant.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "Nusair and Yusuf ____ two cars.",
+       "marks": 1,
+       "answer": "have"
+      }
+     ],
+     "options": [
+      "has",
+      "have"
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "The bird sits on the bridge.",
+       "answer": "sits on the bridge",
+       "marks": 1
+      },
+      {
+       "text": "Porshi opens the book.",
+       "answer": "opens the book",
+       "marks": 1
+      },
+      {
+       "text": "The tree grows in the forest.",
+       "answer": "grows in the forest",
+       "marks": 1
+      },
+      {
+       "text": "Jesmin reads the story.",
+       "answer": "reads the story",
+       "marks": 1
+      },
+      {
+       "text": "The sun gives us light.",
+       "answer": "gives us light",
+       "marks": 1
+      },
+      {
+       "text": "The frog sits on a stone.",
+       "answer": "sits on a stone",
+       "marks": 1
+      },
+      {
+       "text": "Aisha draws a triangle.",
+       "answer": "draws a triangle",
+       "marks": 1
+      },
+      {
+       "text": "The children play in the morning.",
+       "answer": "play in the morning",
+       "marks": 1
+      },
+      {
+       "text": "Yusuf brushes his teeth.",
+       "answer": "brushes his teeth",
+       "marks": 1
+      },
+      {
+       "text": "The boys count the pebbles.",
+       "answer": "count the pebbles",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "D",
+     "items": [
+      {
+       "text": "The girl has a clock.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "Fatima and Jesmin have two books.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "Yusuf has a jar.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "The children have their books.",
+       "marks": 1,
+       "answer": "have"
+      },
+      {
+       "text": "The tree has leaves.",
+       "marks": 1,
+       "answer": "has"
+      },
+      {
+       "text": "Yusuf and Abdullah have two books.",
+       "marks": 1,
+       "answer": "have"
+      }
+     ],
+     "options": [
+      "has",
+      "have"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "PT",
+   "type": "pt",
+   "stated_total": 30,
+   "parts": [
+    {
+     "name": "A",
+     "marks": 10,
+     "items": []
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "The insect ___ on a leaf.",
+       "answer": "sits",
+       "marks": 0.5
+      },
+      {
+       "text": "Aisha ___ her name.",
+       "answer": "writes",
+       "marks": 0.5
+      },
+      {
+       "text": "The cows ___ grass in the field.",
+       "answer": "eat",
+       "marks": 0.5
+      },
+      {
+       "text": "My mother ___ at home.",
+       "answer": "waits",
+       "marks": 0.5
+      },
+      {
+       "text": "Porshi ___ the book.",
+       "answer": "opens",
+       "marks": 0.5
+      },
+      {
+       "text": "The boys ___ to school.",
+       "answer": "go",
+       "marks": 0.5
+      },
+      {
+       "text": "Abdullah ___ at the clock.",
+       "answer": "looks",
+       "marks": 0.5
+      },
+      {
+       "text": "Raima ___ at the board.",
+       "answer": "points",
+       "marks": 0.5
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "I ___ in the classroom.",
+       "answer": "am",
+       "marks": 0.5
+      },
+      {
+       "text": "The frog ___ on a stone.",
+       "answer": "is",
+       "marks": 0.5
+      },
+      {
+       "text": "We ___ near the bridge.",
+       "answer": "are",
+       "marks": 0.5
+      },
+      {
+       "text": "Fatima ___ my sister.",
+       "answer": "is",
+       "marks": 0.5
+      },
+      {
+       "text": "The birds ___ in the tree.",
+       "answer": "are",
+       "marks": 0.5
+      },
+      {
+       "text": "Yusuf ___ at school.",
+       "answer": "is",
+       "marks": 0.5
+      },
+      {
+       "text": "You ___ my friend.",
+       "answer": "are",
+       "marks": 0.5
+      },
+      {
+       "text": "The children ___ in the village.",
+       "answer": "are",
+       "marks": 0.5
+      }
+     ],
+     "options": [
+      "am",
+      "is",
+      "are"
+     ]
+    },
+    {
+     "name": "D",
+     "items": [
+      {
+       "text": "Abdur Rahim ____ two feet.",
+       "answer": "has",
+       "marks": 0.5
+      },
+      {
+       "text": "The boys ____ two feet.",
+       "answer": "have",
+       "marks": 0.5
+      },
+      {
+       "text": "The boy ____ a book.",
+       "answer": "has",
+       "marks": 0.5
+      },
+      {
+       "text": "Yusuf and Abdullah ____ two books.",
+       "answer": "have",
+       "marks": 0.5
+      },
+      {
+       "text": "Maryam ____ a book.",
+       "answer": "has",
+       "marks": 0.5
+      },
+      {
+       "text": "Aisha and Maryam ____ two jars.",
+       "answer": "have",
+       "marks": 0.5
+      },
+      {
+       "text": "Abdullah ____ a friend.",
+       "answer": "has",
+       "marks": 0.5
+      },
+      {
+       "text": "Raima and Fatima ____ two seeds.",
+       "answer": "have",
+       "marks": 0.5
+      }
+     ],
+     "options": [
+      "has",
+      "have"
+     ]
+    },
+    {
+     "name": "E",
+     "items": [
+      {
+       "text": "Fatima writes on the board.",
+       "answer": "writes on the board",
+       "marks": 1
+      },
+      {
+       "text": "The cow eats grass.",
+       "answer": "eats grass",
+       "marks": 1
+      },
+      {
+       "text": "The birds live in the tree.",
+       "answer": "live in the tree",
+       "marks": 1
+      },
+      {
+       "text": "Abdullah counts the seeds.",
+       "answer": "counts the seeds",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "F",
+     "marks": 4,
+     "items": []
+    }
+   ]
+  }
+ ],
+ "dictation": [
+  "come",
+  "give",
+  "help",
+  "show",
+  "brush",
+  "point",
+  "grow",
+  "ride",
+  "village",
+  "bridge"
+ ],
+ "pt_self_try_words": [
+  "rabab",
+  "has",
+  "have"
+ ],
+ "demo_box_words": [
+  "my",
+  "mother",
+  "the",
+  "birds"
+ ]
+}

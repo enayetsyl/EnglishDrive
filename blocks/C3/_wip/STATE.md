@@ -53,3 +53,48 @@ should be cut), or they are block-local declarations under **PD-012 as extended 
 ## Next step
 
 Get the BC-1 ruling, then build `_wip/C3B07_manifest.json` and run the audit suite.
+
+---
+
+## Audit run 1 — 09.08.26 · `audits/reports/C3B07_audit_2026-08-09.txt`
+
+Manifest `_wip/C3B07_manifest.json` parsed directly from the master (9 sheets, 255 items; every worksheet item matched
+to an answer-key entry with none missing). **First script run in this repo.** **8 gates PASS · 5 FAIL.**
+
+**FAIL 1 — cross-sheet repetition (PD-036): ~60 sentences on more than one sheet**, several on three or four —
+`We see a polluted river.` on **CW1, CW4, HW3 and the PT**; `Yusuf has a clean hand.` on CW1, CW2, CW3;
+`It is a joyful morning.` on HW1, HW2, HW4; `We see a good school.` on CW2, CW3, HW1. This is the block's dominant
+defect and needs a repetition pass on the scale of C4B06's (38 repeats → 0).
+
+**FAIL 2 — mark totals: PT computes 34.5 against a stated 34.** Part B is printed as *"[10 blanks × 0.5 = 5]"* but
+carries **11 blanks** (items 1, 6 and 8 each have two) — and the answer key supplies all 11. Either the paper loses a
+blank or the total becomes 34.5.
+
+**FAIL 3 — held-word: `big` is not in File 2** (4 graded items: CW1 A, HW2 A ×2, HW4 A). **This independently confirms
+BC-1** above — the master's bogus "PD-029, PD-030" citation was covering a word with no held status, while the header
+claims "all 29 pool adjectives held, no block-local set". The BC-1 ruling now has evidence behind it.
+
+**FAIL 4 — PT zero-overlap (3 items).** PT Part E reuses `We see a polluted river.` (CW4), `Porshi has two gardens.`
+(HW2) and `That hat is on the bed.` (HW3) verbatim.
+
+**FAIL 5 — de-patterning: PT Part F is a strict alternation** — adjective · verb · adjective · verb.
+
+**Passed:** CW↔HW positional overlap (0% on all four pairs) · within-sheet duplicates · option lists (5 parts) ·
+HW key transcribability (10 pairs) · rehearsal disjointness · sacred-word · values lexicon · one-defensible-answer.
+
+### Three findings no gate catches — human screens
+
+1. **⛔ Two conflicting answer keys for the same Thursday paper.** The key at *Answer Key → Performance Test* matches
+   the printed combined PT (Parts A–G, 34 marks). A **second, stale key** at the end of the file
+   (`Part B (passage) · Part C: cozy, her, this, old, red, some · Part D: 1. adjective 2. verb · Part E self-try`)
+   describes an **adjective-only paper that no longer exists**. A teacher could mark from the wrong one. **Delete or
+   supersede it** — needs your say-so, since deleting outside `.git/` requires it.
+2. **Off-roster character name.** **Rani** appears three times (CW2 Part C item 4; PT Part B item 6; PT Part C item 3).
+   Charter §H.5's roster is Yusuf, Abdullah, Nusair, Abdur Rahim, Aisha, Raima, Maryam, Fatima, Porshi, Rabab, Jesmin.
+2. **No worksheet prints a mark total.** Computed: CW1/HW1/CW2/HW2 33 · CW3/HW3 32 · CW4 36 · HW4 34. The header
+   predicts "30 CW / 28 HW". Nothing to check the key against until a total is printed on each sheet.
+
+**Manifest note:** number, possessive and demonstrative words (*two, three, four, many, some, few, all, my, his, her,
+our, their, this, that*) are declared as **PD-009 exemplars**, following the C5B07 precedent — the master calls them
+"carriers, not pool-held", but they are graded answers and the gate requires an instrument. Dual-job Part D items carry
+`clean` as the trigger, not the grammar label.

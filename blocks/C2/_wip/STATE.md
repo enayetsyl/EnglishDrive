@@ -103,3 +103,42 @@ option-list completeness (declare `options` on identify parts in the manifest) a
 HW-key transcribability (no HW part's key positionally identical to its CW part).
 See `governance/CORRECTIONS.md` and CLAUDE.md §5A — state applicable PATTERN/PROMOTED
 rules before drafting each sheet. Next free PD number: **PD-039**.
+
+---
+
+## Audit run 1 — 09.08.26 · `audits/reports/C2B06b_audit_2026-08-09.txt`
+
+Manifest `_wip/C2B06b_manifest.json` built from the master (9 sheets, 269 items; match items stored as the **formed**
+sentence). **First script run in this repo.** **8 gates PASS · 5 FAIL.**
+
+**FAIL 1 — de-patterning: 15 answer sets in strict has/have alternation.** CW1 C · HW1 A, B, C · CW2 A, B, D ·
+HW2 A, B, D · CW3 D · HW3 D · CW4 D · HW4 D · **PT Part D**. A pupil can score the whole part by alternating.
+The master states de-patterning was "programmatically verified (run ≤2, no strict alternation)" — the run-length rule
+holds; the alternation rule does not. This is the single largest defect in the block.
+
+**FAIL 2 — CW↔HW positional overlap over cap.** CW1↔HW1 **65%** · CW2↔HW2 **52%** (cap 35%).
+Plus identical item texts over the ≤2/day backstop: CW3↔HW3 **6**, CW4↔HW4 **3**.
+
+**FAIL 3 — PT zero-overlap: 4 Part D items** duplicate `CW2`, `CW4`, `CW4`, `HW4`.
+These are the reuses **PD-041(c) already waives** (binary-target held-scope exhaustion). Gate cannot see the waiver —
+record the ruling here and the FAIL is accounted for.
+
+**FAIL 4 — HW key transcribability.** CW3↔HW3 Part D keys are positionally identical (`have · has · have · has · have`).
+
+**FAIL 5 — cross-sheet repetition (PD-036): 29 sentences on more than one sheet**, several on three
+(`Fatima has a story book`, `Aisha draws a triangle`, `Fatima and Jesmin have two books`, `My brother draws a car`,
+`Aisha and Maryam ____ two jars`). Same defect class as C4B06's pre-promotion state.
+
+**Passed:** within-sheet duplicates · option lists (26 parts) · rehearsal disjointness · **mark totals (all nine sheets
+exact, PT 30/30)** · sacred-word · values lexicon · held-word · one-defensible-answer.
+
+### Two findings no gate catches — human screens
+
+1. **⛔ §H.9 attribution breach.** `The sun → gives us light` is a **graded match answer** in **CW3 Set 2** and
+   **HW4 Set 1**, and a sample answer in the Tuesday script (line 260). CLAUDE.md §5 names this exact pattern:
+   *"the sun gives…" → recast*. Natural phenomena may not act autonomously. **Three occurrences to recast.**
+2. **Part-label mismatch between sheet and key.** CW1 and HW1 print Parts **A / B / C**; the answer key labels them
+   `A_circle · B_fill · **D_underline**`. A teacher marking CW1 finds no Part C key. Cosmetic to fix, real in the classroom.
+
+**Manifest limitation:** the held-word gate checked only 10 targets (the dictation list). *have/has* needs no trace
+(PD-026) and match objects were not given triggers — declare them before the next run if the gate is to be meaningful.
