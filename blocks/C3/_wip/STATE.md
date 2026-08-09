@@ -203,3 +203,51 @@ Three types now sit at **2 occurrences**; a third makes each PATTERN under CLAUD
 
 **No standing rule introduced and no gate changed.** Recorded so the third occurrence is recognised when it arrives.
 
+---
+
+## Article-half copy-through diagnostic — 09.08.26 (no content changed)
+
+Every PT Article item compared against **all 236 Block 6 worksheet items** by similarity, not just verbatim match.
+
+**Part B — 3 of 8 items substantially repeated**
+
+| PT item | Closest Block 6 item | Sim |
+|---|---|---|
+| #4 `He is ___ honest boy.` | `B6-HW4 A` — identical | **1.00** |
+| #7 `It is ___ university bag.` | `B6-CW1 A` — identical (**also on `B6-HW4 A`**) | **1.00** |
+| #2 `___ sun rises in the morning.` | `B6-CW2 A` — *"___ sun rises in the east."* | 0.79 |
+
+**Part C — 4 of 8 items substantially repeated**
+
+| PT item | Closest Block 6 item | Sim |
+|---|---|---|
+| #6 `She has an kite.` | `B6-CW4 D` — identical | **1.00** |
+| #4 `It is a university bag.` | `B6-CW1 A` — *"It is ___ university bag."* | 0.91 |
+| #7 `I ate a egg.` | `B6-CW4 D` — *"Rani ate a egg."* | 0.88 |
+| #5 `He saw an owl.` | `B6-CW4 D` — *"I saw a owl."* | 0.83 |
+
+**Verdict: broader than two isolated repeats, but narrower than a wholesale lift.** 7 of the 16 Article items are
+substantially repeated — 3 verbatim, 4 same-frame-one-word-changed. The Article half was clearly assembled with
+Block 6 material to hand rather than authored fresh. **But most of the reuse is rule-derived** (*sun rises*, *saw an
+owl*, *ate a egg*) and falls under the reasoning already applied in PD-044/PD-046/PD-048.
+
+**Correction to the earlier report:** both Part B verbatim hits were attributed to `B6-HW4`. `It is ___ university
+bag.` in fact sits on **`B6-CW1` A *and* `B6-HW4` A**, and *university* recurs on `B6-HW4` C and D
+(*"It is ___ university book."*, *"He has a university book."*). The trap is reused across four Block 6 placements.
+
+### ⚑ A separate defect this surfaced — the paper answers itself
+
+**`It is ___ university bag.` (Part B #7) and `It is a university bag.` (Part C #4) are the same sentence on the same
+paper.** Part B asks the pupil to supply the article; Part C asks whether the printed article is wrong — and it is
+correct, because Part B has already established it. **A pupil who answers B #7 has been handed C #4.**
+
+The within-sheet duplicate gate did not catch it: the two texts differ by a blank versus a filled article, so they
+normalise differently. This is a **paper-design defect independent of the Block 6 overlap** and would stand even if
+Block 6 had never existed.
+
+**Consequence for the minimum fix.** If Part B #4 and #7 are repaired, **Part C #4 belongs with them** — it carries
+the same *"yu"*-sound trap and the same recall advantage, and it is also the half of the self-answering pair. The
+minimum defensible intervention is therefore **3 items, not 2**. No replacements drafted.
+
+**Ruled this pass:** Part C #6 (`She has an kite.`) accepted — **PD-049**. Part B #4 / #7 **OPEN**.
+

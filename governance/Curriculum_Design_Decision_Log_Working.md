@@ -699,4 +699,16 @@ Decisions made in principle but not yet implemented. Not official until converte
 
 ---
 
+### PD-049 — C3 Block 7: PT Part C #6 repeat accepted; Part B #4 / #7 held open as a genuine defect
+**Decision:** The PD-032/PD-034 widened run compared `C3B0607-PT` against Block 6's eight Article worksheets (236 items, loaded `audit_scope: pt_overlap_only`) and found three verbatim repeats. They are **not treated alike**:
+
+**Accepted — no change.** **Part C #6** — `She has an kite.` (duplicates `B6-CW4`), answer *a*. The graded act is applying the sound rule to a plain consonant onset; nothing about the sentence has to be recalled. This is the same standing as the items accepted under PD-044 and PD-046, and the ruling rests on the same basis: **no meaningful assessment advantage**.
+
+**Held open — genuine defect, no content drafted.** **Part B #4** — `He is ___ honest boy.` (*an*) and **Part B #7** — `It is ___ university bag.` (*a*). These are the Article topic's two **exception** items, where the surface rule (look at the first letter) yields the **wrong** answer and only the sound test yields the right one. They are therefore precisely the items a pupil is most likely to answer from memory rather than from the rule, and a pupil who met these exact sentences in Block 6 can reproduce them without applying it. The advantage is real; it is worth 1 mark (2 blanks × 0.5). The Principal ruled these a genuine assessment defect and commissioned a diagnostic before any replacement is drafted.
+
+**Scope.** Block-scoped to C3 Block 7 and to the single item text named. Amends nothing; creates no drive-wide waiver; leaves `gate_pt_zero_overlap()`, `CROSS_SHEET_MAX_REPEATS`, PD-036, PD-038, PD-044, PD-046 and PD-048 untouched.
+**Status:** Part C #6 **Ruled** (Principal, 09.08.26). Part B #4 / #7 **OPEN** — diagnostic reported, no replacement drafted.
+
+---
+
 *End of working log as of 01.08.26. Several items from the most recent Class 4 Block 02 and Class 3 Block 02 discussions are still pending your classification/confirmation and are not yet included above.*
