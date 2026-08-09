@@ -209,3 +209,55 @@ attribution type**, one short of PATTERN.
 have/has items** ruled acceptable under PD-045(5a); no match repeat and no attribution item remains.
 CW↔HW positional (54% / 40%) is the ruled gate artefact; PT zero-overlap is the four PD-041(c) waived reuses.
 **Mark totals unchanged on all nine sheets.** Corrections logged: **CR-020 … CR-024**.
+
+---
+
+## PD-032 widened PT zero-overlap — RUN 09.08.26 · ⚑ 2 NEW findings, no content changed
+
+6a's **eight worksheets (256 items)** were loaded into `_wip/C2B06b_manifest.json` as reference sheets carrying
+`"audit_scope": "pt_overlap_only"` (the PD-034 mechanism), so they are visible **only** to the PT overlap gate and are
+not re-audited. `C2B06ab-PT` is now compared against **all sixteen sheets**, 442 worksheet items in total. 6a's own
+unadministered PT was **not** loaded: PD-032 scopes the widening to the eight worksheets, and PD-041(a) carries 6a's
+PT items into the combined paper by design, so comparing against it would flag the carry itself.
+
+**Result — the 6a side of the PT is NOT disjoint, contrary to the master's claim.**
+
+| PT item | Duplicates |
+|---|---|
+| Part C #1 — `I ___ in the classroom.` | `6a-CW4` |
+| Part C #5 — `The birds ___ in the tree.` | `6a-CW3` |
+
+**Why this matters more than the four Part D hits.** PD-041(c) waived verbatim reuse **for the have/has section only**,
+and states in terms that *"dictation, doing-word, am/is/are and match remain fully disjoint"*. These two are **am/is/are**
+items, so they sit **outside** the waiver and contradict a recorded consequence of PD-041. The master's answer-key note
+— *"PT: match/dictation/6a-side fully disjoint from worksheets"* — is disproved by this run.
+
+**Assessment impact:** low. Both answers are derived from person/number (*I → am*, *The birds → are*), the taught rule,
+so a pupil who met the sentence in W5 gains nothing over one who applies the rule — the PD-044 reasoning. The issue is
+governance, not marks: either the two items are re-authored, or PD-041(c)'s waiver is widened to cover them.
+**Reported for ruling; no content changed** (Principal instruction, 09.08.26).
+
+**All other gate results are unchanged by the widened run** — the manifest addition is additive and invisible to every
+gate except PT overlap.
+
+## CR-023 — one occurrence from PATTERN
+
+The `The sun → gives us light` recast is the **2nd** occurrence of the CR-004 attribution type (autonomous natural
+giver). Under CLAUDE.md §5A a **3rd** makes it PATTERN and obliges a proposal for a script check or standing rule.
+Flagged only — no rule introduced, nothing edited.
+
+## Owed pointers — DONE 09.08.26
+
+- `blocks/C2/C2_ENG_GrammarBlock06a_Verbs_v1.md` — forward-only dependency pointer above its PT section
+  (*W5 PT postponed; assessed in combined `C2B06ab-PT`, PD-041*) plus a **v1.5 version-log row**. Pointer only:
+  no teaching content, item, key or mark total in 6a was touched.
+- `governance/driveplans/C2_ENG_DrivePlan_v1_9.md` — forward-only notes at **§4** (combined PT this cycle) and
+  **§7** (both AN25 anchors examined in the combined paper, per-anchor split preserved). No row amended.
+
+## Still outstanding (parked by Principal instruction)
+
+1. **PD-042 §H.5 re-screen** — drive-level; Rabab now male, only this block swept. Not expanded.
+2. **W6 assignment** — blocked on the stale Coverage Log (`last run = C5 W3 · 2026-07-21`); the generator halts per
+   spec §2 and the reconcile/Special-Instruction/defer choice is unruled. Not built.
+3. **The two 6a-side PT items above** — awaiting ruling.
+
