@@ -660,6 +660,13 @@ One prompt per student (roll = 7); read/point a mixed cue, child gives the full 
 > | | |
 
 ---
+> ⚑ **Dependency pointer (added 09.08.26, forward-only — no item below is changed).**
+> **This PT was postponed by a holiday and is superseded this cycle by the combined `C1B0506-PT` (PD-040).**
+> Blocks 5 and 6 fall on the same Thursday, so both are assessed by one paper (27 marks), held in the Block 6 master
+> `blocks/C1/_wip/C1_ENG_Block06_Pronoun_v1.md`. **`C1B05-PT` below has no live administration this cycle.**
+> Demonstratives are assessed **text-based** there — fill-blank with a bracketed *near/far · one/many* hint — **not
+> picture-cued**, matching the Sunday W6 reteach; the picture apparatus below is not used for that assessment.
+
 # Thursday — Performance Test · `C1B05-PT`
 
 **In-school, teacher-administered** · English only · one sitting. Marks printed on the student extract (exam-mirroring). Answers live in the AK, never on this sheet.
@@ -823,6 +830,7 @@ Marked on the 4-mark rubric (PD-010 · Charter §I.3–I.4): content accuracy (c
 
 | Version | Date | Change | By |
 |---|---|---|---|
+| v1.7 | 2026-08-09 | **Dependency pointer only — no teaching content, item, key, mark total or picture spec changed.** Records that this block's Thursday PT was postponed and is superseded this cycle by the combined `C1B0506-PT` (**PD-040**), where demonstratives are assessed text-based rather than picture-cued. Pointer placed immediately above the PT section. | Claude |
 | v1.6 | 2026-08-02 | Worksheet images generated, cue-integrity verified, and embedded. All 9 picture sets (CW-1…HW-4 + PT Part F) checked against the answer key — object identity and near/far/one/many scale confirmed on every item; **cue-integrity PASS on all 9**. Delivered as per-sheet **.docx extracts** (full-page printable worksheets, one image per page). Master .md updated with generation status; it remains the editable source, .docx sheets are regenerate-only artefacts. No item-bank or answer-key change. | Claude |
 | v1.5 | 2026-08-02 | Added **PT Part F** (Principal-directed): a 6-item, 6-mark picture-cued demonstrative question mirroring Annual Q6 ("Make appropriate sentences… using This, That, These, Those"). All four demonstratives, balanced (this2/these2/that1/those1), de-patterned, one "a/an" item (umbrella), all non-living objects, near/far by drawn scale/position. PT total 19 → **25** (15 vocab + 4 self-try + 6 Part F). Disjointness from CW/HW waived for Part F per the Block 4 graded-skill-test precedent; §6.5 disjointness still binds Part E self-try only. PT preamble, answer key, consistency check, image prompts (now 9 sets), and governance feedback updated; C1 §4 vocabulary-PT-only divergence logged. | Claude |
 | v1.4 | 2026-08-02 | Vocabulary Writing sets re-sourced to **W5-first** (reviewer-directed). Previous sets mixed W5 and earlier-week words per HW; now all 10 W5 batch words are used (HW-1 + HW-2 pure W5), and HW-3 (W4 batch) + HW-4 (W3 batch) top up from the nearest earlier weeks only after W5 is exhausted, preserving PD-015 cross-HW distinctness. Middle path between strict-W5-only (impossible for 4 distinct HWs from a 10-word batch) and the earlier cumulative sets. Row counts (5/5/6/5) unchanged; all sets distinct and cumulative-legal. No graded worksheet content affected. | Claude |

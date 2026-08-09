@@ -99,3 +99,47 @@ expected, and PD-044 is the CLAUDE.md §4 ruling that permits the block to be pr
 4. PD-042 §H.5 re-screen (Rabab now male) has not been run over this block.
 5. The older recognition-only draft at `extracts/C1/Other/Draft Blocks/` is untouched; say if you want it retired.
 
+---
+
+## Governance pointers — CLOSED 09.08.26
+
+Both outstanding items done. **No content, item, key or mark total touched in any file.**
+
+1. **`C1B05-PT` pointer** — added to `blocks/C1/C1_ENG_GrammarBlock05_Demonstrative_v1.md` immediately above its PT
+   section, plus a **v1.7 version-log row**. Records that the PT was postponed and is superseded this cycle by the
+   combined **`C1B0506-PT` (PD-040)**, and that demonstratives are assessed **text-based** there rather than
+   picture-cued — so the block's picture apparatus is not used for that assessment. Pointer only; Block 5's items,
+   keys, totals and picture specs are untouched.
+2. **C1 Drive Plan v1.14 forward-only notes** — **§2** (Block 6 row: recognition-only cap superseded for C1 B6 by
+   **PD-039**, Ruling A annotated not deleted), **§7** (Annual 2025 Q3 now taught and assessed directly, in Block 6's
+   Wednesday sheets and `C1B0506-PT` Part G), **§9b** (self-try is a production task for this block only, matching the
+   PT's graded rewrite). No row amended.
+
+## C1B06 — FINAL STATUS, ready for `done`
+
+**Audit: 10 PASS · 2 FAIL — both ruled (PD-044), no unruled failure.**
+`audits/reports/C1B06_audit_2026-08-09.txt`
+
+| | |
+|---|---|
+| Master | `blocks/C1/_wip/C1_ENG_Block06_Pronoun_v1.md` (internal v1.1) |
+| Manifest | `_wip/C1B06_manifest.json` — 9 sheets, 88 items |
+| Mark totals | **PASS** — 8 worksheets 10/10 each · PT 27/27 |
+| Passing gates | de-patterning · CW↔HW overlap (20/30/30/0%) · within-sheet duplicates · option lists · HW key transcribability · rehearsal disjointness · mark totals · sacred-word · values lexicon · held-word (59 targets, 0 misses) |
+| Ruled failures | PT Part F 2 items · `Abdur Rahim sits on the chair.` on CW-3/HW-4 — **PD-044**, no item re-authored |
+| Governance | PD-039 · PD-040 logged · pointer and Drive Plan notes now closed |
+| **Content changes made to this block this session** | **NONE** — every proposed edit was declined and ruled instead |
+
+### Known and accepted before promotion
+
+1. **House-name triggers** — 29 of 88 items grade a Charter §H.5 roster name (*Yusuf → he*) and carry no `trigger`,
+   so they sit outside the held-word gate. File 2 holds no proper nouns; neither PD-009 exemplars nor PD-012
+   block-local is the right instrument. **Needs a schema ruling** — this is the same blind-spot type as CR-028/CR-032,
+   now at PATTERN.
+2. **No extracts generated** — `C1B06-CW1…4`, `HW1…4`, `C1B0506-PT`, plus the answer key, clue card and TD sheet are
+   all owed, exactly as C2B06b's and C3B07's were before today.
+3. **PD-042 §H.5 re-screen** (Rabab now male) — this block not swept.
+4. The older recognition-only draft at `extracts/C1/Other/Draft Blocks/` is untouched.
+
+**Awaiting the Principal's explicit `done` to promote.**
+

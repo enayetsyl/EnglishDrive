@@ -89,6 +89,14 @@ Grammar terms (Noun, Article, Preposition, Adjective) are introduced **openly by
 
 ## §2 — The Class 1 spine cut (depth caps and bucket tags)
 
+> **Forward-only note (09.08.26) — Block 6 row: the recognition-only cap is superseded for C1 B6 by PD-039.**
+> Row 6's cap (*"recognition ONLY … NO sentence rewriting, NO pronoun production"* — Ruling A) is **lifted to S3 free
+> rewrite for C1 Block 6 only**: the child rewrites a sentence replacing the naming word with its pronoun, no word box,
+> teaching the Annual Q3 format directly and closing the accepted 5-mark gap. Graded rewrite targets **he / she / it /
+> they**; *I / we / you* stay at recognition and matching. Block-scoped — it does not propagate to other blocks or
+> classes. Ruling A is **annotated, not deleted** (Charter §K.3); the row below stands as written.
+
+
 > This is the load-bearing section for building File 3 blocks. Read the depth cap before drafting any block. The cap is the ceiling — never exceed it.
 >
 > **Parallel vocabulary track items** (not grammar blocks): 12 months (rote recall; Performance Test staple from W1), body parts (rote + Bengali meanings; vocabulary batch), spelling + Bengali meanings (weekly vocabulary Performance Test). These are tested in the exam but handled through the vocabulary cycle, not grammar blocks.
@@ -442,6 +450,12 @@ Every block ends in a self-try task. At Class 1, "simple Create" means **produci
 
 ## §7 — Exam-format map
 
+> **Forward-only note (09.08.26).** **Annual 2025 Q3** (*"Rewrite the sentences using pronouns."* [5]) is now taught
+> and assessed directly, in Block 6's Wednesday sheets and in **Part G of the combined `C1B0506-PT`** (**PD-039**,
+> **PD-040**). Block 5's demonstrative anchor is carried into the same paper, assessed **text-based** rather than
+> picture-cued. Rows below are unamended.
+
+
 *Confirmed from three Class 1 papers: HY 2026 (binding), Annual 2025 (binding), Class-Test 2025 (corroborating). Practice worksheets in File 3 must mirror the instruction wording and format of the relevant paper question — students should recognise the task on exam day.*
 
 ### 7a. Block-by-block format table
@@ -558,6 +572,12 @@ If a student asks *"Is 'open' a noun too?"* — teacher script: *"Good question.
 ---
 
 ## §9 — Self-try (free-thinking) task
+
+> **Forward-only note (09.08.26) — §9b.** For **C1 Block 6 only**, the self-try is a **production** task: the child
+> rewrites a given sentence using a pronoun (`C1B0506-PT` Part E, 4-mark rubric). §9b's non-production shape is
+> **superseded for this block** so that the self-try matches the PT's graded rewrite, following the **PD-039** cap-lift.
+> Block-scoped; the rubric itself (Charter §I.3, PD-010) is unchanged. Rows below are unamended.
+
 
 *Charter §I: every grammar block ends with a self-construction task. This is the simple Create moment in the Bloom's climb — the student produces something of their own using the block's rule. It is never optional.*
 
