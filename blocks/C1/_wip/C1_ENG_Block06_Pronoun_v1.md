@@ -582,7 +582,7 @@ Marked on the 4-mark rubric (Content accuracy · Reasoning · Organisation · Co
 
 **Total: 15 + 4 + 4 + 4 = 27 marks.**
 
-*Parts F and G are graded block-skill tests — item-shape overlap with CW/HW is expected and waived (Block 4/B5 precedent); §6.5 disjointness binds the Part E self-try only. Part E and the Wednesday rehearsal are disjoint. Pronoun rewrite targets he/she/it/they (PD-039); "we" is not a graded rewrite target. All nouns held; no living-being picture apparatus (this PT is fully text-based); sacred names absent from graded blanks (§H.3 — "the Quran/Fajr" appear only inside given sentences on worksheets, never as a produced answer here).*
+*Parts F and G are graded block-skill tests — item-shape overlap with CW/HW is expected and waived (Block 4/B5 precedent; ruled **PD-044**, 09.08.26); §6.5 disjointness binds the Part E self-try only. Part E and the Wednesday rehearsal are disjoint. Pronoun rewrite targets he/she/it/they (PD-039); "we" is not a graded rewrite target. All nouns held; no living-being picture apparatus (this PT is fully text-based); sacred names absent from graded blanks (§H.3 — "the Quran/Fajr" appear only inside given sentences on worksheets, never as a produced answer here).*
 
 ---
 

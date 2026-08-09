@@ -597,4 +597,21 @@ Decisions made in principle but not yet implemented. Not official until converte
 
 ---
 
+### PD-044 — C1 Block 6: the three PD-036 / PT-overlap failures are ruled acceptable; no item is re-authored
+**Decision:** `C1B06`'s first audit run returned two gate failures — PT zero-overlap (Part F items c and d identical to CW-1 #9 and HW-1 #8) and cross-sheet repetition (`Abdur Rahim sits on the chair.` on CW-3 #7 and HW-4 #5). Three replacement items were drafted and **declined**. The existing items stand unchanged.
+
+**Reasoning (Principal, 09.08.26):** verbatim overlap is not by itself a defect. The test is whether the overlap creates an **assessment problem**. It does not in either case:
+- **PT Part F.** The items carry a bracketed *near/far · one/many* hint, so the answer is derived by applying the taught rule, not recalled. A pupil who met the item on Sunday gains nothing a pupil who applies the rule does not. The answer class, grammar target and naturalness are all correct.
+- **CW-3 #7 / HW-4 #5.** The two sheets set **different tasks on the same sentence** — *choose the pronoun* (Tuesday) and *rewrite the whole sentence* (Wednesday) — with different required outputs. The homework key is not transcribable from the classwork. The sentence is grammatically natural and gives valid pronoun practice in both positions.
+
+**Standing principle established:** an item is not re-authored to satisfy a repetition or overlap gate where the answer class, grammar target and naturalness are already correct and the overlap creates no assessment problem. Overlaps are flagged; only those that breach a rule in substance, or that materially affect assessment quality, are fixed.
+
+**Scope — deliberately narrow.** This ruling is **block-scoped to C1 Block 6**. It does **not** amend `CROSS_SHEET_MAX_REPEATS` (still 0), does not amend PD-036 or PD-038, and does not reopen C4B06's zero-repeat promotion standard. The gates continue to report these as failures; this entry is the §4 "explicit user ruling recorded in STATE.md" that lets the block be presented for *done* with them outstanding. Making the principle drive-wide would be a separate ruling on the gate thresholds and is **not** taken here.
+
+**Also closed by this ruling:** C1 STATE pending item 2 — the master's *"Parts F/G overlap waived, Block 4/B5 precedent"* clause, which until now cited no PD, now cites PD-044.
+**Affected files:** `blocks/C1/_wip/C1_ENG_Block06_Pronoun_v1.md` (citation only), `blocks/C1/_wip/STATE.md`.
+**Status:** Ruled (Principal, 09.08.26).
+
+---
+
 *End of working log as of 01.08.26. Several items from the most recent Class 4 Block 02 and Class 3 Block 02 discussions are still pending your classification/confirmation and are not yet included above.*

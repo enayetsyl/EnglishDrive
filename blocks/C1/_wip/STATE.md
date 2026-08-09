@@ -31,7 +31,7 @@ this repo's audit suite, and does not satisfy CLAUDE.md §4 — which also requi
 ## Pending — must close before promotion
 
 1. **Manifest + full audit run.** Build `_wip/C1B06_manifest.json` (schema `audits/scripts/README_manifest.md`) covering all 8 worksheets + `C1B0506-PT`, run `run_all.py`, paste the verbatim output and save the report. Nothing in this block has been checked by a script in this repo.
-2. **Parts F and G overlap waiver.** The master waives item-shape overlap between PT Parts F/G and the worksheets, citing Block 4/B5 precedent, and holds §6.5 disjointness to the Part E self-try only. **This is narrower than CLAUDE.md §4's PT zero-overlap gate** (zero PT item texts identical, normalised, to any worksheet item) as tightened by PD-036/PD-038. The waiver needs an explicit ruling recorded here, or the PT items need re-authoring.
+2. ~~**Parts F and G overlap waiver** needs an explicit ruling or the PT items need re-authoring.~~ **CLOSED 09.08.26 — ruled PD-044.** The waiver stands; the master's clause now cites PD-044.
 3. **Pointer owed on `C1B05-PT`** — "live PT superseded by `C1B0506-PT` (PD-040)".
 4. **C1 Drive Plan forward-only notes owed** — §2 row 6 annotated "superseded for C1 B6 by PD-039" (not deleted, Charter §K.3), plus §7 and §9b (the production self-try is now permitted for this block).
 5. **Supersedes an older draft.** `extracts/C1/Other/Draft Blocks/C1 blocks/C1_ENG_GrammarBlock06_Pronoun_v1.md` is the earlier recognition-only, Bangla-delivery v1 of this block. It is left in place untouched; say the word if you want it retired.
@@ -39,7 +39,7 @@ this repo's audit suite, and does not satisfy CLAUDE.md §4 — which also requi
 
 ## Next step
 
-Build `_wip/C1B06_manifest.json` from the imported master, run the audit suite, and bring the PT-overlap waiver (pending item 2) to the Principal as a ruling before anything is promoted.
+Both audit failures are ruled (PD-044). Remaining before promotion: the `C1B05-PT` pointer, the C1 Drive Plan forward-only notes, and the house-name trigger question below.
 
 ---
 
@@ -64,3 +64,38 @@ held-word (59 targets vs 82 pool words, 0 misses).
 the schema has no instrument for Charter §H.5 roster names as graded antecedents (File 2 holds no proper nouns; PD-009
 exemplars and PD-012 block-local are both the wrong instrument). 29 of 88 items are therefore outside the held-word gate.
 Flagged for a schema ruling, not worked around.
+
+---
+
+## Ruling on Audit run 1 — 09.08.26 · **PD-044** · no item re-authored
+
+Three replacement items were drafted (PT Part F c → *board*, Part F d → *ducks*, HW-4 #5 → *Nusair opens the door.*)
+and **declined by the Principal**. The existing items stand.
+
+**Ruling:** verbatim overlap is not by itself a defect — the test is whether it creates an **assessment problem**.
+Neither failure does. PT Part F carries the *near/far · one/many* hint, so the answer is derived by applying the taught
+rule rather than recalled; a pupil who met the item on Sunday gains nothing over a pupil who applies the rule.
+CW-3 #7 and HW-4 #5 set **different tasks on the same sentence** (choose the pronoun vs rewrite the whole sentence)
+with different required outputs, so the HW key is not transcribable from the CW. Answer class, grammar target and
+naturalness are correct throughout.
+
+**Standing principle (block-scoped):** an item is not re-authored to satisfy a repetition or overlap gate where the
+answer class, grammar target and naturalness are already correct and the overlap creates no assessment problem.
+Overlaps are flagged; only those breaching a rule in substance, or materially affecting assessment quality, are fixed.
+
+**Not propagated.** `CROSS_SHEET_MAX_REPEATS` stays at 0; PD-036 and PD-038 are unamended; C4B06's zero-repeat
+promotion standard is untouched. Future runs of `run_all.py` on this block will keep reporting both as FAIL — that is
+expected, and PD-044 is the CLAUDE.md §4 ruling that permits the block to be presented as done with them outstanding.
+
+**Audit status after the ruling:** 10 PASS · 2 FAIL, **both ruled**. No unruled failure remains.
+
+## Still open (not content — governance pointers)
+
+1. Pointer owed on `C1B05-PT`: "live PT superseded by `C1B0506-PT` (PD-040)".
+2. C1 Drive Plan forward-only notes: §2 row 6 annotated "superseded for C1 B6 by PD-039", plus §7 and §9b.
+3. **House-name triggers.** 29 of 88 items grade a Charter §H.5 roster name (*Yusuf → he*) and carry no `trigger`,
+   so they sit outside the held-word gate. File 2 holds no proper nouns and neither PD-009 exemplars nor PD-012
+   block-local is the right instrument. Needs a schema ruling — flagged, not worked around.
+4. PD-042 §H.5 re-screen (Rabab now male) has not been run over this block.
+5. The older recognition-only draft at `extracts/C1/Other/Draft Blocks/` is untouched; say if you want it retired.
+
