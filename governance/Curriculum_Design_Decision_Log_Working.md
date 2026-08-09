@@ -711,4 +711,18 @@ Decisions made in principle but not yet implemented. Not official until converte
 
 ---
 
+### PD-050 — C3 Block 7: Block 6's Article vocabulary declared for the combined PT; Part B #4 / #7 repeats accepted
+**Decision, two parts.**
+
+**(a) Declaration.** `C3B0607-PT`'s Article half grades vocabulary that is **not in `C3_ENG_VocabPool_U18_v2.xlsx`** — *owl, ostrich, orange, egg, apple, umbrella, hour, honest, university, onion, ant, olive, elephant, ox*. The whole 195-word C3 pool holds only **18 vowel-initial words**, of which just *ant* is usable in an article item, so no article item could ever have been built from File 2 alone. **Block 6 already solved this correctly**: its master declares exactly these **14 words as a PD-012 block-local Article set**, staged day by day. C3B07 inherited the vocabulary without inheriting the declaration. Because **PD-043** makes `C3B0607-PT` an assessment of Block 6 content as well, the paper legitimately carries Block 6's set, and it is now declared in `_wip/C3B07_manifest.json` alongside PD-047's `big`/`table`. **No word is added to File 2 and no Article item is rewritten.** Sixteen PT Article items were given `trigger` fields so the gate can see them; the held-word gate now checks **236** graded targets and passes.
+
+**Why this mattered.** Until now the **entire Article half of the PT had never been held-word checked** — the items carried no `trigger` because their answers are articles rather than content words, so the gate skipped them silently. Same class of blind spot as the unaudited match parts (CR-028).
+
+**(b) Ruling — Part B #4 and #7 stand, unchanged.** `He is ___ honest boy.` (*an*) and `It is ___ university bag.` (*a*) repeat Block 6 worksheets verbatim. **Accepted on assessment-impact grounds**, per PD-044/PD-046/PD-048. The agent had argued these were a stronger case than ordinary rule-derived overlap because the surface rule misleads on exceptions; **that argument is withdrawn and recorded as overstated**. Knowing that *honest* takes *an* and *university* takes *a* **is the Block 6 learning outcome**. A pupil recalling it is demonstrating learning, not gaming the paper — and because the recall is word-level, rewriting the sentence while keeping the word would not remove it anyway. Both are legitimate Article targets, exception cases included.
+
+**Scope.** Block-scoped to C3 Block 7. Adds no word to File 2, reopens no other C3 block, amends no gate or threshold, and creates no drive-wide waiver. The `Rani` occurrences in the **promoted** Block 6 master are **recorded as a future observation only** — that file is not touched.
+**Status:** Ruled (Principal, 09.08.26).
+
+---
+
 *End of working log as of 01.08.26. Several items from the most recent Class 4 Block 02 and Class 3 Block 02 discussions are still pending your classification/confirmation and are not yet included above.*

@@ -95,7 +95,7 @@ file2: file2/C3_ENG_VocabPool_U18_v2.xlsx
 [PASS] Mark totals                      CW1: no stated total (computed 33); HW1: no stated total (computed 33); CW2: no stated total (computed 33); HW2: no stated total (computed 33); CW3: no stated total (computed 32); HW3: no stated total (computed 32); CW4: no stated total (computed 36); HW4: no stated total (computed 34); PT: 34/34
 [PASS] Sacred-word guard                graded targets + dictation scanned
 [PASS] Values lexicon screen            student-facing item texts scanned (incl. inflections)
-[PASS] Held-word / exemplar / block-local 220 graded targets checked against 195 pool words + 15 exemplars + 2 block-local
+[PASS] Held-word / exemplar / block-local 236 graded targets checked against 195 pool words + 15 exemplars + 16 block-local
 [PASS] One-defensible-answer (human)    no conflicting-answer candidates; full check remains a human read
 ------------------------------------------------------------------------
 RESULT: FAILURES PRESENT — do not finalize

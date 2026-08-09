@@ -20,7 +20,21 @@
  ],
  "block_local": [
   "big",
-  "table"
+  "table",
+  "owl",
+  "ostrich",
+  "orange",
+  "egg",
+  "apple",
+  "umbrella",
+  "hour",
+  "honest",
+  "university",
+  "onion",
+  "ant",
+  "olive",
+  "elephant",
+  "ox"
  ],
  "sheets": [
   {
@@ -1813,42 +1827,50 @@
       {
        "text": "Yusuf has ___ egg and ___ book.",
        "answer": "an egg / a book",
-       "marks": 1.0
+       "marks": 1.0,
+       "trigger": "egg"
       },
       {
        "text": "___ sun rises in the morning.",
        "answer": "The sun",
-       "marks": 0.5
+       "marks": 0.5,
+       "trigger": "sun"
       },
       {
        "text": "She waited ___ hour for her friend.",
        "answer": "an hour",
-       "marks": 0.5
+       "marks": 0.5,
+       "trigger": "hour"
       },
       {
        "text": "He is ___ honest boy.",
        "answer": "an honest",
-       "marks": 0.5
+       "marks": 0.5,
+       "trigger": "honest"
       },
       {
        "text": "___ owl sat on the roof.",
        "answer": "An owl",
-       "marks": 0.5
+       "marks": 0.5,
+       "trigger": "owl"
       },
       {
        "text": "Maryam has ___ apple and ___ card.",
        "answer": "an apple / a card",
-       "marks": 1.0
+       "marks": 1.0,
+       "trigger": "apple"
       },
       {
        "text": "It is ___ university bag.",
        "answer": "a university",
-       "marks": 0.5
+       "marks": 0.5,
+       "trigger": "university"
       },
       {
        "text": "I see ___ ostrich.",
        "answer": "an ostrich",
-       "marks": 0.5
+       "marks": 0.5,
+       "trigger": "ostrich"
       }
      ]
     },
@@ -1858,42 +1880,50 @@
       {
        "text": "She opened a umbrella.",
        "answer": "an",
-       "marks": 0.5
+       "marks": 0.5,
+       "trigger": "umbrella"
       },
       {
        "text": "He ate an orange.",
        "answer": "✓ correct",
-       "marks": 0.5
+       "marks": 0.5,
+       "trigger": "orange"
       },
       {
        "text": "Fatima has a onion.",
        "answer": "an",
-       "marks": 0.5
+       "marks": 0.5,
+       "trigger": "onion"
       },
       {
        "text": "It is a university bag.",
        "answer": "✓ correct",
-       "marks": 0.5
+       "marks": 0.5,
+       "trigger": "university"
       },
       {
        "text": "He saw an owl.",
        "answer": "✓ correct",
-       "marks": 0.5
+       "marks": 0.5,
+       "trigger": "owl"
       },
       {
        "text": "She has an kite.",
        "answer": "a",
-       "marks": 0.5
+       "marks": 0.5,
+       "trigger": "kite"
       },
       {
        "text": "I ate a egg.",
        "answer": "an",
-       "marks": 0.5
+       "marks": 0.5,
+       "trigger": "egg"
       },
       {
        "text": "He read an book.",
        "answer": "a",
-       "marks": 0.5
+       "marks": 0.5,
+       "trigger": "book"
       }
      ]
     },
