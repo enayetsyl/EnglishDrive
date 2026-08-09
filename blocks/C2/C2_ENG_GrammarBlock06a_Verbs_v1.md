@@ -781,6 +781,15 @@ Word Bank: **complete · end · open · close · stand**
 
 ---
 
+> ⚑ **Dependency pointer (added 09.08.26, forward-only — no item below is changed).**
+> **W5 PT postponed; assessed in combined `C2B06ab-PT` (PD-041).** A holiday moved this Thursday's test, so 6a and
+> 6b now fall on one Thursday and are delivered as a **single combined paper**, `C2B06ab-PT` (30 marks), held in the
+> 6b master `blocks/C2/_wip/C2_ENG_Block06b_HaveHas_Match_v1.md`. **`C2B06a-PT` below has no live administration this
+> cycle**; its doing-word and am/is/are assessment is carried into the combined paper. PD-041 overrides PD-025's
+> one-PT-per-week shape **for this cycle only** — the standalone shape returns for the next two-week block.
+> The combined paper is also the block's **first retention signal**, so it (not this PT) sizes the post-W6 batch
+> (Run Book §9.8).
+
 ## Thursday Performance Test · `C2B06a-PT` · in-school [Dictation (Part A) = 10 · Parts B–D = 16 · Self-try (Part E) = 4 · **total 30**]
 
 **School for Community Development — Sylhet | Class 2 English | Block 6 (Verbs) — W5 Performance Test**
@@ -844,6 +853,7 @@ Word Bank: **complete · end · open · close · stand**
 ## Version log
 | Version | Date | Change | By |
 |---|---|---|---|
+| v1.5 | 2026-08-09 | **Dependency pointer only — no teaching content, item, key or mark total changed.** Records that this block's Thursday PT was postponed by a holiday and is assessed in the combined `C2B06ab-PT` (**PD-041**), which overrides PD-025's one-PT-per-week shape for this cycle only. `C2B06a-PT` has no live administration this cycle. Pointer placed immediately above the PT section. | Claude |
 | v1 | 2026-08-02 | Initial build of Block 6a (W5 half of the W5–W6 two-week block): doing words + simple present agreement + am/is/are, Sun–Wed, Thursday PT. Two-week block ruled W5 = verbs + be / W6 = have/has + match (Principal, this session); one PT per week; two masters (a/b); ID scheme `C2B06a-…`. Built against Charter v1.3, Run Book v1.15 (§3.14 English, §3.16 Vocabulary Writing, §9.4 Exit Check), Drive Plan v1.7, PD-008/009/010/012/015. Format-mirror: C2 Block 5 (structure) + C4 Block 5 (English script). Exam anchors HY25 Q12 [5] + HY26 Q11 [6] mirrored per-anchor in the W5 PT; AN25 anchors deferred to W6. No PD-009 exemplar (be/have-has are grammar targets, not vocabulary). Held scope 101 (W5); 20 W5 verbs staged Sun–Wed. All 8 worksheets full-size (CW 24 / HW 20); programmatically audited — 0 leaks across held-word, staging, tense, have/has, sacred-word, non-mahram, single-answer, text-dup, order-overlap, de-pattern, dup-sequence. Wild animals restricted to forest/tree/pond locations. | Claude |
 | v1.1 | 2026-08-02 | **Day-1 weight rebalanced.** Block 1 already teaches doing-word **recognition**, so Sunday no longer re-teaches it from zero. Sunday now **reactivates** recognition quickly and **introduces the -s agreement rule** (one doer adds s / many doers plain) with a rich, example-dense script; the -s change is graded-eligible from Sunday. Monday shifts from *introducing* agreement to **extending** it (five new verbs + harder naming-word/two-part subjects). CW1/HW1 **Part B** changed from plain doing-word fill to **choose-the-correct-form** agreement items (Part A stays a short recognition warm-up); worksheet sizes unchanged (CW 24 / HW 20). **Plurals-collision guard added:** because Block 5 (Plurals) taught "add **s** = many" the week before, Sunday's discovery, the rule box, the Monday recall, and the clue card now explicitly contrast the two s's — plural **s** on a **naming word** (many) vs verb **s** on a **doing word** (one doer) — reframing the columns around "one doer / many doers." Staging table, Bloom-climb line, and answer keys updated. Full audit re-run — 0 fails. (Tue/Wed scripts elaborated separately in v1.2.) | Claude |
 | v1.2 | 2026-08-02 | **Tuesday & Wednesday scripts elaborated** to match the teaching density of the reworked Sunday/Monday. Tuesday: Step 3 worked examples expanded to 8 with "I/one/many?" reasoning and a three-column board build; Step 4 new-verb introduction now gives each verb a plain/-s example pair and a mime cue, keeping Monday's rule live; Step 5 guided practice adds per-part modelling and two error-watches ("I is", compound deferral). Wednesday: Step 2 now teaches the compound "and → many → are" case explicitly with a two-student demo, a board pattern, and an 8-item mixed drill; Step 3 adds modelling for Parts A and B and a Part-B error check; Step 4 self-try adds run-guidance (model the rehearsal anchor only, release for own sentence, prompt-don't-supply) and maps the 4 rubric marks. No graded items, worksheets, PT, or keys changed; teaching examples only. | Claude |

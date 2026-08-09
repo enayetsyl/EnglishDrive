@@ -108,6 +108,13 @@ The demonstrative re-walk below addresses a gap identified in the C1→C2→C3 p
 
 ## §4 — Block-by-week schedule
 
+> **Forward-only note (09.08.26) — W5–W6 Block 6 PT is combined this cycle.** A holiday postponed 6a's Thursday
+> Performance Test, so both halves are assessed on one Thursday by a single paper, **`C2B06ab-PT`** (30 marks:
+> dictation 10 · Parts B–E 16 · self-try 4), covering 6a (doing words · am/is/are) and 6b (have/has · match).
+> **PD-041** — overrides PD-025's one-PT-per-week shape **for this cycle only**; the W5 row's standalone
+> `C2B06a-PT` is not administered. Nothing below is amended (Charter §K.3).
+
+
 This is the operating sequence. Block 6 (the verb / be / have-has load peak) is given **two weeks**; every other solo block takes one. Block 4 (Gender) is a distributed strand across the W3–W4 host weeks and adds no week. Fresh-vocabulary batch sizes are confirmed at File 2 once the pool is built.
 
 | Week | Grammar block(s) taught | Vocabulary status |
@@ -155,6 +162,12 @@ This is the operating sequence. Block 6 (the verb / be / have-has load peak) is 
 ---
 
 ## §7 — Exam-format map (what each block's practice must look like)
+
+> **Forward-only note (09.08.26).** Block 6's two AN25 anchors — **Q12** *"Fill in the blanks with 'have' or 'has'"*
+> [5] and **Q11** *"Match the words … to make five meaningful sentences"* [5] — are examined in the combined
+> **`C2B06ab-PT`** (**PD-041**), together with 6a's HY25/HY26 doing-word and am/is/are anchors. The per-anchor mark
+> split required by PD-025 is preserved inside the combined paper. Rows below are unamended.
+
 
 Confirmed from the three Class 2 papers (HY 2025, HY 2026, Annual 2025 — SCD Mohammadpur). Each block's practice uses the **format the school tests that structure in**, so drive practice transfers directly to exam performance.
 

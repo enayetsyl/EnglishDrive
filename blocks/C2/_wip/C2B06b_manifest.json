@@ -1707,6 +1707,1206 @@
      "items": []
     }
    ]
+  },
+  {
+   "name": "6a-CW1",
+   "type": "worksheet",
+   "audit_scope": "pt_overlap_only",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "Yusuf asks his brother.",
+       "marks": 1
+      },
+      {
+       "text": "I listen to my mother.",
+       "marks": 1
+      },
+      {
+       "text": "We look at the board.",
+       "marks": 1
+      },
+      {
+       "text": "Aisha says her name.",
+       "marks": 1
+      },
+      {
+       "text": "The boys answer well.",
+       "marks": 1
+      },
+      {
+       "text": "My father looks at the road.",
+       "marks": 1
+      },
+      {
+       "text": "The friends listen to their father.",
+       "marks": 1
+      },
+      {
+       "text": "She asks her sister.",
+       "marks": 1
+      },
+      {
+       "text": "They look at the clock.",
+       "marks": 1
+      },
+      {
+       "text": "Abdullah answers his father.",
+       "marks": 1
+      },
+      {
+       "text": "My sister listens to her brother.",
+       "marks": 1
+      },
+      {
+       "text": "We say our names.",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "The boy ___ his friend. (ask/asks)",
+       "marks": 1
+      },
+      {
+       "text": "We ___ to our mother. (listen/listens)",
+       "marks": 1
+      },
+      {
+       "text": "Aisha ___ her name. (say/says)",
+       "marks": 1
+      },
+      {
+       "text": "The friends ___ well. (answer/answers)",
+       "marks": 1
+      },
+      {
+       "text": "He ___ at the clock. (look/looks)",
+       "marks": 1
+      },
+      {
+       "text": "They ___ their names. (say/says)",
+       "marks": 1
+      },
+      {
+       "text": "My father ___ at the road. (look/looks)",
+       "marks": 1
+      },
+      {
+       "text": "The boys ___ well. (answer/answers)",
+       "marks": 1
+      },
+      {
+       "text": "I ___ to my brother. (listen/listens)",
+       "marks": 1
+      },
+      {
+       "text": "My sister ___ her friend. (ask/asks)",
+       "marks": 1
+      },
+      {
+       "text": "We ___ at the board. (look/looks)",
+       "marks": 1
+      },
+      {
+       "text": "She ___ to her mother. (listen/listens)",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "Yusuf ___ 'Assalamu alaikum'.",
+       "marks": 1
+      },
+      {
+       "text": "We ___ at the board.",
+       "marks": 1
+      },
+      {
+       "text": "Aisha ___ to her mother.",
+       "marks": 1
+      },
+      {
+       "text": "The boys ___ well.",
+       "marks": 1
+      },
+      {
+       "text": "I ___ my brother.",
+       "marks": 1
+      },
+      {
+       "text": "She ___ at the clock.",
+       "marks": 1
+      },
+      {
+       "text": "They ___ to their father.",
+       "marks": 1
+      },
+      {
+       "text": "My sister ___ 'Alhamdulillah'.",
+       "marks": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "6a-HW1",
+   "type": "worksheet",
+   "audit_scope": "pt_overlap_only",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "The friends ask their father.",
+       "marks": 1
+      },
+      {
+       "text": "The boys answer well.",
+       "marks": 1
+      },
+      {
+       "text": "She says her name.",
+       "marks": 1
+      },
+      {
+       "text": "The boy looks at the clock.",
+       "marks": 1
+      },
+      {
+       "text": "I say my name.",
+       "marks": 1
+      },
+      {
+       "text": "My brother looks at the tree.",
+       "marks": 1
+      },
+      {
+       "text": "They listen to their mother.",
+       "marks": 1
+      },
+      {
+       "text": "We answer well.",
+       "marks": 1
+      },
+      {
+       "text": "Aisha listens to her sister.",
+       "marks": 1
+      },
+      {
+       "text": "Abdullah asks his father.",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "They ___ to their father. (listen/listens)",
+       "marks": 1
+      },
+      {
+       "text": "The boy ___ at the board. (look/looks)",
+       "marks": 1
+      },
+      {
+       "text": "The boys ___ their names. (say/says)",
+       "marks": 1
+      },
+      {
+       "text": "I ___ at the tree. (look/looks)",
+       "marks": 1
+      },
+      {
+       "text": "The friends ___ their father. (ask/asks)",
+       "marks": 1
+      },
+      {
+       "text": "My father ___ his friend. (ask/asks)",
+       "marks": 1
+      },
+      {
+       "text": "She ___ well. (answer/answers)",
+       "marks": 1
+      },
+      {
+       "text": "Aisha ___ well. (answer/answers)",
+       "marks": 1
+      },
+      {
+       "text": "My sister ___ to her brother. (listen/listens)",
+       "marks": 1
+      },
+      {
+       "text": "We ___ our names. (say/says)",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "We ___ to our mother.",
+       "marks": 1
+      },
+      {
+       "text": "The boy ___ at the tree.",
+       "marks": 1
+      },
+      {
+       "text": "Abdullah ___ 'Assalamu alaikum'.",
+       "marks": 1
+      },
+      {
+       "text": "The friends ___ well.",
+       "marks": 1
+      },
+      {
+       "text": "I ___ my father.",
+       "marks": 1
+      },
+      {
+       "text": "She ___ to her sister.",
+       "marks": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "6a-CW2",
+   "type": "worksheet",
+   "audit_scope": "pt_overlap_only",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "The bird ___ in the tree. (live/lives)",
+       "marks": 1
+      },
+      {
+       "text": "The boys ___ their books. (read/reads)",
+       "marks": 1
+      },
+      {
+       "text": "Yusuf ___ his name. (write/writes)",
+       "marks": 1
+      },
+      {
+       "text": "We ___ the birds. (see/sees)",
+       "marks": 1
+      },
+      {
+       "text": "My sister ___ a story. (write/writes)",
+       "marks": 1
+      },
+      {
+       "text": "The friends ___ the board. (see/sees)",
+       "marks": 1
+      },
+      {
+       "text": "The cat ___ near the pond. (live/lives)",
+       "marks": 1
+      },
+      {
+       "text": "They ___ a book. (read/reads)",
+       "marks": 1
+      },
+      {
+       "text": "Aisha ___ her friend. (see/sees)",
+       "marks": 1
+      },
+      {
+       "text": "The hen ___ near the tree. (live/lives)",
+       "marks": 1
+      },
+      {
+       "text": "My father ___ a book. (read/reads)",
+       "marks": 1
+      },
+      {
+       "text": "The boys ___ a book. (read/reads)",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "The frog ___ near the pond. (live)",
+       "marks": 1
+      },
+      {
+       "text": "They ___ their names. (write)",
+       "marks": 1
+      },
+      {
+       "text": "Aisha ___ her sister. (see)",
+       "marks": 1
+      },
+      {
+       "text": "The boys ___ a story. (read)",
+       "marks": 1
+      },
+      {
+       "text": "My father ___ a book. (read)",
+       "marks": 1
+      },
+      {
+       "text": "We ___ the birds. (see)",
+       "marks": 1
+      },
+      {
+       "text": "The bird ___ in the forest. (live)",
+       "marks": 1
+      },
+      {
+       "text": "My sister ___ her name. (write)",
+       "marks": 1
+      },
+      {
+       "text": "The friends ___ a book. (read)",
+       "marks": 1
+      },
+      {
+       "text": "Yusuf ___ the board. (see)",
+       "marks": 1
+      },
+      {
+       "text": "I ___ a story. (write)",
+       "marks": 1
+      },
+      {
+       "text": "The cat ___ near the tree. (live)",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "The bird ___ in the tree.",
+       "marks": 1
+      },
+      {
+       "text": "We ___ the birds.",
+       "marks": 1
+      },
+      {
+       "text": "Aisha ___ a book.",
+       "marks": 1
+      },
+      {
+       "text": "The boys ___ their names.",
+       "marks": 1
+      },
+      {
+       "text": "My sister ___ a triangle.",
+       "marks": 1
+      },
+      {
+       "text": "The frogs ___ near the pond.",
+       "marks": 1
+      },
+      {
+       "text": "I ___ a book.",
+       "marks": 1
+      },
+      {
+       "text": "The boy ___ his name.",
+       "marks": 1
+      },
+      {
+       "text": "They ___ the board.",
+       "marks": 1
+      },
+      {
+       "text": "My father ___ near the forest.",
+       "marks": 1
+      },
+      {
+       "text": "We ___ a square.",
+       "marks": 1
+      },
+      {
+       "text": "The friends ___ a story.",
+       "marks": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "6a-HW2",
+   "type": "worksheet",
+   "audit_scope": "pt_overlap_only",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "The frog ___ near the pond. (live/lives)",
+       "marks": 1
+      },
+      {
+       "text": "The friends ___ a story. (write/writes)",
+       "marks": 1
+      },
+      {
+       "text": "My brothers ___ a book. (read/reads)",
+       "marks": 1
+      },
+      {
+       "text": "The hen ___ near the tree. (live/lives)",
+       "marks": 1
+      },
+      {
+       "text": "We ___ our books. (read/reads)",
+       "marks": 1
+      },
+      {
+       "text": "My mother ___ her friend. (see/sees)",
+       "marks": 1
+      },
+      {
+       "text": "I ___ the board. (see/sees)",
+       "marks": 1
+      },
+      {
+       "text": "Abdullah ___ the birds. (see/sees)",
+       "marks": 1
+      },
+      {
+       "text": "Aisha ___ her name. (write/writes)",
+       "marks": 1
+      },
+      {
+       "text": "The boy ___ a book. (read/reads)",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "The friends ___ the board. (see)",
+       "marks": 1
+      },
+      {
+       "text": "The frog ___ in the forest. (live)",
+       "marks": 1
+      },
+      {
+       "text": "My brother ___ a story. (read)",
+       "marks": 1
+      },
+      {
+       "text": "We ___ a book. (read)",
+       "marks": 1
+      },
+      {
+       "text": "They ___ a story. (write)",
+       "marks": 1
+      },
+      {
+       "text": "The boys ___ the birds. (see)",
+       "marks": 1
+      },
+      {
+       "text": "Yusuf ___ a book. (read)",
+       "marks": 1
+      },
+      {
+       "text": "My sister ___ a story. (write)",
+       "marks": 1
+      },
+      {
+       "text": "I ___ my name. (write)",
+       "marks": 1
+      },
+      {
+       "text": "The cat ___ near the pond. (live)",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "The cat ___ near the pond.",
+       "marks": 1
+      },
+      {
+       "text": "We ___ the board.",
+       "marks": 1
+      },
+      {
+       "text": "The boy ___ a book.",
+       "marks": 1
+      },
+      {
+       "text": "They ___ their names.",
+       "marks": 1
+      },
+      {
+       "text": "Aisha ___ a shape.",
+       "marks": 1
+      },
+      {
+       "text": "The birds ___ in the tree.",
+       "marks": 1
+      },
+      {
+       "text": "I ___ a story.",
+       "marks": 1
+      },
+      {
+       "text": "My sister ___ her name.",
+       "marks": 1
+      },
+      {
+       "text": "The boys ___ the birds.",
+       "marks": 1
+      },
+      {
+       "text": "The hen ___ near the tree.",
+       "marks": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "6a-CW3",
+   "type": "worksheet",
+   "audit_scope": "pt_overlap_only",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "I ___ at home.",
+       "marks": 1
+      },
+      {
+       "text": "The cows ___ in the forest.",
+       "marks": 1
+      },
+      {
+       "text": "I ___ in the tree.",
+       "marks": 1
+      },
+      {
+       "text": "My father ___ at school.",
+       "marks": 1
+      },
+      {
+       "text": "The cats ___ at home.",
+       "marks": 1
+      },
+      {
+       "text": "The cat ___ near the pond.",
+       "marks": 1
+      },
+      {
+       "text": "The dog ___ on the road.",
+       "marks": 1
+      },
+      {
+       "text": "The hens ___ on the road.",
+       "marks": 1
+      },
+      {
+       "text": "My mother ___ in the city.",
+       "marks": 1
+      },
+      {
+       "text": "You and I ___ friends.",
+       "marks": 1
+      },
+      {
+       "text": "My brother ___ at school.",
+       "marks": 1
+      },
+      {
+       "text": "The brothers ___ near the pond.",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "My mother ___ in the classroom.",
+       "marks": 1
+      },
+      {
+       "text": "The dog ___ near the pond.",
+       "marks": 1
+      },
+      {
+       "text": "We ___ on the road.",
+       "marks": 1
+      },
+      {
+       "text": "The bird ___ in the tree.",
+       "marks": 1
+      },
+      {
+       "text": "The cats ___ on the road.",
+       "marks": 1
+      },
+      {
+       "text": "I ___ in the forest.",
+       "marks": 1
+      },
+      {
+       "text": "The birds ___ near the pond.",
+       "marks": 1
+      },
+      {
+       "text": "I ___ near the pond.",
+       "marks": 1
+      },
+      {
+       "text": "They ___ in the city.",
+       "marks": 1
+      },
+      {
+       "text": "The cows ___ near the tree.",
+       "marks": 1
+      },
+      {
+       "text": "Aisha ___ my sister.",
+       "marks": 1
+      },
+      {
+       "text": "She ___ near the board.",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "The boy ___ at school.",
+       "marks": 1
+      },
+      {
+       "text": "The boys ___ at school.",
+       "marks": 1
+      },
+      {
+       "text": "The bird ___ in the tree.",
+       "marks": 1
+      },
+      {
+       "text": "The birds ___ in the tree.",
+       "marks": 1
+      },
+      {
+       "text": "I ___ near the board.",
+       "marks": 1
+      },
+      {
+       "text": "The cat ___ near the pond.",
+       "marks": 1
+      },
+      {
+       "text": "The cats ___ near the pond.",
+       "marks": 1
+      },
+      {
+       "text": "We ___ at home.",
+       "marks": 1
+      },
+      {
+       "text": "The frog ___ in the forest.",
+       "marks": 1
+      },
+      {
+       "text": "The frogs ___ in the forest.",
+       "marks": 1
+      },
+      {
+       "text": "She ___ my sister.",
+       "marks": 1
+      },
+      {
+       "text": "I ___ at home.",
+       "marks": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "6a-HW3",
+   "type": "worksheet",
+   "audit_scope": "pt_overlap_only",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "The cats ___ near the tree.",
+       "marks": 1
+      },
+      {
+       "text": "My brother ___ near the board.",
+       "marks": 1
+      },
+      {
+       "text": "The frog ___ in the forest.",
+       "marks": 1
+      },
+      {
+       "text": "The frogs ___ in the forest.",
+       "marks": 1
+      },
+      {
+       "text": "The deer ___ near the tree.",
+       "marks": 1
+      },
+      {
+       "text": "The cow ___ at home.",
+       "marks": 1
+      },
+      {
+       "text": "I ___ near the car.",
+       "marks": 1
+      },
+      {
+       "text": "I ___ in the village.",
+       "marks": 1
+      },
+      {
+       "text": "The birds ___ near the tree.",
+       "marks": 1
+      },
+      {
+       "text": "The hen and the cow ___ near the pond.",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "The sisters ___ near the car.",
+       "marks": 1
+      },
+      {
+       "text": "I ___ at school.",
+       "marks": 1
+      },
+      {
+       "text": "The dog ___ near the tree.",
+       "marks": 1
+      },
+      {
+       "text": "I ___ in the city.",
+       "marks": 1
+      },
+      {
+       "text": "The friends ___ in the city.",
+       "marks": 1
+      },
+      {
+       "text": "They ___ near the tree.",
+       "marks": 1
+      },
+      {
+       "text": "The dog ___ near the road.",
+       "marks": 1
+      },
+      {
+       "text": "My father ___ near the car.",
+       "marks": 1
+      },
+      {
+       "text": "The dog and the cat ___ near the pond.",
+       "marks": 1
+      },
+      {
+       "text": "My brother ___ near the car.",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "The dog ___ near the road.",
+       "marks": 1
+      },
+      {
+       "text": "The dogs ___ near the road.",
+       "marks": 1
+      },
+      {
+       "text": "The hen ___ near the tree.",
+       "marks": 1
+      },
+      {
+       "text": "The hens ___ near the tree.",
+       "marks": 1
+      },
+      {
+       "text": "I ___ at school.",
+       "marks": 1
+      },
+      {
+       "text": "He ___ my brother.",
+       "marks": 1
+      },
+      {
+       "text": "We ___ in the classroom.",
+       "marks": 1
+      },
+      {
+       "text": "The cow ___ in the village.",
+       "marks": 1
+      },
+      {
+       "text": "The cows ___ in the village.",
+       "marks": 1
+      },
+      {
+       "text": "They ___ at home.",
+       "marks": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "6a-CW4",
+   "type": "worksheet",
+   "audit_scope": "pt_overlap_only",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "The brothers ___ at home.",
+       "marks": 1
+      },
+      {
+       "text": "The cats ___ on the road.",
+       "marks": 1
+      },
+      {
+       "text": "The bird ___ at home.",
+       "marks": 1
+      },
+      {
+       "text": "The hen ___ near the tree.",
+       "marks": 1
+      },
+      {
+       "text": "The dog and the cat ___ in the forest.",
+       "marks": 1
+      },
+      {
+       "text": "The tiger ___ in the forest.",
+       "marks": 1
+      },
+      {
+       "text": "I ___ on the road.",
+       "marks": 1
+      },
+      {
+       "text": "You ___ on the road.",
+       "marks": 1
+      },
+      {
+       "text": "The monkey ___ in the tree.",
+       "marks": 1
+      },
+      {
+       "text": "The dog ___ in the village.",
+       "marks": 1
+      },
+      {
+       "text": "The frogs ___ near the pond.",
+       "marks": 1
+      },
+      {
+       "text": "I ___ near the tree.",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "You and Nusair ___ friends.",
+       "marks": 1
+      },
+      {
+       "text": "The cat ___ in the village.",
+       "marks": 1
+      },
+      {
+       "text": "The deer ___ in the forest.",
+       "marks": 1
+      },
+      {
+       "text": "I ___ near the car.",
+       "marks": 1
+      },
+      {
+       "text": "The brothers ___ at school.",
+       "marks": 1
+      },
+      {
+       "text": "The hen and the cow ___ at home.",
+       "marks": 1
+      },
+      {
+       "text": "The cow ___ in the village.",
+       "marks": 1
+      },
+      {
+       "text": "The bird and the frog ___ near the pond.",
+       "marks": 1
+      },
+      {
+       "text": "She ___ on the bridge.",
+       "marks": 1
+      },
+      {
+       "text": "I ___ in the classroom.",
+       "marks": 1
+      },
+      {
+       "text": "The cows ___ on the road.",
+       "marks": 1
+      },
+      {
+       "text": "We ___ near the board.",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "The bird ___ in the tree. (sit/sits)",
+       "marks": 1
+      },
+      {
+       "text": "The boys ___ their books. (open/opens)",
+       "marks": 1
+      },
+      {
+       "text": "Aisha ___ a triangle. (draw/draws)",
+       "marks": 1
+      },
+      {
+       "text": "We ___ the birds. (count/counts)",
+       "marks": 1
+      },
+      {
+       "text": "My father ___ a book. (close/closes)",
+       "marks": 1
+      },
+      {
+       "text": "The friends ___ in the classroom. (play/plays)",
+       "marks": 1
+      },
+      {
+       "text": "Yusuf ___ his name. (trace/traces)",
+       "marks": 1
+      },
+      {
+       "text": "The boys ___ the shapes. (match/matches)",
+       "marks": 1
+      },
+      {
+       "text": "She ___ her homework. (complete/completes)",
+       "marks": 1
+      },
+      {
+       "text": "They ___ near the tree. (stand/stands)",
+       "marks": 1
+      },
+      {
+       "text": "The boy ___ a book. (read/reads)",
+       "marks": 1
+      },
+      {
+       "text": "We ___ a square. (draw/draws)",
+       "marks": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "6a-HW4",
+   "type": "worksheet",
+   "audit_scope": "pt_overlap_only",
+   "parts": [
+    {
+     "name": "A",
+     "items": [
+      {
+       "text": "The sisters ___ near the car.",
+       "marks": 1
+      },
+      {
+       "text": "He ___ at school.",
+       "marks": 1
+      },
+      {
+       "text": "I ___ near the board.",
+       "marks": 1
+      },
+      {
+       "text": "The dog and the cat ___ at home.",
+       "marks": 1
+      },
+      {
+       "text": "Aisha ___ my sister.",
+       "marks": 1
+      },
+      {
+       "text": "I ___ your friend.",
+       "marks": 1
+      },
+      {
+       "text": "My father ___ in the classroom.",
+       "marks": 1
+      },
+      {
+       "text": "The bird and the frog ___ in the forest.",
+       "marks": 1
+      },
+      {
+       "text": "The parrot ___ near the tree.",
+       "marks": 1
+      },
+      {
+       "text": "The frogs ___ near the tree.",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "items": [
+      {
+       "text": "The cat and the dog ___ near the pond.",
+       "marks": 1
+      },
+      {
+       "text": "The boys ___ near the car.",
+       "marks": 1
+      },
+      {
+       "text": "I ___ on the bridge.",
+       "marks": 1
+      },
+      {
+       "text": "The hen and the cow ___ near the tree.",
+       "marks": 1
+      },
+      {
+       "text": "He ___ on the road.",
+       "marks": 1
+      },
+      {
+       "text": "I ___ near the pond.",
+       "marks": 1
+      },
+      {
+       "text": "She ___ in the forest.",
+       "marks": 1
+      },
+      {
+       "text": "Raima ___ my friend.",
+       "marks": 1
+      },
+      {
+       "text": "The friends ___ near the board.",
+       "marks": 1
+      },
+      {
+       "text": "The cat and the dog ___ near the tree.",
+       "marks": 1
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "items": [
+      {
+       "text": "The frog ___ near the pond. (sit/sits)",
+       "marks": 1
+      },
+      {
+       "text": "The boys ___ their books. (close/closes)",
+       "marks": 1
+      },
+      {
+       "text": "Aisha ___ a square. (draw/draws)",
+       "marks": 1
+      },
+      {
+       "text": "We ___ the shapes. (match/matches)",
+       "marks": 1
+      },
+      {
+       "text": "My sister ___ her homework. (complete/completes)",
+       "marks": 1
+      },
+      {
+       "text": "The boys ___ near the tree. (play/plays)",
+       "marks": 1
+      },
+      {
+       "text": "The boy ___ the birds. (count/counts)",
+       "marks": 1
+      },
+      {
+       "text": "They ___ their names. (trace/traces)",
+       "marks": 1
+      },
+      {
+       "text": "The bird ___ near the tree. (stand/stands)",
+       "marks": 1
+      },
+      {
+       "text": "We ___ a book. (open/opens)",
+       "marks": 1
+      }
+     ]
+    }
+   ]
   }
  ],
  "dictation": [

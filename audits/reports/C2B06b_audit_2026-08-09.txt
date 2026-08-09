@@ -6,7 +6,9 @@ file2: file2/C2_ENG_VocabPool_U110_v1.xlsx
 [FAIL] CW↔HW overlap                    CW1↔HW1: positional 54%; CW2↔HW2: positional 40%; CW3↔HW3: positional 0%; CW4↔HW4: positional 4% (superseded by PD-036 zero-repeat, kept as backstop)
         - CW1↔HW1: positional overlap 54% (> 35%)
         - CW2↔HW2: positional overlap 40% (> 35%)
-[FAIL] PT zero-overlap                  28 PT items vs 209 worksheet items
+[FAIL] PT zero-overlap                  28 PT items vs 442 worksheet items
+        - PT Part C: item duplicates 6a-CW4: "I ___ in the classroom."
+        - PT Part C: item duplicates 6a-CW3: "The birds ___ in the tree."
         - PT Part D: item duplicates CW2: "Yusuf and Abdullah ____ two books."
         - PT Part D: item duplicates CW4: "Maryam ____ a book."
         - PT Part D: item duplicates HW4: "Aisha and Maryam ____ two jars."
