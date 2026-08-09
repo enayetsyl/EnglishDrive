@@ -159,7 +159,31 @@ change was made to this block at any point in the session.**
 
 1. **House-name / trigger blind spot** — 29 of 88 C1B06 items grade a Charter §H.5 roster name and carry no
    `trigger`. Part of the **CR-028 / CR-032 PATTERN candidate**; awaiting a governance decision. No rule created.
-2. **12 canonical extracts owed** — `C1B06-CW1…4` · `HW1…4` · `C1B0506-PT` · `C1B06-AK` · `C1B06-CC` · `C1B06-TD`.
-   To be generated from the promoted master, as C2B06b's and C3B07's were.
+2. ~~**12 canonical extracts owed.**~~ **DONE 09.08.26** — all 12 generated from the promoted master; see below.
 3. **PD-042 §H.5 re-screen** (Rabab now male) — drive-level, this block not swept.
+
+---
+
+## Extracts — GENERATED 09.08.26 (12 of 12)
+
+All sliced from `blocks/C1/C1_ENG_Block06_Pronoun_v1.md`. **No content change; the master is untouched.**
+
+`extracts/C1/CW/C1B06-CW1…CW4` · `extracts/C1/HW/C1B06-HW1…HW4` · `extracts/C1/PT/C1B0506-PT` ·
+`extracts/C1/C1B06-AK` · `extracts/C1/Clue Card/C1B06-CC` · `extracts/C1/TN/C1B06-TD`
+
+**Answer-column split.** Unlike C2 and C3, C1's worksheets carry their answers **inline**, in an Answer column beside
+each item. The student sheets therefore had to be rebuilt as numbered items with a writing line, and all **80
+worksheet answers** were moved into `C1B06-AK`. Verified: **zero answers reach any student sheet.**
+
+**Two leaks caught while building the PT** — both formatting, not master content:
+1. **Part E printed its own model answer.** The master reads *"Rewrite using a pronoun: **Sister goes to school.** →
+   *She goes to school.*"* — the arrow and model would have been printed on the pupil's paper. Removed from the
+   extract; retained in the master and in `C1B06-AK`.
+2. Teacher-only notes (which batches Parts A and B draw from, the §6.5 disjointness note) stripped from the student
+   paper; retained in the master.
+
+The TD sheet carries the five Part A dictation words (`chair · table · door · question · wall`) — the only place they
+appear outside the master.
+
+**All three W6 blocks now have their full canonical extract sets: C1 12 · C2 12 · C3 12.**
 
