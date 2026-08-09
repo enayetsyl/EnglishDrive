@@ -141,5 +141,25 @@ Both outstanding items done. **No content, item, key or mark total touched in an
 3. **PD-042 §H.5 re-screen** (Rabab now male) — this block not swept.
 4. The older recognition-only draft at `extracts/C1/Other/Draft Blocks/` is untouched.
 
-**Awaiting the Principal's explicit `done` to promote.**
+**PROMOTED 09.08.26** — see below.
+
+---
+
+## PROMOTION — 09.08.26
+
+Principal: *"C1B06 is done. You may promote it from `_wip/`."*
+
+**Promoted master:** `blocks/C1/C1_ENG_Block06_Pronoun_v1.md`
+(moved from `blocks/C1/_wip/`; `blocks/C1/` now holds Blocks 1–6.)
+
+`_wip/` retains `C1B06_manifest.json` and this STATE file as the audit trail. All rulings preserved; **no content
+change was made to this block at any point in the session.**
+
+## Tracked separately — not blockers to promotion (Principal, 09.08.26)
+
+1. **House-name / trigger blind spot** — 29 of 88 C1B06 items grade a Charter §H.5 roster name and carry no
+   `trigger`. Part of the **CR-028 / CR-032 PATTERN candidate**; awaiting a governance decision. No rule created.
+2. **12 canonical extracts owed** — `C1B06-CW1…4` · `HW1…4` · `C1B0506-PT` · `C1B06-AK` · `C1B06-CC` · `C1B06-TD`.
+   To be generated from the promoted master, as C2B06b's and C3B07's were.
+3. **PD-042 §H.5 re-screen** (Rabab now male) — drive-level, this block not swept.
 
