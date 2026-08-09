@@ -660,4 +660,43 @@ Decisions made in principle but not yet implemented. Not official until converte
 
 ---
 
+### PD-047 — C3 Block 7: `big` and `table` declared block-local; **BC-1 CLOSED**
+**Decision:** `big` and `table` are declared a **PD-012 block-local teaching set** for C3 Block 7, as extended by **PD-035**. They are taught in-block, gradeable in this block's CW/HW/PT **only**, **never** dictation or spelling items, **not** added to File 2, and **not** held downstream.
+
+**What the audit proved.** `big` is the keyed answer on four graded items — `CW1 A#14` and `HW4 A#7` (*We see a big school.*), `HW2 A#4` (*They have a big house.*), `HW2 A#10` (*Yusuf has a big kite.*) — and is **absent from `C3_ENG_VocabPool_U18_v2.xlsx`** (195 words). `table` is the naming word of the graded match pair `wooden–table` on HW3 and is likewise absent. The C3 pool contains **no size adjectives at all** — *big, small, little, tall, long, short* are all missing — so this is a pool gap, not a slip in the block.
+
+**BC-1 is closed by this.** The Sunday script read *"big and table are taught this block — PD-029, PD-030"*, citing two numbers that hold entirely different rulings (C4 spine renumbering; `C4B04-AK` consolidation). Those citations were replaced with a pending marker on import and now read **PD-047**. The contradiction BC-1 identified is resolved in favour of the script: it is the **header** that was wrong — its claim *"no block-local set, no override"* is corrected to declare this set. The four `big` items and the `wooden–table` pair are **not re-authored**; the assessment impact is nil (every Class 3 pupil recognises *big*, and the graded act is finding the describing word, not knowing the word), so this is a **contract correction, not a content change**.
+
+**Manifest:** `"block_local": ["big", "table"]` in `_wip/C3B07_manifest.json`. The held-word gate now passes 220 graded targets.
+**Not done here:** the File 2 size-adjective gap is **flagged, not filled** — adding words to the pool affects every C3 block and needs its own ruling.
+**Affected files:** `blocks/C3/_wip/C3_ENG_Block07_Adjective_v1.md` (header row + one script citation), `_wip/C3B07_manifest.json`, `_wip/STATE.md`. No graded item changed.
+**Status:** Ruled (Principal, 09.08.26).
+
+---
+
+### PD-048 — C3 Block 7: audit triage — what was fixed, what was ruled
+**Decision:** `C3B07`'s failures were assessed for **assessment impact** before any content was drafted, per PD-044/PD-045. Disposition:
+
+**Fixed (genuine defects):**
+1. **PT mark discrepancy.** Part B printed *"[10 blanks × 0.5 = 5]"* while carrying **11 blanks** (items 1, 6 and 8 each had two) and a key supplying all 11 — the paper computed **34.5 against a stated 34**. A real scoring defect: two teachers marking the same script would reach different totals. **Minimum content edit taken** — item 8 `I see ___ cat and ___ ostrich.` → `I see ___ ostrich.`, keeping the vowel-rule half. Part B is now 10 blanks = 5; **the PT is 34 and Article stays 9**. Half-marks were **not** introduced.
+2. **Match-pair repetition.** Only **19 distinct pairs across 40 placements**; `bright–sun` and `new–bag` each appeared on **four of the eight sheets**. Genuine recall advantage — the pupil recalls the pairing instead of working it out. **Nine one-word replacements** (naming word only, every adjective preserved): CW3 `wooden–bed`→`wooden–hut`, `cold–river`→`cold–morning`, `new–bag`→`new–kite`; HW3 `bright–sun`→`bright–day`; CW4 `beautiful–garden`→`beautiful–river`, `new–bag`→`new–shoe`; HW4 `bright–sun`→`bright–afternoon`, `dirty–shoe`→`dirty–river`, `grassy–garden`→`grassy–field`. **No pair now appears more than twice.** Printed columns re-deranged on the four changed sets; CW1/HW1/CW2/HW2 untouched.
+3. **PT Part F strict alternation** (`adjective·verb·adjective·verb`). **Fixed by reordering only — 2, 1, 3, 4 — with no sentence rewritten**; key reordered to match. Marks (4 × 0.5 = 2) and the part total unchanged.
+4. **Two conflicting PT answer keys.** A stale block described an **adjective-only** paper that no longer exists; a teacher could have marked from it. **Key-only correction:** its Part A dictation list is **retained** — it is the only place the ten words are written down — and Parts B–E are struck through under a do-not-mark warning, not deleted (Charter §K.3).
+5. **Off-roster name.** `Rani` (not on the Charter §H.5 roster) replaced in three places: Wednesday script → **Porshi**; PT Part B #6 → **Maryam**; PT Part C #3 → **Fatima**. Rani was never a keyed answer, so **no key, mark or task structure changed**. The roster route was considered and declined — §H.5's list is composed of Muslim names and that composition is deliberate.
+
+**Ruled acceptable — no content changed:**
+6. **17 open-answer repeats** (`Aisha has a ____ bag.`, *write your own*): there is no key at all, so nothing can be recalled.
+7. **47 rule-derived identify repeats** (underline / circle / dual-job): the answer is produced by applying *"does this word describe the naming word?"*, not by recall — the PD-044 reasoning.
+8. **3 PT Part E items** repeated from CW4/HW2/HW3: same rule-derived identify task; accepted on the PD-044/PD-046 basis.
+9. **12 match pairs now appearing exactly twice.** Option 2 was chosen deliberately — cap at two rather than eliminate. Meeting a pair a second time across a week is ordinary practice; it was the three- and four-fold repetition that built recall, and that is gone.
+
+**Recorded as a gap, not a failure:** no worksheet prints a mark total (computed CW1/HW1/CW2/HW2 33 · CW3/HW3 32 · CW4 36 · HW4 34, against a header prediction of "30 CW / 28 HW"). No governing file requires a printed total, so nothing is changed; the gate simply has nothing to check the key against.
+
+**Structural correction:** the **40 graded match placements were invisible to every gate** — Part B carried a mark value with no itemised pairs, which is why the repetition went undetected until it was extracted by hand. The manifest now itemises them. Manifest-only; no content effect.
+
+**Scope.** Block-scoped to C3 Block 7. `CROSS_SHEET_MAX_REPEATS` stays 0; PD-036, PD-038, PD-044, PD-045 and PD-046 are unamended; no drive-wide waiver is created.
+**Status:** Ruled (Principal, 09.08.26).
+
+---
+
 *End of working log as of 01.08.26. Several items from the most recent Class 4 Block 02 and Class 3 Block 02 discussions are still pending your classification/confirmation and are not yet included above.*

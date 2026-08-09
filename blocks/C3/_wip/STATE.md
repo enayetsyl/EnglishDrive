@@ -30,7 +30,11 @@ manifest exists and every gate returns PASS.**
 
 ## Pending — must close before promotion
 
-### BC-1 · ⛔ Unresolved PD citation — *big* and *table*
+### BC-1 · ✅ **CLOSED 09.08.26 — ruled PD-047.** `big` and `table` are a PD-012 block-local set (as extended by PD-035); the four `big` items and the `wooden–table` pair are unchanged, the header row now declares the set, and the Sunday-script citation reads PD-047. Superseded text retained below.
+
+#### Superseded statement of BC-1 (retained for the record)
+
+~~⛔ Unresolved PD citation — *big* and *table*~~
 
 The Sunday script reads *"**big** and **table** are taught this block — PD-029, PD-030"*. Neither number holds that
 ruling: PD-029 is the C4 spine renumbering, PD-030 the `C4B04-AK` consolidation. The citation has been replaced in the
@@ -98,3 +102,52 @@ HW key transcribability (10 pairs) · rehearsal disjointness · sacred-word · v
 our, their, this, that*) are declared as **PD-009 exemplars**, following the C5B07 precedent — the master calls them
 "carriers, not pool-held", but they are graded answers and the gate requires an instrument. Dual-job Part D items carry
 `clean` as the trigger, not the grammar label.
+
+---
+
+## Audit run 2 — 09.08.26 · approved repair applied · `audits/reports/C3B07_audit_2026-08-09.txt`
+
+Applied exactly the approved set, nothing more. **Result: 11 PASS · 2 FAIL, both ruled.**
+
+| # | Change | Scale |
+|---|---|---|
+| 1 | PT Part B item 8 → `I see ___ ostrich.` | 1 item + 1 key line — **PT now 34/34, Article 9, no half-marks** |
+| 2 | `big` + `table` declared block-local (PD-047) | header row + 1 script citation + manifest — **zero content change**; held-word gate now PASSES 220 targets |
+| 5 | 9 match replacements (naming word only, every adjective preserved) | CW3 3 · HW3 1 · CW4 2 · HW4 3; four sets re-deranged; **no pair now appears more than twice** |
+| 6 | PT Part F reordered 2·1·3·4 | **no sentence rewritten**; key reordered; de-patterning now PASSES |
+| 8 | Stale PT key struck through under a do-not-mark warning | **Part A dictation list retained** — the only record of the ten words |
+| 9 | `Rani` → Porshi (script) · Maryam (PT B#6) · Fatima (PT C#3) | carrier names only; **no key, mark or task structure moved** |
+| — | 40 match placements itemised in the manifest | structural; they were invisible to every gate before |
+
+**Gate movement**
+
+| Gate | Before | After |
+|---|---|---|
+| De-patterning | FAIL — PT Part F alternation | **PASS** |
+| Mark totals | FAIL — PT 34.5 vs 34 | **PASS — PT 34/34** |
+| Held-word / block-local | FAIL — `big` ×4 | **PASS — 220 targets** |
+| CW↔HW overlap | PASS | PASS (4% / 0% / 0% / 0%) |
+| HW key transcribability | PASS (10 pairs) | PASS (**14** pairs — match parts now visible) |
+| PT zero-overlap | FAIL — 3 items | FAIL — same 3, **ruled PD-048(8)** |
+| Cross-sheet repetition | FAIL — 64 texts | FAIL — 76 texts, **all ruled PD-048(6,7,9)** |
+
+The cross-sheet count rises from 64 to 76 only because the 12 surviving match pairs are now **visible** for the first
+time; every one sits at exactly two appearances, which is the Option-2 target. Within-sheet duplicates, option lists,
+rehearsal disjointness, sacred-word, values lexicon and one-defensible-answer all PASS.
+
+**Both remaining failures are ruled (PD-048).** No unruled failure stands.
+
+## Still open
+
+1. **File 2 size-adjective gap** — the C3 pool holds **no** size adjectives (*big, small, little, tall, long, short*).
+   PD-047 covers this block; filling the pool affects every C3 block and needs its own ruling. **Flagged, unfilled.**
+2. **PD-032/PD-034 widened PT overlap not yet run** — `C3B0607-PT` grades Block 6 (Article) too, so Block 6's
+   worksheets should be loaded as `pt_overlap_only` reference, exactly as was done for C2. Not run.
+3. **C3 Drive Plan §4/§7 forward-only note** owed (combined `C3B0607-PT`, PD-043).
+4. **Roll = 17** is a Principal ruling, not file-verified.
+5. **PD-042 §H.5 re-screen** (Rabab now male) — this block not swept.
+6. **`extracts/C3/TN/` duplicate** under the old stem — regenerate from the master at promotion, don't edit in place.
+7. **No worksheet prints a mark total** — recorded as a gap, not a failure (PD-048); no governing file requires one.
+
+**Block remains in `_wip/` — not promoted.** Corrections logged **CR-025 … CR-030**.
+

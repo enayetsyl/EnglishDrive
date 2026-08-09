@@ -18,7 +18,10 @@
   "this",
   "that"
  ],
- "block_local": [],
+ "block_local": [
+  "big",
+  "table"
+ ],
  "sheets": [
   {
    "name": "CW1",
@@ -139,8 +142,38 @@
     },
     {
      "name": "B",
-     "marks": 5,
-     "items": []
+     "items": [
+      {
+       "text": "wooden–bed",
+       "answer": "bed",
+       "trigger": "wooden",
+       "marks": 1
+      },
+      {
+       "text": "beautiful–garden",
+       "answer": "garden",
+       "trigger": "beautiful",
+       "marks": 1
+      },
+      {
+       "text": "bright–sun",
+       "answer": "sun",
+       "trigger": "bright",
+       "marks": 1
+      },
+      {
+       "text": "favourite–kite",
+       "answer": "kite",
+       "trigger": "favourite",
+       "marks": 1
+      },
+      {
+       "text": "polluted–city",
+       "answer": "city",
+       "trigger": "polluted",
+       "marks": 1
+      }
+     ]
     },
     {
      "name": "C",
@@ -325,8 +358,38 @@
     },
     {
      "name": "B",
-     "marks": 5,
-     "items": []
+     "items": [
+      {
+       "text": "hard–bed",
+       "answer": "bed",
+       "trigger": "hard",
+       "marks": 1
+      },
+      {
+       "text": "cozy–hut",
+       "answer": "hut",
+       "trigger": "cozy",
+       "marks": 1
+      },
+      {
+       "text": "dirty–shoe",
+       "answer": "shoe",
+       "trigger": "dirty",
+       "marks": 1
+      },
+      {
+       "text": "cold–river",
+       "answer": "river",
+       "trigger": "cold",
+       "marks": 1
+      },
+      {
+       "text": "new–bag",
+       "answer": "bag",
+       "trigger": "new",
+       "marks": 1
+      }
+     ]
     },
     {
      "name": "C",
@@ -510,8 +573,38 @@
     },
     {
      "name": "B",
-     "marks": 5,
-     "items": []
+     "items": [
+      {
+       "text": "new–bag",
+       "answer": "bag",
+       "trigger": "new",
+       "marks": 1
+      },
+      {
+       "text": "old–house",
+       "answer": "house",
+       "trigger": "old",
+       "marks": 1
+      },
+      {
+       "text": "cold–river",
+       "answer": "river",
+       "trigger": "cold",
+       "marks": 1
+      },
+      {
+       "text": "bright–sun",
+       "answer": "sun",
+       "trigger": "bright",
+       "marks": 1
+      },
+      {
+       "text": "grassy–garden",
+       "answer": "garden",
+       "trigger": "grassy",
+       "marks": 1
+      }
+     ]
     },
     {
      "name": "C",
@@ -696,8 +789,38 @@
     },
     {
      "name": "B",
-     "marks": 5,
-     "items": []
+     "items": [
+      {
+       "text": "red–kite",
+       "answer": "kite",
+       "trigger": "red",
+       "marks": 1
+      },
+      {
+       "text": "bright–morning",
+       "answer": "morning",
+       "trigger": "bright",
+       "marks": 1
+      },
+      {
+       "text": "wooden–bed",
+       "answer": "bed",
+       "trigger": "wooden",
+       "marks": 1
+      },
+      {
+       "text": "simple–story",
+       "answer": "story",
+       "trigger": "simple",
+       "marks": 1
+      },
+      {
+       "text": "dirty–shoe",
+       "answer": "shoe",
+       "trigger": "dirty",
+       "marks": 1
+      }
+     ]
     },
     {
      "name": "C",
@@ -857,8 +980,38 @@
     },
     {
      "name": "B",
-     "marks": 5,
-     "items": []
+     "items": [
+      {
+       "text": "cold–morning",
+       "answer": "morning",
+       "trigger": "cold",
+       "marks": 1
+      },
+      {
+       "text": "wooden–hut",
+       "answer": "hut",
+       "trigger": "wooden",
+       "marks": 1
+      },
+      {
+       "text": "clean–towel",
+       "answer": "towel",
+       "trigger": "clean",
+       "marks": 1
+      },
+      {
+       "text": "new–kite",
+       "answer": "kite",
+       "trigger": "new",
+       "marks": 1
+      },
+      {
+       "text": "grassy–garden",
+       "answer": "garden",
+       "trigger": "grassy",
+       "marks": 1
+      }
+     ]
     },
     {
      "name": "C",
@@ -1046,8 +1199,38 @@
     },
     {
      "name": "B",
-     "marks": 5,
-     "items": []
+     "items": [
+      {
+       "text": "beautiful–garden",
+       "answer": "garden",
+       "trigger": "beautiful",
+       "marks": 1
+      },
+      {
+       "text": "wet–towel",
+       "answer": "towel",
+       "trigger": "wet",
+       "marks": 1
+      },
+      {
+       "text": "wooden–table",
+       "answer": "table",
+       "trigger": "wooden",
+       "marks": 1
+      },
+      {
+       "text": "bright–day",
+       "answer": "day",
+       "trigger": "bright",
+       "marks": 1
+      },
+      {
+       "text": "old–house",
+       "answer": "house",
+       "trigger": "old",
+       "marks": 1
+      }
+     ]
     },
     {
      "name": "C",
@@ -1234,8 +1417,38 @@
     },
     {
      "name": "B",
-     "marks": 5,
-     "items": []
+     "items": [
+      {
+       "text": "beautiful–river",
+       "answer": "river",
+       "trigger": "beautiful",
+       "marks": 1
+      },
+      {
+       "text": "cozy–hut",
+       "answer": "hut",
+       "trigger": "cozy",
+       "marks": 1
+      },
+      {
+       "text": "new–shoe",
+       "answer": "shoe",
+       "trigger": "new",
+       "marks": 1
+      },
+      {
+       "text": "simple–story",
+       "answer": "story",
+       "trigger": "simple",
+       "marks": 1
+      },
+      {
+       "text": "clean–towel",
+       "answer": "towel",
+       "trigger": "clean",
+       "marks": 1
+      }
+     ]
     },
     {
      "name": "C",
@@ -1436,8 +1649,38 @@
     },
     {
      "name": "B",
-     "marks": 5,
-     "items": []
+     "items": [
+      {
+       "text": "grassy–field",
+       "answer": "field",
+       "trigger": "grassy",
+       "marks": 1
+      },
+      {
+       "text": "bright–afternoon",
+       "answer": "afternoon",
+       "trigger": "bright",
+       "marks": 1
+      },
+      {
+       "text": "hard–bed",
+       "answer": "bed",
+       "trigger": "hard",
+       "marks": 1
+      },
+      {
+       "text": "dirty–river",
+       "answer": "river",
+       "trigger": "dirty",
+       "marks": 1
+      },
+      {
+       "text": "new–pen",
+       "answer": "pen",
+       "trigger": "new",
+       "marks": 1
+      }
+     ]
     },
     {
      "name": "C",
@@ -1593,7 +1836,7 @@
        "marks": 0.5
       },
       {
-       "text": "Rani has ___ apple and ___ card.",
+       "text": "Maryam has ___ apple and ___ card.",
        "answer": "an apple / a card",
        "marks": 1.0
       },
@@ -1603,9 +1846,9 @@
        "marks": 0.5
       },
       {
-       "text": "I see ___ cat and ___ ostrich.",
-       "answer": "a cat / an ostrich",
-       "marks": 1.0
+       "text": "I see ___ ostrich.",
+       "answer": "an ostrich",
+       "marks": 0.5
       }
      ]
     },
@@ -1623,7 +1866,7 @@
        "marks": 0.5
       },
       {
-       "text": "Rani has a onion.",
+       "text": "Fatima has a onion.",
        "answer": "an",
        "marks": 0.5
       },
@@ -1721,13 +1964,13 @@
      "name": "F",
      "items": [
       {
-       "text": "A clean bag is on the bed.",
-       "answer": "adjective",
+       "text": "Please clean the pen box.",
+       "answer": "verb",
        "marks": 0.5
       },
       {
-       "text": "Please clean the pen box.",
-       "answer": "verb",
+       "text": "A clean bag is on the bed.",
+       "answer": "adjective",
        "marks": 0.5
       },
       {
