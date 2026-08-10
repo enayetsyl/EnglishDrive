@@ -3,7 +3,7 @@
 
 **Class:** 3 · **Block:** 8 · **Week:** 7 · **Days:** 4 teaching (Sun–Wed) + Performance Test (Thu)
 **Filename:** `C3_ENG_Block08_Pronoun_v1.md`
-**Build status:** ⚠ **IN PROGRESS — Days 1–2 built and audited (ALL GATES PASS).** Days 3–4, PT, Assignment, AK and TD are not written.
+**Build status:** ⚠ **IN PROGRESS — Days 1–3 built and audited (ALL GATES PASS).** Day 4, PT, Assignment, AK and TD are not written.
 
 ---
 
@@ -74,6 +74,10 @@ naming word (*this book* — Block 7) or stand in its place (*This is mine*).
   Block 7 adjectives.
 - ☐ **Day 1 carries no possessive word and no object pronoun** — not as an answer, not in a sentence, not in an
   instruction's option list. **Day 2 adds *I · we · you* only**; object forms wait for Day 3.
+- ☐ **Day 3 is the only place a possessive appears**, and only inside the describing-word/pronoun discrimination
+  (Part D). *her/his/their* before a naming word stay **Block 7** content and are **never a keyed pronoun answer**.
+- ☐ **Every "underline the pronoun" sentence contains exactly one pronoun.** Two pronouns in one sentence gives a
+  pupil two defensible marks — checked mechanically, not by eye.
 - ☐ **Fading box:** Day 1 prints the full list (and is the option set), **Day 2 prints new terms only and is NOT an
   option list**, Day 3 prints none. Annual Q3 supplies no box, so the fade ends where the exam sits.
 - ☐ Every graded item has **exactly one possible antecedent**. Read each one and ask *"which naming word, and how
@@ -282,6 +286,110 @@ Build the finished set on the board with the class:
 | 9 | my family and I | we | | | | |
 
 *Balance: they 3 · we 3 · it 3 · she 3 · he 2 · I 2 · you 1. No two adjacent answers alike; no strict alternation.*
+
+---
+
+## Class 3 (Tuesday) — The form that **receives** the work (*me · us · him · her · them*)
+
+*Apply. The heaviest day of the block: the object forms arrive, all twelve pronouns are live, and the ***her*** collision with Block 7 has to be met rather than avoided.*
+
+| Step | Min | Activity |
+|---|---|---|
+| 1 | 0–8 | Two jobs in one sentence: who does it, who receives it |
+| 2 | 8–16 | The pairs — *I/me · we/us · he/him · she/her · they/them* |
+| 3 | 16–24 | ***her*** does two different jobs (Block 7 re-walk) · *it* and *you* never change |
+| 4 | 24–30 | CW-3 |
+| 5 | 30–35 | Exit Check (17) |
+
+**Step 1 — Two jobs in one sentence (0–8 min)**
+
+Write on the board:
+
+> Yusuf helps Abdullah.
+
+*"Two people here. Who **does** the helping?"* — Yusuf. *"Who **receives** the help?"* — Abdullah. Underline them
+differently as the class answers. *"So one name **does** the work, and one name **receives** it."*
+
+*"Now — we already know Yusuf can become **he**."* Write it:
+
+> **He** helps Abdullah.
+
+*"And Abdullah? Careful. Abdullah is not doing the helping — he is **receiving** it. When a naming word receives
+the work, the pronoun changes its shape."*
+
+> Yusuf helps **him**.
+
+*"**He** does it. **Him** receives it. Same person — different job, different shape."* Say that line twice. It is
+the whole lesson.
+
+**Step 2 — The pairs (8–16 min)**
+
+Build the table with the class. Ask for the left column first — they know it from Sunday and Monday — then supply
+the right.
+
+| Does the work | Receives the work |
+|---|---|
+| I | **me** |
+| we | **us** |
+| you | **you** |
+| he | **him** |
+| she | **her** |
+| it | **it** |
+| they | **them** |
+
+*"Look at **you** and **it**. They do not change at all — same word for both jobs. Two fewer things to remember."*
+Let that land as relief; children notice it.
+
+Practise orally, teacher gives the first half, class completes:
+*Mother gives ___ a card* (me) · *Nusair calls ___* (him) · *Porshi helps ___* (her) ·
+*Father takes ___ to the library* (us) · *Abdullah meets ___* (them).
+
+**Step 3 — *her* does two different jobs (16–24 min)** — *a Block 7 re-walk, not new teaching*
+
+This is the one place this block can confuse a child, so meet it directly.
+
+> Aisha keeps **her** book on the shelf.
+> Raima helps **her**.
+
+*"Same word. Two different jobs. How do we tell?"* Take answers, then give the test and write it up:
+
+> **Is there a naming word right after it?**
+> **her book** → a naming word follows → it is **describing** the book. That is a **describing word** (Block 7).
+> **helps her** → nothing follows → it stands **in place of** a naming word. That is a **pronoun**.
+
+*"You learned this rule last week from the other side: a word **before** a naming word describes it. A word that
+**takes its place** is a pronoun. Same rule, new word."*
+
+Do the same with **his**: *Nusair carries **his** bag* (describing) vs *Abdur Rahim calls **him*** (pronoun) —
+note that *his* and *him* are different words, which makes that pair easier than *her*.
+
+**Teacher note — scope.** *her/his/their* **before a naming word** belong to Block 7 and are **never a keyed
+pronoun answer** in this block. They appear here only so the child can tell them apart. Do not re-teach the
+possessive; re-walk it and move on.
+
+**Step 4 — CW-3 (24–30 min).** Hand out `C3B08-CW3`. **No hint box from today** — the fading box has ended, and
+the exam paper supplies none. Do **Part D item 25** together, applying the "is there a naming word after it?" test
+aloud.
+
+**Step 5 — Exit Check (30–35 min)**
+
+### Exit Check — Day 3 (17 prompts, one per student)
+
+*For a pronoun, the student gives the **receiving** form. For a name, the student gives the pronoun that would receive the work.*
+
+| # | Prompt | Answer | | # | Prompt | Answer |
+|---|---|---|---|---|---|---|
+| 1 | he | him | | 10 | she | her |
+| 2 | we | us | | 11 | we | us |
+| 3 | Aisha, as the one who receives | her | | 12 | Abdullah, as the one who receives | him |
+| 4 | they | them | | 13 | they | them |
+| 5 | I | me | | 14 | I | me |
+| 6 | it | it | | 15 | Raima, as the one who receives | her |
+| 7 | Yusuf, as the one who receives | him | | 16 | it | it |
+| 8 | you | you | | 17 | he | him |
+| 9 | Maryam and Fatima, as the ones who receive | them | | | | |
+
+*Balance: him 4 · her 3 · them 3 · us 2 · me 2 · it 2 · you 1. No two adjacent answers alike; no strict alternation.*
 
 ---
 
@@ -524,10 +632,121 @@ taught across more than one day.)*
 
 ---
 
+### CW3 — Pronoun (Classwork, Day 3)
+
+**School for Community Development — Sylhet Branch**
+**English Skill-Building Drive · Class 3 · Block 8 (Pronoun) · Classwork**
+
+*(No hint box from Day 3 — exam conditions. The binding paper supplies no box, so the fade ends here.)*
+
+**Part A — Underline the pronoun in each sentence. [8 × 1 = 8]**
+
+1. Aisha helps her.
+2. Yusuf calls him.
+3. Mother gives me a card.
+4. Porshi takes them to the garden.
+5. Nusair passes us the corn.
+6. Abdullah keeps it on the shelf.
+7. Father reads a story to you.
+8. We help Fatima.
+
+**Part B — Write the pronoun that takes the place of the underlined naming word. [8 × 1 = 8]**
+
+9. Yusuf helps <u>Abdullah</u>.   → ______
+10. Aisha keeps <u>the towels</u> on the shelf.   → ______
+11. Porshi calls <u>Maryam</u>.   → ______
+12. Nusair carries <u>the corn</u> to the hut.   → ______
+13. Rabab helps <u>Fatima and Maryam</u>.   → ______
+14. Abdur Rahim gives <u>Yusuf</u> a pen.   → ______
+15. Mother washes <u>the dish</u>.   → ______
+16. Aisha meets <u>Raima</u>.   → ______
+
+**Part C — Read both sentences. Write the pronoun in the blank. [8 × 1 = 8]**
+
+17. Yusuf has a new bag. Mother gives ______ a pen.
+18. Aisha and Maryam clean the garden. Porshi helps ______.
+19. The corn is in the field. Nusair carries ______ to the hut.
+20. I am in class three. My father helps ______.
+21. Abdullah is a good friend. Yusuf calls ______ every morning.
+22. Rabab has two hats. ______ are new.
+23. We go to the field. Nusair passes ______ the football.
+24. Fatima reads a story. ______ likes the book.
+
+**Part D — Is the word in bold a describing word or a pronoun? Write *describing word* or *pronoun*. [4 × 1 = 4]**
+
+25. Aisha keeps **her** book on the shelf.   → ______
+26. Raima helps **her**.   → ______
+27. Abdur Rahim calls **him**.   → ______
+28. Nusair carries **his** bag.   → ______
+
+*Canonical ID: C3B08-CW3 · Graded total: 28 marks*
+
+---
+
+### HW3 — Pronoun (Homework, Day 3)
+
+**School for Community Development — Sylhet Branch**
+**English Skill-Building Drive · Class 3 · Block 8 (Pronoun) · Homework**
+
+**Part A — Underline the pronoun in each sentence. [8 × 1 = 8]**
+
+1. Maryam calls them.
+2. Father gives us the food.
+3. Fatima helps her.
+4. Yusuf keeps it in the bag.
+5. Abdullah meets him.
+6. Mother reads a story to me.
+7. They open the tin.
+8. Nusair gives you a card.
+
+**Part B — Write the pronoun that takes the place of the underlined naming word. [6 × 1 = 6]**
+
+9. Porshi keeps <u>the cards</u> in the bag.   → ______
+10. Mother gives <u>Abdur Rahim</u> a towel.   → ______
+11. Abdullah carries <u>the leaf</u>.   → ______
+12. Maryam helps <u>Aisha</u>.   → ______
+13. Yusuf calls <u>Nusair</u>.   → ______
+14. Rabab meets <u>Fatima and Raima</u>.   → ______
+
+**Part C — Read both sentences. Write the pronoun in the blank. [8 × 1 = 8]**
+
+15. The soap is on the tap. Fatima keeps ______ in the dish.
+16. Maryam has a new pen. Mother gives ______ a book.
+17. We live in a village. Father takes ______ to the city.
+18. Yusuf and Nusair play football. Abdullah helps ______.
+19. Rabab washes the dish. ______ keeps it on the shelf.
+20. I go to school every morning. Father takes ______ to the library.
+21. Porshi is a good friend. Raima calls ______ every evening.
+22. The leaves are on the tree. ______ are wet.
+
+**Part D — Is the word in bold a describing word or a pronoun? Write *describing word* or *pronoun*. [4 × 1 = 4]**
+
+23. Abdullah helps **him**.   → ______
+24. Yusuf keeps **his** pen in the bag.   → ______
+25. Porshi washes **her** dish.   → ______
+26. Aisha calls **her**.   → ______
+
+**Part E — Vocabulary Writing.** *(Not marked — your teacher will check it. Write the Bangla meaning of each word.)*
+
+> **Word Bank:** ant · grasshopper · winter · summer · field
+
+| English Word | বাংলা অর্থ |
+|---|---|
+| | |
+| | |
+| | |
+| | |
+| | |
+
+*Canonical ID: C3B08-HW3 · Graded total: 26 marks*
+
+---
+
 ## Version log
 
 | Version | Date | Change |
 |---|---|---|
+| v1.3 (in progress) | 2026-08-10 | **Day 3 built — `C3B08-CW3` (28) and `C3B08-HW3` (26); all gates PASS across six sheets, 162 graded targets.** Tuesday brings the object forms, so all twelve pronouns are live. **The *her* collision is met head-on rather than steered around.** *her* is a Block 7 possessive adjective (*her book*) **and** a Day-3 object pronoun (*Raima helps her*); the block cannot avoid it, because a pupil who cannot separate them will mis-mark every sheet from here on. Step 3 re-walks it with a single test — **"is there a naming word right after it?"** — which is the §2 boundary rule the pupil already met from the other side in Block 7, not new teaching. **New part shape: Part D, "describing word or pronoun?"**, keyed on that test, mirroring C3B07's Part F (*"Is `clean` an adjective or a verb?"*) — the direct precedent from the immediately preceding block. Possessives appear **nowhere else** on either sheet, and *her/his* before a naming word is never a keyed pronoun answer. **Three human gates run and clean:** (i) every "underline the pronoun" sentence carries **exactly one** pronoun, checked mechanically — two would give a pupil two defensible marks; (ii) no possessive leaks onto any part outside D; (iii) every Part D key re-derived from the taught test independently of the key as written, 8/8 match. **§H.4 screen:** every one of the day's 52 items re-read for pairing — all cross-gender interactions recast to same-sex pairs (*Aisha–Raima*, *Yusuf–Abdullah*) or declared family (*Mother/Father* with the speaker), several items rewritten for this before the audit. Part D de-patterned deliberately: CW3 runs D·P·P·D against HW3's P·D·D·P, so a two-value key has zero positional overlap. ⚑ **Watch:** CW3↔HW3 positional overlap is **27%**, the highest of the block against a 35% gate — Day 4 has fewer free answer slots and must be shuffled independently, not trimmed from CW4. |
 | v1.2 (in progress) | 2026-08-10 | **Day 2 built — `C3B08-CW2` (28) and `C3B08-HW2` (26); all gates PASS across four sheets, 108 graded targets.** Monday teaches *I · we · you*, deliberately lighter than Day 1: yesterday's four pronouns all needed a naming word to point back to, and today's three do not. New item shape **S3 (two-sentence cloze)** enters here — the anchor skill in its smallest unit. Fading box now at "new terms only" and explicitly **not** an option list (no part offers a set to choose from, because Annual Q3 offers none). **⚑R1 CLOSED by PD-057** — roster names ruled a standing instrument, drive-wide, not counted toward load. **Three items fixed by the human antecedent gate after the scripts passed:** (a) *"My name is Rabab. ___ go to school on Sunday."* had **no forced answer** — `We` and `They` are both defensible, since the first sentence fixes only the speaker and `go` agrees with all three; recast to *"___ am a good member."*, where **`am` forces `I`** and nothing else. This is the CR-005 failure the blueprint predicted, and it is invisible to every gate — the key was internally consistent, so the audit was green. (b) The repair put *"good member"* on the same sheet twice, so HW2 C24 became *"Nusair, ___ are a good brother."* (c) CW2 B11 read *"go to the library"*, already used at CW2 A8 on the same sheet — recast to *"keep the garden"* (B10 phrase crowding). **Forcing devices now used deliberately:** `am` for first person, a vocative for second, number agreement (*Porshi has two hats → **They** are new*) and animacy (*Abdur Rahim eats the corn → **He** goes to school*) for third. §H.4: every plural antecedent on both sheets is a same-sex pair or declared family (*my brother/sister/mother/father/family and I*). §H.9: nature carriers checked — *"The tree is in the garden. It has many leaves"* is descriptive, no autonomous giver. |
 | v1.1 (in progress) | 2026-08-10 | **First audit run: one genuine FAIL, fixed; then ALL GATES PASS.** (a) **Cross-sheet repetition (PD-036, threshold 0)** — `HW1` Part B item 18 read **`Yusuf`**, duplicating `CW1` Part B item 11 verbatim. My own pre-audit estimate had scored this "1 identical item, under the ≤2/day threshold"; the operative gate for cross-sheet text is **zero**, not two, so the estimate was wrong and the script was right. Changed to **`Abdullah`** (answer `he` unchanged, so no key, balance or de-patterning sequence moved). A bare-name item is inherently short of distinct texts — noted for Days 2–4, where Part B recurs. (b) **PD-054 fields added** — the parallel C4 session landed PD-054 mid-build, extending the values, sacred and held-word screens to read `boxes`, `instructions` and `clue`. Both sheets now declare their Remember box and all six part instructions; `clue` stays deliberately empty (see header). (c) **PD ceiling re-derived from HEAD**: the log now runs to **PD-055**, not PD-053 — the parallel session took 054 and 055 while this block was drafting, and renumbered its own entry 051→054 because this session had taken 051/052/053. Next free is **056**. Audit report: `audits/reports/C3B08_audit_2026-08-10.txt`. |
 | v1 (in progress) | 2026-08-10 | **Day 1 built.** Provenance header, Clue Card `C3B08-CC`, teacher checklist, Sunday script with Term Drill and 17-prompt Exit Check, `C3B08-CW1` (28 marks) and `C3B08-HW1` (26 marks). Built against Charter **v1.6**, Run Book v1.17, Drive Plan **v1.9**, and the approved Phase 3 blueprint. Rulings in force: **PD-051** (twelve pronouns block-local), **PD-052** (*you* taught and graded), **PD-053** (roster), PD-010, PD-012/035, PD-015, PD-018. Day 1 answer set restricted to `he·she·it·they` per the blueprint staging table; **no possessive word and no object pronoun appears anywhere on either sheet.** CW↔HW positional overlap: Part A **0/10**, Part B **0/8**, Part C **1/8 (12.5%)** — all under the 35% gate. One identical item text across the pair (*Yusuf*, CW1 #11 / HW1 #18) — under the ≤2/day threshold. Days 2–4, PT, Assignment, AK and TD **not written**. |

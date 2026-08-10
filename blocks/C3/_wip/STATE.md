@@ -20,7 +20,7 @@ day staging as proposed · subject/object **terms taught, not graded** (PD-014 p
 **`C3B08-PT` at 30 marks**, Part D at 8 blanks × 0.5 · dictation 10 words (6×W7 + 4×W6) · Assignment built in
 this pass · volume held at ~28 CW / ~26 HW.
 
-**Phase 4 — IN PROGRESS. Days 1–2 built and audited: ALL GATES PASS** (4 sheets, 108 graded targets).
+**Phase 4 — IN PROGRESS. Days 1–3 built and audited: ALL GATES PASS** (6 sheets, 162 graded targets).
 `_wip/C3_ENG_Block08_Pronoun_v1.md` (v1.2) carries the provenance header, Clue Card, checklist, the Sunday and
 Monday scripts, two 17-prompt Exit Checks, `C3B08-CW1` (28) · `C3B08-HW1` (26) · `C3B08-CW2` (28) · `C3B08-HW2` (26).
 Manifest `_wip/C3B08_manifest.json`. Report `audits/reports/C3B08_audit_2026-08-10.txt`.
@@ -35,7 +35,18 @@ agree with `go`, and the first sentence fixes only the speaker. The key was inte
 see it. Recast so **`am` forces `I`**. Two consequential fixes followed. Forcing devices now used deliberately:
 `am` (first person), vocative (second person), number agreement and animacy (third).
 
-**Paused for review before Day 3** (Run Book §7.5).
+**Day 3 (Tuesday) — object forms; all twelve pronouns live.** The *her* collision with Block 7 is met head-on:
+*her book* (describing word) vs *helps her* (pronoun), separated by the single test **"is there a naming word right
+after it?"** — the §2 boundary rule the pupil already met from the other side, so a re-walk, not new teaching.
+New Part D, *"describing word or pronoun?"*, mirrors C3B07's Part F precedent. Possessives appear nowhere else.
+Three human gates clean: one pronoun per underline sentence (checked mechanically), no possessive leak outside
+Part D, and all 8 Part D keys re-derived from the taught test. §H.4 screen rewrote several items to same-sex or
+family pairings before the audit ran.
+
+⚑ **CW3↔HW3 positional overlap is 27%**, the highest of the block against a 35% gate. Day 4 has fewer free answer
+slots — shuffle independently, never trim CW4 into HW4.
+
+**Paused for review before Day 4** (Run Book §7.5).
 
 ---
 

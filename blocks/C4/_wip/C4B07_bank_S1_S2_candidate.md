@@ -64,7 +64,7 @@ Phase 4, unit 1 of the build. Strands 3–7 follow after this one is read.
 | S1-32 | Yusuf enjoys the holiday. | enjoy |
 | S1-33 | The teacher likes the new poster. | like |
 | S1-34 | Abdullah collects the tickets. | collect |
-| S1-35 | The daughter carries the letter. | carry ⚑ |
+| ~~S1-35~~ | **RELOCATED to S3-23** (10.08.26) — `carry → carries` is a `-ies` change and belongs to Strand 3. Not available to Day 1. | — |
 
 ⚑ **S1-35 is misfiled and I have left it visible rather than quietly moving it.** `carry → carries` is a
 `-ies` spelling change, so it belongs in **Strand 3**, not here. Flagging rather than relocating because the
@@ -106,12 +106,13 @@ moves.
 | S2-27 | The children help their mother. | help |
 | S2-28 | The doctors inform the family. | inform |
 | S2-29 | The friends discuss the news. | discuss |
-| S2-30 | The boys throw the ball. | throw ⚑ |
+| S2-30 | The cousins throw the stones. | throw ⚑ |
 
-⚑ **S2-30 fails and must not be used as written.** `boy` and `ball` are **both absent from the C4 pool** — I
-caught this on the verification pass. Replacement candidate: **The cousins throw the stones.** Left visible
-rather than silently swapped, because the near-miss is the point: `ball` reads as obviously age-appropriate
-and is exactly the kind of word that slips past a human read (this is the CR-001 failure type).
+⚑ **S2-30 was originally *"The boys throw the ball."* and FAILED** — `boy` and `ball` are **both absent from
+the C4 pool**, caught on the programmatic verification pass. Replaced 10.08.26 with *The cousins throw the
+stones.* The original is recorded here because the near-miss is the point: `ball` reads as obviously
+age-appropriate and is exactly the kind of word that slips past a human read (the CR-001 failure type).
+**Logged to `CORRECTIONS.md` as CR-033.**
 
 ---
 
