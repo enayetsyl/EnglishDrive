@@ -3,10 +3,18 @@
 **Block ID:** `C4B07` · **Block:** Verb & Subject–Verb Agreement · **Week:** W7 (solo, FULL, protected)
 **Status: PHASE 4 OPEN — unit 1 (sentence bank, Strands 1–2) issued for the human read. No master drafted.**
 Blueprint `blocks/C4/_wip/C4B07_blueprint.md` — **APPROVED (Principal, 10.08.26).**
-Bank unit 1: `blocks/C4/_wip/C4B07_bank_S1_S2_candidate.md` — 63 usable candidates, awaiting naturalness read.
-Held-word verification run over the bank: 65 sentences, every content word traces to the pool, a taught
-inflection, the §H.5 roster or a function word — **except the two the bank itself flags** (`boys`, `ball`
-in S2-30, replacement proposed).
+Bank unit 1: `C4B07_bank_S1_S2_candidate.md` (S1–S2, Day 1) · unit 2: `C4B07_bank_S3_S7_candidate.md`
+(S3–S7, Days 2–4). **160 candidates, 160 distinct — both awaiting the human naturalness read.**
+Programmatic verification over the whole bank: **160 sentences, 160 distinct (PD-036 zero-repeat holds),
+zero unheld tokens.** Two defects were caught by that pass and are now fixed — S2-30 `boys`/`ball`
+(**CR-033**, 3rd occurrence of the unheld-word type) and the S1-35/S3-23 duplicate created by relocating
+`carries` into Strand 3.
+
+**⚑ Pool finding, flagged not resolved:** the `-es/-ies` sub-rule rests on **exactly five held verbs**
+(`wash · mix · finish · discuss · carry`) and **`carry` is the only `-ies` verb in the entire 160-word pool**.
+Same shape as C3's missing size adjectives (CR-030 → PD-047): a pool gap, not a block defect. No declaration
+proposed — recasting is not blocked, so PD-035 does not authorise one. A wider `-es` set is a File 2 change
+and needs its own ruling.
 Phase 2 list: `blocks/C4/_wip/C4B07_phase2_questions.md` (all five ruled — see table below).
 
 **Phase 2 headline — the pronoun blocker dissolved on inspection.** C4B07 is recommended **not** to replicate

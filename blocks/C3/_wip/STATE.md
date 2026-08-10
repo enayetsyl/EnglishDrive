@@ -21,8 +21,9 @@ day staging as proposed · subject/object **terms taught, not graded** (PD-014 p
 this pass · volume held at ~28 CW / ~26 HW.
 
 **Phase 4 — IN PROGRESS. Days 1–3 built and audited: ALL GATES PASS** (6 sheets, 162 graded targets).
-`_wip/C3_ENG_Block08_Pronoun_v1.md` (v1.2) carries the provenance header, Clue Card, checklist, the Sunday and
-Monday scripts, two 17-prompt Exit Checks, `C3B08-CW1` (28) · `C3B08-HW1` (26) · `C3B08-CW2` (28) · `C3B08-HW2` (26).
+`_wip/C3_ENG_Block08_Pronoun_v1.md` (**v1.3**) carries the provenance header, Clue Card, checklist, the Sunday,
+Monday and Tuesday scripts, three 17-prompt Exit Checks, and six sheets: `C3B08-CW1` (28) · `C3B08-HW1` (26) ·
+`C3B08-CW2` (28) · `C3B08-HW2` (26) · `C3B08-CW3` (28) · `C3B08-HW3` (26).
 Manifest `_wip/C3B08_manifest.json`. Report `audits/reports/C3B08_audit_2026-08-10.txt`.
 
 **PD-057 logged** (Principal, 10.08.26): house-roster names are a **standing instrument, not vocabulary** —
