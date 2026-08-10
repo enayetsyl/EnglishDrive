@@ -15,7 +15,9 @@
 **Phase 1 — Orientation: COMPLETE (10.08.26).** Read-only. Nothing drafted.
 **Phase 2 — COMPLETE (10.08.26).** All eight questions ruled by the Principal in session. Three rulings logged as
 **PD-051**, **PD-052**, **PD-053**; two governance files reissued forward-only under Charter §K.3.
-**Phase 3 — Blueprint: NEXT.** No build content drafted yet.
+**Phase 3 — Blueprint WRITTEN (10.08.26), awaiting Principal approval.** `_wip/C3B08_blueprint.md`.
+Six decisions open in its §D (day staging · are the subject/object *terms* graded · PT structure at a proposed
+**30 marks** · dictation content · Assignment in this pass · volume). **No build content drafted.**
 
 ---
 
@@ -198,10 +200,12 @@ week's batch — the 34-word W7 set above).
 
 ## §7 — Exact next step
 
-**Phase 3 — write the pre-build blueprint** to `_wip/C3B08_blueprint.md` and present it for approval.
-**No build content is drafted until the blueprint is approved** (CLAUDE.md §3).
+**Await approval of `_wip/C3B08_blueprint.md`** — specifically its **§D**, which carries six decisions.
+On approval: draft **Day 1 only** (script + 17-prompt Exit Check + CW1 + HW1) to `_wip/`, then **pause for
+review** before Day 2. One unit of work at a time (Run Book §7.5). **No build content is drafted until the
+blueprint is approved** (CLAUDE.md §3).
 
-The blueprint must settle, in the Starter Template's four parts:
+The blueprint settles, in the Starter Template's four parts:
 
 1. **Day staging** — which pronouns land on which of the four days, and the per-day staging table required by Starter Template Phase 4 (a rule not
    yet taught must not appear as an answer option, or as an item, on that day's sheets).
