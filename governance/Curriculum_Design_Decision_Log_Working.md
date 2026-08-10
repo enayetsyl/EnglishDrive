@@ -819,3 +819,22 @@ Decisions made in principle but not yet implemented. Not official until converte
 **Scope.** Additive and forward-only. Amends no threshold, reopens **PD-036** and **PD-038** not at all, and creates no waiver. Establishes, with PD-036/PD-038, the governance baseline for the C4 Block 7 build.
 **Affected files:** `audits/scripts/run_all.py`, `audits/scripts/selftest_clue_text.py` (new), `audits/scripts/README_manifest.md`, `governance/CORRECTIONS.md` (CR-011), `blocks/C4/_wip/STATE.md`.
 **Status:** Ruled (Principal, 10.08.26); implemented and self-tested the same day.
+
+---
+
+### PD-056 — C4 Block 7: personal pronouns are NOT declared block-local; PD-052's C4 replication flag closes in the negative
+**Decision:** **C4 Block 7 (Verb & Subject–Verb Agreement) declares no PD-012 block-local pronoun set.** It does **not** replicate **PD-051**, and this **closes PD-052's standing flag** — *"cross-class replication to C1/C2/C4/C5 flagged NOT executed"* — **in the negative for C4**. C1/C2/C5 remain open and are untouched by this ruling.
+
+**Why C3B08 and C4B07 are structurally different, not inconsistent.** PD-051 declared C3's eleven personal pronouns block-local on the explicit ground that *"Block 8's entire graded surface rests on these words — every keyed answer in the block is one of them."* That is a Pronoun block. In C4B07 **a pronoun is never the keyed answer**: every graded answer is a **verb form** (`plays`, `washes`, `are`). The pronoun is the **subject**, i.e. carrier text — and the held-word gate is verified **on the trigger, not on carrier text** (CLAUDE.md §4; Run Book §6.5). Nothing in the block grades a pronoun, so nothing needs a held trace for one.
+
+**The `is/are` strand needs no instrument either.** **PD-026** already settles it: when the grammar target *is* a function word, it takes **none** of the three non-held statuses and passes §6.5 *"on the grounds that the answer **is** the block's taught grammar target"*. That is precisely this block's be-agreement items. **C4B05 (Adjective + Pronoun, W5) already ran on the same footing** — its master records *"no PD-009 exemplar, PD-011 override, or PD-012 block-local set"* — so C4 has a same-class precedent one block back.
+
+**What did fail, and why it is recast rather than declared.** The §2 row-7 cap's own headline example is ***He goes (not He go)*** — and **`go` is absent from `C4_ENG_VocabPool_v4.xlsx`** (160 words, verified this session, along with `be · is · are · has · have · student · baker · girl · boy · man`). Under **PD-035**'s boundary — *"incidental carriers are recast, not declared"*, with declaration reserved for cases where recasting would **delete a capped concept** — this is a recast, not a declaration. The capped concept is 3rd-person **-s/-es**, and **34 held SVA-safe verbs** carry it, the pool having pre-tagged the awkward spellings (`washes · mixes · finishes · discusses · carries`). Deleting nothing, the block writes **`He plays` / `She washes` / `The child carries`**. *He goes* survives in the **teacher script only**, which Drive Plan §5 permits for teaching examples.
+
+**Contrast with C4 Block 6, where the same test came out the other way.** At PD-035 the time-preposition strand *was* declared, because File 2 held exactly two time nouns in one category and the at/on/in contrast **is** the concept — recasting would have deleted a Drive-Plan-mandated concept. Here recasting deletes nothing. The instrument test is applied identically in both; only the facts differ.
+
+**Consequences carried into the build:** every graded item declares a `trigger` on its **lexical verb**, never on the pronoun or the be-form — without this the held-word gate goes vacuously green over the whole block, the **CR-032** blind spot in its third occurrence. `each` is likewise PD-026 closed-class and its noun moves to held vocabulary (`Each of the **children** ___`; `child` held W3, `children` its taught Block-2 irregular plural).
+
+**Scope.** Block-scoped to C4 Block 7. Adds no word to File 2, declares no instrument, amends no gate or threshold, reopens no delivered block, and creates **no** drive-wide waiver. Explicitly does **not** rule for C1, C2 or C5, whose PD-052 replication question stays open.
+**Affected files:** `blocks/C4/_wip/C4B07_STATE.md`, `C4B07_phase2_questions.md`, `C4B07_orientation.md`. No content file exists yet.
+**Status:** Ruled (Principal, 10.08.26).

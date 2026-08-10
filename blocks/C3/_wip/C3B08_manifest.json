@@ -1,0 +1,466 @@
+{
+  "block_id": "C3B08",
+  "build_week": 7,
+  "block_local": [
+    "I",
+    "you",
+    "he",
+    "she",
+    "it",
+    "we",
+    "they",
+    "me",
+    "him",
+    "her",
+    "us",
+    "them"
+  ],
+  "roster_names": [
+    "Yusuf",
+    "Abdullah",
+    "Nusair",
+    "Abdur Rahim",
+    "Aisha",
+    "Raima",
+    "Maryam",
+    "Fatima",
+    "Porshi",
+    "Rabab",
+    "Jesmin Akter"
+  ],
+  "exemplars": [
+    "Yusuf",
+    "Abdullah",
+    "Nusair",
+    "Abdur Rahim",
+    "Aisha",
+    "Raima",
+    "Maryam",
+    "Fatima",
+    "Porshi",
+    "Rabab",
+    "Jesmin Akter"
+  ],
+  "sheets": [
+    {
+      "name": "CW1",
+      "type": "worksheet",
+      "pair": "HW1",
+      "stated_total": 28,
+      "parts": [
+        {
+          "name": "A",
+          "items": [
+            {
+              "text": "He reads a book.",
+              "answer": "He",
+              "trigger": "book",
+              "marks": 1
+            },
+            {
+              "text": "She washes the dish.",
+              "answer": "She",
+              "trigger": "dish",
+              "marks": 1
+            },
+            {
+              "text": "It is a cold morning.",
+              "answer": "It",
+              "trigger": "morning",
+              "marks": 1
+            },
+            {
+              "text": "They play football.",
+              "answer": "They",
+              "trigger": "football",
+              "marks": 1
+            },
+            {
+              "text": "She keeps the towel on a shelf.",
+              "answer": "She",
+              "trigger": "towel",
+              "marks": 1
+            },
+            {
+              "text": "It has a red roof.",
+              "answer": "It",
+              "trigger": "roof",
+              "marks": 1
+            },
+            {
+              "text": "He carries the bag.",
+              "answer": "He",
+              "trigger": "bag",
+              "marks": 1
+            },
+            {
+              "text": "They live in a village.",
+              "answer": "They",
+              "trigger": "village",
+              "marks": 1
+            },
+            {
+              "text": "He eats breakfast.",
+              "answer": "He",
+              "trigger": "breakfast",
+              "marks": 1
+            },
+            {
+              "text": "She helps the neighbour.",
+              "answer": "She",
+              "trigger": "neighbour",
+              "marks": 1
+            }
+          ],
+          "options": [
+            "he",
+            "she",
+            "it",
+            "they"
+          ],
+          "instructions": "Underline the pronoun in each sentence."
+        },
+        {
+          "name": "B",
+          "items": [
+            {
+              "text": "Yusuf",
+              "answer": "he",
+              "trigger": "Yusuf",
+              "marks": 1
+            },
+            {
+              "text": "the kite",
+              "answer": "it",
+              "trigger": "kite",
+              "marks": 1
+            },
+            {
+              "text": "Aisha",
+              "answer": "she",
+              "trigger": "Aisha",
+              "marks": 1
+            },
+            {
+              "text": "Yusuf and Abdullah",
+              "answer": "they",
+              "trigger": "Yusuf",
+              "marks": 1
+            },
+            {
+              "text": "the tree",
+              "answer": "it",
+              "trigger": "tree",
+              "marks": 1
+            },
+            {
+              "text": "Maryam",
+              "answer": "she",
+              "trigger": "Maryam",
+              "marks": 1
+            },
+            {
+              "text": "Nusair",
+              "answer": "he",
+              "trigger": "Nusair",
+              "marks": 1
+            },
+            {
+              "text": "Aisha and Fatima",
+              "answer": "they",
+              "trigger": "Aisha",
+              "marks": 1
+            }
+          ],
+          "options": [
+            "he",
+            "she",
+            "it",
+            "they"
+          ],
+          "instructions": "Write he, she, it or they for each naming word."
+        },
+        {
+          "name": "C",
+          "items": [
+            {
+              "text": "Porshi goes to school.",
+              "answer": "She",
+              "trigger": "Porshi",
+              "marks": 1
+            },
+            {
+              "text": "The bag is on the bed.",
+              "answer": "It",
+              "trigger": "bag",
+              "marks": 1
+            },
+            {
+              "text": "Abdullah eats the corn.",
+              "answer": "He",
+              "trigger": "Abdullah",
+              "marks": 1
+            },
+            {
+              "text": "Rabab and Maryam clean the classroom.",
+              "answer": "They",
+              "trigger": "Rabab",
+              "marks": 1
+            },
+            {
+              "text": "The hen is in the hut.",
+              "answer": "It",
+              "trigger": "hen",
+              "marks": 1
+            },
+            {
+              "text": "Abdur Rahim carries the water.",
+              "answer": "He",
+              "trigger": "Abdur Rahim",
+              "marks": 1
+            },
+            {
+              "text": "Fatima helps the family.",
+              "answer": "She",
+              "trigger": "Fatima",
+              "marks": 1
+            },
+            {
+              "text": "The books are on the shelf.",
+              "answer": "They",
+              "trigger": "book",
+              "marks": 1
+            },
+            {
+              "text": "Nusair plays football.",
+              "answer": "He",
+              "trigger": "Nusair",
+              "marks": 1
+            },
+            {
+              "text": "Aisha takes the soap.",
+              "answer": "She",
+              "trigger": "Aisha",
+              "marks": 1
+            }
+          ],
+          "options": [
+            "he",
+            "she",
+            "it",
+            "they"
+          ],
+          "instructions": "Write the pronoun that takes the place of the underlined naming word."
+        }
+      ],
+      "boxes": [
+        "Remember. A pronoun takes the place of a naming word. Today's pronouns: he she it they. one boy or man he; one girl or woman she; one thing it; more than one they"
+      ]
+    },
+    {
+      "name": "HW1",
+      "type": "worksheet",
+      "stated_total": 26,
+      "parts": [
+        {
+          "name": "A",
+          "items": [
+            {
+              "text": "They clean the garden.",
+              "answer": "They",
+              "trigger": "garden",
+              "marks": 1
+            },
+            {
+              "text": "It is a wet day.",
+              "answer": "It",
+              "trigger": "day",
+              "marks": 1
+            },
+            {
+              "text": "He holds the pen.",
+              "answer": "He",
+              "trigger": "pen",
+              "marks": 1
+            },
+            {
+              "text": "She reads a story.",
+              "answer": "She",
+              "trigger": "story",
+              "marks": 1
+            },
+            {
+              "text": "It has a cozy bed.",
+              "answer": "It",
+              "trigger": "bed",
+              "marks": 1
+            },
+            {
+              "text": "They eat the food.",
+              "answer": "They",
+              "trigger": "food",
+              "marks": 1
+            },
+            {
+              "text": "She keeps the soap.",
+              "answer": "She",
+              "trigger": "soap",
+              "marks": 1
+            },
+            {
+              "text": "He goes to the library.",
+              "answer": "He",
+              "trigger": "library",
+              "marks": 1
+            },
+            {
+              "text": "They live near the river.",
+              "answer": "They",
+              "trigger": "river",
+              "marks": 1
+            },
+            {
+              "text": "He needs a towel.",
+              "answer": "He",
+              "trigger": "towel",
+              "marks": 1
+            }
+          ],
+          "options": [
+            "he",
+            "she",
+            "it",
+            "they"
+          ],
+          "instructions": "Underline the pronoun in each sentence."
+        },
+        {
+          "name": "B",
+          "items": [
+            {
+              "text": "Aisha and Raima",
+              "answer": "they",
+              "trigger": "Aisha",
+              "marks": 1
+            },
+            {
+              "text": "Abdur Rahim",
+              "answer": "he",
+              "trigger": "Abdur Rahim",
+              "marks": 1
+            },
+            {
+              "text": "the shelf",
+              "answer": "it",
+              "trigger": "shelf",
+              "marks": 1
+            },
+            {
+              "text": "Rabab",
+              "answer": "she",
+              "trigger": "Rabab",
+              "marks": 1
+            },
+            {
+              "text": "Abdullah and Nusair",
+              "answer": "they",
+              "trigger": "Abdullah",
+              "marks": 1
+            },
+            {
+              "text": "the river",
+              "answer": "it",
+              "trigger": "river",
+              "marks": 1
+            },
+            {
+              "text": "Porshi",
+              "answer": "she",
+              "trigger": "Porshi",
+              "marks": 1
+            },
+            {
+              "text": "Abdullah",
+              "answer": "he",
+              "trigger": "Abdullah",
+              "marks": 1
+            }
+          ],
+          "options": [
+            "he",
+            "she",
+            "it",
+            "they"
+          ],
+          "instructions": "Write he, she, it or they for each naming word."
+        },
+        {
+          "name": "C",
+          "items": [
+            {
+              "text": "The cat is on the mat.",
+              "answer": "It",
+              "trigger": "cat",
+              "marks": 1
+            },
+            {
+              "text": "Yusuf and Abdur Rahim wash the classroom.",
+              "answer": "They",
+              "trigger": "Yusuf",
+              "marks": 1
+            },
+            {
+              "text": "Jesmin Akter keeps the food.",
+              "answer": "She",
+              "trigger": "Jesmin Akter",
+              "marks": 1
+            },
+            {
+              "text": "The pen is in the bag.",
+              "answer": "It",
+              "trigger": "pen",
+              "marks": 1
+            },
+            {
+              "text": "Raima takes the card.",
+              "answer": "She",
+              "trigger": "Raima",
+              "marks": 1
+            },
+            {
+              "text": "Nusair opens the tin.",
+              "answer": "He",
+              "trigger": "Nusair",
+              "marks": 1
+            },
+            {
+              "text": "The hens are in the hut.",
+              "answer": "They",
+              "trigger": "hen",
+              "marks": 1
+            },
+            {
+              "text": "Abdullah drinks the water.",
+              "answer": "He",
+              "trigger": "Abdullah",
+              "marks": 1
+            }
+          ],
+          "options": [
+            "he",
+            "she",
+            "it",
+            "they"
+          ],
+          "instructions": "Write the pronoun that takes the place of the underlined naming word."
+        }
+      ],
+      "boxes": [
+        "Remember. A pronoun takes the place of a naming word. Today's pronouns: he she it they. one boy or man he; one girl or woman she; one thing it; more than one they"
+      ]
+    }
+  ],
+  "dictation": [],
+  "pt_self_try_words": [],
+  "demo_box_words": []
+}

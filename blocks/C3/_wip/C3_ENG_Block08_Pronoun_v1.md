@@ -1,0 +1,359 @@
+# Class 3 English Drive — Grammar Block 8: **Pronoun**
+*Master file · teacher-scripted week plan + worksheets + Performance Test + answer key*
+
+**Class:** 3 · **Block:** 8 · **Week:** 7 · **Days:** 4 teaching (Sun–Wed) + Performance Test (Thu)
+**Filename:** `C3_ENG_Block08_Pronoun_v1.md`
+**Build status:** ⚠ **IN PROGRESS — Day 1 only.** Days 2–4, PT, Assignment, AK and TD are not written.
+
+---
+
+## Provenance & build-against references
+
+| Field | Value | Source |
+|---|---|---|
+| Topic / cap | Personal pronouns — subject *I, you, he, she, it, we, they* · object *me, you, him, her, us, them*; they **replace a noun**. Fill-from-passage | Drive Plan **v1.9** §2 row 8 (as widened by **PD-052**) |
+| Guardrail | No *mine/hers/ours/theirs*; *my/his/her/our/their* are **Block 7 adjectives**, not taught here; no relative/reflexive/indefinite pronouns | §2 row 8, verbatim |
+| Block 7/8 boundary | Before a noun → adjective (Block 7); replaces a noun → pronoun (here) | §2 boundary note v1.1 |
+| Exam anchor | **Annual 2025 Q3** — *"Fill in the blanks using Pronoun"* [5×1=5]. Connected passage, five lettered blanks, **no word box**, mixed subject and object slots. **HY2025 and HY2026 do not test pronoun** — all three papers read in full at source | Annual Q3; both HY papers verified |
+| Bloom | Class 3 = Understand/Apply; climb within block to simple Analyze / guided Create | Charter §G · Drive Plan §6 |
+| Held-word scope | **The entire 195-word pool.** W7 clears it; no File 2 word is unheld by this block | VocabPool U1–8 v2 + BatchOrder v1 |
+| Vocabulary status | **Twelve block-local words (PD-051, PD-052):** `I · you · he · she · it · we · they · me · him · her · us · them`. Counted toward W7 load; **never dictation or spelling items**; not added to File 2; not held downstream | PD-012 as extended by PD-035 |
+| ⚑ Roster names | House names carry the **gender and number** every third-person item turns on, but are not File 2 words. Declared in the manifest so the held-word gate can see them — **PENDING a ruling**, see Version log ⚑R1 | Charter §H.5 (v1.6) |
+| Manifest visibility | **PD-054** fields declared: `boxes` (the Remember box on both sheets) and `instructions` (all six parts), so the values and sacred screens read the printed surfaces, not just item text. **`clue` is deliberately absent** — no graded pronoun item carries a per-item clue, because an antecedent gloss is very nearly the answer (CR-016/CR-019) | PD-054 |
+| Self-try rubric | 4 marks, four criteria at 1 each; value alignment not scored | Charter §I.3 · PD-010 |
+| Roll / Exit Check | **17** (one prompt per student) — confirmed by the Principal 10.08.26 | Q6 ruling |
+| Values guards | §H.3 sacred-word (+ the **antecedent screen**, below) · §H.4 mahram · §H.5 house names · §H.8 no living-being imagery · §H.9 attribution-in-place | Charter v1.6 §H |
+| Volume | ~28 graded/day CW · ~26 HW, 2 open-response per CW | Blueprint §D6 (approved) |
+
+**Build notes (for future builders):**
+
+- **The antecedent is the item.** *"___ is new."* has no answer; *"Yusuf has a kite. ___ is new."* has exactly one.
+  Every graded item is built so that **exactly one word in the preceding text can be the antecedent**, once number,
+  gender and animacy are applied. This is the block's central discipline and no script enforces it.
+- **Referent ambiguity is allowed where it produces no second answer.** *"Aisha helps Maryam. ___ is kind."* —
+  a reader cannot tell which girl, but both readings give **She**, so the item stands. What is banned is ambiguity
+  that changes the answer: *"The boy read a book. ___ was new."* (It / He both defensible) is dead.
+- **No word box, anywhere.** Annual Q3 supplies none. A box turns production into selection and would make our
+  practice easier than the paper.
+- **§H.3 antecedent screen — specific to this block.** A pronoun refers back. *"Allah is Merciful. ___ created us."*
+  would make a sacred referent the basis of a graded blank. **No graded item on any sheet takes Allah, the Qur'an
+  or a Prophet as its antecedent.** Reverent teacher prose is untouched. This is a declared **human** screen.
+- **Possessives are kept off Day 1 entirely.** *his / her / their* are Block 7 adjectives, and *her* is also a Day-3
+  object pronoun. A Day-1 pupil asked to underline the pronoun in *"He reads his book"* has two plausible marks.
+  Day 1 carries no possessive at all; the contrast is introduced deliberately later, not by accident.
+- **PT order convention:** dictation leads as Part A, reversing the binding papers' order. Deliberate house
+  convention carried from C3B07, not an error.
+
+---
+
+## Pronoun Clue Card — `C3B08-CC`
+
+*Built with the class across the week; on the wall by Thursday. English delivery; Bangla gloss retained as learning content (Run Book §3.14).* **Worked antecedent→pronoun pairs live here and on the wall card — never in a worksheet rule box (§3.17).**
+
+| A pronoun… | Ask… | Example (pronoun **bold**) | বাংলা |
+|---|---|---|---|
+| **takes the place of a naming word** | Which naming word does it stand for? | Yusuf → **he** · the kite → **it** | বিশেষ্যের বদলে বসে |
+| **does** the work (subject form) | Who does it? | **She** reads a book. | কর্তা |
+| **receives** the work (object form) | Does what — to whom? | Aisha helps **her**. | কর্ম |
+| stands for **more than one** | How many? | Yusuf and Abdullah → **they** | একের বেশি |
+
+**The closed list.** Subject: `I · you · he · she · it · we · they` — Object: `me · you · him · her · us · them`
+
+> **The test is the job.** A pronoun does not *describe* a naming word — it **stands in its place**. *my bag*
+> (Block 7, describes *bag*) vs *It is new* (stands for *bag*).
+
+**Dual-use note — Clue Card and teacher script only, never on a student sheet.** *this* and *that* can point to a
+naming word (*this book* — Block 7) or stand in its place (*This is mine*).
+
+---
+
+## Teacher checklist
+
+- ☐ Teach only the §2 cap: personal pronouns, subject and object. **No** *mine/hers/ours/theirs*, **no**
+  relative/reflexive/indefinite, and **never** relabel *my/his/her/our/their* as pronouns — before a noun they are
+  Block 7 adjectives.
+- ☐ **Day 1 carries no possessive word and no object pronoun** — not as an answer, not in a sentence, not in an
+  instruction's option list.
+- ☐ Every graded item has **exactly one possible antecedent**. Read each one and ask *"which naming word, and how
+  does the child know?"*
+- ☐ **No graded item refers back to Allah, the Qur'an or a Prophet** (§H.3 antecedent screen).
+- ☐ Plural antecedents are **same-sex groups or declared family** (§H.4).
+- ☐ Nature carriers are plainly descriptive or attributed in place — **no autonomous givers** (§H.9). This week's
+  batch is nature-heavy (*soil, crop, tree, leaf, field, corn*); the risk is real.
+- ☐ Each day closes with a **17-prompt Exit Check** (one per student), de-patterned.
+- ☐ Every HW ends with **Vocabulary Writing** (PD-015): boxed Word Bank of 5 W7 words, blank two-column table,
+  distinct sets across the four HWs, unmarked, placed last.
+- ☐ *this/that* stay on the Clue Card and in the script — **never** on a student sheet.
+- ☐ No answer key is printed with any student sheet; all answers go to `C3B08-AK`.
+
+---
+
+# Teaching Days
+
+## Class 1 (Sunday) — A pronoun takes the place of a naming word (*he · she · it · they*)
+
+*Oral-first. Understand level. Five steps. The example banks are for the teacher to pick from, not to drill in full.*
+
+| Step | Min | Activity |
+|---|---|---|
+| 1 | 0–8 | Why we don't say the name twice |
+| 2 | 8–16 | *he* · *she* · *it* |
+| 3 | 16–24 | *they* — more than one |
+| 4 | 24–30 | CW-1 |
+| 5 | 30–35 | Exit Check (17) |
+
+**Step 1 — Why we don't say the name twice (0–8 min)**
+
+Say this aloud, slowly, exactly as written:
+
+> *"Yusuf has a kite. Yusuf is happy. Yusuf runs to the field."*
+
+Then stop and look at the class. *"Does that sound right to you? Say it with me."* Let them say it. *"Yusuf, Yusuf,
+Yusuf — three times. It sounds heavy, doesn't it?"*
+
+Now say it the natural way:
+
+> *"Yusuf has a kite. **He** is happy. **He** runs to the field."*
+
+*"Better. Now — I said Yusuf only once. The other two times I used a different word. Which word?"* Take answers.
+Write on the board and underline:
+
+> Yusuf has a kite. **He** is happy.
+
+*"That word — **he** — took the place of the naming word *Yusuf*. A word that takes the place of a naming word is
+called a **pronoun**."*
+
+**Term Drill — pronoun.** Board-write **pronoun** → 3× choral read → syllable finger-counting (*pro · noun*, two
+fingers — **no clapping**, §H.2) → 3× notebook copy.
+
+*"A pronoun does not describe a naming word. Remember last week — *my bag*, *a clean hand* — those describing
+words sat **before** the naming word. A pronoun is different. It stands **in the place of** the naming word."*
+
+Keep it concrete. Do not define "pronoun" in the abstract; anchor it on the sentence on the board.
+
+**Step 2 — *he* · *she* · *it* (8–16 min)**
+
+*"Now — which pronoun do we use? That depends on who or what we are talking about."*
+
+Build this on the board with the class, one row at a time. Ask before you write.
+
+| We are talking about… | We say… |
+|---|---|
+| one boy or one man | **he** |
+| one girl or one woman | **she** |
+| one thing | **it** |
+
+Work through these aloud. Say the first sentence, then ask *"say the next one — but don't repeat the name."*
+
+- *Abdullah opens the tin.* → **He** eats the corn.
+- *Aisha washes the dish.* → **She** keeps it on the shelf.
+- *The bag is old.* → **It** is on the bed.
+- *Porshi goes to school.* → **She** takes a pen.
+- *The kite is red.* → **It** is in the garden.
+- *Nusair carries the water.* → **He** fills the tap.
+
+**Watch for this.** A child will sometimes say *"It is he"* or use **he** for a thing. Correct gently and re-ask the
+question: *"Yusuf — is that one boy? Then **he**. The bag — is that a boy, or a thing? A thing. So — **it**."*
+Teach from the correct form; never write the wrong sentence on the board for the class to read (Starter Template §B).
+
+**Step 3 — *they*: more than one (16–24 min)**
+
+*"And if we are talking about more than one?"* Add the fourth row:
+
+| We are talking about… | We say… |
+|---|---|
+| more than one | **they** |
+
+- *Yusuf and Abdullah play football.* → **They** run in the field.
+- *Aisha and Maryam clean the classroom.* → **They** use a towel.
+- *The books are new.* → **They** are on the shelf.
+
+*"Notice — **they** works for people and for things. Two boys: they. Two girls: they. Many books: they. The only
+question is: **more than one?**"*
+
+**Quick oral round (3–4 min, hands up).** Teacher says a naming word; class answers with one word:
+*the hen* → it · *Rabab* → she · *Yusuf and Nusair* → they · *the river* → it · *Abdur Rahim* → he ·
+*Maryam and Fatima* → they · *the shelf* → it · *Fatima* → she.
+
+**Step 4 — CW-1 (24–30 min)**
+
+Hand out `C3B08-CW1`. Read Part A's instruction aloud and do **item 1 together** on the board. Then let them work.
+Circulate. This is practice time, not distribution time — protect it.
+
+**Step 5 — Exit Check (30–35 min)**
+
+One prompt per student, oral, no writing. Set below.
+
+### Exit Check — Day 1 (17 prompts, one per student)
+
+*Teacher says the naming word; the student answers with one pronoun. De-patterned — do not reorder.*
+
+| # | Prompt | Answer | | # | Prompt | Answer |
+|---|---|---|---|---|---|---|
+| 1 | Yusuf | he | | 10 | Maryam | she |
+| 2 | the bag | it | | 11 | Yusuf and Nusair | they |
+| 3 | Aisha and Maryam | they | | 12 | the river | it |
+| 4 | Porshi | she | | 13 | Fatima | she |
+| 5 | the tree | it | | 14 | Abdur Rahim | he |
+| 6 | Abdullah | he | | 15 | the books | they |
+| 7 | Rabab and Fatima | they | | 16 | Raima | she |
+| 8 | the shelf | it | | 17 | the kite | it |
+| 9 | Nusair | he | | | | |
+
+*Balance: he 4 · she 4 · it 5 · they 4. No two adjacent answers alike; no strict alternation.*
+
+---
+
+# Worksheets
+
+### CW1 — Pronoun (Classwork, Day 1)
+
+**School for Community Development — Sylhet Branch**
+**English Skill-Building Drive · Class 3 · Block 8 (Pronoun) · Classwork**
+
+> **Remember.** A **pronoun** takes the place of a naming word.
+> Today's pronouns: **he · she · it · they**
+> one boy or man → **he** · one girl or woman → **she** · one thing → **it** · more than one → **they**
+
+*(§3.17/PD-018 compliance: the box prints the **rule** and the closed list of today's pronouns — the list is also
+the option set every part on this sheet draws from, as CR-008 requires. It prints **no worked antecedent→pronoun
+pair**; those live on the Clue Card. A pupil cannot copy any item's answer off this box without applying the rule.)*
+
+**Part A — Underline the pronoun in each sentence. [10 × 1 = 10]**
+
+1. He reads a book.
+2. She washes the dish.
+3. It is a cold morning.
+4. They play football.
+5. She keeps the towel on a shelf.
+6. It has a red roof.
+7. He carries the bag.
+8. They live in a village.
+9. He eats breakfast.
+10. She helps the neighbour.
+
+**Part B — Write *he*, *she*, *it* or *they* for each naming word. [8 × 1 = 8]**
+
+11. Yusuf   → ______
+12. the kite   → ______
+13. Aisha   → ______
+14. Yusuf and Abdullah   → ______
+15. the tree   → ______
+16. Maryam   → ______
+17. Nusair   → ______
+18. Aisha and Fatima   → ______
+
+**Part C — Write the pronoun that takes the place of the underlined naming word. [10 × 1 = 10]**
+
+19. <u>Porshi</u> goes to school.   → ______
+20. <u>The bag</u> is on the bed.   → ______
+21. <u>Abdullah</u> eats the corn.   → ______
+22. <u>Rabab and Maryam</u> clean the classroom.   → ______
+23. <u>The hen</u> is in the hut.   → ______
+24. <u>Abdur Rahim</u> carries the water.   → ______
+25. <u>Fatima</u> helps the family.   → ______
+26. <u>The books</u> are on the shelf.   → ______
+27. <u>Nusair</u> plays football.   → ______
+28. <u>Aisha</u> takes the soap.   → ______
+
+**Part D — Write your own.** *(Not marked — your teacher will check it.)*
+
+29. Write a sentence about Yusuf. Use **he** in it. Underline the pronoun.
+30. Write a sentence about a kite. Use **it** in it. Underline the pronoun.
+
+*Canonical ID: C3B08-CW1 · Graded total: 28 marks*
+
+---
+
+### HW1 — Pronoun (Homework, Day 1)
+
+**School for Community Development — Sylhet Branch**
+**English Skill-Building Drive · Class 3 · Block 8 (Pronoun) · Homework**
+
+> **Remember.** A **pronoun** takes the place of a naming word.
+> Today's pronouns: **he · she · it · they**
+> one boy or man → **he** · one girl or woman → **she** · one thing → **it** · more than one → **they**
+
+*(Day-1 homework is **recognition only** — no sentence-writing task. Construction begins once the skill has been
+taught across more than one day.)*
+
+**Part A — Underline the pronoun in each sentence. [10 × 1 = 10]**
+
+1. They clean the garden.
+2. It is a wet day.
+3. He holds the pen.
+4. She reads a story.
+5. It has a cozy bed.
+6. They eat the food.
+7. She keeps the soap.
+8. He goes to the library.
+9. They live near the river.
+10. He needs a towel.
+
+**Part B — Write *he*, *she*, *it* or *they* for each naming word. [8 × 1 = 8]**
+
+11. Aisha and Raima   → ______
+12. Abdur Rahim   → ______
+13. the shelf   → ______
+14. Rabab   → ______
+15. Abdullah and Nusair   → ______
+16. the river   → ______
+17. Porshi   → ______
+18. Abdullah   → ______
+
+**Part C — Write the pronoun that takes the place of the underlined naming word. [8 × 1 = 8]**
+
+19. <u>The cat</u> is on the mat.   → ______
+20. <u>Yusuf and Abdur Rahim</u> wash the classroom.   → ______
+21. <u>Jesmin Akter</u> keeps the food.   → ______
+22. <u>The pen</u> is in the bag.   → ______
+23. <u>Raima</u> takes the card.   → ______
+24. <u>Nusair</u> opens the tin.   → ______
+25. <u>The hens</u> are in the hut.   → ______
+26. <u>Abdullah</u> drinks the water.   → ______
+
+**Part D — Vocabulary Writing.** *(Not marked — your teacher will check it. Write the Bangla meaning of each word.)*
+
+> **Word Bank:** pollution · plant · soil · danger · source
+
+| English Word | বাংলা অর্থ |
+|---|---|
+| | |
+| | |
+| | |
+| | |
+| | |
+
+*Canonical ID: C3B08-HW1 · Graded total: 26 marks*
+
+---
+
+## Version log
+
+| Version | Date | Change |
+|---|---|---|
+| v1 (in progress) | 2026-08-10 | **Day 1 built.** Provenance header, Clue Card `C3B08-CC`, teacher checklist, Sunday script with Term Drill and 17-prompt Exit Check, `C3B08-CW1` (28 marks) and `C3B08-HW1` (26 marks). Built against Charter **v1.6**, Run Book v1.17, Drive Plan **v1.9**, and the approved Phase 3 blueprint. Rulings in force: **PD-051** (twelve pronouns block-local), **PD-052** (*you* taught and graded), **PD-053** (roster), PD-010, PD-012/035, PD-015, PD-018. Day 1 answer set restricted to `he·she·it·they` per the blueprint staging table; **no possessive word and no object pronoun appears anywhere on either sheet.** CW↔HW positional overlap: Part A **0/10**, Part B **0/8**, Part C **1/8 (12.5%)** — all under the 35% gate. One identical item text across the pair (*Yusuf*, CW1 #11 / HW1 #18) — under the ≤2/day threshold. Days 2–4, PT, Assignment, AK and TD **not written**. |
+
+### ⚑ Dependency flags (list, never edit)
+
+**⚑ R1 — House-roster names are graded content with no declared vocabulary status. PENDING A RULING.**
+Every third-person item in this block turns on a name: *Yusuf → he*, *Aisha → she*, *Yusuf and Abdullah → they*.
+The name carries the **gender and number** the answer depends on — it *is* the trigger — but the eleven Charter
+§H.5 names are **not File 2 words** and are not covered by PD-051's block-local set.
+
+This is the **same blind spot that made CR-032 a PATTERN**: one of its three occurrences was *C1 Block 6's 29
+house-name items carrying no trigger*. Leaving them untriggered here would reproduce that defect at scale on the
+very block that was supposed to close it. Manifest treatment applied provisionally: a declared `roster_names`
+set, so every such item carries a trigger the gate can see.
+
+**Proposed status: a standing instrument, not vocabulary** — a roster name is not a word the child is being taught
+to own (no name is ever a dictation, spelling or meaning item), and what the item grades is **gender and number**,
+not the name. It is closest to a Grammar Exemplar (§5.7/PD-009): sole purpose is to demonstrate the rule, and it
+is **not counted toward load**. Confirmation needed, and it is drive-wide rather than block-scoped — C1 Block 6 is
+already promoted with the same gap.
+
+**⚑ R2 — PD-052 cross-class replication not executed.** *you* may be missing from the C1/C2/C4/C5 §2 row 8s.
+
+**⚑ R3 — CR-032 remains PATTERN with no check built** (ruled Q7: trigger discipline applied by hand this block).
+
+**⚑ R4 — File 2 batch-size declarations wrong** (Weekly Plan W6=35/W7=39 vs content W6=40/W7=34; pool 195 not 194).

@@ -43,7 +43,34 @@ format mirror **C4B06** (promoted v1.5) · Starter Template v2.0.
 - W7 fresh batch is **17 words, all nouns/adverbs — no verbs**. The HW Vocabulary Writing box is
   noun/adverb by design (CR-012); this is not a defect.
 
-## Pending questions — Phase 2, blocking
+## Phase 2 — RULED (Principal, 10.08.26). All five closed.
+
+| # | Question | Ruling |
+|---|---|---|
+| **Q1** | Pronoun declaration? | **No declaration — logged as PD-056.** C4B07 does not replicate PD-051; a pronoun is never the keyed answer here, so it is carrier text and the gate keys on `trigger`. `is/are` covered by PD-026. **Closes PD-052's C4 replication flag in the negative** (C1/C2/C5 stay open). `go` is absent from the pool → *He goes* recast onto held verbs per PD-035; survives in teacher script only |
+| **Q2** | `each + singular` | **Recast, no declaration.** `each` is PD-026 closed-class; the noun moves to held vocabulary — `Each of the **children** ___ (has / have)` (`child` held W3, `children` its taught Block-2 irregular plural). Anchor subjects likewise recast: `student → child/friend`, `baker → worker` (W6), `girl/boy →` §H.5 roster names |
+| **Q3** | PT mark weighting | **1 mark per item throughout**, worksheets and PT. HY25's 5×2 weighting recorded in the Teaching Days notes so the teacher knows the exam may weight the same item double |
+| **Q4** | Annual Q7(b) `English ___ (be)` | **Mirror BOTH formats throughout** *(Principal ruled against the agent's slash-pair-only recommendation)*. Graded sheets carry the two-option slash pair **and** the single-base-verb variant. Subjects recast to held vocabulary — the proper-noun subject `English` is not reproduced |
+| **Q5** | Dual-job words | **No restriction on SVA fill-in items** (the blank sits in the verb slot, so the frame fixes the class and one answer is defensible). **Barred from any word-class identification item** in this block |
+
+### Build consequences of Q4 (both formats)
+
+- Two item shapes for one skill: **`(walk / walks)`** and **`(be)` / `(go)`-style single base verb**. The
+  Teaching Days must introduce both explicitly or the second will read as a misprint to pupils.
+- The single-base-verb shape has **no printed option list**, so `gate_option_list()` (PD-037 / CR-008, CR-017)
+  applies to the slash-pair parts only. Parts must be split by shape so `options` can be declared honestly on
+  the ones that have them.
+- The single-base-verb shape is the **harder** item — the pupil supplies the form unaided. Distribute it so it
+  does not cluster, and keep the marks equal at 1 apiece per Q3.
+
+## Standing rulings folded in
+
+- **PD-056** — no pronoun declaration (this build).
+- **PD-026** — `is/are`, `has/have`, `each` are closed-class grammar targets, not vocabulary.
+- **PD-035** — incidental carriers recast, not declared; declaration only where recasting deletes the concept.
+- **CR-032** — every graded item declares a `trigger` on its **lexical verb**, never on the pronoun or be-form.
+
+## Superseded — Phase 2 questions as originally issued
 
 1. **Pronoun declaration.** `he/she/it/they/we` are absent from File 2 by design, but the cap's headline
    example is *He goes (not He go)*. C3B08 ruled **PD-051** for the same wall; **PD-052 flagged cross-class
