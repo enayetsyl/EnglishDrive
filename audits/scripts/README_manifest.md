@@ -26,12 +26,17 @@ verifies the manifest matches the sheets (spot-check).
               "text": "Yusuf ___ a red pen.",   // full item text as printed
               "answer": "has",                   // the keyed answer
               "trigger": "pen",                  // the held word the item grades
+              "clue": "(সঙ্গে)",                  // PD-051, optional: printed gloss
               "marks": 1
             }
           ],
-          "answers": null           // optional: bare answer sequence when items
+          "answers": null,          // optional: bare answer sequence when items
                                     // are not itemised (e.g. a tick column)
+          "instructions": "Fill in the blanks."  // PD-051, optional: rubric line
         }
+      ],
+      "boxes": [                    // PD-051, optional: sheet-level printed boxes
+        {"name": "Word Bank", "words": ["desk", "table"], "text": ""}
       ]
     },
     {
@@ -74,6 +79,30 @@ Field notes:
   missing from it. Declare on every identify part; parts without the field are not
   checked and the gate reports itself vacuous. Self-test:
   `audits/scripts/selftest_option_list.py`.
+- **`clue`** (item-level), **`instructions`** (part-level), **`boxes`** (sheet-level)
+  — all optional; **PD-051**, student-facing text visibility. Before PD-051 every gate
+  read `text`, `trigger` or `options` and nothing else, so rubric lines, word banks and
+  support/fading hint boxes were invisible, and clue glosses were covered **only by
+  accident** — `(সঙ্গে)` sat inside the C4B06 `text` strings because the extractor
+  happened to leave the parenthetical inline. Declare them and they are screened:
+  - **values-lexicon and sacred-word screens** read all three, on the same footing as
+    item text. Sacred: a hit in `clue` or `boxes` **fails** (a gloss is answer-bearing,
+    a word bank is a selectable option list — both are graded targets); a hit in
+    `instructions` **flags** for the human read, because Charter §H.3 permits teacher
+    prose.
+  - **held-word obligation applies to `clue` only.** Every English content word in a
+    gloss must be held by the build week, a declared exemplar, or explicitly
+    block-local. Function words and Charter §H.5 roster names are skipped. This is the
+    `(together)` case: a W7 word printed on a W6 sheet, keying five graded items, with
+    every gate green because the held-word gate reads `trigger` alone.
+  - **`instructions` and `boxes` are exempt from held-word** — "Fill in the blanks" is
+    teacher register, not vocabulary.
+  - **Bangla glosses are exempt from held-word by nature** (they are not pool words)
+    and are the required route under CR-011, promoted binding by PD-051. They are still
+    values- and sacred-screened.
+
+  Manifests declaring none of the three fields behave exactly as before. Self-test:
+  `audits/scripts/selftest_clue_text.py`.
 - **New gates (corrections-ledger promotions):** HW key transcribability (PD-037,
   CR-006 — no part's answer sequence positionally identical to the same-named part
   of its paired sheet; `selftest_hw_key.py`) and cross-sheet repetition (PD-036,

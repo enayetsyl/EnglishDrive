@@ -65,10 +65,14 @@ Blocks 8–9 must **re-declare** if they want the time expressions.
 
 ## Open items carried forward
 
-1. **Cross-sheet duplicate gate — proposed, not ruled.** No gate compares a sheet against those built before it,
-   which is why CW-4 reached 80% recycled and still showed green. An additive gate would enforce the Principal's
-   standing rule ("check all previously generated worksheets before generating a new one"). If the rule is to bind
-   the whole drive, it needs a PD — **PD-036** is the next free number. **[AUD]**
+1. **Cross-sheet duplicate gate — CLOSED, ruled and live.** ~~Proposed, not ruled; PD-036 is the next free
+   number.~~ *(That line was written mid-sweep on 08.08.26 and was stale the same day — corrected 10.08.26.)*
+   Ruled as **PD-036** (Principal, 08.08.26): `gate_cross_sheet_repetition()` in `audits/scripts/run_all.py`,
+   `CROSS_SHEET_MAX_REPEATS = 0` — every normalised item text unique across all of a block's graded sheets.
+   **PD-038** settled its relation to the older CW↔HW ≤2-identical-items allowance: that rule stays in the script
+   as a backstop but can never bind while the threshold is 0. Self-test `audits/scripts/selftest_cross_sheet.py`
+   (5/5 assertions hold, incl. seeded error and `pt_overlap_only` exclusion); `CORRECTIONS.md` CR-009 **PROMOTED**.
+   Next free PD number is **PD-051**, not PD-036.
 2. **Clue text and instruction lines are unread by every gate.** `(together)` was a W7 word *carrying the answer*
    on five graded items and no gate saw it. **[AUD]**
 3. **PT Part B option list shows five classes, the worksheets six.** No adverb is keyed on the PT, so it is not

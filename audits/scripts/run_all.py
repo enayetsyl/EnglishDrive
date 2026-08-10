@@ -63,6 +63,72 @@ def all_items(sheet):
             yield part.get("name", "?"), it
 
 
+# --------------------------------------------------------------- PD-051 surfaces
+
+def student_facing_surfaces(sheet):
+    """Yield (location, kind, text) for student-facing text that is NOT item text.
+
+    PD-051. Before this, every gate read `item["text"]`, `item["trigger"]` or
+    `part["options"]` and nothing else, so three printed surfaces were invisible:
+
+      kind="clue"          item-level gloss, e.g. "(সঙ্গে)" — answer-bearing support
+      kind="instructions"  part-level rubric line, e.g. "Fill in the blanks…"
+      kind="boxes"         sheet-level word banks / support + fading hint boxes
+
+    Clue glosses were previously covered only by accident: `(সঙ্গে)` sat inside
+    the C4B06 `text` strings because the extractor happened to leave the
+    parenthetical inline. An extractor that stripped it — the natural choice,
+    since it is not part of the sentence — would have blinded every gate to it.
+    The fields make that coverage declared instead of incidental.
+
+    All three fields are optional; a manifest declaring none behaves exactly as
+    before.
+    """
+    for b in sheet.get("boxes", []) or []:
+        if isinstance(b, dict):
+            label = b.get("name", "box")
+            content = " ".join(str(w) for w in b.get("words", []) or []) \
+                      + " " + str(b.get("text", "") or "")
+        else:
+            label, content = "box", str(b)
+        if content.strip():
+            yield (f"{sheet['name']} {label}", "boxes", content.strip())
+    for part in sheet.get("parts", []):
+        pname = part.get("name", "?")
+        instr = part.get("instructions")
+        if instr:
+            yield (f"{sheet['name']} Part {pname} instructions", "instructions", str(instr))
+        for i, it in enumerate(part.get("items", []), 1):
+            clue = it.get("clue")
+            if clue:
+                yield (f"{sheet['name']} Part {pname} #{i} clue", "clue", str(clue))
+
+
+# English function words: never "content" words, so never held-word targets.
+CLUE_FUNCTION_WORDS = {
+    "a", "an", "the", "and", "or", "but", "of", "to", "in", "on", "at", "by",
+    "for", "with", "from", "into", "onto", "up", "down", "out", "over", "under",
+    "is", "are", "was", "were", "be", "been", "am", "do", "does", "did", "has",
+    "have", "had", "will", "would", "can", "could", "shall", "should", "may",
+    "might", "must", "not", "no", "yes", "this", "that", "these", "those",
+    "here", "there", "it", "its", "he", "she", "they", "we", "you", "i", "him",
+    "her", "them", "us", "me", "my", "your", "his", "their", "our", "who",
+    "what", "which", "where", "when", "why", "how", "if", "then", "than", "as",
+    "so", "too", "very", "one", "two", "three", "four", "five",
+}
+
+# Charter §H.5 house roster — sanctioned by name, never pool vocabulary.
+ROSTER_NAMES = {
+    "yusuf", "abdullah", "nusair", "abdur", "rahim",
+    "aisha", "raima", "maryam", "fatima", "porshi", "rabab", "jesmin",
+}
+
+
+def _is_english_token(tok):
+    """True for a pure a–z token. Bangla glosses return False and are exempt."""
+    return bool(tok) and all("a" <= c <= "z" for c in tok)
+
+
 def sheet_answer_sets(sheet):
     """Yield (part_name, [answers]) for every part that has an answer sequence."""
     for part in sheet.get("parts", []):
@@ -287,7 +353,24 @@ def gate_sacred(m):
     for w in m.get("dictation", []):
         if norm(w) in SACRED:
             fails.append(f"dictation: sacred word graded: {w}")
-    return ("Sacred-word guard", not fails, "graded targets + dictation scanned", fails)
+    # PD-051: the three student-facing surfaces, split by Charter §H.3, which bars a
+    # sacred word as a graded CLASSIFICATION TARGET but permits teacher prose.
+    #   clue  → FAIL. A gloss is answer-bearing support, functionally part of the item.
+    #   boxes → FAIL. A word bank is a selectable option list, i.e. a graded target.
+    #   instructions → FLAG. Rubric wording is the teacher prose §H.3 permits, but it
+    #                  is surfaced for the human read rather than passed silently.
+    flags = []
+    for sheet in graded_sheets(m):
+        for where, kind, text in student_facing_surfaces(sheet):
+            hits = sorted({t for t in norm(text).split() if t in SACRED})
+            if not hits:
+                continue
+            msg = f"{where}: sacred word in {kind}: {', '.join(hits)}"
+            (flags if kind == "instructions" else fails).append(msg)
+    note = "graded targets + dictation + clue/instructions/boxes scanned (PD-051)"
+    if flags:
+        note += f" — {len(flags)} instruction-line hit(s) flagged for human read"
+    return ("Sacred-word guard", not fails, note, fails + flags)
 
 
 VALUES_LEXICON = {
@@ -346,9 +429,16 @@ def gate_values_lexicon(m):
             if hit:
                 flags.append(f"{sheet['name']} Part {pname}: {sorted(hit)} in "
                              f"\"{it.get('text','')[:60]}\"")
+        # PD-051: clue glosses, part instruction lines and sheet boxes are
+        # student-facing print and are screened on the same footing as item text.
+        for where, kind, text in student_facing_surfaces(sheet):
+            hit = _values_hits(text)
+            if hit:
+                flags.append(f"{where} ({kind}): {sorted(hit)} in \"{text[:60]}\"")
     # This gate FLAGS for human review; lexicon hits are treated as failures until ruled.
     return ("Values lexicon screen", not flags,
-            "student-facing item texts scanned (incl. inflections)", flags)
+            "item texts + clue/instructions/boxes scanned (incl. inflections; PD-051)",
+            flags)
 
 
 def load_file2_words(path):
@@ -440,8 +530,41 @@ def gate_heldword(m, file2_path):
                          f"exemplar or block-local word")
         elif build_week is not None and pool[nw] is not None and pool[nw] > build_week:
             fails.append(f"{where}: '{w}' released week {pool[nw]} > build week {build_week}")
+    # PD-051: clue glosses carry the held-word obligation; instructions/boxes do not.
+    #
+    # A clue that carries the answer is functionally part of the item, which is why
+    # `(together)` — a W7 word — could print on a W6 sheet, key five graded items,
+    # and leave every gate green: the held-word gate reads `trigger` alone.
+    # Instruction and rubric language is exempt: "Fill in the blanks" is teacher
+    # register, not vocabulary, and holding it to the pool would be meaningless.
+    # Bangla glosses are exempt by nature (CR-011 makes Bangla the required route) —
+    # they are not pool words at all — but they are still values/sacred screened.
+    clue_checked = 0
+    for sheet in graded_sheets(m):
+        for where, kind, text in student_facing_surfaces(sheet):
+            if kind != "clue":
+                continue
+            for tok in norm(text).split():
+                if not _is_english_token(tok):
+                    continue          # Bangla / mixed script — exempt (CR-011)
+                if tok in CLUE_FUNCTION_WORDS or tok in ROSTER_NAMES:
+                    continue
+                clue_checked += 1
+                if tok in exemplars or tok in block_local:
+                    continue
+                if tok in pool and not (build_week is not None
+                                        and pool[tok] is not None
+                                        and pool[tok] > build_week):
+                    continue
+                if tok not in pool:
+                    fails.append(f"{where}: clue word '{tok}' not in File 2 pool and "
+                                 f"not a declared exemplar or block-local word (PD-051)")
+                else:
+                    fails.append(f"{where}: clue word '{tok}' released week "
+                                 f"{pool[tok]} > build week {build_week} (PD-051)")
     note = (f"{checked} graded targets checked against {len(pool)} pool words"
-            f" + {len(exemplars)} exemplars + {len(block_local)} block-local")
+            f" + {len(exemplars)} exemplars + {len(block_local)} block-local"
+            f"; {clue_checked} English clue word(s) checked (PD-051)")
     if not targets:
         note += " — WARNING: manifest declares no 'trigger' fields; gate is vacuous"
     return ("Held-word / exemplar / block-local", not fails, note, fails)

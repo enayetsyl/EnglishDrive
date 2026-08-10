@@ -725,4 +725,75 @@ Decisions made in principle but not yet implemented. Not official until converte
 
 ---
 
+### PD-051 — C3 Block 8: the eleven personal pronouns declared block-local
+**Decision:** *I, he, she, it, we, they, me, him, her, us, them* are declared a **PD-012 block-local teaching set** for C3 Block 8, as extended by **PD-035**. Taught in-block, gradeable in this block's CW/HW/PT, **never** dictation or spelling items, **not** added to File 2. **They are counted toward W7's taught load.**
+
+**Why a declaration was needed.** Not one of the eleven appears in `C3_ENG_VocabPool_U18_v2.xlsx` (195 rows). Unlike Block 7, where the gap was four items, **Block 8's entire graded surface rests on these words** — every keyed answer in the block is one of them. Without a declaration the held-word gate would fail every item in the block, or, worse, pass it vacuously (see PD-050 and CR-032).
+
+**Why block-local and not exemplar.** **PD-020** selects by what the word is *for*. A Grammar Exemplar's "sole purpose is to demonstrate a rule; the child never needs to own the word" (§5.7). A personal pronoun is not demonstrating some other rule — **it is the taught content**, and the child must own it to answer Annual Q3. That fails the exemplar test outright. Override status (§5.9) was rejected separately: it would make eleven function words spelling- and dictation-eligible on a declared compound-peak week, for no exam return, since Annual Q3 tests production in context and not spelling. The Block 6 Article set is the exact structural precedent and the audit plumbing (`block_local`) already exists.
+
+**Load note.** Block-local words count toward the week's load (§5.8), and W7 is flagged in Drive Plan §4 as a compound peak (heaviest grammar rung + largest fresh batch + PT). Eleven counted words sit on top of the W7 batch. Recorded here so that if the §3 retention gate softens at W7, the load is already documented as a contributing cause and the batch ramp is the intended relief valve — not the grammar.
+
+**Manifest:** `"block_local": ["I","he","she","it","we","they","me","him","her","us","them","you"]` in `_wip/C3B08_manifest.json` (*you* by **PD-052**).
+**Affected files:** `blocks/C3/_wip/` — block master, manifest, STATE. Adds no word to File 2; reopens no earlier block; creates no drive-wide waiver.
+**Status:** Ruled (Principal, 10.08.26).
+
+---
+
+### PD-052 — C3 Block 8: *you* is taught **and graded** — Drive Plan §2 row 8 cap widened
+**Decision:** *you* is added to Block 8's taught and **gradeable** pronoun set. Drive Plan §2 row 8 is amended accordingly (**C3 Drive Plan v1.9**).
+
+**The conflict this resolves.** §2 row 8's lists were *I, he, she, it, we, they* (subject) and *me, him, her, us, them* (object) — **you in neither**. Yet the §2 Block 7/8 boundary note grounds the entire adjective/pronoun split on the observation that *"the **book** labels only personal **you**/me/it as 'Pronoun'"*. The plan's own justification cites a word its cap then omits. The Principal ruled the omission an error, not an exclusion.
+
+**Why graded rather than taught-only.** The agent recommended teach-but-don't-grade as the cap-preserving option; the Principal ruled for full inclusion. *you* is the pronoun a Class 3 child uses most, the book labels it, and the Composition block's binding dialogue task (**HY2026 Q9** — Islamic greetings + self-introduction) cannot be performed without it. Teaching a word while refusing to assess it would leave the drive's most-used pronoun as the only one never checked.
+
+**Scope of the widening.** *you* only. The guardrail is otherwise **untouched**: *mine/hers/ours/theirs* stay excluded; *my/his/her/our/their* remain Block 7 adjectives; no relative, reflexive or indefinite pronouns. *you* is invariant across subject and object position, so it adds a form but no new paradigm — the child learns one word, not a case contrast. It is covered by the PD-051 block-local declaration.
+
+**⚑ Cross-class propagation — NOT executed, awaiting instruction.** The §2 boundary note states in terms that this row *"replicates to Classes 1/2/4/5 — the same §2 rows carry down."* If the *you* omission is an error in C3's row 8, it is very likely the same error in the other four Drive Plans, since they were derived from it. **No other class's Drive Plan has been touched.** C1's Block 6 (Pronoun) is already **promoted** and may already carry the same gap. Flagged for a separate ruling.
+**Affected files:** `governance/driveplans/C3_ENG_DrivePlan_v1_9.md` (new version, forward-only per Charter §K.3); `blocks/C3/_wip/`.
+**Status:** Ruled (Principal, 10.08.26). Cross-class replication **OPEN**.
+
+---
+
+### PD-053 — Charter §H.5 house-name roster amended: *Maryam* and *Fatima* added
+**Decision:** The Charter §H.5 female roster is amended to add **Maryam** and **Fatima**, on the Principal's explicit instruction. Issued as **`English_Drive_Project_Charter_v1_6.md`** (new version file, forward-only — Charter §K.3; v1_5 is not edited in place).
+
+**The conflict this resolves.** Charter §H.5 listed male *Nusair, Yusuf, Abdullah, Abdur Rahim* and female *Aisha, Raima, Porshi, Rabab, Jesmin Akter* — nine names. **CLAUDE.md §5 lists those nine plus Maryam and Fatima.** The Charter governs, so on the written text the two extra names were off-roster.
+
+**Why this was not academic.** **CR-029** corrected an off-roster `Rani` in C3B07 by substituting **Maryam** (PT Part B #6) and **Fatima** (PT Part C #3). On the pre-amendment Charter that correction replaced one off-roster name with two others — a fix that reproduced the defect it was closing. The Principal ruled the **Charter list incomplete** rather than CLAUDE.md wrong: both names are consistent with the roster's existing character and are in house use.
+
+**Effect.** CR-029 becomes retroactively correct and **C3B07 is not reopened** — no re-authoring, no mark movement. CLAUDE.md §5 and Charter §H.5 now agree. C3B08 may draw on the full eleven-name roster.
+
+**Not done here.** Existing citations of "Charter v1.5" across the repo are **not** retrospectively updated (forward-only, Charter §K.3 / CLAUDE.md §6). `Rani` in the **promoted** Block 6 master remains a recorded observation only, unchanged — *Rani* is still off-roster and this ruling does not admit it.
+**Affected files:** `governance/English_Drive_Project_Charter_v1_6.md` (new).
+**Status:** Ruled (Principal, 10.08.26).
+
+---
+
 *End of working log as of 01.08.26. Several items from the most recent Class 4 Block 02 and Class 3 Block 02 discussions are still pending your classification/confirmation and are not yet included above.*
+
+---
+
+### PD-051 — Student-facing text visibility: clue glosses, instruction lines and boxes enter the values, sacred and held-word screens
+**Decision:** The manifest gains three **optional** fields — **`clue`** (item level), **`instructions`** (part level), **`boxes`** (sheet level) — and the **existing** values-lexicon, sacred-word and held-word screens are extended to read them. **No new independent gate is created.** This is a visibility ruling, not a duplicate-detection ruling: it makes surfaces the gates already care about actually reachable, following the PD-035 (`block_local`) and PD-037 (`options`) pattern of declaring a field rather than adding a gate.
+
+**What was wrong.** Every gate read `item["text"]`, `item["trigger"]` or `part["options"]` and nothing else. Three printed surfaces were therefore invisible: **part instruction lines**, **sheet boxes** (word banks, support and fading hint boxes), and **per-item clue glosses**. The third is the sharp one — clue glosses were covered **only by accident**. `(সঙ্গে)` is visible to the text-reading gates in `C4B06_manifest.json` purely because whoever built the manifest left the parenthetical inside the `text` string. Stripping it is the natural extractor behaviour, since it is not part of the sentence, and nothing in the schema forbade it. Coverage was luck, not design. Confirmed by the regression run: C4B06 reports **0 English clue words checked**, because it declares no `clue` field at all.
+
+**The held-word gate was blind to all three by construction**, since it iterates `trigger` alone. That is exactly how **`(together)`** — a **W7** word — printed on a **W6** sheet, **carried the answer on five graded items**, and left every gate green.
+
+**The ruling, as applied:**
+
+1. **Schema.** `clue`, `instructions`, `boxes` — all optional. A manifest declaring none behaves exactly as before (self-test Y.11).
+2. **Values-lexicon and sacred-word screens** read all three, on the same footing as item text.
+3. **Held-word obligation is deliberately narrower: `clue` only.** Every English content word in a gloss must be held by the build week, a declared exemplar, or explicitly block-local. Function words and Charter §H.5 roster names are skipped. **`instructions` and `boxes` are exempt** — "Fill in the blanks" is teacher register, not vocabulary, and holding it to the pool would be meaningless. The justification for including clues at all is that **a gloss carrying the answer is functionally part of the item**.
+4. **CR-011 promoted PATTERN → PROMOTED and made binding here.** Clue glosses are written in **Bangla**. Bangla glosses are exempt from held-word by nature — they are not pool words — but remain values- and sacred-screened. This closes `(together)` twice: barred by rule, caught by gate if the rule is breached.
+
+**Implementation reading recorded for correction, not resolved silently.** The ruling said "route through the sacred-word check"; the check currently hard-fails. Charter §H.3 bars a sacred word as a **graded classification target** while permitting **teacher prose**, so the three surfaces were split on that line rather than treated alike: a hit in **`clue`** or **`boxes`** **FAILS** (a gloss is answer-bearing; a word bank is a selectable option list — both are graded targets), a hit in **`instructions`** **FLAGS** for the human read. If the Principal wants instruction lines to fail as well, that is a one-line change.
+
+**Follow-on, explicitly not folded in.** `VALUES_LEXICON` holds 22 entries of which **only 4 are Bangla** (গান, নাচ, পূজা, বড়দিন), and `_values_hits` applies **English** suffix inflection only. CR-011's English→Bangla clue conversion therefore moved clue text *out* of the inflection matcher's reach — a fix in one dimension that opened a gap in another. Widening the Bangla side of the lexicon is a **separate implementation item**, flagged here so it is not lost, and **not** ruled by this entry.
+
+**Validation.** `audits/scripts/selftest_clue_text.py` — **12/12 assertions hold**, including the seeded `(together)` error (Y.1), held clue word passes (Y.2), Bangla gloss exempt (Y.3), instruction line exempt from held-word (Y.4), function words never targets (Y.5), values reads instructions (Y.6) and boxes (Y.7), sacred fails in a word bank (Y.8), sacred flags-not-fails in an instruction line (Y.9), `pt_overlap_only` exclusion preserved (Y.10), absent fields behave as before (Y.11), block-local clue word passes (Y.12). All five pre-existing self-tests still pass. **Regression: C4B06 re-run under the amended suite returns ALL GATES PASS with identical per-gate results** — additive, no retro effect on any promoted block.
+
+**Scope.** Additive and forward-only. Amends no threshold, reopens **PD-036** and **PD-038** not at all, and creates no waiver. Establishes, with PD-036/PD-038, the governance baseline for the C4 Block 7 build.
+**Affected files:** `audits/scripts/run_all.py`, `audits/scripts/selftest_clue_text.py` (new), `audits/scripts/README_manifest.md`, `governance/CORRECTIONS.md` (CR-011), `blocks/C4/_wip/STATE.md`.
+**Status:** Ruled (Principal, 10.08.26); implemented and self-tested the same day.
