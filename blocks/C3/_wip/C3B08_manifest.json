@@ -458,6 +458,387 @@
       "boxes": [
         "Remember. A pronoun takes the place of a naming word. Today's pronouns: he she it they. one boy or man he; one girl or woman she; one thing it; more than one they"
       ]
+    },
+    {
+      "name": "CW2",
+      "type": "worksheet",
+      "pair": "HW2",
+      "stated_total": 28,
+      "boxes": [
+        "New today. I the one speaking; we the one speaking and others; you the one being spoken to. I always takes a capital letter."
+      ],
+      "parts": [
+        {
+          "name": "A",
+          "instructions": "Underline the pronoun in each sentence.",
+          "items": [
+            {
+              "text": "I read a story every evening.",
+              "answer": "I",
+              "trigger": "story",
+              "marks": 1
+            },
+            {
+              "text": "We wash the classroom on Sunday.",
+              "answer": "We",
+              "trigger": "classroom",
+              "marks": 1
+            },
+            {
+              "text": "You are a good neighbour.",
+              "answer": "You",
+              "trigger": "neighbour",
+              "marks": 1
+            },
+            {
+              "text": "She takes the card.",
+              "answer": "She",
+              "trigger": "card",
+              "marks": 1
+            },
+            {
+              "text": "They carry the corn.",
+              "answer": "They",
+              "trigger": "corn",
+              "marks": 1
+            },
+            {
+              "text": "I drink water after exercise.",
+              "answer": "I",
+              "trigger": "exercise",
+              "marks": 1
+            },
+            {
+              "text": "It is a bright afternoon.",
+              "answer": "It",
+              "trigger": "afternoon",
+              "marks": 1
+            },
+            {
+              "text": "We go to the library on Monday.",
+              "answer": "We",
+              "trigger": "library",
+              "marks": 1
+            },
+            {
+              "text": "He rinses the dish.",
+              "answer": "He",
+              "trigger": "dish",
+              "marks": 1
+            },
+            {
+              "text": "You keep the pen in the bag.",
+              "answer": "You",
+              "trigger": "pen",
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "B",
+          "instructions": "Write the pronoun that takes the place of the underlined naming words.",
+          "items": [
+            {
+              "text": "My brother and I keep the garden.",
+              "answer": "We",
+              "trigger": "brother",
+              "marks": 1
+            },
+            {
+              "text": "The leaf is on the soil.",
+              "answer": "It",
+              "trigger": "leaf",
+              "marks": 1
+            },
+            {
+              "text": "Maryam carries the crop.",
+              "answer": "She",
+              "trigger": "Maryam",
+              "marks": 1
+            },
+            {
+              "text": "Nusair and Abdullah pass the field.",
+              "answer": "They",
+              "trigger": "Nusair",
+              "marks": 1
+            },
+            {
+              "text": "My family and I eat breakfast.",
+              "answer": "We",
+              "trigger": "family",
+              "marks": 1
+            },
+            {
+              "text": "Abdur Rahim keeps the corn.",
+              "answer": "He",
+              "trigger": "Abdur Rahim",
+              "marks": 1
+            },
+            {
+              "text": "The ants are on the plant.",
+              "answer": "They",
+              "trigger": "ant",
+              "marks": 1
+            },
+            {
+              "text": "Rabab starts the exercise.",
+              "answer": "She",
+              "trigger": "Rabab",
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "C",
+          "instructions": "Read both sentences. Write the pronoun in the blank.",
+          "items": [
+            {
+              "text": "Yusuf has a new kite. ___ is red.",
+              "answer": "It",
+              "trigger": "kite",
+              "marks": 1
+            },
+            {
+              "text": "Aisha reads a story. ___ likes the book.",
+              "answer": "She",
+              "trigger": "Aisha",
+              "marks": 1
+            },
+            {
+              "text": "The ants carry the corn. ___ are on the soil.",
+              "answer": "They",
+              "trigger": "ant",
+              "marks": 1
+            },
+            {
+              "text": "My name is Nusair. ___ am in class three.",
+              "answer": "I",
+              "trigger": "Nusair",
+              "marks": 1
+            },
+            {
+              "text": "Porshi has two hats. ___ are new.",
+              "answer": "They",
+              "trigger": "hat",
+              "marks": 1
+            },
+            {
+              "text": "Maryam helps the neighbour. ___ is a good girl.",
+              "answer": "She",
+              "trigger": "Maryam",
+              "marks": 1
+            },
+            {
+              "text": "My brother and I go to the field. ___ play football.",
+              "answer": "We",
+              "trigger": "brother",
+              "marks": 1
+            },
+            {
+              "text": "Abdur Rahim eats the corn. ___ goes to school.",
+              "answer": "He",
+              "trigger": "Abdur Rahim",
+              "marks": 1
+            },
+            {
+              "text": "The grasshopper passes the field. ___ is in the corn.",
+              "answer": "It",
+              "trigger": "grasshopper",
+              "marks": 1
+            },
+            {
+              "text": "Yusuf, ___ are a good friend.",
+              "answer": "You",
+              "trigger": "Yusuf",
+              "marks": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "HW2",
+      "type": "worksheet",
+      "stated_total": 26,
+      "boxes": [
+        "New today. I the one speaking; we the one speaking and others; you the one being spoken to. I always takes a capital letter."
+      ],
+      "parts": [
+        {
+          "name": "A",
+          "instructions": "Underline the pronoun in each sentence.",
+          "items": [
+            {
+              "text": "They wash the shoes.",
+              "answer": "They",
+              "trigger": "shoe",
+              "marks": 1
+            },
+            {
+              "text": "I keep the card in the bag.",
+              "answer": "I",
+              "trigger": "card",
+              "marks": 1
+            },
+            {
+              "text": "She rinses the palm.",
+              "answer": "She",
+              "trigger": "palm",
+              "marks": 1
+            },
+            {
+              "text": "We start the exercise on Tuesday.",
+              "answer": "We",
+              "trigger": "exercise",
+              "marks": 1
+            },
+            {
+              "text": "He carries the leaf.",
+              "answer": "He",
+              "trigger": "leaf",
+              "marks": 1
+            },
+            {
+              "text": "You go to the garden.",
+              "answer": "You",
+              "trigger": "garden",
+              "marks": 1
+            },
+            {
+              "text": "It is a wet field.",
+              "answer": "It",
+              "trigger": "field",
+              "marks": 1
+            },
+            {
+              "text": "We eat the fish.",
+              "answer": "We",
+              "trigger": "fish",
+              "marks": 1
+            },
+            {
+              "text": "They drink the water.",
+              "answer": "They",
+              "trigger": "water",
+              "marks": 1
+            },
+            {
+              "text": "I brush the shoe every morning.",
+              "answer": "I",
+              "trigger": "shoe",
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "B",
+          "instructions": "Write the pronoun that takes the place of the underlined naming words.",
+          "items": [
+            {
+              "text": "The corn is in the field.",
+              "answer": "It",
+              "trigger": "corn",
+              "marks": 1
+            },
+            {
+              "text": "Aisha and Maryam keep the towels.",
+              "answer": "They",
+              "trigger": "Aisha",
+              "marks": 1
+            },
+            {
+              "text": "My sister and I read a story.",
+              "answer": "We",
+              "trigger": "story",
+              "marks": 1
+            },
+            {
+              "text": "Yusuf passes the river.",
+              "answer": "He",
+              "trigger": "Yusuf",
+              "marks": 1
+            },
+            {
+              "text": "The leaves are on the soil.",
+              "answer": "They",
+              "trigger": "leaf",
+              "marks": 1
+            },
+            {
+              "text": "Fatima takes the plant.",
+              "answer": "She",
+              "trigger": "Fatima",
+              "marks": 1
+            },
+            {
+              "text": "My father and I go to the garden.",
+              "answer": "We",
+              "trigger": "father",
+              "marks": 1
+            },
+            {
+              "text": "Nusair eats the fish.",
+              "answer": "He",
+              "trigger": "Nusair",
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "C",
+          "instructions": "Read both sentences. Write the pronoun in the blank.",
+          "items": [
+            {
+              "text": "The dish is on the mat. ___ is clean.",
+              "answer": "It",
+              "trigger": "dish",
+              "marks": 1
+            },
+            {
+              "text": "Yusuf and Abdur Rahim go to the field. ___ carry the corn.",
+              "answer": "They",
+              "trigger": "Yusuf",
+              "marks": 1
+            },
+            {
+              "text": "My mother and I keep the food. ___ wash the dish.",
+              "answer": "We",
+              "trigger": "mother",
+              "marks": 1
+            },
+            {
+              "text": "Porshi reads a book. ___ likes the story.",
+              "answer": "She",
+              "trigger": "Porshi",
+              "marks": 1
+            },
+            {
+              "text": "My name is Rabab. ___ am a good member.",
+              "answer": "I",
+              "trigger": "Rabab",
+              "marks": 1
+            },
+            {
+              "text": "Nusair, ___ are a good brother.",
+              "answer": "You",
+              "trigger": "Nusair",
+              "marks": 1
+            },
+            {
+              "text": "The grasshoppers pass the plant. ___ are on the leaf.",
+              "answer": "They",
+              "trigger": "grasshopper",
+              "marks": 1
+            },
+            {
+              "text": "The tree is in the garden. ___ has many leaves.",
+              "answer": "It",
+              "trigger": "tree",
+              "marks": 1
+            }
+          ]
+        }
+      ]
     }
   ],
   "dictation": [],

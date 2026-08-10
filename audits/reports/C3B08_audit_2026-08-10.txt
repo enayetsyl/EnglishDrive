@@ -2,18 +2,18 @@ AUDIT REPORT — C3B08 — 2026-08-10
 manifest: blocks/C3/_wip/C3B08_manifest.json
 file2: file2/C3_ENG_VocabPool_U18_v2.xlsx
 ------------------------------------------------------------------------
-[PASS] De-patterning                    6 answer sets checked
-[PASS] CW↔HW overlap                    CW1↔HW1: positional 4% (superseded by PD-036 zero-repeat, kept as backstop)
-[PASS] PT zero-overlap                  0 PT items vs 54 worksheet items
+[PASS] De-patterning                    12 answer sets checked
+[PASS] CW↔HW overlap                    CW1↔HW1: positional 4%; CW2↔HW2: positional 12% (superseded by PD-036 zero-repeat, kept as backstop)
+[PASS] PT zero-overlap                  0 PT items vs 108 worksheet items
 [PASS] Within-sheet duplicates          all sheets scanned
 [PASS] Option-list completeness         6 option-listed parts checked
-[PASS] HW key transcribability          2 paired parts compared
-[PASS] Cross-sheet repetition (PD-036)  54 distinct texts across 2 sheets; threshold 0
+[PASS] HW key transcribability          4 paired parts compared
+[PASS] Cross-sheet repetition (PD-036)  108 distinct texts across 4 sheets; threshold 0
 [PASS] Rehearsal/graded disjoint        not applicable (no boxes declared)
-[PASS] Mark totals                      CW1: 28/28; HW1: 26/26
+[PASS] Mark totals                      CW1: 28/28; HW1: 26/26; CW2: 28/28; HW2: 26/26
 [PASS] Sacred-word guard                graded targets + dictation + clue/instructions/boxes scanned (PD-054)
 [PASS] Values lexicon screen            item texts + clue/instructions/boxes scanned (incl. inflections; PD-054)
-[PASS] Held-word / exemplar / block-local 54 graded targets checked against 195 pool words + 11 exemplars + 12 block-local; 0 English clue word(s) checked (PD-054)
+[PASS] Held-word / exemplar / block-local 108 graded targets checked against 195 pool words + 11 exemplars + 12 block-local; 0 English clue word(s) checked (PD-054)
 [PASS] One-defensible-answer (human)    no conflicting-answer candidates; full check remains a human read
 ------------------------------------------------------------------------
 RESULT: ALL GATES PASS

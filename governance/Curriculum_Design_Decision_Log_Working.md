@@ -792,6 +792,24 @@ Decisions made in principle but not yet implemented. Not official until converte
 
 ---
 
+### PD-057 — House-roster names are a **standing instrument**, not vocabulary — drive-wide
+**Decision:** The Charter §H.5 house-roster names — *Nusair, Yusuf, Abdullah, Abdur Rahim; Aisha, Raima, Maryam, Fatima, Porshi, Rabab, Jesmin Akter* — are declared a **standing instrument** across the drive. They may be declared as the `trigger` of a graded item, are **never counted toward any week's vocabulary load**, are **never** dictation, spelling or meaning items, and are **not** added to File 2 in any class.
+
+**The gap this closes.** A roster name is **graded content** wherever an item turns on it. *Yusuf → he*, *Aisha → she*, *Yusuf and Abdullah → they*: the name carries the **gender and number the answer depends on**, so it is the trigger in the strict sense — the word that makes the item answerable. But the names are in no pool, and **PD-051's block-local set covers only the twelve pronouns**. Left undeclared, every name-based item would either fail the held-word gate or, far worse, pass it silently by carrying no trigger at all.
+
+**This is a known blind spot, not a new one.** It is one of the three occurrences that made **CR-032 a PATTERN**: *"C1 Block 6's 29 house-name items carrying no trigger."* C3 Block 8 is built almost entirely on name-triggered items, so leaving it undeclared would have reproduced the C1B06 defect at full scale on the very block meant to close it.
+
+**Why an instrument and not a block-local set (PD-012).** **PD-020** selects by what the word is *for*. A block-local word is a **genuine taught word** whose held status is confined to a block, and it is **counted toward load** — that is the wrong contract here. No child is taught *Yusuf* as vocabulary: it is never dictated, never spelled, never glossed, and no lesson objective mentions it. What the item grades is **gender and number**, not the name. The status is therefore closest to a **Grammar Exemplar (§5.7 / PD-009)** — sole purpose is to demonstrate the rule, the child never needs to own the word, **not counted toward load**. Counting eleven names as load in every class of the drive would inflate every retention-gate denominator with words no one is teaching.
+
+**Scope: drive-wide, and deliberately so.** Every class's blocks author on the same roster, and the defect is already sitting in a promoted file. **C1 Block 6 is delivered with 29 untriggered name items** — this ruling gives them a status but, per Charter §K.3, **C1B06 is not reopened**; its manifest gains the declaration on its own next revision. Classes 2, 4 and 5 inherit the same treatment forward-only.
+
+**Implementation.** Manifests declare the roster under the existing exemplar mechanism, so no schema change and no new gate is required — the same "declare a field, don't add a gate" path as PD-035, PD-037 and PD-054. Applied in `_wip/C3B08_manifest.json`; the held-word gate reports 11 exemplars alongside the 12 block-local pronouns and passes.
+**Not done here:** the CR-032 manifest-completeness check remains unbuilt (Q7, C3B08 STATE) — this ruling removes one of its three motivating cases, not the obligation.
+**Affected files:** `blocks/C3/_wip/` (master, manifest, STATE). No item re-authored; no mark moved; no word added to File 2.
+**Status:** Ruled (Principal, 10.08.26).
+
+---
+
 *End of working log as of 01.08.26. Several items from the most recent Class 4 Block 02 and Class 3 Block 02 discussions are still pending your classification/confirmation and are not yet included above.*
 
 ---

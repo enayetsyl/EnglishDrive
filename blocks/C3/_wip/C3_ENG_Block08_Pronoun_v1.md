@@ -3,7 +3,7 @@
 
 **Class:** 3 · **Block:** 8 · **Week:** 7 · **Days:** 4 teaching (Sun–Wed) + Performance Test (Thu)
 **Filename:** `C3_ENG_Block08_Pronoun_v1.md`
-**Build status:** ⚠ **IN PROGRESS — Day 1 only.** Days 2–4, PT, Assignment, AK and TD are not written.
+**Build status:** ⚠ **IN PROGRESS — Days 1–2 built and audited (ALL GATES PASS).** Days 3–4, PT, Assignment, AK and TD are not written.
 
 ---
 
@@ -18,7 +18,7 @@
 | Bloom | Class 3 = Understand/Apply; climb within block to simple Analyze / guided Create | Charter §G · Drive Plan §6 |
 | Held-word scope | **The entire 195-word pool.** W7 clears it; no File 2 word is unheld by this block | VocabPool U1–8 v2 + BatchOrder v1 |
 | Vocabulary status | **Twelve block-local words (PD-051, PD-052):** `I · you · he · she · it · we · they · me · him · her · us · them`. Counted toward W7 load; **never dictation or spelling items**; not added to File 2; not held downstream | PD-012 as extended by PD-035 |
-| ⚑ Roster names | House names carry the **gender and number** every third-person item turns on, but are not File 2 words. Declared in the manifest so the held-word gate can see them — **PENDING a ruling**, see Version log ⚑R1 | Charter §H.5 (v1.6) |
+| Roster names | **RULED — a standing instrument, not vocabulary (PD-057, drive-wide).** House names carry the gender and number every third-person item turns on, so a name may be an item's `trigger`; but no name is ever counted toward load, dictated, spelled or glossed, and none is added to File 2. Declared under the exemplar mechanism — no schema change, no new gate | **PD-057** · Charter §H.5 (v1.6) |
 | Manifest visibility | **PD-054** fields declared: `boxes` (the Remember box on both sheets) and `instructions` (all six parts), so the values and sacred screens read the printed surfaces, not just item text. **`clue` is deliberately absent** — no graded pronoun item carries a per-item clue, because an antecedent gloss is very nearly the answer (CR-016/CR-019) | PD-054 |
 | Self-try rubric | 4 marks, four criteria at 1 each; value alignment not scored | Charter §I.3 · PD-010 |
 | Roll / Exit Check | **17** (one prompt per student) — confirmed by the Principal 10.08.26 | Q6 ruling |
@@ -73,7 +73,9 @@ naming word (*this book* — Block 7) or stand in its place (*This is mine*).
   relative/reflexive/indefinite, and **never** relabel *my/his/her/our/their* as pronouns — before a noun they are
   Block 7 adjectives.
 - ☐ **Day 1 carries no possessive word and no object pronoun** — not as an answer, not in a sentence, not in an
-  instruction's option list.
+  instruction's option list. **Day 2 adds *I · we · you* only**; object forms wait for Day 3.
+- ☐ **Fading box:** Day 1 prints the full list (and is the option set), **Day 2 prints new terms only and is NOT an
+  option list**, Day 3 prints none. Annual Q3 supplies no box, so the fade ends where the exam sits.
 - ☐ Every graded item has **exactly one possible antecedent**. Read each one and ask *"which naming word, and how
   does the child know?"*
 - ☐ **No graded item refers back to Allah, the Qur'an or a Prophet** (§H.3 antecedent screen).
@@ -204,6 +206,85 @@ One prompt per student, oral, no writing. Set below.
 
 ---
 
+## Class 2 (Monday) — The speaker and the listener (*I · we · you*)
+
+*Understand → Apply. Yesterday's four pronouns all needed a naming word to point back to. Today's three do not — the child already knows who "I" is. This day is deliberately lighter than Day 1.*
+
+| Step | Min | Activity |
+|---|---|---|
+| 1 | 0–7 | *I* — the one who is speaking |
+| 2 | 7–15 | *we* — me and others |
+| 3 | 15–22 | *you* — the one I am speaking to |
+| 4 | 22–30 | CW-2 |
+| 5 | 30–35 | Exit Check (17) |
+
+**Step 1 — *I*: the one who is speaking (0–7 min)**
+
+Start by re-touching yesterday. *"Yesterday we learned that a pronoun takes the place of a naming word. Yusuf — **he**. Aisha — **she**. The kite — **it**. Two boys — **they**."* Quick, thirty seconds, hands up.
+
+*"Now. What if I am talking about **myself**? I don't say my own name."* Demonstrate — say it the wrong-sounding way first, about **yourself**, never putting a wrong form in a child's mouth:
+
+> *"Your teacher is in the classroom. Your teacher has a book."*
+
+*"That sounds strange, doesn't it? When I talk about myself I say — **I**. **I** am in the classroom. **I** have a book."*
+
+Write on the board:
+
+> **I** am in class three. · **I** read a book.
+
+*"**I** is always a capital letter — always, anywhere in the sentence. That is the only pronoun that does that."* This is worth one clear statement; the Punctuation block (13) will meet it again.
+
+**Step 2 — *we*: me and others (7–15 min)**
+
+*"And if it is me **and** someone else?"*
+
+> My brother and I → **we** · My family and I → **we** · Aisha and I → **we**
+
+Say the pairs and let the class answer *we* each time. *"**We** clean the classroom. **We** go to the library on Monday."*
+
+*"So — **they** is for other people. **We** is when **I am in it too**. That is the whole difference."* Say that sentence twice; it is the one that decides every *we/they* item this week.
+
+**Step 3 — *you*: the one I am speaking to (15–22 min)**
+
+Speak directly to one child by name. *"Nusair, **you** are a good friend."* Then to the whole class: *"**You** are in class three."*
+
+*"**You** works for one person and for many. And **you** stays the same word whether it does the work or receives it — you will see that tomorrow."* Do not develop this; it is a signpost, not a lesson.
+
+Build the finished set on the board with the class:
+
+| Who? | We say… |
+|---|---|
+| the one speaking | **I** |
+| the one speaking + others | **we** |
+| the one being spoken to | **you** |
+| one boy / one girl / one thing / more than one | **he · she · it · they** |
+
+**Watch for this.** *"Me and my brother go…"* is very common in speech. Correct it once, gently, to *"My brother and I"*, and move on — it is a courtesy point, not a graded target this week.
+
+**Step 4 — CW-2 (22–30 min)** · Hand out `C3B08-CW2`. Do **Part C item 1** together, aloud, showing how you find the naming word the blank points back to. Then let them work.
+
+**Step 5 — Exit Check (30–35 min)**
+
+### Exit Check — Day 2 (17 prompts, one per student)
+
+*Teacher says the phrase; the student answers with one pronoun. De-patterned — do not reorder.*
+
+| # | Prompt | Answer | | # | Prompt | Answer |
+|---|---|---|---|---|---|---|
+| 1 | Yusuf and Abdullah | they | | 10 | Porshi | she |
+| 2 | my sister and I | we | | 11 | the grasshopper | it |
+| 3 | the corn | it | | 12 | Nusair | he |
+| 4 | Maryam | she | | 13 | Rabab and Fatima | they |
+| 5 | Abdur Rahim | he | | 14 | when you talk about yourself | I |
+| 6 | when I talk about myself | I | | 15 | the plant | it |
+| 7 | the person I am speaking to | you | | 16 | Aisha | she |
+| 8 | the leaves | they | | 17 | my father and I | we |
+| 9 | my family and I | we | | | | |
+
+*Balance: they 3 · we 3 · it 3 · she 3 · he 2 · I 2 · you 1. No two adjacent answers alike; no strict alternation.*
+
+---
+
 # Worksheets
 
 ### CW1 — Pronoun (Classwork, Day 1)
@@ -328,30 +409,138 @@ taught across more than one day.)*
 
 ---
 
+### CW2 — Pronoun (Classwork, Day 2)
+
+**School for Community Development — Sylhet Branch**
+**English Skill-Building Drive · Class 3 · Block 8 (Pronoun) · Classwork**
+
+> **New today.** **I** — the one speaking · **we** — the one speaking and others · **you** — the one being spoken to
+> **I** always takes a capital letter.
+
+*(Fading term box, Day 2 = **new terms only** — Day 1 printed the full list, Day 3 prints none. This is a **term box, not an option list**: no part on this sheet offers a set to choose from, because the exam anchor supplies none.)*
+
+**Part A — Underline the pronoun in each sentence. [10 × 1 = 10]**
+
+1. I read a story every evening.
+2. We wash the classroom on Sunday.
+3. You are a good neighbour.
+4. She takes the card.
+5. They carry the corn.
+6. I drink water after exercise.
+7. It is a bright afternoon.
+8. We go to the library on Monday.
+9. He rinses the dish.
+10. You keep the pen in the bag.
+
+**Part B — Write the pronoun that takes the place of the underlined naming words. [8 × 1 = 8]**
+
+11. <u>My brother and I</u> keep the garden.   → ______
+12. <u>The leaf</u> is on the soil.   → ______
+13. <u>Maryam</u> carries the crop.   → ______
+14. <u>Nusair and Abdullah</u> pass the field.   → ______
+15. <u>My family and I</u> eat breakfast.   → ______
+16. <u>Abdur Rahim</u> keeps the corn.   → ______
+17. <u>The ants</u> are on the plant.   → ______
+18. <u>Rabab</u> starts the exercise.   → ______
+
+**Part C — Read both sentences. Write the pronoun in the blank. [10 × 1 = 10]**
+
+19. Yusuf has a new kite. ______ is red.
+20. Aisha reads a story. ______ likes the book.
+21. The ants carry the corn. ______ are on the soil.
+22. My name is Nusair. ______ am in class three.
+23. Porshi has two hats. ______ are new.
+24. Maryam helps the neighbour. ______ is a good girl.
+25. My brother and I go to the field. ______ play football.
+26. Abdur Rahim eats the corn. ______ goes to school.
+27. The grasshopper passes the field. ______ is in the corn.
+28. Yusuf, ______ are a good friend.
+
+**Part D — Write your own.** *(Not marked — your teacher will check it.)*
+
+29. Write a sentence about yourself. Use **I** in it. Underline the pronoun.
+30. Write a sentence about you and your brother or your sister. Use **we** in it. Underline the pronoun.
+
+*Canonical ID: C3B08-CW2 · Graded total: 28 marks*
+
+---
+
+### HW2 — Pronoun (Homework, Day 2)
+
+**School for Community Development — Sylhet Branch**
+**English Skill-Building Drive · Class 3 · Block 8 (Pronoun) · Homework**
+
+> **New today.** **I** — the one speaking · **we** — the one speaking and others · **you** — the one being spoken to
+> **I** always takes a capital letter.
+
+**Part A — Underline the pronoun in each sentence. [10 × 1 = 10]**
+
+1. They wash the shoes.
+2. I keep the card in the bag.
+3. She rinses the palm.
+4. We start the exercise on Tuesday.
+5. He carries the leaf.
+6. You go to the garden.
+7. It is a wet field.
+8. We eat the fish.
+9. They drink the water.
+10. I brush the shoe every morning.
+
+**Part B — Write the pronoun that takes the place of the underlined naming words. [8 × 1 = 8]**
+
+11. <u>The corn</u> is in the field.   → ______
+12. <u>Aisha and Maryam</u> keep the towels.   → ______
+13. <u>My sister and I</u> read a story.   → ______
+14. <u>Yusuf</u> passes the river.   → ______
+15. <u>The leaves</u> are on the soil.   → ______
+16. <u>Fatima</u> takes the plant.   → ______
+17. <u>My father and I</u> go to the garden.   → ______
+18. <u>Nusair</u> eats the fish.   → ______
+
+**Part C — Read both sentences. Write the pronoun in the blank. [8 × 1 = 8]**
+
+19. The dish is on the mat. ______ is clean.
+20. Yusuf and Abdur Rahim go to the field. ______ carry the corn.
+21. My mother and I keep the food. ______ wash the dish.
+22. Porshi reads a book. ______ likes the story.
+23. My name is Rabab. ______ am a good member.
+24. Nusair, ______ are a good brother.
+25. The grasshoppers pass the plant. ______ are on the leaf.
+26. The tree is in the garden. ______ has many leaves.
+
+**Part D — Vocabulary Writing.** *(Not marked — your teacher will check it. Write the Bangla meaning of each word.)*
+
+> **Word Bank:** crop · animal · tree · people · thing
+
+| English Word | বাংলা অর্থ |
+|---|---|
+| | |
+| | |
+| | |
+| | |
+| | |
+
+*Canonical ID: C3B08-HW2 · Graded total: 26 marks*
+
+---
+
 ## Version log
 
 | Version | Date | Change |
 |---|---|---|
+| v1.2 (in progress) | 2026-08-10 | **Day 2 built — `C3B08-CW2` (28) and `C3B08-HW2` (26); all gates PASS across four sheets, 108 graded targets.** Monday teaches *I · we · you*, deliberately lighter than Day 1: yesterday's four pronouns all needed a naming word to point back to, and today's three do not. New item shape **S3 (two-sentence cloze)** enters here — the anchor skill in its smallest unit. Fading box now at "new terms only" and explicitly **not** an option list (no part offers a set to choose from, because Annual Q3 offers none). **⚑R1 CLOSED by PD-057** — roster names ruled a standing instrument, drive-wide, not counted toward load. **Three items fixed by the human antecedent gate after the scripts passed:** (a) *"My name is Rabab. ___ go to school on Sunday."* had **no forced answer** — `We` and `They` are both defensible, since the first sentence fixes only the speaker and `go` agrees with all three; recast to *"___ am a good member."*, where **`am` forces `I`** and nothing else. This is the CR-005 failure the blueprint predicted, and it is invisible to every gate — the key was internally consistent, so the audit was green. (b) The repair put *"good member"* on the same sheet twice, so HW2 C24 became *"Nusair, ___ are a good brother."* (c) CW2 B11 read *"go to the library"*, already used at CW2 A8 on the same sheet — recast to *"keep the garden"* (B10 phrase crowding). **Forcing devices now used deliberately:** `am` for first person, a vocative for second, number agreement (*Porshi has two hats → **They** are new*) and animacy (*Abdur Rahim eats the corn → **He** goes to school*) for third. §H.4: every plural antecedent on both sheets is a same-sex pair or declared family (*my brother/sister/mother/father/family and I*). §H.9: nature carriers checked — *"The tree is in the garden. It has many leaves"* is descriptive, no autonomous giver. |
 | v1.1 (in progress) | 2026-08-10 | **First audit run: one genuine FAIL, fixed; then ALL GATES PASS.** (a) **Cross-sheet repetition (PD-036, threshold 0)** — `HW1` Part B item 18 read **`Yusuf`**, duplicating `CW1` Part B item 11 verbatim. My own pre-audit estimate had scored this "1 identical item, under the ≤2/day threshold"; the operative gate for cross-sheet text is **zero**, not two, so the estimate was wrong and the script was right. Changed to **`Abdullah`** (answer `he` unchanged, so no key, balance or de-patterning sequence moved). A bare-name item is inherently short of distinct texts — noted for Days 2–4, where Part B recurs. (b) **PD-054 fields added** — the parallel C4 session landed PD-054 mid-build, extending the values, sacred and held-word screens to read `boxes`, `instructions` and `clue`. Both sheets now declare their Remember box and all six part instructions; `clue` stays deliberately empty (see header). (c) **PD ceiling re-derived from HEAD**: the log now runs to **PD-055**, not PD-053 — the parallel session took 054 and 055 while this block was drafting, and renumbered its own entry 051→054 because this session had taken 051/052/053. Next free is **056**. Audit report: `audits/reports/C3B08_audit_2026-08-10.txt`. |
 | v1 (in progress) | 2026-08-10 | **Day 1 built.** Provenance header, Clue Card `C3B08-CC`, teacher checklist, Sunday script with Term Drill and 17-prompt Exit Check, `C3B08-CW1` (28 marks) and `C3B08-HW1` (26 marks). Built against Charter **v1.6**, Run Book v1.17, Drive Plan **v1.9**, and the approved Phase 3 blueprint. Rulings in force: **PD-051** (twelve pronouns block-local), **PD-052** (*you* taught and graded), **PD-053** (roster), PD-010, PD-012/035, PD-015, PD-018. Day 1 answer set restricted to `he·she·it·they` per the blueprint staging table; **no possessive word and no object pronoun appears anywhere on either sheet.** CW↔HW positional overlap: Part A **0/10**, Part B **0/8**, Part C **1/8 (12.5%)** — all under the 35% gate. One identical item text across the pair (*Yusuf*, CW1 #11 / HW1 #18) — under the ≤2/day threshold. Days 2–4, PT, Assignment, AK and TD **not written**. |
 
 ### ⚑ Dependency flags (list, never edit)
 
-**⚑ R1 — House-roster names are graded content with no declared vocabulary status. PENDING A RULING.**
-Every third-person item in this block turns on a name: *Yusuf → he*, *Aisha → she*, *Yusuf and Abdullah → they*.
-The name carries the **gender and number** the answer depends on — it *is* the trigger — but the eleven Charter
-§H.5 names are **not File 2 words** and are not covered by PD-051's block-local set.
-
-This is the **same blind spot that made CR-032 a PATTERN**: one of its three occurrences was *C1 Block 6's 29
-house-name items carrying no trigger*. Leaving them untriggered here would reproduce that defect at scale on the
-very block that was supposed to close it. Manifest treatment applied provisionally: a declared `roster_names`
-set, so every such item carries a trigger the gate can see.
-
-**Proposed status: a standing instrument, not vocabulary** — a roster name is not a word the child is being taught
-to own (no name is ever a dictation, spelling or meaning item), and what the item grades is **gender and number**,
-not the name. It is closest to a Grammar Exemplar (§5.7/PD-009): sole purpose is to demonstrate the rule, and it
-is **not counted toward load**. Confirmation needed, and it is drive-wide rather than block-scoped — C1 Block 6 is
-already promoted with the same gap.
+**✅ R1 — CLOSED by PD-057 (Principal, 10.08.26).** House-roster names are graded content: *Yusuf → he* works
+because the name carries the gender, so the name **is** the trigger. They are in no pool, and PD-051's block-local
+set covers only the twelve pronouns. Ruled a **standing instrument, drive-wide** — declarable as a `trigger`, never
+counted toward load, never a dictation/spelling/meaning item, never added to File 2. Closest to a Grammar Exemplar
+(§5.7/PD-009) and declared under that mechanism, so no schema change and no new gate. This removes one of CR-032's
+three motivating cases. **⚑ C1 Block 6 is promoted and delivered with 29 untriggered name items** — per Charter
+§K.3 it is **not** reopened; its manifest gains the declaration on its own next revision. C2/C4/C5 inherit forward-only.
 
 **⚑ R2 — PD-052 cross-class replication not executed.** *you* may be missing from the C1/C2/C4/C5 §2 row 8s.
 
