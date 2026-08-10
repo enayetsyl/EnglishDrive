@@ -1,8 +1,12 @@
 # C4 Block 7 — build state
 
 **Block ID:** `C4B07` · **Block:** Verb & Subject–Verb Agreement · **Week:** W7 (solo, FULL, protected)
-**Status: PHASE 3 BLUEPRINT ISSUED (10.08.26). No master drafted, no graded content, no sentence bank.**
-Blueprint: `blocks/C4/_wip/C4B07_blueprint.md` — **awaiting Principal approval before Phase 4.**
+**Status: PHASE 4 OPEN — unit 1 (sentence bank, Strands 1–2) issued for the human read. No master drafted.**
+Blueprint `blocks/C4/_wip/C4B07_blueprint.md` — **APPROVED (Principal, 10.08.26).**
+Bank unit 1: `blocks/C4/_wip/C4B07_bank_S1_S2_candidate.md` — 63 usable candidates, awaiting naturalness read.
+Held-word verification run over the bank: 65 sentences, every content word traces to the pool, a taught
+inflection, the §H.5 roster or a function word — **except the two the bank itself flags** (`boys`, `ball`
+in S2-30, replacement proposed).
 Phase 2 list: `blocks/C4/_wip/C4B07_phase2_questions.md` (all five ruled — see table below).
 
 **Phase 2 headline — the pronoun blocker dissolved on inspection.** C4B07 is recommended **not** to replicate
