@@ -2,18 +2,18 @@ AUDIT REPORT — C3B08 — 2026-08-10
 manifest: blocks/C3/_wip/C3B08_manifest.json
 file2: file2/C3_ENG_VocabPool_U18_v2.xlsx
 ------------------------------------------------------------------------
-[PASS] De-patterning                    20 answer sets checked
-[PASS] CW↔HW overlap                    CW1↔HW1: positional 4%; CW2↔HW2: positional 12%; CW3↔HW3: positional 27% (superseded by PD-036 zero-repeat, kept as backstop)
-[PASS] PT zero-overlap                  0 PT items vs 162 worksheet items
+[PASS] De-patterning                    28 answer sets checked
+[PASS] CW↔HW overlap                    CW1↔HW1: positional 4%; CW2↔HW2: positional 12%; CW3↔HW3: positional 27%; CW4↔HW4: positional 12% (superseded by PD-036 zero-repeat, kept as backstop)
+[PASS] PT zero-overlap                  0 PT items vs 216 worksheet items
 [PASS] Within-sheet duplicates          all sheets scanned
-[PASS] Option-list completeness         8 option-listed parts checked
-[PASS] HW key transcribability          7 paired parts compared
-[PASS] Cross-sheet repetition (PD-036)  162 distinct texts across 6 sheets; threshold 0
-[PASS] Rehearsal/graded disjoint        not applicable (no boxes declared)
-[PASS] Mark totals                      CW1: 28/28; HW1: 26/26; CW2: 28/28; HW2: 26/26; CW3: 28/28; HW3: 26/26
+[PASS] Option-list completeness         10 option-listed parts checked
+[PASS] HW key transcribability          10 paired parts compared
+[PASS] Cross-sheet repetition (PD-036)  216 distinct texts across 8 sheets; threshold 0
+[PASS] Rehearsal/graded disjoint        0 self-try vs 4 demo words
+[PASS] Mark totals                      CW1: 28/28; HW1: 26/26; CW2: 28/28; HW2: 26/26; CW3: 28/28; HW3: 26/26; CW4: 28/28; HW4: 26/26
 [PASS] Sacred-word guard                graded targets + dictation + clue/instructions/boxes scanned (PD-054)
 [PASS] Values lexicon screen            item texts + clue/instructions/boxes scanned (incl. inflections; PD-054)
-[PASS] Held-word / exemplar / block-local 162 graded targets checked against 195 pool words + 11 exemplars + 12 block-local; 0 English clue word(s) checked (PD-054)
+[PASS] Held-word / exemplar / block-local 216 graded targets checked against 195 pool words + 11 exemplars + 12 block-local; 0 English clue word(s) checked (PD-054)
 [PASS] One-defensible-answer (human)    no conflicting-answer candidates; full check remains a human read
 ------------------------------------------------------------------------
 RESULT: ALL GATES PASS

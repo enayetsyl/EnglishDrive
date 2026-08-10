@@ -20,10 +20,10 @@ day staging as proposed · subject/object **terms taught, not graded** (PD-014 p
 **`C3B08-PT` at 30 marks**, Part D at 8 blanks × 0.5 · dictation 10 words (6×W7 + 4×W6) · Assignment built in
 this pass · volume held at ~28 CW / ~26 HW.
 
-**Phase 4 — IN PROGRESS. Days 1–3 built and audited: ALL GATES PASS** (6 sheets, 162 graded targets).
-`_wip/C3_ENG_Block08_Pronoun_v1.md` (**v1.3**) carries the provenance header, Clue Card, checklist, the Sunday,
-Monday and Tuesday scripts, three 17-prompt Exit Checks, and six sheets: `C3B08-CW1` (28) · `C3B08-HW1` (26) ·
-`C3B08-CW2` (28) · `C3B08-HW2` (26) · `C3B08-CW3` (28) · `C3B08-HW3` (26).
+**Phase 4 — IN PROGRESS. All four teaching days built and audited: ALL GATES PASS** (8 sheets, 216 graded targets).
+`_wip/C3_ENG_Block08_Pronoun_v1.md` (**v1.4**) carries the provenance header, Clue Card, checklist, all four day
+scripts, four 17-prompt Exit Checks, the Self-Construction task with its rubric, and eight sheets:
+`C3B08-CW1`/`HW1` · `CW2`/`HW2` · `CW3`/`HW3` · `CW4`/`HW4` (28 / 26 each day).
 Manifest `_wip/C3B08_manifest.json`. Report `audits/reports/C3B08_audit_2026-08-10.txt`.
 
 **PD-057 logged** (Principal, 10.08.26): house-roster names are a **standing instrument, not vocabulary** —
@@ -47,7 +47,22 @@ family pairings before the audit ran.
 ⚑ **CW3↔HW3 positional overlap is 27%**, the highest of the block against a 35% gate. Day 4 has fewer free answer
 slots — shuffle independently, never trim CW4 into HW4.
 
-**Paused for review before Day 4** (Run Book §7.5).
+**Day 4 (Wednesday) — the exam item itself.** Part A is a connected passage, eight lettered blanks, **no word
+box**, 4 subject / 4 object slots. Plus find-and-correct (with "some are already correct", so a pupil cannot
+correct blindly) and the self-try demonstration on `kite · garden · river · card`, declared as `demo_box_words`.
+
+**Two genuine FAILs on the first Day-4 run, both fixed.** (a) *"They carry the corn."* sat on **CW2 Part A**
+keyed `They` and on **CW4 Part B** keyed `correct` — one sentence, two right answers. The "already correct"
+distractor had been drawn, unwittingly, from a live item. (b) **`sister` is not in the C3 pool.**
+
+⚑ **NEW FILE 2 GAP — flagged, not filled.** `sister` and `boy` are absent while `brother`, `mother`, `father` and
+`girl` are present. Every first-person-plural item is now built on *brother / mother / father / family*.
+**`sister` was already sitting in HW2 as carrier text and had passed every run**, because the held-word gate keys
+on `trigger` alone and carrier text is unchecked by construction — the CR-032 blind-spot family in its mildest
+form. Adding to the pool affects every C3 block and needs its own ruling, as the size-adjective gap did (CR-030).
+
+**Paused for review before the Performance Test** (Run Book §7.5). Next: `C3B08-PT` at the approved 30 marks,
+whose Part F self-try set must share **zero** words with `kite · garden · river · card`.
 
 ---
 

@@ -747,9 +747,9 @@
               "marks": 1
             },
             {
-              "text": "My sister and I read a story.",
+              "text": "My family and I read a story.",
               "answer": "We",
-              "trigger": "story",
+              "trigger": "family",
               "marks": 1
             },
             {
@@ -1234,9 +1234,409 @@
           ]
         }
       ]
+    },
+    {
+      "name": "CW4",
+      "type": "worksheet",
+      "pair": "HW4",
+      "stated_total": 28,
+      "parts": [
+        {
+          "name": "A",
+          "instructions": "Read the passage. Write the correct pronoun in each blank.",
+          "items": [
+            {
+              "text": "Aisha and Maryam go to the garden on Friday. ___ carry a new bag.",
+              "answer": "They",
+              "trigger": "Aisha",
+              "marks": 1
+            },
+            {
+              "text": "A wet towel is near the tap. ___ is dirty.",
+              "answer": "It",
+              "trigger": "towel",
+              "marks": 1
+            },
+            {
+              "text": "Maryam takes the towel. Aisha helps ___.",
+              "answer": "her",
+              "trigger": "Maryam",
+              "marks": 1
+            },
+            {
+              "text": "Mother calls the girls. ___ gives them breakfast.",
+              "answer": "She",
+              "trigger": "girl",
+              "marks": 1
+            },
+            {
+              "text": "Maryam, ___ are a good neighbour, says Mother.",
+              "answer": "you",
+              "trigger": "neighbour",
+              "marks": 1
+            },
+            {
+              "text": "Yusuf and Nusair pass the field. Abdullah meets ___ near the tree.",
+              "answer": "them",
+              "trigger": "Yusuf",
+              "marks": 1
+            },
+            {
+              "text": "Nusair has a book. Abdullah takes ___ to the library.",
+              "answer": "it",
+              "trigger": "book",
+              "marks": 1
+            },
+            {
+              "text": "My brother and I clean the hut. Mother gives ___ the food.",
+              "answer": "us",
+              "trigger": "brother",
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "B",
+          "instructions": "Find the wrong pronoun and write the correct one. Some are already correct.",
+          "items": [
+            {
+              "text": "Yusuf helps she.",
+              "answer": "her",
+              "trigger": "Yusuf",
+              "marks": 1
+            },
+            {
+              "text": "Mother gives I a card.",
+              "answer": "me",
+              "trigger": "card",
+              "marks": 1
+            },
+            {
+              "text": "Aisha helps them.",
+              "answer": "correct",
+              "trigger": "Aisha",
+              "marks": 1
+            },
+            {
+              "text": "Abdullah calls he.",
+              "answer": "him",
+              "trigger": "Abdullah",
+              "marks": 1
+            },
+            {
+              "text": "Us go to the library.",
+              "answer": "We",
+              "trigger": "library",
+              "marks": 1
+            },
+            {
+              "text": "Nusair meets them.",
+              "answer": "correct",
+              "trigger": "Nusair",
+              "marks": 1
+            },
+            {
+              "text": "Father takes we to the city.",
+              "answer": "us",
+              "trigger": "city",
+              "marks": 1
+            },
+            {
+              "text": "Him keeps the bag.",
+              "answer": "He",
+              "trigger": "bag",
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "C",
+          "instructions": "Read both sentences. Write the pronoun in the blank.",
+          "items": [
+            {
+              "text": "Fatima has a cozy hut. Yusuf keeps the corn in ___.",
+              "answer": "it",
+              "trigger": "hut",
+              "marks": 1
+            },
+            {
+              "text": "Aisha and Raima start the exercise. ___ carry the mat.",
+              "answer": "They",
+              "trigger": "Aisha",
+              "marks": 1
+            },
+            {
+              "text": "Abdur Rahim is my neighbour. Mother helps ___ on Friday.",
+              "answer": "him",
+              "trigger": "Abdur Rahim",
+              "marks": 1
+            },
+            {
+              "text": "We pass the river every morning. Nusair meets ___ near the field.",
+              "answer": "us",
+              "trigger": "river",
+              "marks": 1
+            },
+            {
+              "text": "Rabab takes a card. ___ gives it to Maryam.",
+              "answer": "She",
+              "trigger": "Rabab",
+              "marks": 1
+            },
+            {
+              "text": "The plants are in the soil. Fatima keeps ___ near the tap.",
+              "answer": "them",
+              "trigger": "plant",
+              "marks": 1
+            },
+            {
+              "text": "I am a member of the group. Porshi helps ___.",
+              "answer": "me",
+              "trigger": "member",
+              "marks": 1
+            },
+            {
+              "text": "Maryam, ___ open the tin.",
+              "answer": "you",
+              "trigger": "Maryam",
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "D",
+          "instructions": "Is the word in bold a describing word or a pronoun? Write describing word or pronoun.",
+          "items": [
+            {
+              "text": "Fatima keeps her shoe in the bag.",
+              "answer": "describing word",
+              "trigger": "shoe",
+              "marks": 1
+            },
+            {
+              "text": "Abdullah carries his towel.",
+              "answer": "describing word",
+              "trigger": "towel",
+              "marks": 1
+            },
+            {
+              "text": "Nusair meets him on Monday.",
+              "answer": "pronoun",
+              "trigger": "Nusair",
+              "marks": 1
+            },
+            {
+              "text": "Rabab helps her.",
+              "answer": "pronoun",
+              "trigger": "Rabab",
+              "marks": 1
+            }
+          ],
+          "options": [
+            "describing word",
+            "pronoun"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "HW4",
+      "type": "worksheet",
+      "stated_total": 26,
+      "parts": [
+        {
+          "name": "A",
+          "instructions": "Read the passage. Write the correct pronoun in each blank.",
+          "items": [
+            {
+              "text": "Yusuf carries the bag. Nusair helps ___.",
+              "answer": "him",
+              "trigger": "Yusuf",
+              "marks": 1
+            },
+            {
+              "text": "My father and I keep the classroom clean. Mother gives ___ a card.",
+              "answer": "us",
+              "trigger": "father",
+              "marks": 1
+            },
+            {
+              "text": "Aisha and Maryam pass the garden. ___ carry the plant.",
+              "answer": "They",
+              "trigger": "Aisha",
+              "marks": 1
+            },
+            {
+              "text": "Nusair, ___ are a good brother, says Father.",
+              "answer": "you",
+              "trigger": "brother",
+              "marks": 1
+            },
+            {
+              "text": "Maryam has a towel. Fatima takes ___ to the tap.",
+              "answer": "it",
+              "trigger": "towel",
+              "marks": 1
+            },
+            {
+              "text": "Father calls Nusair and Yusuf. ___ gives them breakfast.",
+              "answer": "He",
+              "trigger": "father",
+              "marks": 1
+            },
+            {
+              "text": "Rabab sees Aisha and Maryam. Fatima meets ___ near the plant.",
+              "answer": "them",
+              "trigger": "Aisha",
+              "marks": 1
+            },
+            {
+              "text": "A fish is in the water. ___ is bright.",
+              "answer": "It",
+              "trigger": "fish",
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "B",
+          "instructions": "Find the wrong pronoun and write the correct one. Some are already correct.",
+          "items": [
+            {
+              "text": "Abdullah helps he.",
+              "answer": "him",
+              "trigger": "Abdullah",
+              "marks": 1
+            },
+            {
+              "text": "Fatima helps them.",
+              "answer": "correct",
+              "trigger": "Fatima",
+              "marks": 1
+            },
+            {
+              "text": "Mother gives we the food.",
+              "answer": "us",
+              "trigger": "food",
+              "marks": 1
+            },
+            {
+              "text": "Him carries the leaf.",
+              "answer": "He",
+              "trigger": "leaf",
+              "marks": 1
+            },
+            {
+              "text": "Porshi meets her.",
+              "answer": "correct",
+              "trigger": "Porshi",
+              "marks": 1
+            },
+            {
+              "text": "Us clean the garden.",
+              "answer": "We",
+              "trigger": "garden",
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "C",
+          "instructions": "Read both sentences. Write the pronoun in the blank.",
+          "items": [
+            {
+              "text": "The plants are in the field. Nusair keeps ___ near the tap.",
+              "answer": "them",
+              "trigger": "plant",
+              "marks": 1
+            },
+            {
+              "text": "Maryam is my neighbour. Mother helps ___ on Sunday.",
+              "answer": "her",
+              "trigger": "Maryam",
+              "marks": 1
+            },
+            {
+              "text": "We live near the river. Yusuf meets ___ every evening.",
+              "answer": "us",
+              "trigger": "river",
+              "marks": 1
+            },
+            {
+              "text": "The corn is on the mat. Rabab takes ___ to the hut.",
+              "answer": "it",
+              "trigger": "corn",
+              "marks": 1
+            },
+            {
+              "text": "Abdullah, ___ open the bag.",
+              "answer": "you",
+              "trigger": "Abdullah",
+              "marks": 1
+            },
+            {
+              "text": "I keep the garden clean. Father gives ___ a towel.",
+              "answer": "me",
+              "trigger": "garden",
+              "marks": 1
+            },
+            {
+              "text": "Fatima takes a card. ___ gives it to Aisha.",
+              "answer": "She",
+              "trigger": "Fatima",
+              "marks": 1
+            },
+            {
+              "text": "Nusair and Abdullah start the exercise. ___ carry the football.",
+              "answer": "They",
+              "trigger": "Nusair",
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "D",
+          "instructions": "Is the word in bold a describing word or a pronoun? Write describing word or pronoun.",
+          "items": [
+            {
+              "text": "Yusuf meets him near the tree.",
+              "answer": "pronoun",
+              "trigger": "Yusuf",
+              "marks": 1
+            },
+            {
+              "text": "Maryam helps her.",
+              "answer": "pronoun",
+              "trigger": "Maryam",
+              "marks": 1
+            },
+            {
+              "text": "Porshi keeps her card in the bag.",
+              "answer": "describing word",
+              "trigger": "card",
+              "marks": 1
+            },
+            {
+              "text": "Nusair carries his shoe.",
+              "answer": "describing word",
+              "trigger": "shoe",
+              "marks": 1
+            }
+          ],
+          "options": [
+            "describing word",
+            "pronoun"
+          ]
+        }
+      ]
     }
   ],
   "dictation": [],
   "pt_self_try_words": [],
-  "demo_box_words": []
+  "demo_box_words": [
+    "kite",
+    "garden",
+    "river",
+    "card"
+  ]
 }

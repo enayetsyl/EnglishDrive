@@ -3,7 +3,7 @@
 
 **Class:** 3 · **Block:** 8 · **Week:** 7 · **Days:** 4 teaching (Sun–Wed) + Performance Test (Thu)
 **Filename:** `C3_ENG_Block08_Pronoun_v1.md`
-**Build status:** ⚠ **IN PROGRESS — Days 1–3 built and audited (ALL GATES PASS).** Day 4, PT, Assignment, AK and TD are not written.
+**Build status:** ⚠ **IN PROGRESS — all four teaching days built and audited (ALL GATES PASS, 8 sheets, 216 graded targets).** PT, Assignment, AK and TD are not written.
 
 ---
 
@@ -24,6 +24,7 @@
 | Roll / Exit Check | **17** (one prompt per student) — confirmed by the Principal 10.08.26 | Q6 ruling |
 | Values guards | §H.3 sacred-word (+ the **antecedent screen**, below) · §H.4 mahram · §H.5 house names · §H.8 no living-being imagery · §H.9 attribution-in-place | Charter v1.6 §H |
 | Volume | ~28 graded/day CW · ~26 HW, 2 open-response per CW | Blueprint §D6 (approved) |
+| ⚑ File 2 gap | **`sister` and `boy` are absent from the C3 pool** while `brother`, `mother`, `father` and `girl` are present. Found when the held-word gate rejected a `sister` trigger on HW4. Every first-person-plural item is therefore built on *brother / mother / father / family*. **Flagged, not filled** — adding to the pool affects every C3 block and needs its own ruling, exactly as the size-adjective gap did (CR-030) | this session |
 
 **Build notes (for future builders):**
 
@@ -393,6 +394,133 @@ aloud.
 
 ---
 
+## Class 4 (Wednesday) — Choosing inside a passage · find-and-correct · self-try
+
+*Apply → simple Analyze → guided Create. Today the child meets the exam item itself: a connected passage with lettered blanks and **no word box**.*
+
+| Step | Min | Activity |
+|---|---|---|
+| 1 | 0–8 | Does it **do** the work or **receive** it? — choosing inside a passage |
+| 2 | 8–16 | Find the wrong pronoun |
+| 3 | 16–23 | Self-try — demonstration |
+| 4 | 23–30 | CW-4 |
+| 5 | 30–35 | Exit Check (17) |
+
+**Step 1 — Choosing inside a passage (0–8 min)**
+
+Write this on the board and read it aloud once, whole:
+
+> Aisha and Maryam go to the garden. ______ carry a new bag.
+
+*"Two questions, always in this order. **First** — which naming word does the blank point back to?"* — Aisha and
+Maryam. *"**Second** — does it **do** the work, or **receive** it?"* — it does the carrying. *"More than one, and
+it does the work — so, **they**."*
+
+Now change one word and re-ask:
+
+> Mother calls Aisha and Maryam. Father gives ______ the food.
+
+*"Same two people. But now — do they do the giving?"* No, Father does. *"They **receive**. So — **them**."*
+
+*"Same naming word. Different job. Different shape. That is the whole test, and it never changes:*
+**which naming word — and does it do the work or receive it?**"
+
+Write those two questions on the board and leave them there for the rest of the lesson.
+
+**Step 2 — Find the wrong pronoun (8–16 min)**
+
+*"Now I will get some wrong on purpose, and you will catch me."* Put these up **one at a time**, and have the class
+say the **correct** sentence back:
+
+> Yusuf helps she. → *Yusuf helps **her**.*
+> Us go to the library. → ***We** go to the library.*
+> Mother gives I a card. → *Mother gives **me** a card.*
+
+**⚑ Teacher note — read these silently or say only the corrected form aloud.** Do not have the class chorus
+*"Us go to the library"* before correcting it: a wrong form said in chorus is the form that sticks (Starter
+Template §B). Put the wrong sentence on the board to be **seen**, and let the children speak only the right one.
+
+Then a caution: *"But careful — some sentences are already correct. Do not change a word just because I asked you
+to look at it."* Give one: *They carry the corn.* — correct.
+
+**Step 3 — Self-try demonstration (16–23 min)**
+
+*"Last thing. On Thursday you will write your own — two sentences, on a word I give you."*
+
+Model it once on the board with a word from the demo box, thinking aloud:
+
+> My word: **kite**.
+> *"First sentence — I use the naming word. Yusuf has a kite."*
+> *"Second sentence — I say more about it, but I do **not** repeat the naming word. **It** is new."*
+> Yusuf has a kite. **It** is new.
+
+*"Two sentences. The naming word in the first. The pronoun in the second. And underline the pronoun."*
+
+**Demonstration words (this box is rehearsal only):** `kite · garden · river · card`
+
+Give each child a **different** word from the box for a one-minute try on their slate, and read three aloud.
+**⚑ None of these four words appears on Thursday's paper** — the graded self-try uses a separate set, so no child
+can reproduce a sentence they rehearsed (Run Book §6.5, rehearsal/graded disjointness).
+
+**Step 4 — CW-4 (23–30 min).** Hand out `C3B08-CW4`. Read the Part A passage aloud **once, whole**, before anyone
+writes — the passage has to be heard as a whole for the blanks to point anywhere. Then let them work.
+
+**Step 5 — Exit Check (30–35 min)**
+
+### Exit Check — Day 4 (17 prompts, one per student)
+
+*Teacher reads both sentences; the student says the missing pronoun. De-patterned — do not reorder.*
+
+| # | Prompt | Answer |
+|---|---|---|
+| 1 | Yusuf has a bag. ___ is new. | It |
+| 2 | Aisha and Maryam clean the hut. ___ carry the mat. | They |
+| 3 | Nusair calls Abdullah. Yusuf helps ___. | him |
+| 4 | I am in class three. Mother helps ___. | me |
+| 5 | Rabab reads a story. ___ likes the book. | She |
+| 6 | We go to the field. Father takes ___ to the river. | us |
+| 7 | Maryam, ___ are a good neighbour. | you |
+| 8 | The corn is in the hut. Yusuf carries ___. | it |
+| 9 | Fatima and Raima start the exercise. Porshi helps ___. | them |
+| 10 | Abdullah is a good friend. Nusair meets ___. | him |
+| 11 | The plants are wet. ___ are in the soil. | They |
+| 12 | Aisha has a card. Mother gives ___ a pen. | her |
+| 13 | My brother and I clean the garden. Mother helps ___. | us |
+| 14 | Rabab cleans the mat. ___ keeps it in the hut. | She |
+| 15 | The towel is on the tap. Rabab takes ___. | it |
+| 16 | Nusair, ___ carry the bag. | you |
+| 17 | I keep the hut clean. Father gives ___ the food. | me |
+
+*Balance: it/It 3 · They 2 · him 2 · me 2 · She 2 · us 2 · you 2 · them 1 · her 1. No two adjacent answers alike; no strict alternation.*
+
+---
+
+## Self-Construction (Self-Try) Task — graded on the Thursday PT, `C3B08-PT` Part F
+
+**The task.** Write **two sentences** about the word your teacher gives you. Use the naming word in the first
+sentence. In the second, use a **pronoun** in its place — and underline the pronoun.
+
+**Model** (taught Wednesday, not graded): *My word: kite.* → **Yusuf has a kite. It is new.**
+
+| Set | Words | Status |
+|---|---|---|
+| **Demonstration** (Wednesday, in class) | `kite · garden · river · card` | Rehearsal — **not graded** |
+| **Graded** (Thursday PT Part F) | *assigned at PT build — must share zero words with the demonstration set* | 4 marks |
+
+**Teacher-assigned, one word per child** (Starter Template Phase 4): a child who picked their own word in rehearsal
+will otherwise reproduce the rehearsed sentence, which turns independent production into recall.
+
+**Rubric — 4 marks, 1 each** (Charter §I.3 / PD-010). Value alignment is **not** scored.
+
+| Criterion | 1 mark for… |
+|---|---|
+| Content accuracy | both sentences are true sentences and make sense together |
+| Reasoning | the pronoun matches its naming word in number and gender |
+| Organisation | naming word in sentence 1, pronoun in sentence 2, capital and stop mark |
+| Correct word-class placement | the underlined word is a pronoun, not a describing word |
+
+---
+
 # Worksheets
 
 ### CW1 — Pronoun (Classwork, Day 1)
@@ -598,7 +726,7 @@ taught across more than one day.)*
 
 11. <u>The corn</u> is in the field.   → ______
 12. <u>Aisha and Maryam</u> keep the towels.   → ______
-13. <u>My sister and I</u> read a story.   → ______
+13. <u>My family and I</u> read a story.   → ______
 14. <u>Yusuf</u> passes the river.   → ______
 15. <u>The leaves</u> are on the soil.   → ______
 16. <u>Fatima</u> takes the plant.   → ______
@@ -742,10 +870,118 @@ taught across more than one day.)*
 
 ---
 
+### CW4 — Pronoun (Classwork, Day 4)
+
+**School for Community Development — Sylhet Branch**
+**English Skill-Building Drive · Class 3 · Block 8 (Pronoun) · Classwork**
+
+**Part A — Read the passage. Write the correct pronoun in each blank. [8 × 1 = 8]**
+
+> Aisha and Maryam go to the garden on Friday. (a) ______ carry a new bag.
+> A wet towel is near the tap. (b) ______ is dirty. Maryam takes the towel. Aisha helps (c) ______.
+> Mother calls the girls. (d) ______ gives them breakfast.
+> "Maryam, (e) ______ are a good neighbour," says Mother.
+> Yusuf and Nusair pass the field. Abdullah meets (f) ______ near the tree.
+> Nusair has a book. Abdullah takes (g) ______ to the library.
+> My brother and I clean the hut. Mother gives (h) ______ the food.
+
+**Part B — Find the wrong pronoun and write the correct one. Some are already correct. [8 × 1 = 8]**
+
+9. Yusuf helps she.   → ______
+10. Mother gives I a card.   → ______
+11. Aisha helps them.   → ______
+12. Abdullah calls he.   → ______
+13. Us go to the library.   → ______
+14. Nusair meets them.   → ______
+15. Father takes we to the city.   → ______
+16. Him keeps the bag.   → ______
+
+**Part C — Read both sentences. Write the pronoun in the blank. [8 × 1 = 8]**
+
+17. Fatima has a cozy hut. Yusuf keeps the corn in ______.
+18. Aisha and Raima start the exercise. ______ carry the mat.
+19. Abdur Rahim is my neighbour. Mother helps ______ on Friday.
+20. We pass the river every morning. Nusair meets ______ near the field.
+21. Rabab takes a card. ______ gives it to Maryam.
+22. The plants are in the soil. Fatima keeps ______ near the tap.
+23. I am a member of the group. Porshi helps ______.
+24. Maryam, ______ open the tin.
+
+**Part D — Is the word in bold a describing word or a pronoun? Write *describing word* or *pronoun*. [4 × 1 = 4]**
+
+25. Fatima keeps **her** shoe in the bag.   → ______
+26. Abdullah carries **his** towel.   → ______
+27. Nusair meets **him** on Monday.   → ______
+28. Rabab helps **her**.   → ______
+
+*Canonical ID: C3B08-CW4 · Graded total: 28 marks*
+
+---
+
+### HW4 — Pronoun (Homework, Day 4)
+
+**School for Community Development — Sylhet Branch**
+**English Skill-Building Drive · Class 3 · Block 8 (Pronoun) · Homework**
+
+**Part A — Read the passage. Write the correct pronoun in each blank. [8 × 1 = 8]**
+
+> Yusuf carries the bag. Nusair helps (a) ______.
+> My father and I keep the classroom clean. Mother gives (b) ______ a card.
+> Aisha and Maryam pass the garden. (c) ______ carry the plant.
+> "Nusair, (d) ______ are a good brother," says Father.
+> Maryam has a towel. Fatima takes (e) ______ to the tap.
+> Father calls Nusair and Yusuf. (f) ______ gives them breakfast.
+> Rabab sees Aisha and Maryam. Fatima meets (g) ______ near the plant.
+> A fish is in the water. (h) ______ is bright.
+
+**Part B — Find the wrong pronoun and write the correct one. Some are already correct. [6 × 1 = 6]**
+
+9. Abdullah helps he.   → ______
+10. Fatima helps them.   → ______
+11. Mother gives we the food.   → ______
+12. Him carries the leaf.   → ______
+13. Porshi meets her.   → ______
+14. Us clean the garden.   → ______
+
+**Part C — Read both sentences. Write the pronoun in the blank. [8 × 1 = 8]**
+
+15. The plants are in the field. Nusair keeps ______ near the tap.
+16. Maryam is my neighbour. Mother helps ______ on Sunday.
+17. We live near the river. Yusuf meets ______ every evening.
+18. The corn is on the mat. Rabab takes ______ to the hut.
+19. Abdullah, ______ open the bag.
+20. I keep the garden clean. Father gives ______ a towel.
+21. Fatima takes a card. ______ gives it to Aisha.
+22. Nusair and Abdullah start the exercise. ______ carry the football.
+
+**Part D — Is the word in bold a describing word or a pronoun? Write *describing word* or *pronoun*. [4 × 1 = 4]**
+
+23. Yusuf meets **him** near the tree.   → ______
+24. Maryam helps **her**.   → ______
+25. Porshi keeps **her** card in the bag.   → ______
+26. Nusair carries **his** shoe.   → ______
+
+**Part E — Vocabulary Writing.** *(Not marked — your teacher will check it. Write the Bangla meaning of each word.)*
+
+> **Word Bank:** corn · leaf · ear · pollute · carry
+
+| English Word | বাংলা অর্থ |
+|---|---|
+| | |
+| | |
+| | |
+| | |
+| | |
+
+*Canonical ID: C3B08-HW4 · Graded total: 26 marks*
+
+---
+
 ## Version log
 
 | Version | Date | Change |
 |---|---|---|
+| v1.4 (in progress) | 2026-08-10 | **Day 4 built — `C3B08-CW4` (28) and `C3B08-HW4` (26). All four teaching days now complete: 8 sheets, 216 graded targets, ALL GATES PASS.** Wednesday is the exam item itself — **Part A is a connected passage with eight lettered blanks and no word box**, mirroring Annual Q3's shape, with a 4/4 split of subject and object slots. Step 1 fixes the two questions that decide every item and leaves them on the board: *which naming word — and does it do the work or receive it?* Adds find-and-correct (simple Analyze), including "some are already correct" so a pupil cannot correct blindly, and the **self-try demonstration** on `kite · garden · river · card` — declared `demo_box_words`, so the rehearsal/graded gate will hold the PT's set disjoint from it. **⚑ Teacher note added against Starter Template §B:** the wrong sentences in find-and-correct are put on the board to be **seen**, never chorused — a wrong form said aloud in chorus is the form that sticks. **Two genuine FAILs on the first run, both fixed.** (a) **Cross-sheet repetition + conflicting keys:** *"They carry the corn."* sat on **CW2 Part A** keyed `They` (underline the pronoun) **and CW4 Part B** keyed `correct` (find the wrong pronoun) — the same sentence with two different right answers, which the one-defensible-answer gate surfaced as a duplicate-answer candidate. The "already correct" distractor had accidentally been drawn from a live item. Replaced with *"Aisha helps them."* (b) **Held-word FAIL on `sister`** — see the new File 2 gap row in the header. Fixed to *"My father and I…"*. **The same word was already sitting in HW2 Part B as carrier text and passed**, because the held-word gate keys on `trigger` alone; carrier text is unchecked by construction. That is the CR-032 blind-spot family again, in its mildest form, and it is why the header now records the pool gap rather than just the fixed item. `boy` corrected in the same pass (*"Father calls the boys"* → *"Father calls Nusair and Yusuf"*). |
 | v1.3 (in progress) | 2026-08-10 | **Day 3 built — `C3B08-CW3` (28) and `C3B08-HW3` (26); all gates PASS across six sheets, 162 graded targets.** Tuesday brings the object forms, so all twelve pronouns are live. **The *her* collision is met head-on rather than steered around.** *her* is a Block 7 possessive adjective (*her book*) **and** a Day-3 object pronoun (*Raima helps her*); the block cannot avoid it, because a pupil who cannot separate them will mis-mark every sheet from here on. Step 3 re-walks it with a single test — **"is there a naming word right after it?"** — which is the §2 boundary rule the pupil already met from the other side in Block 7, not new teaching. **New part shape: Part D, "describing word or pronoun?"**, keyed on that test, mirroring C3B07's Part F (*"Is `clean` an adjective or a verb?"*) — the direct precedent from the immediately preceding block. Possessives appear **nowhere else** on either sheet, and *her/his* before a naming word is never a keyed pronoun answer. **Three human gates run and clean:** (i) every "underline the pronoun" sentence carries **exactly one** pronoun, checked mechanically — two would give a pupil two defensible marks; (ii) no possessive leaks onto any part outside D; (iii) every Part D key re-derived from the taught test independently of the key as written, 8/8 match. **§H.4 screen:** every one of the day's 52 items re-read for pairing — all cross-gender interactions recast to same-sex pairs (*Aisha–Raima*, *Yusuf–Abdullah*) or declared family (*Mother/Father* with the speaker), several items rewritten for this before the audit. Part D de-patterned deliberately: CW3 runs D·P·P·D against HW3's P·D·D·P, so a two-value key has zero positional overlap. ⚑ **Watch:** CW3↔HW3 positional overlap is **27%**, the highest of the block against a 35% gate — Day 4 has fewer free answer slots and must be shuffled independently, not trimmed from CW4. |
 | v1.2 (in progress) | 2026-08-10 | **Day 2 built — `C3B08-CW2` (28) and `C3B08-HW2` (26); all gates PASS across four sheets, 108 graded targets.** Monday teaches *I · we · you*, deliberately lighter than Day 1: yesterday's four pronouns all needed a naming word to point back to, and today's three do not. New item shape **S3 (two-sentence cloze)** enters here — the anchor skill in its smallest unit. Fading box now at "new terms only" and explicitly **not** an option list (no part offers a set to choose from, because Annual Q3 offers none). **⚑R1 CLOSED by PD-057** — roster names ruled a standing instrument, drive-wide, not counted toward load. **Three items fixed by the human antecedent gate after the scripts passed:** (a) *"My name is Rabab. ___ go to school on Sunday."* had **no forced answer** — `We` and `They` are both defensible, since the first sentence fixes only the speaker and `go` agrees with all three; recast to *"___ am a good member."*, where **`am` forces `I`** and nothing else. This is the CR-005 failure the blueprint predicted, and it is invisible to every gate — the key was internally consistent, so the audit was green. (b) The repair put *"good member"* on the same sheet twice, so HW2 C24 became *"Nusair, ___ are a good brother."* (c) CW2 B11 read *"go to the library"*, already used at CW2 A8 on the same sheet — recast to *"keep the garden"* (B10 phrase crowding). **Forcing devices now used deliberately:** `am` for first person, a vocative for second, number agreement (*Porshi has two hats → **They** are new*) and animacy (*Abdur Rahim eats the corn → **He** goes to school*) for third. §H.4: every plural antecedent on both sheets is a same-sex pair or declared family (*my brother/sister/mother/father/family and I*). §H.9: nature carriers checked — *"The tree is in the garden. It has many leaves"* is descriptive, no autonomous giver. |
 | v1.1 (in progress) | 2026-08-10 | **First audit run: one genuine FAIL, fixed; then ALL GATES PASS.** (a) **Cross-sheet repetition (PD-036, threshold 0)** — `HW1` Part B item 18 read **`Yusuf`**, duplicating `CW1` Part B item 11 verbatim. My own pre-audit estimate had scored this "1 identical item, under the ≤2/day threshold"; the operative gate for cross-sheet text is **zero**, not two, so the estimate was wrong and the script was right. Changed to **`Abdullah`** (answer `he` unchanged, so no key, balance or de-patterning sequence moved). A bare-name item is inherently short of distinct texts — noted for Days 2–4, where Part B recurs. (b) **PD-054 fields added** — the parallel C4 session landed PD-054 mid-build, extending the values, sacred and held-word screens to read `boxes`, `instructions` and `clue`. Both sheets now declare their Remember box and all six part instructions; `clue` stays deliberately empty (see header). (c) **PD ceiling re-derived from HEAD**: the log now runs to **PD-055**, not PD-053 — the parallel session took 054 and 055 while this block was drafting, and renumbered its own entry 051→054 because this session had taken 051/052/053. Next free is **056**. Audit report: `audits/reports/C3B08_audit_2026-08-10.txt`. |
