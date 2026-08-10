@@ -13,6 +13,18 @@ zero unheld tokens, no duplicate IDs.** Two defects were caught by that pass and
 function word excluded from File 2 at source and a **Block 6 taught preposition** (56 occurrences in the B6
 master; in the CR-006 key), carrier text only, never a graded target. Recorded so it is not re-flagged.
 
+**Unit 4 — answer-key architecture** `C4B07_answer_architecture.md` + `C4B07_number_sequences.json`.
+No sentence text, so not blocked by the bank read. **Finding:** `gate_pair_overlap()` measures answer-string
+overlap, which in this block is blind — every SVA answer is a different word, so it reads near 0% and passes
+meaninglessly. The exploitable dimension is one bit per item, **singular or plural subject**, and no gate
+sees it. A binary dimension also **cannot** meet the 35% limit by chance (two random S/P sequences agree
+~50%); the undesigned baseline was **50/58/69/38%**. Deliberate anti-correlation brings all four pairs to
+**26.9 / 30.8 / 30.8 / 26.9%**, with max run ≤2, no strict alternation, balanced, every part slice
+independently valid. **Proposed and NOT self-applied:** an optional item-level `number` field plus
+`gate_number_sequence()` — additive, vacuous on existing manifests, but a new gate, so it needs a PD.
+No number derived; read the next free one from HEAD when writing it. Matters beyond this block — Blocks 8–11
+all grade a binary form choice.
+
 **⚑ Pool finding, flagged not resolved:** the `-es/-ies` sub-rule rests on **exactly five held verbs**
 (`wash · mix · finish · discuss · carry`) and **`carry` is the only `-ies` verb in the entire 160-word pool**.
 Same shape as C3's missing size adjectives (CR-030 → PD-047): a pool gap, not a block defect. No declaration
