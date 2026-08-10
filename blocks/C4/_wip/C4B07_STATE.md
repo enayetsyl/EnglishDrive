@@ -3,12 +3,15 @@
 **Block ID:** `C4B07` · **Block:** Verb & Subject–Verb Agreement · **Week:** W7 (solo, FULL, protected)
 **Status: PHASE 4 OPEN — unit 1 (sentence bank, Strands 1–2) issued for the human read. No master drafted.**
 Blueprint `blocks/C4/_wip/C4B07_blueprint.md` — **APPROVED (Principal, 10.08.26).**
-Bank unit 1: `C4B07_bank_S1_S2_candidate.md` (S1–S2, Day 1) · unit 2: `C4B07_bank_S3_S7_candidate.md`
-(S3–S7, Days 2–4). **160 candidates, 160 distinct — both awaiting the human naturalness read.**
-Programmatic verification over the whole bank: **160 sentences, 160 distinct (PD-036 zero-repeat holds),
-zero unheld tokens.** Two defects were caught by that pass and are now fixed — S2-30 `boys`/`ball`
+Bank unit 1 `C4B07_bank_S1_S2_candidate.md` (S1–S2) · unit 2 `C4B07_bank_S3_S7_candidate.md` (S3–S7) ·
+unit 3 `C4B07_bank_ext_candidate.md` (extensions). **BANK COMPLETE AT 256 — the full block requirement.**
+**All three units awaiting the human naturalness read; no worksheet may use any line until then (§3).**
+Programmatic verification over the whole bank: **256 sentences, 256 distinct (PD-036 zero-repeat holds),
+zero unheld tokens, no duplicate IDs.** Two defects were caught by that pass and are now fixed — S2-30 `boys`/`ball`
 (**CR-033**, 3rd occurrence of the unheld-word type) and the S1-35/S3-23 duplicate created by relocating
-`carries` into Strand 3.
+`carries` into Strand 3. A third flag — `near` (S1-47/S1-60/S2-37) — was **checked and cleared**: it is a
+function word excluded from File 2 at source and a **Block 6 taught preposition** (56 occurrences in the B6
+master; in the CR-006 key), carrier text only, never a graded target. Recorded so it is not re-flagged.
 
 **⚑ Pool finding, flagged not resolved:** the `-es/-ies` sub-rule rests on **exactly five held verbs**
 (`wash · mix · finish · discuss · carry`) and **`carry` is the only `-ies` verb in the entire 160-word pool**.
