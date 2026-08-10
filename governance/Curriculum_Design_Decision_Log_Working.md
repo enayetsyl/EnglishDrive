@@ -316,7 +316,25 @@ Decisions already adopted and applied across the English Drive.
 
 ---
 
-### PD-036 — The genuine C5 Annual-2025 paper is in the project; the binding set is four
+### PD-055 — The genuine C5 Annual-2025 paper is in the project; the binding set is four
+> ⚑ **REISSUED, forward-only (Principal, 10.08.26). This ruling was originally logged as `PD-036` on
+> 08.08.26.** Two different rulings were assigned PD-036 that day by parallel sessions — this one and the
+> cross-sheet repetition gate. The Principal ruled that **PD-036 stays with the cross-sheet repetition gate**,
+> which has live technical dependencies (`run_all.py`, `CROSS_SHEET_MAX_REPEATS`, `selftest_cross_sheet.py`,
+> CR-009, and the PD-038 relationship); renaming that one would cause audit churn and break historical
+> references. This C5 binding-set ruling is therefore reissued as **PD-055**.
+>
+> **Its substance is unchanged** — not one word of the decision below has been altered, and no audit evidence
+> has been rewritten to make the old log appear unique.
+>
+> **Citation rule.** New C5/C4 governance references must cite **PD-055**. Historical C5 material may keep its
+> `PD-036` citation **only where explicitly marked** as the superseded/ambiguous legacy reference. Files still
+> carrying the legacy citation, deliberately not edited here:
+> `governance/driveplans/C5_ENG_DrivePlan_v1_7.md` (§K.3 forward-only — correct at its next version, v1_8) ·
+> `blocks/C5/_wip/C5_ENG_Block07_AdjectivePronoun_v1.md` and `blocks/C5/_wip/STATE.md` (**open in a parallel
+> session** — not touched from here; that session reconciles them) · `SESSION_LOG.md` (historical record, never
+> rewritten). Every other `PD-036` reference in the repo means the **cross-sheet gate** and is already correct.
+
 **Decision:** `exam-papers/Class 5 English Mohammadpur Final Question 2025.pdf` (md5 `1265996d9f26052e76334a2f3a0d2ba4`) **is** the genuine **Class 5 Annual Examination 2025** paper. The **C5 binding set is four** — HY-2025 Morning, HY-2025 Day, HY-2026, Annual-2025 — all simultaneously binding by union (Charter §J.2–J.3). **The bar on citing an Annual anchor in any C5 artefact is lifted**, and Block 3's standing "Annual Q8 unverifiable" dependency is **closed**.
 **The 31.07.26 duplicate ruling is not overturned.** That ruling concerned `Class_5_English_Muhammdpur_Annual2025.docx`, a **different file**, byte-identical to HY-2026, which is **not present in this repo**. A cross-check of the four C5 papers now present returns **four distinct md5s**; no duplication remains.
 **Evidence:** the Principal supplied the paper on 08.08.26; it proved **byte-identical to a file already in `exam-papers/`**, flagged during the C5 Block 7 Phase-1 orientation as BC-1 and ruled "missing" earlier the same day on the then-available information. The file's own header reads *School for Community Development · Mohammadpur Branch · **Annual Examination 2025** · Class: Five · Subject: English · Time 2 hours 30 minutes · Full Marks 80*.
@@ -524,6 +542,10 @@ Decisions made in principle but not yet implemented. Not official until converte
 ---
 
 ### PD-036 — Cross-sheet repetition gate: no carrier sentence repeats across a block's sheets
+> **Number confirmed to this ruling (Principal, 10.08.26).** A parallel session assigned PD-036 to a second,
+> unrelated ruling on 08.08.26 (the C5 Annual-2025 binding set). **PD-036 stays here** — the number has live
+> technical dependencies in `run_all.py`, `selftest_cross_sheet.py`, CR-009 and PD-038. The C5 ruling was
+> reissued as **PD-055**, forward-only, with its substance untouched.
 **Decision:** A new audit gate, `gate_cross_sheet_repetition()` in `audits/scripts/run_all.py`, fails any block in which the same normalised item text appears on more than one graded sheet (CW, HW, or PT). **Threshold: `CROSS_SHEET_MAX_REPEATS = 0`** — the maximum number of identical carrier sentences tolerated across a block's sheets is zero; every graded sentence is unique across the block. The constant is a single named value so the Principal can loosen it later if it proves too strict.
 **Rationale:** C4 Block 6 reached review with **38 sentences repeated over 78 placements** (CW-4 was 16/20 recycled, HW-4 11/20); 40 items had to be re-authored by hand at promotion. The de-patterning, within-sheet duplicate, and CW↔HW gates each look at a narrower surface and all passed while this accumulated. The C4B06 promotion standard (199 sentences, zero repeats) is codified as the threshold.
 **Relation to existing gates:** strictly tighter than the CW↔HW "≤2 identical item texts per day" allowance (Run Book §6.5), which remains on the books but can never bind while this gate holds at 0. `audit_scope: "pt_overlap_only"` reference sheets are excluded, as everywhere.

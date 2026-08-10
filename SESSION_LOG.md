@@ -182,3 +182,41 @@ Append-only. Newest entry last. Never overwrite past entries.
   PD-042 §H.5 drive-wide re-screen · C3 File 2 size-adjective gap · C2 W6 assignment (blocked on the stale Coverage
   Log) · `Rani` ×6 in the promoted C3 Block 6 master (observation only, not reopened).
 
+
+## 10.08.26 — SCD · C4 session: PD-054 ruled + PD-036/PD-055 collision resolved
+
+- **Task:** open the next C4 block (B7 Verb & SVA, W7). Two governance items cleared first.
+- **PD-036 was NOT pending.** `blocks/C4/_wip/STATE.md` open item #1 said "PD-036 is the next free
+  number"; it was written mid-sweep on 08.08.26 and stale the same day. PD-036 was already ruled and
+  live (gate + constant + self-test + CR-009 + PD-038). No new number assigned; STATE item #1 closed.
+- **PD-054 — student-facing text visibility (Principal, 10.08.26).** Optional `clue` / `instructions` /
+  `boxes` manifest fields routed into the **existing** values-lexicon, sacred-word and held-word screens.
+  No new gate. Held-word binds on `clue` only (English content words must be held/exemplar/block-local);
+  instructions and boxes exempt. Sacred split on Charter §H.3: clue/boxes FAIL, instructions FLAG.
+  **CR-011 promoted PATTERN → PROMOTED** — Bangla glosses binding. Closes the `(together)` failure mode.
+- **Evidence the defect was real:** C4B06 re-run reports **0 English clue words checked** — it declares no
+  `clue` field at all; its `(সঙ্গে)` glosses were visible only because the extractor left the parenthetical
+  inside `text`. Coverage was accidental, not designed.
+- **Validation:** `selftest_clue_text.py` 12/12 · all five pre-existing self-tests pass · **C4B06 regression
+  ALL GATES PASS, per-gate results identical to 08.08.26** (`audits/reports/C4B06_audit_2026-08-10.txt`).
+- **Numbering incident.** The entry was drafted as PD-051 against a log topping out at PD-050; the parallel
+  **C3B08** session committed `cc7446c` mid-session taking **PD-051/052/053**. Renumbered to **PD-054** across
+  Decision Log, `run_all.py`, `selftest_clue_text.py`, `README_manifest.md`, `CORRECTIONS.md`, `STATE.md`.
+- **Concurrency defect, recorded not rewritten.** The PD-054 Decision Log edit was uncommitted on disk when the
+  C3B08 session ran `git add -A`; it was absorbed into **that** session's commit while `git status` showed the
+  log clean. Left in the audit trail at the Principal's instruction. Stale `.git/index.lock` blocked the commit
+  until folder delete permission was granted.
+- **PD-036 double-assignment resolved (Principal, 10.08.26).** Two unrelated rulings held PD-036 since 08.08.26.
+  **PD-036 stays with the cross-sheet repetition gate** (live dependencies: `run_all.py`,
+  `CROSS_SHEET_MAX_REPEATS`, `selftest_cross_sheet.py`, CR-009, PD-038). The **C5 Annual-2025 binding-set ruling
+  is reissued as PD-055**, forward-only, substance untouched, with an explicit provenance banner. Decision Log
+  headings now unique.
+- **Legacy PD-036 citations deliberately NOT edited:** `C5_ENG_DrivePlan_v1_7.md` (§K.3 — correct at v1_8) ·
+  `blocks/C5/_wip/C5_ENG_Block07_AdjectivePronoun_v1.md` + `blocks/C5/_wip/STATE.md` (**open in a parallel
+  session**) · `SESSION_LOG.md` (historical). Listed in the PD-055 banner so they cannot be lost.
+- **Standing process change:** derive the next PD number from **current HEAD immediately before each append**;
+  avoid `git add -A` when a parallel session has governance changes in its working tree.
+- **Carried forward:** Bangla `VALUES_LEXICON` widening (4/22 entries Bangla, English-only inflection matching)
+  — stated follow-on, **not** part of PD-054 · File 2 label re-map · C4B07 = Verb & SVA, W7, first of the three
+  protected tense weeks.
+- **Next:** C4B07 Phase 1 orientation, read-only. No master write.
