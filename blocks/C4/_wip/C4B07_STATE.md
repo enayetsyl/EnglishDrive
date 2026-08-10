@@ -1,7 +1,15 @@
 # C4 Block 7 — build state
 
 **Block ID:** `C4B07` · **Block:** Verb & Subject–Verb Agreement · **Week:** W7 (solo, FULL, protected)
-**Status: PHASE 1 COMPLETE (10.08.26). No master drafted. Phase 2 open and blocking.**
+**Status: PHASE 2 ISSUED (10.08.26). No master drafted. Awaiting Principal rulings on Q1–Q4.**
+Question list: `blocks/C4/_wip/C4B07_phase2_questions.md`.
+
+**Phase 2 headline — the pronoun blocker dissolved on inspection.** C4B07 is recommended **not** to replicate
+PD-051: here a pronoun is never the keyed answer (the answer is a verb form), so it is carrier text and the
+held-word gate keys on `trigger`; `is/are` blanks are already covered by **PD-026**. What *did* fail is the
+cap's own example verb — **`go` is absent from the pool** — and the fix is recast onto the 34 SVA-safe held
+verbs, per PD-035's "incidental carriers are recast, not declared". Also verified absent: `be · is · are ·
+has · have · student · baker · girl · boy · man`. `child` is held W3; `children` is its taught Block-2 plural.
 
 ---
 
