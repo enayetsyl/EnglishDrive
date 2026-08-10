@@ -1,8 +1,9 @@
 # C4 Block 7 — build state
 
 **Block ID:** `C4B07` · **Block:** Verb & Subject–Verb Agreement · **Week:** W7 (solo, FULL, protected)
-**Status: PHASE 2 ISSUED (10.08.26). No master drafted. Awaiting Principal rulings on Q1–Q4.**
-Question list: `blocks/C4/_wip/C4B07_phase2_questions.md`.
+**Status: PHASE 3 BLUEPRINT ISSUED (10.08.26). No master drafted, no graded content, no sentence bank.**
+Blueprint: `blocks/C4/_wip/C4B07_blueprint.md` — **awaiting Principal approval before Phase 4.**
+Phase 2 list: `blocks/C4/_wip/C4B07_phase2_questions.md` (all five ruled — see table below).
 
 **Phase 2 headline — the pronoun blocker dissolved on inspection.** C4B07 is recommended **not** to replicate
 PD-051: here a pronoun is never the keyed answer (the answer is a verb form), so it is carrier text and the
@@ -100,5 +101,10 @@ format mirror **C4B06** (promoted v1.5) · Starter Template v2.0.
 
 ## Next step
 
-**Phase 2 — one consolidated Q&A list** to the Principal (the five pending questions above).
-No build content, no sentence bank, no blueprint until those are answered.
+**Phase 3 blueprint issued — awaiting approval.** On approval, Phase 4 opens with the **candidate sentence
+bank presented for human read**, not with a finished sheet (CLAUDE.md §3: banks are hand-authored and
+human-vetted before any worksheet uses them).
+
+**One proposal raised in the blueprint, deliberately not self-applied:** `gate_depattern()` reads the answer
+sequence and would not flag a 2-valued *near*-alternating part. Closing that is a threshold change to an
+existing gate and needs its own PD. Flagged, not drafted.

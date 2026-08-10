@@ -15,9 +15,15 @@
 **Phase 1 — Orientation: COMPLETE (10.08.26).** Read-only. Nothing drafted.
 **Phase 2 — COMPLETE (10.08.26).** All eight questions ruled by the Principal in session. Three rulings logged as
 **PD-051**, **PD-052**, **PD-053**; two governance files reissued forward-only under Charter §K.3.
-**Phase 3 — Blueprint WRITTEN (10.08.26), awaiting Principal approval.** `_wip/C3B08_blueprint.md`.
-Six decisions open in its §D (day staging · are the subject/object *terms* graded · PT structure at a proposed
-**30 marks** · dictation content · Assignment in this pass · volume). **No build content drafted.**
+**Phase 3 — Blueprint APPROVED** (Principal, 10.08.26), all six §D decisions as recommended:
+day staging as proposed · subject/object **terms taught, not graded** (PD-014 precedent, no new PD) ·
+**`C3B08-PT` at 30 marks**, Part D at 8 blanks × 0.5 · dictation 10 words (6×W7 + 4×W6) · Assignment built in
+this pass · volume held at ~28 CW / ~26 HW.
+
+**Phase 4 — IN PROGRESS. Day 1 built and audited: ALL GATES PASS.** `_wip/C3_ENG_Block08_Pronoun_v1.md` (v1.1)
+carries the provenance header, Clue Card, checklist, Sunday script, 17-prompt Exit Check, `C3B08-CW1` (28) and
+`C3B08-HW1` (26). Manifest `_wip/C3B08_manifest.json`. Report `audits/reports/C3B08_audit_2026-08-10.txt`.
+**Paused for review before Day 2** (Run Book §7.5).
 
 ---
 
@@ -36,7 +42,7 @@ Six decisions open in its §D (day staging · are the subject/object *terms* gra
 | Self-try rubric | **4 marks**, four criteria at 1 each; value alignment not scored | Charter §I.3 · PD-010 |
 | Roll / Exit Check | **17 — CONFIRMED** (Principal, 10.08.26). Closes the item C3B07 carried as unverified. Four Exit Check sets × 17 prompts | Q6 ruling, this session |
 | Word status | **Twelve block-local words** — *I, you, he, she, it, we, they, me, him, her, us, them* — PD-012/PD-035. Counted toward W7 load; never dictation/spelling; not added to File 2 | **PD-051** · **PD-052** |
-| Next free PD number | **054** (written without the `PD-` prefix so the citation checker does not read a forward pointer as a citation to a non-existent ruling). PD-051/052/053 assigned this session | `Curriculum_Design_Decision_Log_Working.md` |
+| Next free PD number | **Deliberately not recorded — any number written here is stale on arrival.** During this session alone the ceiling moved PD-050 → 053 (this session) → 054, 055, 056 (a parallel C4/C5 session), the last two inside a few minutes. Re-derive from `git show HEAD:governance/Curriculum_Design_Decision_Log_Working.md` immediately before appending, then check for collisions with `grep -oE '^### PD-0[0-9]{2}' \| sort \| uniq -d` | Decision Log at HEAD |
 
 ### Depth cap — Drive Plan **v1.9** §2 row 8, quoted verbatim (as amended by PD-052)
 

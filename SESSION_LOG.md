@@ -220,3 +220,35 @@ Append-only. Newest entry last. Never overwrite past entries.
   — stated follow-on, **not** part of PD-054 · File 2 label re-map · C4B07 = Verb & SVA, W7, first of the three
   protected tense weeks.
 - **Next:** C4B07 Phase 1 orientation, read-only. No master write.
+
+---
+
+## 10.08.26 — C3 Block 8 (Pronoun): Phases 1–3 + Day 1 built
+**User:** SCD · **Task:** "start C3 next block" → C3B08 Pronoun, W7.
+
+- **Phase 1.** All three binding C3 papers read from source: **Annual 2025 Q3 is the sole pronoun anchor**
+  (connected-passage cloze, no word box, 5×1); HY2025 and HY2026 confirmed not to test pronoun. Held scope at W7 =
+  the whole 195-word pool. Flags raised: File 2 batch sizes disagree with batch content (W6 40 not 35, W7 34 not 39,
+  pool 195 not 194); the block's graded surface is 100% function words (the CR-032 PATTERN at full scale); the
+  twelve pronouns are absent from File 2; Charter §H.5 and CLAUDE.md §5 disagreed on the name roster; textbook/TG/
+  C3 BlockBuildSpec absent from the repo.
+- **Phase 2.** Eight questions, all ruled by the Principal in session. **PD-051** pronouns block-local ·
+  **PD-052** *you* taught **and graded**, widening §2 row 8 (cross-class replication to C1/C2/C4/C5 flagged, NOT
+  executed — C1 Block 6 already promoted) · **PD-053** Charter §H.5 roster gains Maryam and Fatima, which makes
+  CR-029's C3B07 fix retroactively correct without reopening the block. Charter reissued **v1.5→v1.6**, C3 Drive
+  Plan **v1.8→v1.9**, both forward-only per §K.3; neither original edited in place. Also repaired: the Drive Plan
+  version-log separator sat below the v1.8 row, so the log did not render as a table. Roll 17 confirmed; B7
+  delivered/locked; *this/that* kept off all student sheets; CR-032 handled by hand this block.
+- **Phase 3.** Blueprint written to `_wip/C3B08_blueprint.md`, **approved** with all six §D decisions as
+  recommended (PT at 30 marks, terms taught-not-graded on the PD-014 precedent, volume held).
+- **Phase 4, Day 1.** Master v1.1 built: header, Clue Card, checklist, Sunday script, 17-prompt Exit Check,
+  `C3B08-CW1` (28) and `C3B08-HW1` (26). First audit run returned one genuine **FAIL** — cross-sheet repetition,
+  `Yusuf` on both Part Bs; the pre-audit estimate had wrongly scored it against a ≤2 threshold when the operative
+  gate is **zero**. Fixed to `Abdullah`, no key moved. **PD-054 landed mid-build** from the parallel C4 session;
+  `boxes` and `instructions` declared on both sheets in response. Re-run: **ALL GATES PASS**.
+- **⚑ Raised, unresolved:** house-roster names are graded content with no declared vocabulary status — the same
+  blind spot as C1 Block 6's 29 untriggered name items, one of CR-032's three occurrences. Proposed as a standing
+  instrument (exemplar-like, not counted toward load); needs a ruling and is drive-wide.
+- **PD numbering:** the ceiling moved 050 → 053 (here) → 056 (parallel session) during the session. STATE.md now
+  records no next-free number, only the re-derivation command.
+- **Paused for review before Day 2.**
