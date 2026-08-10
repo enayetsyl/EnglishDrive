@@ -774,7 +774,7 @@ Decisions made in principle but not yet implemented. Not official until converte
 
 ---
 
-### PD-051 — Student-facing text visibility: clue glosses, instruction lines and boxes enter the values, sacred and held-word screens
+### PD-054 — Student-facing text visibility: clue glosses, instruction lines and boxes enter the values, sacred and held-word screens
 **Decision:** The manifest gains three **optional** fields — **`clue`** (item level), **`instructions`** (part level), **`boxes`** (sheet level) — and the **existing** values-lexicon, sacred-word and held-word screens are extended to read them. **No new independent gate is created.** This is a visibility ruling, not a duplicate-detection ruling: it makes surfaces the gates already care about actually reachable, following the PD-035 (`block_local`) and PD-037 (`options`) pattern of declaring a field rather than adding a gate.
 
 **What was wrong.** Every gate read `item["text"]`, `item["trigger"]` or `part["options"]` and nothing else. Three printed surfaces were therefore invisible: **part instruction lines**, **sheet boxes** (word banks, support and fading hint boxes), and **per-item clue glosses**. The third is the sharp one — clue glosses were covered **only by accident**. `(সঙ্গে)` is visible to the text-reading gates in `C4B06_manifest.json` purely because whoever built the manifest left the parenthetical inside the `text` string. Stripping it is the natural extractor behaviour, since it is not part of the sentence, and nothing in the schema forbade it. Coverage was luck, not design. Confirmed by the regression run: C4B06 reports **0 English clue words checked**, because it declares no `clue` field at all.

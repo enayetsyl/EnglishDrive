@@ -63,12 +63,12 @@ def all_items(sheet):
             yield part.get("name", "?"), it
 
 
-# --------------------------------------------------------------- PD-051 surfaces
+# --------------------------------------------------------------- PD-054 surfaces
 
 def student_facing_surfaces(sheet):
     """Yield (location, kind, text) for student-facing text that is NOT item text.
 
-    PD-051. Before this, every gate read `item["text"]`, `item["trigger"]` or
+    PD-054. Before this, every gate read `item["text"]`, `item["trigger"]` or
     `part["options"]` and nothing else, so three printed surfaces were invisible:
 
       kind="clue"          item-level gloss, e.g. "(সঙ্গে)" — answer-bearing support
@@ -353,7 +353,7 @@ def gate_sacred(m):
     for w in m.get("dictation", []):
         if norm(w) in SACRED:
             fails.append(f"dictation: sacred word graded: {w}")
-    # PD-051: the three student-facing surfaces, split by Charter §H.3, which bars a
+    # PD-054: the three student-facing surfaces, split by Charter §H.3, which bars a
     # sacred word as a graded CLASSIFICATION TARGET but permits teacher prose.
     #   clue  → FAIL. A gloss is answer-bearing support, functionally part of the item.
     #   boxes → FAIL. A word bank is a selectable option list, i.e. a graded target.
@@ -367,7 +367,7 @@ def gate_sacred(m):
                 continue
             msg = f"{where}: sacred word in {kind}: {', '.join(hits)}"
             (flags if kind == "instructions" else fails).append(msg)
-    note = "graded targets + dictation + clue/instructions/boxes scanned (PD-051)"
+    note = "graded targets + dictation + clue/instructions/boxes scanned (PD-054)"
     if flags:
         note += f" — {len(flags)} instruction-line hit(s) flagged for human read"
     return ("Sacred-word guard", not fails, note, fails + flags)
@@ -429,7 +429,7 @@ def gate_values_lexicon(m):
             if hit:
                 flags.append(f"{sheet['name']} Part {pname}: {sorted(hit)} in "
                              f"\"{it.get('text','')[:60]}\"")
-        # PD-051: clue glosses, part instruction lines and sheet boxes are
+        # PD-054: clue glosses, part instruction lines and sheet boxes are
         # student-facing print and are screened on the same footing as item text.
         for where, kind, text in student_facing_surfaces(sheet):
             hit = _values_hits(text)
@@ -437,7 +437,7 @@ def gate_values_lexicon(m):
                 flags.append(f"{where} ({kind}): {sorted(hit)} in \"{text[:60]}\"")
     # This gate FLAGS for human review; lexicon hits are treated as failures until ruled.
     return ("Values lexicon screen", not flags,
-            "item texts + clue/instructions/boxes scanned (incl. inflections; PD-051)",
+            "item texts + clue/instructions/boxes scanned (incl. inflections; PD-054)",
             flags)
 
 
@@ -530,7 +530,7 @@ def gate_heldword(m, file2_path):
                          f"exemplar or block-local word")
         elif build_week is not None and pool[nw] is not None and pool[nw] > build_week:
             fails.append(f"{where}: '{w}' released week {pool[nw]} > build week {build_week}")
-    # PD-051: clue glosses carry the held-word obligation; instructions/boxes do not.
+    # PD-054: clue glosses carry the held-word obligation; instructions/boxes do not.
     #
     # A clue that carries the answer is functionally part of the item, which is why
     # `(together)` — a W7 word — could print on a W6 sheet, key five graded items,
@@ -558,13 +558,13 @@ def gate_heldword(m, file2_path):
                     continue
                 if tok not in pool:
                     fails.append(f"{where}: clue word '{tok}' not in File 2 pool and "
-                                 f"not a declared exemplar or block-local word (PD-051)")
+                                 f"not a declared exemplar or block-local word (PD-054)")
                 else:
                     fails.append(f"{where}: clue word '{tok}' released week "
-                                 f"{pool[tok]} > build week {build_week} (PD-051)")
+                                 f"{pool[tok]} > build week {build_week} (PD-054)")
     note = (f"{checked} graded targets checked against {len(pool)} pool words"
             f" + {len(exemplars)} exemplars + {len(block_local)} block-local"
-            f"; {clue_checked} English clue word(s) checked (PD-051)")
+            f"; {clue_checked} English clue word(s) checked (PD-054)")
     if not targets:
         note += " — WARNING: manifest declares no 'trigger' fields; gate is vacuous"
     return ("Held-word / exemplar / block-local", not fails, note, fails)

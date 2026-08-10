@@ -72,9 +72,15 @@ Blocks 8–9 must **re-declare** if they want the time expressions.
    **PD-038** settled its relation to the older CW↔HW ≤2-identical-items allowance: that rule stays in the script
    as a backstop but can never bind while the threshold is 0. Self-test `audits/scripts/selftest_cross_sheet.py`
    (5/5 assertions hold, incl. seeded error and `pt_overlap_only` exclusion); `CORRECTIONS.md` CR-009 **PROMOTED**.
-   Next free PD number is **PD-051**, not PD-036.
-2. **Clue text and instruction lines are unread by every gate.** `(together)` was a W7 word *carrying the answer*
-   on five graded items and no gate saw it. **[AUD]**
+   Next free PD number is **PD-054**, not PD-036.
+2. **Clue text and instruction lines unread by every gate — CLOSED.** ~~`(together)` was a W7 word *carrying the
+   answer* on five graded items and no gate saw it.~~ Ruled **PD-054** (Principal, 10.08.26) and implemented the
+   same day. Optional `clue` / `instructions` / `boxes` manifest fields now feed the **existing** values-lexicon,
+   sacred-word and held-word screens — no new gate. Held-word binds on `clue` only (English content words must be
+   held/exemplar/block-local); instructions and boxes exempt. **CR-011 promoted** — Bangla glosses are the required
+   route. Self-test `audits/scripts/selftest_clue_text.py` 12/12; C4B06 regression ALL GATES PASS, unchanged.
+   **Follow-on left open:** `VALUES_LEXICON` is 4/22 Bangla with English-only inflection matching, so Bangla clue
+   text is weakly screened — flagged in PD-054, not ruled. **[AUD]**
 3. **PT Part B option list shows five classes, the worksheets six.** No adverb is keyed on the PT, so it is not
    wrong — but it differs from the eight worksheets after the F10 ruling. Cosmetic; flagged, not changed.
 4. **Attribution in the Teacher Script.** *"A tall tree gives shade"* recast on the worksheets, still present at

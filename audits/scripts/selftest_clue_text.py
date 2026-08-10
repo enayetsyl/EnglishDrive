@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Self-test for PD-051 — student-facing text visibility.
+"""Self-test for PD-054 — student-facing text visibility.
 
 Seeded-error tests proving that clue glosses, part instruction lines and sheet
 boxes are now visible to the values-lexicon, sacred-word and held-word screens,

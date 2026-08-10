@@ -26,16 +26,16 @@ verifies the manifest matches the sheets (spot-check).
               "text": "Yusuf ___ a red pen.",   // full item text as printed
               "answer": "has",                   // the keyed answer
               "trigger": "pen",                  // the held word the item grades
-              "clue": "(সঙ্গে)",                  // PD-051, optional: printed gloss
+              "clue": "(সঙ্গে)",                  // PD-054, optional: printed gloss
               "marks": 1
             }
           ],
           "answers": null,          // optional: bare answer sequence when items
                                     // are not itemised (e.g. a tick column)
-          "instructions": "Fill in the blanks."  // PD-051, optional: rubric line
+          "instructions": "Fill in the blanks."  // PD-054, optional: rubric line
         }
       ],
-      "boxes": [                    // PD-051, optional: sheet-level printed boxes
+      "boxes": [                    // PD-054, optional: sheet-level printed boxes
         {"name": "Word Bank", "words": ["desk", "table"], "text": ""}
       ]
     },
@@ -80,7 +80,7 @@ Field notes:
   checked and the gate reports itself vacuous. Self-test:
   `audits/scripts/selftest_option_list.py`.
 - **`clue`** (item-level), **`instructions`** (part-level), **`boxes`** (sheet-level)
-  — all optional; **PD-051**, student-facing text visibility. Before PD-051 every gate
+  — all optional; **PD-054**, student-facing text visibility. Before PD-054 every gate
   read `text`, `trigger` or `options` and nothing else, so rubric lines, word banks and
   support/fading hint boxes were invisible, and clue glosses were covered **only by
   accident** — `(সঙ্গে)` sat inside the C4B06 `text` strings because the extractor
@@ -98,7 +98,7 @@ Field notes:
   - **`instructions` and `boxes` are exempt from held-word** — "Fill in the blanks" is
     teacher register, not vocabulary.
   - **Bangla glosses are exempt from held-word by nature** (they are not pool words)
-    and are the required route under CR-011, promoted binding by PD-051. They are still
+    and are the required route under CR-011, promoted binding by PD-054. They are still
     values- and sacred-screened.
 
   Manifests declaring none of the three fields behave exactly as before. Self-test:

@@ -1,0 +1,20 @@
+AUDIT REPORT — C4B06 — 2026-08-10
+manifest: blocks/C4/_wip/C4B06_manifest.json
+file2: file2/C4_ENG_VocabPool_v4.xlsx
+------------------------------------------------------------------------
+[PASS] De-patterning                    25 answer sets checked
+[PASS] CW↔HW overlap                    CW1↔HW1: positional 19%; CW2↔HW2: positional 22%; CW3↔HW3: positional 17%; CW4↔HW4: positional 32% (superseded by PD-036 zero-repeat, kept as backstop)
+[PASS] PT zero-overlap                  31 PT items vs 451 worksheet items
+[PASS] Within-sheet duplicates          all sheets scanned
+[PASS] Option-list completeness         no parts declare 'options' — gate vacuous; declare on identify parts
+[PASS] HW key transcribability          11 paired parts compared
+[PASS] Cross-sheet repetition (PD-036)  270 distinct texts across 9 sheets; threshold 0
+[PASS] Rehearsal/graded disjoint        6 self-try vs 3 demo words
+[PASS] Mark totals                      CW1: 37/37; HW1: 31/31; CW2: 38/38; HW2: 32/32; CW3: 36/36; HW3: 30/30; CW4: 31/31; HW4: 31/31; PT: 33/33
+[PASS] Sacred-word guard                graded targets + dictation + clue/instructions/boxes scanned (PD-054)
+[PASS] Values lexicon screen            item texts + clue/instructions/boxes scanned (incl. inflections; PD-054)
+[PASS] Held-word / exemplar / block-local 220 graded targets checked against 160 pool words + 0 exemplars + 25 block-local; 0 English clue word(s) checked (PD-054)
+[PASS] One-defensible-answer (human)    no conflicting-answer candidates; full check remains a human read
+------------------------------------------------------------------------
+RESULT: ALL GATES PASS
+Reminder: the naturalness gate and full one-defensible-answer check are HUMAN.
