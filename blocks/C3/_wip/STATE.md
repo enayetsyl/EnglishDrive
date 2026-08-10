@@ -1,337 +1,224 @@
-# C3 Block 7 — build state
+# C3 Block 8 — build state
 
-**Block ID:** `C3B07` · **Week:** W6 (Sun–Wed teaching, Thu combined PT) · **Master:** `_wip/C3_ENG_Block07_Adjective_v1.md`
-**Topic:** Adjective — describing words (*what kind / how many / which / whose*), attributive position only; dual-job anchor *clean*.
+**Block ID:** `C3B08` · **Week:** W7 (Sun–Wed teaching, Thu Performance Test) · **Master (planned):** `C3_ENG_Block08_Pronoun_v1.md`
+**Topic:** Pronoun — personal pronouns, subject and object; fill-from-passage.
+
+> **Predecessor.** C3 Block 7 (Adjective) was promoted 09.08.26 to `blocks/C3/C3_ENG_Block07_Adjective_v1.md`.
+> Its full build state is preserved at `_wip/C3B07_STATE.md` (copied verbatim from this file on 10.08.26; nothing
+> deleted), and its audit trail at `_wip/C3B07_manifest.json`. Items still open against C3B07 are restated in
+> §6 below where they bear on this build.
 
 ---
 
 ## Phase reached
 
-**Phase 4 — BUILT IN CHAT, IMPORTED TO `_wip/` 09.08.26. NOT AUDITED. NOT PROMOTED.**
-
-Authored outside the repo, in chat. A copy had already been dropped into `extracts/C3/TN/` as
-`C3_ENG_GrammarBlock07_Adjective_v1.md`; the uploaded file is **byte-identical to it** once line endings are
-normalised, so no content was lost or superseded by the import. The block never reached `blocks/C3/` and never had a
-`blocks/C3/_wip/` entry — `blocks/C3/` still holds Blocks 1–6 only.
-
-**Consequence:** there is **no `_wip/C3B07_manifest.json`** and `audits/scripts/run_all.py` has **never been run** on
-this block. Nothing here has been checked by a script in this repo. **It may not be presented as final until the
-manifest exists and every gate returns PASS.**
-
-## Decisions confirmed
-
-| # | Decision | Who / when |
-|---|---|---|
-| 1 | Graded-item weighting **55/25/20 descriptive : possessive-demonstrative : number** — **PD-028**, correctly cited in the file and unchanged. The possessive/demonstrative/number strands are taught in-cap but tested by no binding paper; the weighting is deliberate and must not be "reconciled" toward the exam. | Principal, 08.08.26 |
-| 2 | **Combined Block 6 (Article) + Block 7 (Adjective) Performance Test `C3B0607-PT`** — 34 marks (Article 9 · Adjective 11 · shared dictation 10 · self-try 4), 0.5 marks per sentence in Parts B, C, E, F. Block 6's PT was postponed by the holiday. Logged **PD-043**. | Principal, 09.08.26 |
-| 3 | **Stale PD number corrected on import: PD-031 → PD-043.** PD-031 was already taken (sacred words barred from match tasks). | Agent, 09.08.26 |
-| 4 | **Internal ID inconsistency fixed:** the answer-key heading read `C3B07-PT` against a paper ID of `C3B0607-PT`; corrected to the canonical combined ID. | Agent, 09.08.26 |
-| 5 | Master imported to `_wip/` as `C3_ENG_Block07_Adjective_v1.md` (forward-only stem, CLAUDE.md §6); CRLF normalised; the internal **Filename** field updated. **Not promoted.** | Agent, 09.08.26 |
-
-## Pending — must close before promotion
-
-### BC-1 · ✅ **CLOSED 09.08.26 — ruled PD-047.** `big` and `table` are a PD-012 block-local set (as extended by PD-035); the four `big` items and the `wooden–table` pair are unchanged, the header row now declares the set, and the Sunday-script citation reads PD-047. Superseded text retained below.
-
-#### Superseded statement of BC-1 (retained for the record)
-
-~~⛔ Unresolved PD citation — *big* and *table*~~
-
-The Sunday script reads *"**big** and **table** are taught this block — PD-029, PD-030"*. Neither number holds that
-ruling: PD-029 is the C4 spine renumbering, PD-030 the `C4B04-AK` consolidation. The citation has been replaced in the
-file with **"PD pending, see `_wip/STATE.md` BC-1"** rather than guessed at.
-
-**This also contradicts the file's own header**, which states *"All 29 pool adjectives held by end W6 — zero gap; **no
-block-local set, no override**."* Either *big* / *table* are pool-held (in which case the sentence is simply wrong and
-should be cut), or they are block-local declarations under **PD-012 as extended by PD-035** (in which case the header's
-"no block-local set" line is wrong). **Principal ruling needed.** Not resolved silently.
-
-### Other
-
-1. **Manifest + full audit run.** Build `_wip/C3B07_manifest.json` covering all 8 worksheets + `C3B0607-PT`, run `run_all.py`, paste the verbatim output, save the report.
-2. **PT zero-overlap across two blocks.** `C3B0607-PT` grades Block 6 (Article) as well as Block 7, so the zero-overlap gate must see **Block 6's worksheets too** — the same widened scope PD-032 defined for split blocks and PD-034 extended to paired-week recovery. Declare the scope in the manifest before running.
-3. **Roll = 17 is a Principal ruling, not file-verified** (the file says so itself). Exit Check prompt counts depend on it.
-4. **C3 Drive Plan §4 / §7 forward-only note owed** — Block 6's PT is combined this cycle as `C3B0607-PT` (PD-043).
-5. **Duplicate copy.** `extracts/C3/TN/C3_ENG_GrammarBlock07_Adjective_v1.md` is the same file under the old stem. On promotion, `blocks/C3/C3_ENG_Block07_Adjective_v1.md` becomes authoritative and the `extracts/TN/` copy should be regenerated from it, not edited in place.
-6. **PD-042 §H.5 re-screen** — Rabab is now male drive-wide. This block has **not** been swept.
-
-## Next step
-
-Get the BC-1 ruling, then build `_wip/C3B07_manifest.json` and run the audit suite.
+**Phase 1 — Orientation: COMPLETE (10.08.26).** Read-only. Nothing drafted.
+**Phase 2 — Questions below are live and block Phase 3.** No build content may be written until they are ruled.
 
 ---
 
-## Audit run 1 — 09.08.26 · `audits/reports/C3B07_audit_2026-08-09.txt`
+## §1 — Derived build parameters (each cited; none carried from a previous session's citation)
 
-Manifest `_wip/C3B07_manifest.json` parsed directly from the master (9 sheets, 255 items; every worksheet item matched
-to an answer-key entry with none missing). **First script run in this repo.** **8 gates PASS · 5 FAIL.**
+| Field | Value | Source, re-read this session |
+|---|---|---|
+| Block tier | **First-teaching.** Every C3 grammar block is first-teaching of its rung | Drive Plan v1.8 §4 preamble |
+| Week / structure | **W7**, solo week, 4 teaching days (Sun–Wed) + **standalone Thursday PT** + weekend Assignment | Drive Plan §4 row W7 |
+| Spine position | Rung 8 of 14; follows Adjective (Block 7), precedes Preposition (Block 9) | Charter §E.1; Drive Plan §2 |
+| Drive Plan version | **v1.8** (highest present in `governance/driveplans/`) | verified by listing |
+| Charter / Run Book | **Charter v1.5** · **Run Book v1.17** (highest present) | verified by listing |
+| Format mirror | `C3_ENG_Block07_Adjective_v1.md` — most recent validated C3 block | Run Book §4.2 |
+| Filename (forward-only) | `C3_ENG_Block08_Pronoun_v1.md` — `Block`, not `GrammarBlock` | CLAUDE.md §6 |
+| Bloom band | Understand / Apply dominant; simple Analyze; guided Create at the self-try | Drive Plan §6; Charter §G |
+| Self-try rubric | **4 marks**, four criteria at 1 each; value alignment not scored | Charter §I.3 · PD-010 |
+| Roll / Exit Check | **17** — carried from C3B07's header, where it is marked *"Principal ruling, not file-verified"*. **Still unverified.** See Q6 | C3B07 provenance table |
+| Next PD number | **PD-051** (Decision Log's highest is PD-050) | `Curriculum_Design_Decision_Log_Working.md` |
 
-**FAIL 1 — cross-sheet repetition (PD-036): ~60 sentences on more than one sheet**, several on three or four —
-`We see a polluted river.` on **CW1, CW4, HW3 and the PT**; `Yusuf has a clean hand.` on CW1, CW2, CW3;
-`It is a joyful morning.` on HW1, HW2, HW4; `We see a good school.` on CW2, CW3, HW1. This is the block's dominant
-defect and needs a repetition pass on the scale of C4B06's (38 repeats → 0).
+### Depth cap — Drive Plan v1.8 §2 row 8, quoted verbatim
 
-**FAIL 2 — mark totals: PT computes 34.5 against a stated 34.** Part B is printed as *"[10 blanks × 0.5 = 5]"* but
-carries **11 blanks** (items 1, 6 and 8 each have two) — and the answer key supplies all 11. Either the paper loses a
-blank or the total becomes 34.5.
+> **Personal pronouns** — subject (I, he, she, it, we, they) and object (me, him, her, us, them); they **replace a noun**.
+> Fill-from-passage (Annual Q3). **Introduce this / that** in examples and sentences with a brief note that they can
+> **point to a noun** (*this book* — taught in Block 7) **or stand in place of a noun** (*This is mine*); light touch,
+> not a graded target.
 
-**FAIL 3 — held-word: `big` is not in File 2** (4 graded items: CW1 A, HW2 A ×2, HW4 A). **This independently confirms
-BC-1** above — the master's bogus "PD-029, PD-030" citation was covering a word with no held status, while the header
-claims "all 29 pool adjectives held, no block-local set". The BC-1 ruling now has evidence behind it.
+### Guardrail — §2 row 8, quoted verbatim
 
-**FAIL 4 — PT zero-overlap (3 items).** PT Part E reuses `We see a polluted river.` (CW4), `Porshi has two gardens.`
-(HW2) and `That hat is on the bed.` (HW3) verbatim.
+> Do **not** introduce *mine, hers, ours, theirs* (stand-alone forms — absent from the book and papers).
+> *my, his, her, our, their* are taught in **Block 7** (before a noun), not here. No relative/reflexive/indefinite pronouns.
 
-**FAIL 5 — de-patterning: PT Part F is a strict alternation** — adjective · verb · adjective · verb.
+### Block 7/8 boundary — §2 note (v1.1), operative rule
 
-**Passed:** CW↔HW positional overlap (0% on all four pairs) · within-sheet duplicates · option lists (5 parts) ·
-HW key transcribability (10 pairs) · rehearsal disjointness · sacred-word · values lexicon · one-defensible-answer.
+Positional: **before a noun → adjective** (Block 7); **replaces a noun → pronoun** (Block 8). *this/that* introduced
+lightly in both with the dual-use note. Stand-alone *mine/hers/ours/theirs* not introduced.
 
-### Three findings no gate catches — human screens
+### Exam anchor — verified against the papers themselves, not from §7
 
-1. **⛔ Two conflicting answer keys for the same Thursday paper.** The key at *Answer Key → Performance Test* matches
-   the printed combined PT (Parts A–G, 34 marks). A **second, stale key** at the end of the file
-   (`Part B (passage) · Part C: cozy, her, this, old, red, some · Part D: 1. adjective 2. verb · Part E self-try`)
-   describes an **adjective-only paper that no longer exists**. A teacher could mark from the wrong one. **Delete or
-   supersede it** — needs your say-so, since deleting outside `.git/` requires it.
-2. **Off-roster character name.** **Rani** appears three times (CW2 Part C item 4; PT Part B item 6; PT Part C item 3).
-   Charter §H.5's roster is Yusuf, Abdullah, Nusair, Abdur Rahim, Aisha, Raima, Maryam, Fatima, Porshi, Rabab, Jesmin.
-2. **No worksheet prints a mark total.** Computed: CW1/HW1/CW2/HW2 33 · CW3/HW3 32 · CW4 36 · HW4 34. The header
-   predicts "30 CW / 28 HW". Nothing to check the key against until a total is printed on each sheet.
+| Paper | Pronoun question | Verdict |
+|---|---|---|
+| **Annual 2025 (Mohammadpur)** | **Q3 — "Fill in the blanks using Pronoun" [5×1=5].** A five-sentence connected narrative with five numbered blanks (a)–(e): *"Last Sunday, my parents took me to the zoo. (a) ___ was a sunny day. Many people were at the gate. (b) ___ were waiting in line. My father bought tickets for (c) ___. We saw a lion. (d) ___ was sleeping. I wanted to feed the birds but the guard stopped (e) ___."* | **The single binding anchor.** Format = **cloze over a connected passage**, no word box, mixed subject and object slots |
+| HY 2025 (Mohammadpur) | none — Q3 is sentence-type identification | **Does not test pronoun** (read in full this session) |
+| HY 2026 (Mohammadpur) | none — Q3 is negative/positive transformation | **Does not test pronoun** (read in full this session) |
 
-**Manifest note:** number, possessive and demonstrative words (*two, three, four, many, some, few, all, my, his, her,
-our, their, this, that*) are declared as **PD-009 exemplars**, following the C5B07 precedent — the master calls them
-"carriers, not pool-held", but they are graded answers and the gate requires an instrument. Dual-job Part D items carry
-`clean` as the trigger, not the grammar label.
+**Consequences for the build.** (i) Anchor is Annual-only, as §7 states — confirmed at source, not accepted on §7's
+word. (ii) The paper supplies **no word box**; the pupil produces the pronoun from the antecedent. Practice must
+mirror that — a box would make the task selection, not production. (iii) The five keyed answers are **It · They ·
+us · It · me** — three subject, two object, and *It* twice, so the paper itself does not de-pattern; our sheets
+still must (Run Book §6.5). (iv) Blanks (c) and (e) are object slots after a preposition and a verb respectively;
+both shapes must be taught.
+
+### Held-word scope
+
+Cumulative W1–W7 under the release model = **the entire pool, 195 rows** (`C3_ENG_VocabPool_U18_v2.xlsx`).
+W7 is the pool-clearing week; nothing in File 2 is unheld by this block. Antecedent nouns, subjects and objects
+are therefore fully available — consistent with Drive Plan §4's lead-time note that *"Pronoun and Preposition need
+no new words."*
+
+**W7 fresh batch, computed from batch content (not the week label), per Starter Template §1.1 — 34 words:**
+nouns `pollution · plant · soil · danger · source · fish · bath · crop · animal · tree · people · thing · ant ·
+grasshopper · winter · summer · field · corn · leaf · ear · Monday · Tuesday · Wednesday · Thursday · Friday ·
+Saturday` · verbs `pollute · carry · pass · starve · become` · adverbs `sometimes · happily · everywhere`.
+This is the set the four HWs' Vocabulary Writing boxes draw from (§3.16 / PD-015).
 
 ---
 
-## Audit run 2 — 09.08.26 · approved repair applied · `audits/reports/C3B07_audit_2026-08-09.txt`
+## §2 — Flags raised at orientation (⚑ = needs a ruling or a correction)
 
-Applied exactly the approved set, nothing more. **Result: 11 PASS · 2 FAIL, both ruled.**
+**⚑ F1 — File 2 batch-size declarations disagree with batch content.** The Batch Order's *Weekly Plan* sheet
+declares **W6 = 35** and **W7 = 35 (+4) = 39**; the *Word → Week* sheet contains **W6 = 40** and **W7 = 34**.
+Cumulatively the two reconcile (195 total, pool cleared at W7), so the *held scope* is unaffected and this does not
+block the build — Starter Template §1.1 already rules that scope is computed from content. But the declared figure
+is wrong in both directions, and Drive Plan §3/§4 repeat the wrong ones ("35", "35 (+4)"). Related: Drive Plan §3
+calls the pool **194**; it holds **195**. And §4 shows **W3 = 25** where the Batch Order says **26**.
+*Recording only — File 2 and the Drive Plan are edited on explicit instruction (CLAUDE.md §6).*
 
-| # | Change | Scale |
-|---|---|---|
-| 1 | PT Part B item 8 → `I see ___ ostrich.` | 1 item + 1 key line — **PT now 34/34, Article 9, no half-marks** |
-| 2 | `big` + `table` declared block-local (PD-047) | header row + 1 script citation + manifest — **zero content change**; held-word gate now PASSES 220 targets |
-| 5 | 9 match replacements (naming word only, every adjective preserved) | CW3 3 · HW3 1 · CW4 2 · HW4 3; four sets re-deranged; **no pair now appears more than twice** |
-| 6 | PT Part F reordered 2·1·3·4 | **no sentence rewritten**; key reordered; de-patterning now PASSES |
-| 8 | Stale PT key struck through under a do-not-mark warning | **Part A dictation list retained** — the only record of the ten words |
-| 9 | `Rani` → Porshi (script) · Maryam (PT B#6) · Fatima (PT C#3) | carrier names only; **no key, mark or task structure moved** |
-| — | 40 match placements itemised in the manifest | structural; they were invisible to every gate before |
+**⚑ F2 — The whole block's graded answers are function words. This is exactly the CR-032 PATTERN.**
+Every keyed answer in this block is a pronoun. CR-032 (flagged PATTERN, 09.08.26) is precisely this failure:
+C3B07's Article half declared no `trigger`, because its answers were articles rather than content words, so the
+held-word gate skipped sixteen items **silently**. Block 8 is that situation across **100% of its graded items**,
+not a half-paper. Mitigation is designed in, not retrofitted: **every pronoun item declares as its `trigger` the
+antecedent noun the pronoun replaces** — which is also the word that makes the item answerable, so the trigger is
+the honest one rather than a formality. Restated in the blueprint and enforced from the manifest's first line.
 
-**Gate movement**
+**⚑ F3 — The eleven taught pronouns are not in File 2 and need a declared status.** *I, he, she, it, we, they,
+me, him, her, us, them* appear nowhere in the 195-word pool. Structurally identical to Block 6's article problem,
+which was solved by a declared PD-012 block-local set. Three statuses exist and **PD-020 selects by what the word
+is for**. This is a Principal decision — **Q1** below.
 
-| Gate | Before | After |
-|---|---|---|
-| De-patterning | FAIL — PT Part F alternation | **PASS** |
-| Mark totals | FAIL — PT 34.5 vs 34 | **PASS — PT 34/34** |
-| Held-word / block-local | FAIL — `big` ×4 | **PASS — 220 targets** |
-| CW↔HW overlap | PASS | PASS (4% / 0% / 0% / 0%) |
-| HW key transcribability | PASS (10 pairs) | PASS (**14** pairs — match parts now visible) |
-| PT zero-overlap | FAIL — 3 items | FAIL — same 3, **ruled PD-048(8)** |
-| Cross-sheet repetition | FAIL — 64 texts | FAIL — 76 texts, **all ruled PD-048(6,7,9)** |
+**⚑ F4 — House-name roster: CLAUDE.md and Charter §H.5 disagree.** Charter §H.5 lists male *Nusair, Yusuf,
+Abdullah, Abdur Rahim*; female *Aisha, Raima, Porshi, Rabab, Jesmin Akter*. CLAUDE.md §5 lists the same plus
+**Maryam** and **Fatima**. The Charter governs. This is live, not academic: **CR-029 replaced off-roster `Rani` in
+C3B07 with Maryam and Fatima** — names that are off the Charter roster too, so the correction may have substituted
+one breach for another. **Q5** below.
 
-The cross-sheet count rises from 64 to 76 only because the 12 surviving match pairs are now **visible** for the first
-time; every one sits at exactly two appearances, which is the Option-2 target. Within-sheet duplicates, option lists,
-rehearsal disjointness, sacred-word, values lexicon and one-defensible-answer all PASS.
-
-**Both remaining failures are ruled (PD-048).** No unruled failure stands.
-
-## Still open
-
-1. **File 2 size-adjective gap** — the C3 pool holds **no** size adjectives (*big, small, little, tall, long, short*).
-   PD-047 covers this block; filling the pool affects every C3 block and needs its own ruling. **Flagged, unfilled.**
-2. **PD-032/PD-034 widened PT overlap not yet run** — `C3B0607-PT` grades Block 6 (Article) too, so Block 6's
-   worksheets should be loaded as `pt_overlap_only` reference, exactly as was done for C2. Not run.
-3. **C3 Drive Plan §4/§7 forward-only note** owed (combined `C3B0607-PT`, PD-043).
-4. **Roll = 17** is a Principal ruling, not file-verified.
-5. **PD-042 §H.5 re-screen** (Rabab now male) — this block not swept.
-6. **`extracts/C3/TN/` duplicate** under the old stem — regenerate from the master at promotion, don't edit in place.
-7. **No worksheet prints a mark total** — recorded as a gap, not a failure (PD-048); no governing file requires one.
-
-**PROMOTED 09.08.26** on the Principal's "done" — see below. Corrections logged **CR-025 … CR-030**.
+**⚑ F5 — Build inputs absent from the repo.** Starter Template §1.1 requires the class textbook, the Teacher's
+Guide, the TG Reconciliation, and a C3 Block-Build Specification ("only C2 and C3 have one"). **None is present.**
+C3B07 was built without them and cites papers + Drive Plan only, so this is a standing gap rather than a new one —
+recorded, not treated as a blocker. It matters more here than usual: the §2 boundary note rests on what *the book*
+labels ("the book labels only personal *you/me/it* as Pronoun"), and that claim cannot be verified at source.
+Bears directly on **Q2**.
 
 ---
 
-## PD-032 / PD-034 widened PT overlap — RUN 09.08.26 · ⚑ 3 NEW findings, no content changed
+## §3 — Phase 2 questions (LIVE — these block Phase 3)
 
-Block 6's **eight Article worksheets (236 items)** loaded into `_wip/C3B07_manifest.json` as
-`"audit_scope": "pt_overlap_only"` reference. `C3B0607-PT` is now compared against **353 worksheet items** across both
-blocks. Block 6's own PT was not loaded — it was never administered and its assessment is carried into this paper
-(PD-043), so comparing against it would flag the carry itself.
+**Q1 — Status of the eleven pronouns (assign PD-051).** They are not in File 2 and cannot be graded without a
+declaration. Options: **(a) Grammar Exemplar** (§5.7/PD-009) — not counted toward the week's load, never a
+dictation/spelling item; **(b) block-local** (§5.8/PD-012, the Block 6 article precedent) — counted toward load;
+**(c) override word** (§5.9/PD-011) — counted, and dictation/spelling eligible.
+**Recommendation: (b) block-local.** PD-020 selects by what the word is *for*, and a pronoun is not a device for
+demonstrating someone else's rule — it *is* the taught content, which the child must own. That fails the exemplar
+test ("the child never needs to own the word") and rules out (a). Not (c), because W7 is a declared compound-peak
+week and the dictation list is already committed to the 34-word fresh batch; making eleven function words
+spelling-eligible adds load for no exam return, and the Annual Q3 anchor tests production in context, not spelling.
+The Block 6 precedent is exact and the audit plumbing (`block_local` manifest field) already exists.
 
-**Result — the Article half of the PT is not disjoint from Block 6.**
+**Q2 — Is *you* taught?** §2 row 8's subject list is *I, he, she, it, we, they* and its object list *me, him, her,
+us, them* — **you is in neither**, yet the same §2 boundary note grounds the whole Block 7/8 split on the fact that
+"the book labels only personal *you/me/it* as Pronoun." Annual Q3 does not test *you*. The dialogue task in the
+Composition block (HY2026 Q9, Islamic greetings + self-introduction) will need it. I read this as an omission
+rather than an exclusion, but the cap is a ceiling and I will not widen it unasked. **Recommendation: teach *you*
+in the script and examples, do not grade it** — full coverage, cap untouched.
 
-| PT item | Duplicates | Answer |
-|---|---|---|
-| **Part B #4** — `He is ___ honest boy.` | `B6-HW4` | *an* |
-| **Part B #7** — `It is ___ university bag.` | `B6-HW4` | *a* |
-| **Part C #6** — `She has an kite.` | `B6-CW4` | *a* |
+**Q3 — Does the light *this/that* dual-use note carry into the sheets at all?** §2 says "light touch, **not a
+graded target**." Clear that it is never keyed. Less clear whether it may appear in a *carrier* sentence on a
+graded sheet. **Recommendation: teacher script and Clue Card only; not on any student sheet**, so no pupil ever
+meets a *this/that* on a sheet whose Part is headed "Pronoun". CR-015's precedent (dual-class words need an AK
+marking note) is the cost of the alternative.
 
-**Assessment impact — not uniform, and two of these are stronger than earlier overlap findings.**
+**Q4 — PT shape.** PD-043's combined `C3B0607-PT` was a one-cycle response to a holiday and is discharged. I read
+W7 as returning to a **standalone `C3B08-PT`** on the C3B07 house pattern: dictation Part A (10 words) → grammar
+parts → self-try (4 marks). **Confirm**, and confirm the intended total — C3B07's combined paper ran 34.
 
-- **Part C #6 (`kite`) is straightforwardly rule-derived** — a consonant sound takes *a*. Same standing as the items
-  ruled under PD-044/PD-046; no meaningful advantage.
-- **Part B #4 and #7 are the two exception items of the whole Article topic** — silent-*h* (*honest* sounds like a
-  vowel → *an*) and the *"yu"* sound (*university* → *a*). These are precisely the cases where a pupil is most likely
-  to **recall** rather than apply the sound test, because the rule's surface form (look at the letter) gives the wrong
-  answer. A pupil who met these exact sentences in Block 6 homework can reproduce them without hearing the sound.
-  The advantage is real, though it is worth **1 mark in total** (2 blanks × 0.5).
-- Both Part B hits come from **the same sheet, `B6-HW4`**, which suggests the PT's Article half was drafted with that
-  homework open rather than authored fresh.
+**Q5 — House names (see F4).** Charter §H.5 or CLAUDE.md §5? If the Charter governs as written, **Maryam** and
+**Fatima** are off-roster and C3B07 currently carries them at PT Part B #6 and Part C #3 via CR-029. Ruling needed
+on which list binds, and — separately — whether C3B07 is reopened for it or the correction runs forward only
+(Charter §K.3 would say forward-only).
 
-**Reported for ruling; no content changed** (Principal instruction, 09.08.26). Unlike the C2 equivalent, this one is
-not covered by any existing waiver.
+**Q6 — Roll size.** C3B07 built its Exit Checks at **17 prompts** on a ruling marked "not file-verified", and
+C3B07's own STATE still lists "roll = 17 unverified" as open. Confirm 17, or give the current Sylhet roll.
 
-**No other gate result moved** — the reference sheets are visible only to the PT overlap gate.
+**Q7 — CR-032's PATTERN obligation.** §5A requires a proposal at the third occurrence; the candidate
+(a manifest-completeness check: every graded part declares itemised content and a trigger, or is explicitly marked
+exempt) was recorded but **not created, on Principal instruction, awaiting decision**. Block 8 is the block that
+check exists for (F2). **Do you want it built before this block is audited, or does the build proceed with the
+trigger discipline applied by hand?**
 
-## C3 Drive Plan §4 / §7 — DONE 09.08.26
-
-`governance/driveplans/C3_ENG_DrivePlan_v1_8.md` — forward-only notes at **§4** (Block 6's PT combined into
-`C3B0607-PT` this cycle, 34 marks, PD-043) and **§7** (Annual 2025 Q8 examined in the combined paper, per-anchor mark
-values preserved). No row amended.
-
-## Corrections approaching PATTERN — flagged only, no rule created
-
-Three types now sit at **2 occurrences**; a third makes each PATTERN under CLAUDE.md §5A and obliges a proposal:
-
-| Type | Occurrences | Origin |
-|---|---|---|
-| **Attribution — autonomous natural giver** | CR-004 (C4B06) · CR-023 (C2B06b) | *"the sun gives us light"* |
-| **Cross-sheet repetition of match pairings** | CR-022 (C2B06b) · CR-026 (C3B07) | recall instead of derivation |
-| **Unheld word graded** | CR-001 (C4B06) · CR-030 (C3B07) | `quickly`/`run`/`shelf` · `big`/`table` |
-
-**No standing rule introduced and no gate changed.** Recorded so the third occurrence is recognised when it arrives.
+**Q8 — Standing Phase 2 items.** Is Block 7 delivered (locked, fixes go downstream) or pre-delivery? Any teacher
+or classroom feedback from the W6 delivery to fold in? Any ruling affecting this block that is not yet in a file?
 
 ---
 
-## Article-half copy-through diagnostic — 09.08.26 (no content changed)
+## §4 — Corrections that govern this build (CLAUDE.md §5A re-read, 10.08.26)
 
-Every PT Article item compared against **all 236 Block 6 worksheet items** by similarity, not just verbatim match.
-
-**Part B — 3 of 8 items substantially repeated**
-
-| PT item | Closest Block 6 item | Sim |
-|---|---|---|
-| #4 `He is ___ honest boy.` | `B6-HW4 A` — identical | **1.00** |
-| #7 `It is ___ university bag.` | `B6-CW1 A` — identical (**also on `B6-HW4 A`**) | **1.00** |
-| #2 `___ sun rises in the morning.` | `B6-CW2 A` — *"___ sun rises in the east."* | 0.79 |
-
-**Part C — 4 of 8 items substantially repeated**
-
-| PT item | Closest Block 6 item | Sim |
-|---|---|---|
-| #6 `She has an kite.` | `B6-CW4 D` — identical | **1.00** |
-| #4 `It is a university bag.` | `B6-CW1 A` — *"It is ___ university bag."* | 0.91 |
-| #7 `I ate a egg.` | `B6-CW4 D` — *"Rani ate a egg."* | 0.88 |
-| #5 `He saw an owl.` | `B6-CW4 D` — *"I saw a owl."* | 0.83 |
-
-**Verdict: broader than two isolated repeats, but narrower than a wholesale lift.** 7 of the 16 Article items are
-substantially repeated — 3 verbatim, 4 same-frame-one-word-changed. The Article half was clearly assembled with
-Block 6 material to hand rather than authored fresh. **But most of the reuse is rule-derived** (*sun rises*, *saw an
-owl*, *ate a egg*) and falls under the reasoning already applied in PD-044/PD-046/PD-048.
-
-**Correction to the earlier report:** both Part B verbatim hits were attributed to `B6-HW4`. `It is ___ university
-bag.` in fact sits on **`B6-CW1` A *and* `B6-HW4` A**, and *university* recurs on `B6-HW4` C and D
-(*"It is ___ university book."*, *"He has a university book."*). The trap is reused across four Block 6 placements.
-
-### ⚑ A separate defect this surfaced — the paper answers itself
-
-**`It is ___ university bag.` (Part B #7) and `It is a university bag.` (Part C #4) are the same sentence on the same
-paper.** Part B asks the pupil to supply the article; Part C asks whether the printed article is wrong — and it is
-correct, because Part B has already established it. **A pupil who answers B #7 has been handed C #4.**
-
-The within-sheet duplicate gate did not catch it: the two texts differ by a blank versus a filled article, so they
-normalise differently. This is a **paper-design defect independent of the Block 6 overlap** and would stand even if
-Block 6 had never existed.
-
-**Consequence for the minimum fix.** If Part B #4 and #7 are repaired, **Part C #4 belongs with them** — it carries
-the same *"yu"*-sound trap and the same recall advantage, and it is also the half of the self-answering pair. The
-minimum defensible intervention is therefore **3 items, not 2**. No replacements drafted.
-
-**Ruled this pass:** Part C #6 (`She has an kite.`) accepted — **PD-049**. Part B #4 / #7 **OPEN**.
+Applying to the sheets to be drafted: **CR-001/CR-030** (held-word or declared status for every graded target —
+Q1) · **CR-032** (function-word answers still declare a trigger — F2) · **CR-020** (a small-value answer set must
+break strict alternation as well as run length — a subject/object pronoun key is a near-binary surface and will
+trip this) · **CR-006** (HW key not positionally derivable from its CW) · **CR-008/CR-017** (any option list names
+every class keyed on that sheet) · **CR-009/CR-022/CR-026** (no sentence or pairing reused across the block's
+sheets) · **CR-016/CR-019** (a clue must not disclose the answer — acute here, since an antecedent gloss is close
+to the answer) · **CR-025** (stated blank count recounted from the printed paper) · **CR-028** (every graded
+placement itemised in the manifest, including table formats) · **CR-029** (carrier names screened, not just keyed
+ones — Q5) · **CR-011** (student-facing clue glosses in Bangla) · **CR-012** (Vocabulary Writing from the current
+week's batch — the 34-word W7 set above).
 
 ---
 
-## Audit run 3 — 09.08.26 · final for this pass
+## §5 — Values guards specific to this block
 
-**One content change applied**, exactly as approved: **PT Part C #4** `It is a university bag.` →
-**`Abdullah saw an ox.`** (✓ correct), key updated to `an ox`. The **within-paper leak is closed** — *university* is
-no longer decisive twice on one paper, and `ox` is decisive nowhere else, so no leak is created in either direction.
-Part C stays **5 wrong / 3 correct**, 8 × 0.5 = 4, **PT 34/34**.
-
-> **Note on the first replacement.** The originally approved `Nusair has an umbrella.` was **withdrawn before it was
-> written**: Part C #1 (`She opened a umbrella.`) already establishes *an umbrella*, so it would have reproduced the
-> very leak being removed, one row over. Caught by checking Part C against itself — the first draft had been checked
-> only against Block 6 and the worksheets.
-
-**Result: 11 PASS · 2 FAIL — every failure ruled.**
-
-| Gate | Status |
-|---|---|
-| De-patterning · CW↔HW overlap · within-sheet duplicates · option lists · HW key · rehearsal · sacred · values · one-defensible | **PASS** |
-| Mark totals | **PASS — PT 34/34**, all sheets |
-| Held-word / block-local | **PASS — 236 targets** vs 195 pool + 15 exemplars + 16 block-local |
-| PT zero-overlap | FAIL — 6 items, **all ruled**: B#4 · B#7 (PD-050b) · C#6 (PD-049) · 3 × Part E (PD-048.8) |
-| Cross-sheet repetition | FAIL — 208 texts, **all ruled** (PD-048.6/7/9) |
-
-**No unruled failure remains.**
-
-## Corrections ledger — one type now at PATTERN
-
-**CR-032 flagged as the 3rd occurrence of the unchecked-graded-content blind-spot type**, alongside **CR-028**
-(C3 match parts held as a mark value, 40 placements unitemised) and **C1B06's 29 house-name items** carrying no
-trigger. Under CLAUDE.md §5A a third occurrence obliges a proposal for a check or standing rule.
-**None created — Principal instruction; awaiting decision.** The candidate, recorded but not implemented, is a
-**manifest-completeness check**: every graded part declares itemised content and a trigger, or is explicitly marked
-exempt. Two other types remain at 2 (attribution CR-004/CR-023; match repetition CR-022/CR-026).
-
-## Still open — unchanged
-
-File 2 size-adjective gap (kept separate from C3) · roll = 17 unverified · PD-042 §H.5 re-screen ·
-`extracts/C3/TN/` duplicate to regenerate at promotion · no worksheet prints a mark total (gap, not a failure) ·
-`Rani` ×6 in the **promoted** Block 6 master — **recorded as a future observation only, not reopened**.
-
-**PROMOTED 09.08.26** on the Principal's "done" — see below.
+- **§H.3, and it bites harder here than in any previous C3 block.** A pronoun item works by referring back to an
+  antecedent. An item of the shape *"Allah is Merciful. ___ created us."* would make a **sacred referent the
+  basis of a graded blank** — the guard's core prohibition. **No graded pronoun item may take Allah, the Qur'an,
+  or a Prophet as its antecedent**, in any part, on any sheet. Reverent teacher prose remains permitted.
+- **§H.4 non-mahram.** Pronoun passages naturally group characters ("Yusuf and Aisha … **they**"). Every
+  multi-character passage is screened for pairing before it is drafted, not after.
+- **§H.9 attribution-in-place.** Narrative passages about rain, sun, crops (the W7 batch is heavily
+  nature-lexical: *soil, crop, tree, leaf, field, corn, winter, summer*) invite autonomous-giver phrasing.
+  CR-004/CR-023 are at 2 occurrences of this type; a third makes PATTERN.
+- **§H.8** no living-being imagery on graded sheets · **§H.2** no music/clapping · **PD-021** festival referent rule.
 
 ---
 
-## PROMOTION — 09.08.26
+## §6 — Inherited open items from C3B07 (restated where they touch this build)
 
-Principal: *"C3B07 is done. You may promote it from `_wip/`."*
+- **File 2 size-adjective gap** — flagged, unfilled. Does not bear on Block 8.
+- **`extracts/C3/TN/` duplicate** — the C3B07 TN copy was regenerated in commit `fae27a4` (91 stale lines gone);
+  C3B07's STATE text predates that commit and still reads as open. **Believed closed — to be verified, not assumed.**
+- **CR-032 PATTERN, no check created** — see Q7. Load-bearing for this block.
+- **Roll = 17 unverified** — see Q6.
+- **PD-042 §H.5 re-screen** — intersects Q5.
 
-**Promoted master:** `blocks/C3/C3_ENG_Block07_Adjective_v1.md`
-(moved from `blocks/C3/_wip/`; `blocks/C3/` now holds Blocks 1–7.)
+---
 
-`_wip/` retains `C3B07_manifest.json` and this STATE file — the audit trail stays with the block, as C4B06's and
-C2B06b's did. No `_wip/` history cleared.
+## §7 — Exact next step
 
-### ⚑ Extracts — NONE exist. Twelve are owed as a deliverable.
+**Await rulings on Q1–Q8.** On receipt: log **PD-051** (and any further PDs, auto-numbered from the Decision Log's
+highest, stated in chat before writing), update this file, then write the **Phase 3 pre-build blueprint** to
+`_wip/C3B08_blueprint.md` for approval. **No build content is drafted before that approval.**
 
-The master defines twelve canonical IDs. **Not one has been generated**; `extracts/C3/` currently holds only a stale
-copy of the master itself (see below).
+---
 
-| Owed | IDs |
-|---|---|
-| Classwork | `C3B07-CW1` · `CW2` · `CW3` · `CW4` |
-| Homework | `C3B07-HW1` · `HW2` · `HW3` · `HW4` |
-| Performance Test | `C3B0607-PT` (combined Article + Adjective, 34 marks) |
-| Answer key | `C3B07-AK` |
-| Clue card | `C3B07-CC` |
-| Teacher dictation | `C3B07-TD` (carries the ten Part A words) |
-
-For comparison, C4B06 shipped 13 extracts to `extracts/C4/` at promotion. **C2B06b is in the same position** — promoted
-earlier today with none of its extracts generated either. Both sets are outstanding.
-
-### ⚑ The `extracts/C3/TN/` copy is now actively stale, not merely duplicated
-
-`extracts/C3/TN/C3_ENG_GrammarBlock07_Adjective_v1.md` was byte-identical to the master at import. It now differs by
-**91 lines** — it predates every repair made today: the PT Part B blank fix (it still computes 34.5), the nine match
-replacements, the Part F reorder, the superseded stale key, the `Rani` replacements, the Part C #4 leak fix and the
-`big`/`table` declaration.
-
-**A teacher opening that file today gets the unfixed block.** It must be regenerated from the promoted master, not
-edited in place. Until then it is the more visible copy, since it sits in `extracts/`.
-
-**Not done and not assumed** — flagged for a separate instruction.
-
+*Phase 1 completed 10.08.26. Files re-opened and re-read this session: Charter v1.5 (§E.1, §H.3–H.9, §I.3),
+Run Book v1.17 (§3.11–3.17, §4, §6.1–6.11, §7, §8, §9), Drive Plan C3 v1.8 (§2–§8), Block-Build Starter Template
+v2.0, Decision Log (PD-043–PD-050 + highest-number check), CORRECTIONS.md (CR-001–CR-032), File 2 C3 Pool v2 +
+Batch Order v1 (both sheets), all three binding C3 papers read in full from source, C3B07 master (provenance,
+Clue Card, checklist, structure), C3B07 STATE, `audits/scripts/README_manifest.md`. No previous session's citation
+was relied upon.*
