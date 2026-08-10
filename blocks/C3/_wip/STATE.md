@@ -20,10 +20,22 @@ day staging as proposed · subject/object **terms taught, not graded** (PD-014 p
 **`C3B08-PT` at 30 marks**, Part D at 8 blanks × 0.5 · dictation 10 words (6×W7 + 4×W6) · Assignment built in
 this pass · volume held at ~28 CW / ~26 HW.
 
-**Phase 4 — IN PROGRESS. Day 1 built and audited: ALL GATES PASS.** `_wip/C3_ENG_Block08_Pronoun_v1.md` (v1.1)
-carries the provenance header, Clue Card, checklist, Sunday script, 17-prompt Exit Check, `C3B08-CW1` (28) and
-`C3B08-HW1` (26). Manifest `_wip/C3B08_manifest.json`. Report `audits/reports/C3B08_audit_2026-08-10.txt`.
-**Paused for review before Day 2** (Run Book §7.5).
+**Phase 4 — IN PROGRESS. Days 1–2 built and audited: ALL GATES PASS** (4 sheets, 108 graded targets).
+`_wip/C3_ENG_Block08_Pronoun_v1.md` (v1.2) carries the provenance header, Clue Card, checklist, the Sunday and
+Monday scripts, two 17-prompt Exit Checks, `C3B08-CW1` (28) · `C3B08-HW1` (26) · `C3B08-CW2` (28) · `C3B08-HW2` (26).
+Manifest `_wip/C3B08_manifest.json`. Report `audits/reports/C3B08_audit_2026-08-10.txt`.
+
+**PD-057 logged** (Principal, 10.08.26): house-roster names are a **standing instrument, not vocabulary** —
+drive-wide, declarable as a `trigger`, never counted toward load, never dictated or spelled, never added to File 2.
+Closes ⚑R1 and removes one of CR-032's three motivating cases. C1 Block 6 is **not** reopened (Charter §K.3).
+
+**The human antecedent gate earned its place on Day 2.** All scripts were green when
+*"My name is Rabab. ___ go to school on Sunday."* was found to have **no forced answer** — `I`, `We` and `They` all
+agree with `go`, and the first sentence fixes only the speaker. The key was internally consistent, so no gate could
+see it. Recast so **`am` forces `I`**. Two consequential fixes followed. Forcing devices now used deliberately:
+`am` (first person), vocative (second person), number agreement and animacy (third).
+
+**Paused for review before Day 3** (Run Book §7.5).
 
 ---
 
@@ -42,7 +54,7 @@ carries the provenance header, Clue Card, checklist, Sunday script, 17-prompt Ex
 | Self-try rubric | **4 marks**, four criteria at 1 each; value alignment not scored | Charter §I.3 · PD-010 |
 | Roll / Exit Check | **17 — CONFIRMED** (Principal, 10.08.26). Closes the item C3B07 carried as unverified. Four Exit Check sets × 17 prompts | Q6 ruling, this session |
 | Word status | **Twelve block-local words** — *I, you, he, she, it, we, they, me, him, her, us, them* — PD-012/PD-035. Counted toward W7 load; never dictation/spelling; not added to File 2 | **PD-051** · **PD-052** |
-| Next free PD number | **Deliberately not recorded — any number written here is stale on arrival.** During this session alone the ceiling moved PD-050 → 053 (this session) → 054, 055, 056 (a parallel C4/C5 session), the last two inside a few minutes. Re-derive from `git show HEAD:governance/Curriculum_Design_Decision_Log_Working.md` immediately before appending, then check for collisions with `grep -oE '^### PD-0[0-9]{2}' \| sort \| uniq -d` | Decision Log at HEAD |
+| Next free PD number | **Deliberately not recorded — any number written here is stale on arrival.** During this session the ceiling moved 050 → 053 (this session) → 054, 055, 056 (a parallel C4/C5 session) → **057** (this session's roster ruling). Re-derive from the Decision Log at HEAD immediately before appending, then scan the log's own `###` headings for duplicates. *(The re-derivation command is kept in `_wip/C3B08_blueprint.md` rather than here — a literal PD pattern in this file is read by `check_citations.py` as a citation to a non-existent ruling.)* | Decision Log at HEAD |
 
 ### Depth cap — Drive Plan **v1.9** §2 row 8, quoted verbatim (as amended by PD-052)
 
