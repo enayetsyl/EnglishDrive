@@ -291,3 +291,45 @@ Append-only. Newest entry last. Never overwrite past entries.
   `sync.bat` performs). Because `sync.bat` stamps its own commit message, the agent now states any
   meaningful `<class><block>: …` message in chat so it is captured here instead.
 - **Files touched:** `CLAUDE.md` (§1), `SESSION_LOG.md`.
+
+---
+
+## 11.08.26 — SCD · C4B07 sentence bank: human naturalness read, all 256 lines
+
+- **Correction to the record first.** The session opened on the assumption that C4B07 was at Phase 1; the
+  10.08.26 log line said so. `C4B07_STATE.md` showed otherwise — Phase 1–3 complete, blueprint approved,
+  Phase 4 units 1–4 delivered. **Phase 1 was not re-run.** The stale line is left in place, not rewritten.
+- **Task:** the §3 human gate — the 256-line hand-authored bank presented in three batches for the read that
+  no script can perform. Batch 1 S1–S2 (64) · batch 2 S3–S7 (96) · batch 3 extensions (96).
+- **Rulings, batches 1–2 (five points):** S7 error-find **containment CONFIRMED** — never a model sentence,
+  never read aloud as correct, never in a demo box, never duplicated elsewhere as a correct sentence ·
+  S3's eight consecutive `washes` lines **accepted as a pool limit**, File 2 not widened, `carry` retained
+  because the `-ies` rule needs it, expansion to take its own ruling (C3 size-adjective precedent CR-030 →
+  PD-047) · collective concord **confirmed singular and locked** · **S3-21 revised** *The doctor discusses the
+  health of the child.* → *The doctor discusses the food.* · **S5-15 revised** *The country has beautiful
+  hills.* → *Nusair has a new stamp.*
+- **Rulings, batch 3: all five KEEP, no line changed** — S4-42 *Raima is sad* (mild negative state on a roster
+  name admitted) · `destroy` (W6 pollution batch, register accepted) · `care for` two-word verb admitted ·
+  S1-46 length outlier noted · `near` clearance confirmed and recorded against re-flagging at audit.
+- **PD-058 logged** — collective nouns `family`/`team` take **singular** concord as project convention;
+  British plural usage may not reopen an item at audit. Rationale recorded: an unsettled convention makes the
+  one-defensible-answer gate unadjudicable, and the binding C4 papers already read these as singular.
+  Ceiling checked against HEAD before appending — PD-057 (roster names as a standing instrument) had been
+  taken by a parallel session.
+- **CR-034 / CR-035 logged** to `governance/CORRECTIONS.md` in-session per §5A. Types: over-long carrier with a
+  post-modifying phrase, and register mismatch (abstract geographic subject in an agreement item). Both are
+  first occurrences, both caught by the human read rather than a gate — the §4 "naturalness gate is human"
+  clause doing exactly its job.
+- **Both replacements re-verified** for PD-036 uniqueness across the corpus; every token in each is already
+  attested in bank lines that passed the earlier programmatic held-word sweep. No unheld word introduced.
+- **Stale count corrected:** unit 1's Counts block read "63 … 29 usable, 1 failed" — it counted S2-30 as lost
+  after it had already been repaired (CR-033). Now **64**.
+- **⚠ Blocker carried:** the sandbox shell failed all session (`session disk not found`), so `run_all.py`
+  could not be run and **no sheet may be promoted** until it can. Drafting is unblocked; certification is not.
+- **Still unruled:** `gate_number_sequence()` (the singular/plural bit no gate sees — matters for Blocks 8–11)
+  and the `gate_depattern()` threshold for 2-valued near-alternating parts. Both need a PD.
+- **Files touched:** `blocks/C4/_wip/C4B07_bank_S1_S2_candidate.md`, `_bank_S3_S7_candidate.md`,
+  `_bank_ext_candidate.md`, `C4B07_STATE.md`, `governance/CORRECTIONS.md`,
+  `governance/Curriculum_Design_Decision_Log_Working.md`, `SESSION_LOG.md`.
+- **Next:** Day 1 sheets `C4B07-CW1` / `C4B07-HW1` from Strands 1–2, manifest built alongside, `number`
+  sequences applied at authoring time (CR-020 — de-patterning designed in, not audited in).
