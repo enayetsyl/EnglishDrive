@@ -856,3 +856,28 @@ Decisions made in principle but not yet implemented. Not official until converte
 **Scope.** Block-scoped to C4 Block 7. Adds no word to File 2, declares no instrument, amends no gate or threshold, reopens no delivered block, and creates **no** drive-wide waiver. Explicitly does **not** rule for C1, C2 or C5, whose PD-052 replication question stays open.
 **Affected files:** `blocks/C4/_wip/C4B07_STATE.md`, `C4B07_phase2_questions.md`, `C4B07_orientation.md`. No content file exists yet.
 **Status:** Ruled (Principal, 10.08.26).
+
+---
+
+### PD-058 — Collective nouns (`family`, `team`) take **singular** concord — project convention
+
+**Decision:** In all Class 4 material, and as the drive's stated convention, **collective nouns take singular
+concord**: *My family **is** happy* · *The team **has** a new poster* · *Each family **lives** in the village*.
+British English permits the plural (*the team have*), and that reading is **not** admissible here and **may not
+be raised to reopen an item at audit**. Ruled at the C4B07 sentence-bank read on lines S4-20, S4-21, S5-16,
+S5-17 and S6-08.
+
+**Why it is ruled rather than left to judgement.** The concord is a genuine usage split, so without a ruling it
+is re-arguable every time a `family`/`team` item reaches review — and an item whose answer depends on an
+unsettled convention fails the **one-defensible-answer** gate by construction. The gate is human-adjudicated
+(CLAUDE.md §4), so the convention has to exist before the adjudication, not after.
+
+**Basis.** The binding C4 papers treat these subjects as singular; the ruling follows the papers rather than
+imposing a preference. It also matches what pupils are taught elsewhere in the drive and keeps the singular/plural
+signal that Blocks 7–11 grade unambiguous — a subject that could take either form teaches nothing about agreement.
+
+**Scope.** Convention-level, forward-only. Adds no word to File 2, declares no instrument, amends no gate or
+threshold, and reopens no delivered block. Where an already-promoted block contains a collective-noun item keyed
+the other way, it is **not** reopened; the convention binds new authoring.
+**Affected files:** `blocks/C4/_wip/C4B07_bank_S3_S7_candidate.md`, `blocks/C4/_wip/C4B07_STATE.md`.
+**Status:** Ruled (Principal, 11.08.26).

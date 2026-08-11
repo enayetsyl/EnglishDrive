@@ -52,7 +52,7 @@ its own ruling.
 | S3-18 | The worker finishes the poster. | finish |
 | S3-19 | My father discusses the news. | discuss |
 | S3-20 | The teacher discusses the picture. | discuss |
-| S3-21 | The doctor discusses the health of the child. | discuss |
+| S3-21 | The doctor discusses the food. | discuss *(revised 11.08.26 — CR-034)* |
 | S3-22 | Porshi discusses the trip. | discuss |
 | S3-23 | The daughter carries the letter. | carry *(relocated from S1-35)* |
 | S3-24 | My brother carries the jar. | carry |
@@ -115,7 +115,7 @@ its own ruling.
 | S5-12 | My sisters have new clothes. | sister |
 | S5-13 | The library has new magazines. | library |
 | S5-14 | Fatima has a stamp. | *(roster — carrier)* |
-| S5-15 | The country has beautiful hills. | country |
+| S5-15 | Nusair has a new stamp. | *(roster — carrier)* *(revised 11.08.26 — CR-035)* |
 | S5-16 | My family has a small shop. | family *(collective → singular)* |
 | S5-17 | The team has a new poster. | team *(collective → singular)* |
 | S5-18 | Porshi has a letter. | *(roster — carrier)* |
@@ -169,19 +169,21 @@ from Strands 1–6** — a pupil must not meet the same sentence once right and 
 
 ---
 
-## What I want your eyes on
+## Human naturalness read — RULED (Principal, 11.08.26). All five closed.
 
-1. **S7 handling.** Confirm the never-as-a-model rule above. This is the one strand that can actively teach
-   the wrong thing if it leaks into a demo box or a script line.
-2. **S3 monotony.** Eight `washes` lines in a row will read repetitively to a teacher even though every text
-   is distinct and PD-036 passes. The five-verb ceiling is the cause; there is no way to add variety except by
-   varying subjects and objects, which is what I have done.
-3. **S4-20 / S4-21 / S5-16 / S5-17 — collective nouns.** I have keyed `family` and `team` to **singular**
-   concord. That is standard in this drive and matches the papers, but it is a genuine judgement call and
-   British usage permits the plural. Worth an explicit nod so it is not reopened at audit.
-4. **S3-21** *"The doctor discusses the health of the child"* is the longest and least natural line here.
-5. **S5-15** *"The country has beautiful hills"* — legal, but reads more like a travel sentence than a Class 4
-   agreement item.
+| # | Point | Ruling |
+|---|---|---|
+| **1** | S7 handling | **CONFIRMED.** S7 is error-find material only: never a model sentence, never read aloud as correct in the Teacher Script, never in a demo box, never duplicated elsewhere as a correct sentence. Containment is binding for this block |
+| **2** | S3 monotony (8 × `washes`) | **ACCEPTED as a pool limit.** File 2 is **not** widened inside this batch. The eight consecutive `washes` lines are recorded as a consequence of the held-vocabulary ceiling. `carry` stays — the `-ies` rule needs it; variety is not a reason to remove it. Any pool expansion goes through its own ruling, as with the C3 size adjectives (CR-030 → PD-047) |
+| **3** | Collective nouns | **CONFIRMED SINGULAR** and **locked as project convention** — `family` and `team` take singular concord throughout Class 4 material. Matches the binding papers. British plural usage may not reopen this at audit. Logged as **PD-058** |
+| **4** | S3-21 | **REVISED.** *The doctor discusses the health of the child.* → *The doctor discusses the food.* Trigger `discuss` unchanged; all tokens held and already attested in this bank. **CR-034** |
+| **5** | S5-15 | **REVISED.** *The country has beautiful hills.* → *Nusair has a new stamp.* Trigger form `has` unchanged; subject becomes a §H.5 roster name (carrier, PD-057). **CR-035** |
+
+**Batch status:** 160 lines stand as valid after the two repairs. Batch 3 (extensions toward 256) authorised.
+
+Both replacements re-checked for PD-036 uniqueness against the whole bank corpus: neither text occurs
+elsewhere. Neither uses a token absent from the pool — every word in both lines is already attested in
+lines that passed the programmatic verification sweep.
 
 ## Counts
 

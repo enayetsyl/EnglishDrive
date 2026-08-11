@@ -130,8 +130,12 @@ age-appropriate and is exactly the kind of word that slips past a human read (th
 
 ## Counts
 
-Strand 1: **35** (34 usable, 1 flagged for relocation) · Strand 2: **30** (29 usable, 1 failed).
-**63 usable candidates.**
+Strand 1: **35** (34 usable, S1-35 relocated to S3-23) · Strand 2: **30** (all 30 usable — S2-30 was repaired,
+not dropped: *The boys throw the ball.* → *The cousins throw the stones.*, CR-033).
+**64 usable candidates.**
+
+*(Count corrected 11.08.26. The earlier line read "63 … 29 usable, 1 failed" and was stale — it counted
+S2-30 as lost after it had already been replaced.)*
 
 Block total needed ≈ **256 unique sentences** (CW 30×4 + HW 26×4 + PT ~32) under PD-036's zero-repeat
 threshold. Strands 3–7 (`-es/-ies` · `is/are` · `has/have` · `each +` singular · error-find) follow on your

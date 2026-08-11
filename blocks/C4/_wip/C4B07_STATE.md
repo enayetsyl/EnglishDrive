@@ -1,11 +1,28 @@
 # C4 Block 7 — build state
 
 **Block ID:** `C4B07` · **Block:** Verb & Subject–Verb Agreement · **Week:** W7 (solo, FULL, protected)
-**Status: PHASE 4 OPEN — unit 1 (sentence bank, Strands 1–2) issued for the human read. No master drafted.**
+**Status: PHASE 4 OPEN — SENTENCE BANK CLOSED AND APPROVED AT 256 (Principal, 11.08.26).
+All three units have passed the human naturalness read. Worksheets may now draw on the bank.
+No master drafted.**
 Blueprint `blocks/C4/_wip/C4B07_blueprint.md` — **APPROVED (Principal, 10.08.26).**
 Bank unit 1 `C4B07_bank_S1_S2_candidate.md` (S1–S2) · unit 2 `C4B07_bank_S3_S7_candidate.md` (S3–S7) ·
 unit 3 `C4B07_bank_ext_candidate.md` (extensions). **BANK COMPLETE AT 256 — the full block requirement.**
-**All three units awaiting the human naturalness read; no worksheet may use any line until then (§3).**
+**Human naturalness read — batches 1 and 2 (S1–S7, 160 lines) DONE (Principal, 11.08.26).** Rulings:
+**(1)** S7 error-find containment CONFIRMED — never a model sentence, never read aloud as correct, never in a
+demo box, never duplicated elsewhere as a correct sentence. **(2)** S3's eight consecutive `washes` lines
+ACCEPTED as a held-vocabulary pool limit; File 2 **not** widened in this batch; `carry` retained (the `-ies`
+rule needs it); any pool expansion takes its own ruling, per the C3 size-adjective precedent (CR-030 → PD-047).
+**(3)** Collective nouns `family`/`team` CONFIRMED singular and **locked as project convention — PD-058**;
+British plural usage may not reopen this at audit. **(4)** S3-21 revised → *The doctor discusses the food.*
+(**CR-034**). **(5)** S5-15 revised → *Nusair has a new stamp.* (**CR-035**). Both replacements re-checked for
+PD-036 uniqueness and held-token status; every word in each is already attested in verified bank lines.
+**Unit 3 (extensions, 96 lines) READ 11.08.26 — all five review points ruled KEEP, no line changed:**
+S4-42 *Raima is sad* (mild negative state on a roster name admitted) · `destroy` S1-51/S2-56 (W6 pollution
+batch, register accepted) · `care for` S1-41/S2-36/S2-59 (two-word verb admitted; agreement sits on
+`care`/`cares`) · S1-46 length outlier noted · `near` clearance confirmed and recorded so audit does not
+re-flag it. **The §3 human gate is now satisfied for the whole 256-line bank.**
+Unit 1's Counts block was stale ("63 … 29 usable, 1 failed") and is corrected to **64** — S2-30 was repaired,
+not lost.
 Programmatic verification over the whole bank: **256 sentences, 256 distinct (PD-036 zero-repeat holds),
 zero unheld tokens, no duplicate IDs.** Two defects were caught by that pass and are now fixed — S2-30 `boys`/`ball`
 (**CR-033**, 3rd occurrence of the unheld-word type) and the S1-35/S3-23 duplicate created by relocating
@@ -127,6 +144,22 @@ format mirror **C4B06** (promoted v1.5) · Starter Template v2.0.
   follow-on to PD-054, not ruled.
 
 ## Next step
+
+**Bank approved — Phase 4 continues with Day 1 sheet construction** (`C4B07-CW1` / `C4B07-HW1`) drawn from
+Strands 1–2, with the manifest built alongside per CLAUDE.md §4.1 and the `number` sequence from
+`C4B07_number_sequences.json` applied at authoring time (de-patterning designed in, not audited in — CR-020).
+
+**⚠ BLOCKER — the audit suite cannot run.** The sandbox shell failed to start on 11.08.26
+(`session disk not found`), so `python3 audits/scripts/run_all.py` is unavailable. Under CLAUDE.md §4 no sheet
+may be presented as final without verbatim script output. Sheets may be **drafted**; none may be **promoted**
+until the suite runs. Do not certify by eye.
+
+**Two proposals still unruled** (both raised earlier, neither self-applied): `gate_number_sequence()` — the
+singular/plural bit that no existing gate can see, and which matters for Blocks 8–11 too — and the
+`gate_depattern()` threshold for 2-valued near-alternating parts. Both are new/changed gates and need a PD.
+Read the next free number from HEAD at the time of writing (PD-058 was taken by this session).
+
+### Superseded — the pre-approval next step
 
 **Phase 3 blueprint issued — awaiting approval.** On approval, Phase 4 opens with the **candidate sentence
 bank presented for human read**, not with a finished sheet (CLAUDE.md §3: banks are hand-authored and

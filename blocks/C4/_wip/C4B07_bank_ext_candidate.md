@@ -127,25 +127,24 @@ seen, so if you reject a shape in units 1–2 the corresponding block here falls
 
 ---
 
-## What I want your eyes on
+## Human naturalness read — RULED (Principal, 11.08.26). **All five KEEP. No line changed.**
 
-1. **S4-42 *"Raima is sad."*** The only line in the whole bank that gives a named house character a negative
-   state. It is legal and the register is mild, but I would rather you decided than assumed. `sad` is held
-   (W3) and the alternative is to drop the line — it is not load-bearing.
-2. **S1-51 / S2-56 — *"The pollution destroys the environment" / "The factories destroy the environment."***
-   These are the strongest-verb lines in the bank. Age-appropriate and curriculum-aligned (the W6 batch is the
-   pollution set), but `destroy` is a heavy word for Class 4 and it appears nowhere else.
-3. **S1-41 / S2-36 / S2-59 — `care for`.** This is a two-word verb. The agreement still sits on `care/cares`,
-   so the item works, but if you would rather Class 4 met only single-word verbs in an agreement block, these
-   three come out and I will replace them.
-4. **S1-46 *"My brother throws the stone into the lake."*** The longest line here, and the only one with two
-   prepositional elements. Flagging it as a length outlier rather than a fault.
-5. **`near` — checked, and it holds, but recording the reasoning.** The verification pass flagged `near`
-   (S1-47, S1-60, S2-37) as absent from the pool. It is **not** a defect: `near` is a **function word**,
-   excluded from File 2 at source (`Overview!B16`), and it is a **Block 6 taught preposition** — it appears
-   **56 times** in `C4_ENG_Block06_Preposition_v1.md` and is in the CR-006 key `in·on·under·near·into·at`.
-   Same standing as `in`/`on`/`at` in carrier text, and never a graded target here. Recorded so it is not
-   re-flagged at audit as an unheld word.
+| # | Point | Ruling |
+|---|---|---|
+| **1** | S4-42 *Raima is sad.* | **KEEP.** A named house character may carry a mild negative state; `sad` is held (W3). Not a §H.5 concern at this register |
+| **2** | S1-51 / S2-56 `destroy` | **KEEP.** Curriculum-aligned with the W6 pollution batch; the register is acceptable for Class 4 |
+| **3** | S1-41 / S2-36 / S2-59 `care for` | **KEEP.** Two-word verb admitted — the agreement sits on `care`/`cares`, so the item grades cleanly |
+| **4** | S1-46 (length outlier) | **KEEP.** Length noted, not a fault |
+| **5** | `near` (S1-47 / S1-60 / S2-37) | **KEEP** — clearance confirmed. Function word excluded from File 2 at source (`Overview!B16`) and a Block 6 taught preposition (56 occurrences in `C4_ENG_Block06_Preposition_v1.md`; CR-006 key `in·on·under·near·into·at`). Carrier text only, never a graded target. **Recorded so audit does not re-flag it as unheld** |
+
+## BANK CLOSED — 256 lines approved (Principal, 11.08.26)
+
+All three units have now passed the human naturalness read (CLAUDE.md §3). Units 1–2 closed with two
+revisions (CR-034 S3-21, CR-035 S5-15) and three confirmations (S7 containment · the `-es/-ies` pool limit ·
+PD-058 collective concord); this unit closed with no change.
+
+**Worksheets may now draw on the bank.** Every line remains subject to the programmatic gates when it reaches
+a manifest — approval here certifies **sense and register**, which no script can, and nothing else.
 
 ## Counts
 
