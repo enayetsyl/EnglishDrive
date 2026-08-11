@@ -270,3 +270,24 @@ Append-only. Newest entry last. Never overwrite past entries.
 - **Tooling failure, recorded:** the agent's Linux shell would not boot for the whole session, so **no
   git command could be executed by the agent** — the `git pull` was run by the Principal manually, and
   this entry was written with the file tools and committed/pushed by the Principal.
+
+---
+
+## 11.08.26 — SCD · sync.bat adopted as the standing git method
+
+- **Task:** the sandbox shell again failed to boot (~4 min of retries, `Workspace still starting`), so the
+  agent could not run `git pull`. The Principal pointed to `sync.bat` at the repo root, written by an
+  earlier Cowork session.
+- **`sync.bat` reviewed and cleared.** Checks git is installed and the folder is the repo → sets
+  `user.name`/`user.email` if unset → renames a stale `.git\index.lock` aside **only if no `git.exe` is
+  running** → `git pull --no-rebase` → halts if `git ls-files -u` is non-empty (nothing pushed) →
+  `git add -A` + commit `sync: <timestamp>` → `git push` → appends OK / PUSH FAILED to `sync-log.txt`.
+  Compliant with CLAUDE.md §1: no rebase, no force-push, halts on conflict, rename-not-delete for locks.
+- **Run by the Principal:** pull `Already up to date`; commit `6516525` (3 files, `sync.bat` added);
+  pushed `bccfaf2..6516525` on `main`. LF→CRLF warnings only — expected under `.gitattributes`.
+- **Standing decision (Principal, 11.08.26):** **the agent no longer runs git.** All pull/push is done by
+  the Principal clicking `sync.bat`; the agent asks for it in one line and waits for the window output.
+  Recorded in `CLAUDE.md` §1 (new lead paragraph + the phase-completion block rewritten to describe what
+  `sync.bat` performs). Because `sync.bat` stamps its own commit message, the agent now states any
+  meaningful `<class><block>: …` message in chat so it is captured here instead.
+- **Files touched:** `CLAUDE.md` (§1), `SESSION_LOG.md`.

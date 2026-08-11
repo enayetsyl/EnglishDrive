@@ -9,10 +9,21 @@ agent must operate*; the Charter, Run Book and Drive Plans define *what is corre
 
 ## 1. Session protocol
 
+**Git is run by the Principal, not by the agent — `sync.bat`.**
+All pulling and pushing happens by the Principal double-clicking `sync.bat` at the
+repo root. The agent does **not** run `git pull` / `git commit` / `git push` itself.
+When a pull or a push is due, the agent says in one line: *"Please run sync.bat now
+(pull)"* or *"Please run sync.bat now (push)"*, and waits for the Principal to paste
+the window output before continuing. `sync.bat` does pull → conflict check → commit
+→ push in one click; it halts and reports rather than resolving anything silently.
+Rationale: the sandbox shell is unreliable and has repeatedly failed to boot, leaving
+git unreachable mid-session. The git commands below describe what `sync.bat` performs
+— they are the specification, not commands for the agent to execute.
+
 **On every session start (including the `start` command):**
 
-1. Run `git pull` **before reading any file**. If the pull fails or reports conflicts:
-   STOP. Report the exact error. Do not build from a stale or conflicted tree.
+1. Ask the Principal to run `sync.bat` **before reading any file**. If it reports
+   STOP/conflict: do not build from a stale or conflicted tree; report and wait.
 2. Read `blocks/<class>/_wip/STATE.md` for any class with an active build.
 3. Report to the user, in ≤6 lines: repo status, any in-progress build (block, phase
    reached, what is confirmed, what is pending), and ask what to work on.
@@ -21,13 +32,19 @@ agent must operate*; the Charter, Run Book and Drive Plans define *what is corre
 **The `start` command.** When the user's message is just "start" (or "শুরু"), perform
 steps 1–3 above and wait.
 
-**On every phase completion and at session end:**
+**On every phase completion and at session end** the agent asks the Principal to run
+`sync.bat`. What that script performs:
 
 ```
+git pull --no-rebase        (halt if conflicts)
 git add -A
-git commit -m "<class><block>: <phase or change in plain words>"
+git commit -m "sync: <timestamp>"
 git push
 ```
+
+Where a specific commit message matters (`<class><block>: <phase>` or
+`<class><block>: FINAL <filename>`), the agent states the message in chat so it is
+recorded in `SESSION_LOG.md`, since `sync.bat` stamps its own message.
 
 If push is rejected (remote ahead): `git pull --no-rebase`, resolve nothing silently —
 if there is any conflict, STOP and report. Never force-push. Never discard local work.
