@@ -252,3 +252,21 @@ Append-only. Newest entry last. Never overwrite past entries.
 - **PD numbering:** the ceiling moved 050 → 053 (here) → 056 (parallel session) during the session. STATE.md now
   records no next-free number, only the re-derivation command.
 - **Paused for review before Day 2.**
+
+---
+
+## 11.08.26 — SCD · repo/status check (read-only) + push connectivity test
+
+- **Task:** confirm `E:\EnglishDrive` is a clone; report Class 5 status. No build work.
+- **Verified clone** of `github.com/enayetsyl/EnglishDrive.git`, branch `main`. ⚑ **Security:** the
+  origin URL in `.git/config` embeds a GitHub PAT in plaintext — rotate and move to a credential
+  helper or SSH remote.
+- **C5 status reported:** B01–B06 promoted; `C5B07` (Adjective + Pronoun, W6) drafted complete in
+  `_wip/` with 8 worksheets, `C5B0607-PT` and AK, extracts at `extracts/C5/_wip_B07/`, **not promoted.**
+  Blocking: **no `run_all.py` run has ever been recorded for C5B07** (no `audits/reports/C5B07_*`), the
+  manifest predates PD-036/PD-037/PD-054, the Assignment is outstanding against an existing
+  `assignments/C5/C5_Eng_Assignment_W6.md`, the master header/TD extract disagree, and the master +
+  STATE still cite **PD-036** for the Annual ruling now reissued as **PD-055**.
+- **Tooling failure, recorded:** the agent's Linux shell would not boot for the whole session, so **no
+  git command could be executed by the agent** — the `git pull` was run by the Principal manually, and
+  this entry was written with the file tools and committed/pushed by the Principal.

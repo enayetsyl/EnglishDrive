@@ -7,3 +7,5 @@ Thumbs.db
 .ipynb_checkpoints/
 desktop.ini
 *.gdoc
+sync-log.txt
+.git/index.lock.stale
