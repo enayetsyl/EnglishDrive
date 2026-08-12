@@ -1,6 +1,6 @@
 # English Skill-Building Drive — Curriculum Design Decision Log (Working)
 
-*This is the working log, not the final official version. It reflects decisions confirmed and approved in the working-notebook chat as of 01.08.26. Items still under discussion, unconfirmed, or explicitly parked are noted at the end but not treated as decisions.*
+*This is the working log, not the final official version. It records decisions confirmed and approved through **12.08.26**. **This file is the merge of the two lineages that had been running in parallel** — the repository log (Class 1–4 build, audit and convention rulings) and the Class 5 Scholarship-alignment log kept in the Class 5 chat. **PD-001 … PD-058 are the repository numbering, unchanged.** The Class 5 rulings that existed only in the parallel copy are re-entered at fresh numbers **PD-059 … PD-066**; see the concordance at the head of that section. Detail that existed only in the parallel copy has been restored under the entry that owns the ruling, each marked* ⚑ **(restored at merge)** *or carried as a marked addendum. No number is renumbered, no decision content is invented, and no existing decision is rewritten. **The next free number is PD-067.** Items still under discussion, unconfirmed, or explicitly parked are noted at the end but not treated as decisions.*
 
 ---
 
@@ -260,6 +260,24 @@ Decisions already adopted and applied across the English Drive.
 **Numbering note:** this ruling was **cited as PD-028** in `extracts/C4/TN/C4_ENG_Block05_AdjectivePronoun_v1.md` but was never appended to this log. **PD-028 has been assigned to the C3 Block 7 weighting ruling above**, so this ruling takes **PD-029**. The `PD-028` citation inside the C4 file is therefore **stale and now resolves to a different entry**; it is historical and **stays unedited per Charter §K.3**. Cite **PD-029** for this ruling going forward.
 **Status:** Applied (C4 Blocks 5–6); logged retrospectively 08.08.26.
 
+> ⚑ **Parallel-copy detail merged 12.08.26.** The Class 5 copy of this log recorded **the same ruling** as `PD-028`, with a fuller account of the renumbering itself (the full block-shift table, the Principal's representation choice, and the Charter-divergence record) but without the carry-forward and split-block boundary above. Neither account contradicts the other. That text is reproduced verbatim below so nothing is lost; **the entry above remains the ruling of record**.
+
+**— Parallel-copy text, logged there as PD-028:**
+
+**Decision:** The Class 4 grammar spine is renumbered to fold **Adjective** and **Pronoun** into a single **Block 5**, represented as sub-rows **5a Adjective / 5b Pronoun**, matching the delivered `C4_ENG_Block05_AdjectivePronoun` master (one block, one file, one shared W5 Performance Test). **Preposition moves 7 → 6**; every block from old-7 onward shifts down one: Verb & SVA 8→7, Simple Past 9→8, Continuous Tenses 10→9, Present Perfect 11→10, Simple Future 12→11, Parts of Speech 13→12, Sentence Types recap 14→13, Punctuation 14, Letters 15, Composition 16. **17-block spine → 16-block spine.** Weeks are unchanged (W5 = the Adjective+Pronoun pairing; W6 = Preposition).
+**Representation (2a, Principal-selected):** the two concepts keep **distinct sub-rows with their own caps and guardrails** rather than merging into one combined-cap row — preserving the "*my/his/her* before a noun → adjective, not pronoun" boundary that the guardrails carry.
+**Conflict recorded:** this **reverses the numbering direction of the v1.8 insert** (which created the 17-block spine) for the Adjective/Pronoun region, and makes the Drive Plan's **numbered spine diverge from the Charter's conceptual cumulative spine** (Word → … → Adjective → **Pronoun** → Preposition), where Pronoun remains its own rung. The divergence is **intentional and logged here** so a later reader does not "correct" Pronoun back to a standalone Block 6.
+**Rationale:** the delivered Block 5 master already fixes "05 = Adjective + Pronoun" as frozen fact (§K.3); numbering the spine to match that fact keeps the plan and the delivered/forthcoming file IDs in agreement, and lets the combined W5+W6 Performance Test carry the ID **`C4B0506-PT`** without a plan-vs-files mismatch.
+**What led to this:** C4 Block 6 (Preposition) build. The combined-Performance-Test ID read `C4B0507-PT` under the prior numbering (Adj=5, Pron=6, Prep=7); Principal preferred the ID to read `C4B0506-PT`, which requires Preposition to be numbered Block 6 and Pronoun to share Block 5 with Adjective.
+**Consequences:**
+- Drive Plan **v1.10 → v1.11** — §1, §2, §3, §4, §5, §7, §8, disposition note, pre-flight checklist, front-matter (full change set in that file's version log).
+- This week's Preposition worksheets re-ID **`C4B07-*` → `C4B06-*`** at their own regeneration (master not yet frozen).
+- Combined Performance Test ID = **`C4B0506-PT`**.
+- Delivered `C4B05-*` extracts (Adjective+Pronoun) **unaffected** — already Block 5.
+- Several §7 prose block-refs that were carrying pre-v1.8 numbering become correct-by-coincidence under the new spine (verified, not separately edited).
+**Boundary:** Forward-only (Charter §K.3). Frozen Block 5 artefacts are **not** reopened. The pre-existing §7 note "Articles (Block 3)" stale reference (Article is Block 4) is **not** corrected under this PD — logged as a separate future forward-only carry.
+**Status:** Applied (Drive Plan v1.11). C4 Block 6 (Preposition) build proceeds under the new numbering.
+
 ---
 
 ### PD-030 — `C4B04-AK` consolidated to `extracts/`; HW-2 item 28 resolved to *an*
@@ -314,207 +332,11 @@ Decisions already adopted and applied across the English Drive.
 **Affected files:** `C5_ENG_DrivePlan_v1_6.md` (new version; v1_5 retained, forward-only per §K.3) — §2 table, §2 exam-bridge ledger, new §2A concordance, §2 governance note, pre-flight checklist, §3, §4 table + notes, §7 map + new note, §8. `blocks/C5/_wip/STATE.md` (C5B07 citations). **Not modified:** all C5 block masters and extracts, File 2 (its stale week→block labels remain a separate forward-only reconciliation), the Assignment Coverage Log (its C5 entries cite B03/B04, which do not change), and the week-named assignment files.
 **Status:** Applied (Principal, 08.08.26).
 
----
+> ⚑ **Restored at merge, 12.08.26.** The parallel copy recorded the same ruling with an itemised ledger of the edits it caused, and a forward pointer. Both are restored here; the entry above is otherwise unchanged.
 
-### PD-055 — The genuine C5 Annual-2025 paper is in the project; the binding set is four
-> ⚑ **REISSUED, forward-only (Principal, 10.08.26). This ruling was originally logged as `PD-036` on
-> 08.08.26.** Two different rulings were assigned PD-036 that day by parallel sessions — this one and the
-> cross-sheet repetition gate. The Principal ruled that **PD-036 stays with the cross-sheet repetition gate**,
-> which has live technical dependencies (`run_all.py`, `CROSS_SHEET_MAX_REPEATS`, `selftest_cross_sheet.py`,
-> CR-009, and the PD-038 relationship); renaming that one would cause audit churn and break historical
-> references. This C5 binding-set ruling is therefore reissued as **PD-055**.
->
-> **Its substance is unchanged** — not one word of the decision below has been altered, and no audit evidence
-> has been rewritten to make the old log appear unique.
->
-> **Citation rule.** New C5/C4 governance references must cite **PD-055**. Historical C5 material may keep its
-> `PD-036` citation **only where explicitly marked** as the superseded/ambiguous legacy reference. Files still
-> carrying the legacy citation, deliberately not edited here:
-> `governance/driveplans/C5_ENG_DrivePlan_v1_7.md` (§K.3 forward-only — correct at its next version, v1_8) ·
-> `blocks/C5/_wip/C5_ENG_Block07_AdjectivePronoun_v1.md` and `blocks/C5/_wip/STATE.md` (**open in a parallel
-> session** — not touched from here; that session reconciles them) · `SESSION_LOG.md` (historical record, never
-> rewritten). Every other `PD-036` reference in the repo means the **cross-sheet gate** and is already correct.
+**Sections edited under this ruling (per the version log).** §2 table (Block column added, rows reordered to 4a/4b/5, sub-rows created, row 8's C3 cross-reference disambiguated, row 9's "Block 8 (Adjective)" → "Block 7a", row 12's "perfect aspects belong to Block 13" → "Block 11") · §2 exam-bridge ledger (13→11 ×3, 14→12, 4→4a) · **new §2A concordance** carrying the old-row column permanently plus a table of known historical citations · §2 governance note narrowed from "numbering **and** schedule superseded" to **schedule only**, recording that the 2026-07-02 "count grows" direction is honoured (Preposition → Block 8 and Conjunction → Block 13 are teaching blocks in their own right rather than Block-1 clue-card rows) · pre-flight checklist ("Interjection examples (Block 11)" → **Block 9**) · §4 table (block numbers corrected; W1–W5 recorded as delivered fact; W6+ marked not ratified) · §4 threading line ("feeding Block 19" → **Blocks 17–18**) and the "Why this order" paragraph (renumbered, re-labelled superseded design rationale) · §7 map (7→6, 11→9, 12–13→10–11, 14→12, 17→15, 18→16, 19a–b→17–18, 4→4a) plus a new note that Blocks 7a/7b correctly have no §7 row · §8 ("Block 11" → **Block 9**, ×2) · §3 duration row.
 
-**Decision:** `exam-papers/Class 5 English Mohammadpur Final Question 2025.pdf` (md5 `1265996d9f26052e76334a2f3a0d2ba4`) **is** the genuine **Class 5 Annual Examination 2025** paper. The **C5 binding set is four** — HY-2025 Morning, HY-2025 Day, HY-2026, Annual-2025 — all simultaneously binding by union (Charter §J.2–J.3). **The bar on citing an Annual anchor in any C5 artefact is lifted**, and Block 3's standing "Annual Q8 unverifiable" dependency is **closed**.
-**The 31.07.26 duplicate ruling is not overturned.** That ruling concerned `Class_5_English_Muhammdpur_Annual2025.docx`, a **different file**, byte-identical to HY-2026, which is **not present in this repo**. A cross-check of the four C5 papers now present returns **four distinct md5s**; no duplication remains.
-**Evidence:** the Principal supplied the paper on 08.08.26; it proved **byte-identical to a file already in `exam-papers/`**, flagged during the C5 Block 7 Phase-1 orientation as BC-1 and ruled "missing" earlier the same day on the then-available information. The file's own header reads *School for Community Development · Mohammadpur Branch · **Annual Examination 2025** · Class: Five · Subject: English · Time 2 hours 30 minutes · Full Marks 80*.
-**Verification run on arrival (Run Book §10.2), question by question.** All twelve questions extracted and compared against Drive Plan §7. **All five existing Annual citations hold; no §7 row required correction:** Q1 / Q5 fill-from-box → Block 1 · Q7 correct form of verbs → Blocks 10–11 · **Q8 transformation → Block 3** · Q9 WH-questions (2×5=10) → Block 15 · Q4 composition + Q11 letter → Blocks 17–18. Q2/Q3/Q6 are reading formats (not a grammar block, §7). **Block 3 specifically:** Q8 reads *"Change the Sentences according to the direction"* with **Interrogative and Negative directions only** — matching the §2 Block 3 two-direction cap exactly, with no voice or narration item. The cap needs no change.
-**No cap or ledger change.** The Annual introduces no new *taught* structure: its Q7 tense range (*always wash · bought · has been raining · died before came · by 10 a.m. … finished*) is already governed by the §2 exam-bridge ledger, and **future perfect remains exam-revision-pack only**.
-**One coverage gap surfaced — flagged, not resolved (Principal instruction).** **Annual Q10** *"Rearrange the words in the appropriate order to make meaningful sentences"* **[1×5=5]** and **HY-2026 Q5** *"Rearrange the words in the correct order…"* **[5×1=5]** both test sentence rearrangement, which **no §7 row and no C5 block covers**. Two independent binding papers with a consistent format at 5 marks each make this **"definitely required"** under Run Book §10.5, not "wait for future evidence"; **C1 already carries a Rearrangement block**, so it is a C5 spine gap rather than a rejected category. Per Charter §E.6 / Run Book §10.4 r.1–r.2 **no teaching material has been drafted and no placement proposed.** Resolution requires a Principal decision on spine placement and is **coupled to the open calendar decision** — the spine has no spare week. Recorded in Drive Plan §7 so it cannot be lost; it gates no current block build.
-**Affected files:** `C5_ENG_DrivePlan_v1_7.md` (new version; v1_6 retained, forward-only per §K.3) — header derivation line, §7 preamble, status line, new §7 gap flag. `blocks/C5/_wip/STATE.md` (BC-1 closed). **Not modified:** the §2 caps and ledger, the PD-033 numbering, the calendar/week map, and every delivered C5 block master — **none cited an Annual anchor**, so nothing is retro-corrected. `English_Drive_BlockBuild_StarterTemplate_v2.md` carries a stale "C5 binds on three papers" note, flagged for its own next revision (§K.3).
-**Status:** Applied (Principal, 08.08.26).
-
----
-
-### Open item — C3 Exit Check roll size (17) not file-verified
-Recorded for tracking, not a Principal decision. The C3 Block 6 Exit Check tables use a **17-prompt roll** on the Principal's in-session statement; no class roster in the current project files confirms 17. Verify against an authoritative roster, or log a Principal confirmation, before treating the roll as governance-grade. Affects only the per-day Exit Check length (one prompt per student), not any graded item.
-
----
-
-## Project Proposals (PR)
-
-Ideas or workflow improvements still under discussion, not yet official decisions.
-
-### PR-001 — Generate weekly assignments with Claude
-**Proposal:** Use Claude to generate weekly school assignments from the approved curriculum instead of preparing them mostly manually.
-**Reason:** This can save time and improve consistency.
-**Affected files:** Future Weekly Assignment files, Assignment prompts, Teacher workflow.
-**Status:** Under Review — Week 1 assignments were prepared mostly manually and are already uploaded to the Project Knowledge.
-
-### PR-002 — Weekly Curriculum Design Log
-**Proposal:** Keep this working chat during the week and update the official Curriculum Design Decision Log in the Project Knowledge once every week.
-**Reason:** This will preserve important curriculum decisions and the reasons behind them without interrupting development work.
-**Affected files:** This Working Log chat and the official Curriculum Design Decision Log in the Project Knowledge.
-**Status:** Under Review
-
----
-
-## Pending Class Decisions
-
-Decisions made in principle but not yet implemented. Not official until converted.
-
-### Class 4 — Move Block 03 earlier in the sequence
-**Date:** 11.07.26
-**Status:** Planned (Not Yet Implemented)
-**Proposed Change:** Move Block 03 earlier in the sequence.
-**Reason:** While rebuilding the curriculum, concluded that students would benefit from learning this topic earlier, since later blocks depend on it.
-**Evidence / Observation:** Surfaced during the Class 4 Block 03 discussion.
-**Affected Documents (once implemented):** Class 4 Drive Plan, Block 03 file, Vocabulary Batch Order (if needed).
-**Next Action:** Update Drive Plan → Rebuild Block 03 → Update Vocabulary Batch Order if needed.
-**Notes:** Not yet implemented. Convert to an official Class 4 Decision once the Drive Plan and Block 03 rebuild are done. **Not yet confirmed whether this is the same item as the later-detailed "insert a Sentence & Sentence Types block after Noun" cluster raised in the Class 4 Block 02 discussion — pending your confirmation.**
-
----
-
-## Class 3 Decisions
-
-### Oral plain-label fade tier
-**Date:** 10.07.26
-**Category:** Curriculum design decision
-**Decision:** Class 3 may use plain labels orally as a beginning scaffold when introducing sentence types. Previously, Class 3 was formal-terms-only with no plain-label naming. Students still write formal terms in exams. This mirrors the existing Class 4 oral-reminder allowance.
-**Reason:** Reconciles classroom practice (teachers wanting to introduce with plain labels) with the formal-terms-in-exam policy.
-**Evidence / Observation:** A Principal ruling relayed during the Class 5 Block 2 conversation, overriding the Block-Build Spec's previously locked "Class 3 = formal only" tier.
-**Affected Documents:** Block-Build Spec (Locked Decision section), all Class 3 sentence-type files (next revision), Class 5 teacher-reference note.
-**Status:** Ruled, not yet propagated to files. **Note (11.07.26): a Class 3 Block 2 build session applied fading-box mechanics (support box shown Day 1, narrows Day 2, removed Day 3) consistent with this ruling — pending your confirmation on whether to fold this detail into this entry.**
-
----
-
-## Class 5 Decisions
-
-### Block 2 (Sentence Types) — First-teach reframe
-**Date:** 10.07.26
-**Category:** Curriculum design decision
-**Decision:** Block 2's tier changed from Revision to First-teach (discovery pace), with no prior retention assumed. Bloom ladder opens at Remember/Understand.
-**Reason:** Students shouldn't be assumed to already know the five sentence types.
-**Evidence / Observation:** Reviewer argued the point; Block 1 (Word) had already been reframed to first-teach by an earlier Principal ruling; Principal approved extending that stance to Block 2.
-**Affected Documents:** C5 Drive Plan §2 (tier), §4 (week map), §5 (exam-bridge) — flagged, not yet edited. Later C5 blocks that assume a revision baseline.
-**Status:** Ruled, not yet applied to Drive Plan.
-
-### Block 2/3 — Solo-week expansion and W2/W3 split
-**Date:** 10.07.26
-**Category:** Curriculum design decision
-**Decision:** Block 2 expanded to a near-solo 3-day week (Sun–Tue). Block 3 (Transformation) splits across weeks: class 1 in W2 (Wednesday), class 2 in W3 with the noun re-walk. W2 Thursday test = Sentence Types only; W3 Thursday test = Block 3 + Block 4. Overall calendar stays ~15 weeks.
-**Reason:** First-teach of five sentence types needs more than 2 days; Transformation is a light bridge that doesn't need its own solo week.
-**Evidence / Observation:** Follows directly from the first-teach reframe above — original 2-day plan was too compressed.
-**Affected Documents:** C5 Drive Plan §4 (week map, Thursday-test pairing), Block 3 file, Block 4/noun blocks (shared W3 test).
-**Status:** Ruled, not yet applied to Drive Plan. **Implementation note (11.07.26): Drive Plan §4 and the 14-week Batch Order map are confirmed stale and still need updating to reflect this split.**
-
-### Sorrow-register exclamatory — strict "never in construction"
-**Date:** 10.07.26
-**Category:** Curriculum design decision
-**Decision:** Sorrow-register exclamatory content appears only in identify/passage sections with a teacher-scenario note — never in any make-a-sentence, self-try, or construction task. No student-produced exclamatory exists anywhere in the block.
-**Reason:** Child-safety/appropriateness — students shouldn't be prompted to compose sad or grief-related sentences themselves.
-**Evidence / Observation:** Tightened during the Block 2 build; the underlying principle already exists in Class 3/5 policy, but this is the strict "never in construction" application.
-**Affected Documents:** Block 2 worksheets, answer keys, day-scripts.
-**Status:** Applied
-
-### Negative imperative representation
-**Date:** 10.07.26
-**Category:** Curriculum design decision
-**Decision:** Every identify worksheet in Block 2 must include negative/prohibitive imperatives (e.g., "Never tell a lie," "Do not..."), shown in teaching cards and examples too.
-**Reason:** Binding exam evidence (HY-25 Day and Morning papers) both include a negative imperative that the block hadn't represented.
-**Evidence / Observation:** Gap found by comparing the block against binding exam papers.
-**Affected Documents:** Block 2 files. Flagged as worth checking in other classes' sentence-type blocks too.
-**Status:** Applied
-
-### Day-staged worksheet architecture (Class 5-local)
-**Date:** 10.07.26
-**Category:** Curriculum design decision (workflow-adjacent)
-**Decision:** Worksheets built as day-staged sheets (CW-1/HW-1 Day 1, CW-2/HW-2 Day 2, CW-3 Day 3), with a type-name hint box above section ক that fades across days. Each class's worksheet sits under its own day-script for print-per-class; answer keys pooled separately and marked "don't print with students."
-**Reason:** Scaffolded fade so help depends less on cueing over time; clean per-class printing (previously Class 2/3 shared a sheet, causing confusion).
-**Evidence / Observation:** Built this way during the Block 2 build.
-**Affected Documents:** Block 2 files. Not yet a project-wide standard — left as Class 5-local. Reused in the Block 3 build (11.07.26) without change.
-**Status:** Applied
-
-### Day-1 recognition-only construction
-**Date:** 10.07.26
-**Category:** Curriculum design decision
-**Decision:** Independent sentence construction removed from Day-1 homework (HW-1 = identify + find-the-error only). Construction moved to HW-2 and the Day-3 guided self-try. HW-2 construction reduced to 3 items, Assertive/Interrogative/Optative only — no Imperative or Exclamatory construction.
-**Reason:** Day-1 homework was asking students to construct sentences before construction had been guided at all (self-try isn't until Day 3) — backwards and too heavy.
-**Evidence / Observation:** Identified during the Block 2 build review.
-**Affected Documents:** Block 2 files. Flagged as a possible project-wide sequencing principle ("no independent construction before a skill is taught") — left as an open candidate, not yet promoted.
-**Status:** Applied
-
-### Block 3 — Re-walk scope correction
-**Date:** 11.07.26
-**Category:** Curriculum design decision
-**Decision:** Block 3 class 2's warm-up re-walks Word → Sentence → sentence types only. It must not re-walk common/proper noun, since noun is first-taught the same week (Block 4) and students may not hold it yet.
-**Reason:** Removes a prerequisite-assumption error in the draft.
-**Evidence / Observation:** Reviewer caught it — "we haven't gone to nouns yet."
-**Affected Documents:** Block 3 file only.
-**Status:** Decided, not yet applied (inline-staged, not written to file).
-
-### Block 3 — Pattern Card reminder-script + time rebudget
-**Date:** 11.07.26
-**Category:** Curriculum design decision
-**Decision:** Keep the four helper rows (be/can/do/does) but add a 4-point teacher reminder-script explaining them, and rebudget Class 1 timing to give the teacher ~3 minutes to teach it.
-**Reason:** The card assumed four sub-concepts students may not yet hold, on a light Bridge block.
-**Evidence / Observation:** Reviewer concern about helper-pattern and -s-drop recall.
-**Affected Documents:** Block 3 file. (Flagged as a possible reusable convention for other helper-pattern blocks — not decided.)
-**Status:** Decided, not yet applied.
-
----
-
-
-### Block 6 (Article) — solo FULL week at W5
-**Date:** 31.07.26
-**Category:** Curriculum design decision
-**Decision:** Class 5 Block 6 (Article, §2 row 7) runs as a **solo FULL week** — 4 teaching days (Sun–Wed) + its own Thursday Performance Test, not shared or paired with any adjacent block. Release week 5.
-**Reason:** Article is anchored in **all three** distinct binding C5 papers, and HY-25 Morning Q6 carries **10 marks** — the single heaviest grammar question in any C5 paper (every other grammar anchor sits at 5–8). The answer set is four-way (a/an/the/x), needing more practice reps than any two-way re-walk block. No retention is assumed at C5 under the 2026-07-02 first-teach reframe, and this cohort never received the C4 Article block (delivered to this year's Class 4 on 24.07.26), so the "re-walk" tier runs at near-first-teach pace. C4 gave Article a solo full week on a *lighter* cap and lighter anchors. Zero article (x), retained in the cap by the v1.1 ruling, is **not tested in any C5 paper** — teaching load with no exam relief.
-**Scope limit:** Governs **Block 6's load only.** It does **not** revive, ratify or reconstruct §4's week map or §2's block numbering, both superseded by the 2026-07-02 ruling with no recorded successor. The wider C5 schedule remains an open governance item.
-**Numbering note:** build-block numbers have diverged from §2 row numbers — this is build-**Block 6** but §2 **row 7**, the noun cluster (rows 4–6) having shipped as build-Blocks 4–5. All block-file citations use "§2 row 7". Any Drive Plan reconstruction must reconcile the two systems explicitly.
-**Affected Documents:** C5 Block 6 master (applied). C5 Drive Plan §4 — W5 row currently reads "TBD" for load; carry this ruling forward at schedule reconstruction.
-**Status:** Applied to the block; Drive Plan edit pending.
-
-### Block 6 (Article) — §2 row-7 cap widened: one article for two coordinated titles
-**Date:** 31.07.26
-**Category:** Curriculum design decision
-**Decision:** §2 row 7 is widened to admit **one article before two coordinated nouns naming one person**, taught as a fixed contrast pair — *The Headmaster and Secretary **is** coming.* (one person) / *The Headmaster and the Secretary **are** coming.* (two people). Recognition and fill-in depth only; the **verb** (*is / are*) is taught as the reading clue, matching how the paper disambiguates. No further coordination or determiner theory, and no rule-naming beyond the contrast pair.
-**Reason:** HY-25 Morning Q6(e) tests exactly this, inside the 10-mark article question, with "(one person)" supplied as the disambiguator. Nothing in the existing cap reached it, so the block would otherwise have shipped a known blind spot on the heaviest grammar item in the binding set.
-**Scope limit:** The only addition. Q6(d) (*the more… the more…*) remains **recognition only** per the standing guardrail; the "no abstract zero-article rule-naming" guardrail is unchanged.
-**Evidence / Observation:** Verified by direct read of the HY-25 Morning paper during the Block 6 pre-build check.
-**Affected Documents:** C5 Drive Plan §2 row 7 (cap text — this is the authorising ruling; edit pending). C5 Block 6 master (applied). **C4 Block 4 (Article) is delivered and not retrofitted** (Charter §K.3) — no C4 paper tests this, so no downstream absorption is required.
-**Status:** Applied to the block; Drive Plan edit pending.
-
-### Binding paper set — the C5 "Annual-2025" file is a duplicate of HY-2026
-**Date:** 31.07.26
-**Category:** Data integrity / governance
-**Decision:** `Class_5_English_Muhammdpur_Annual2025.docx` is **byte-identical** to `Class_5_English_Muhammadpur_HY2026.docx` (identical md5; the file's own header reads *Half-Yearly Exam – 2026*). It is a mis-saved copy, not an Annual paper. The **C5 binding set is three distinct papers**: HY-2025 Morning, HY-2025 Day, HY-2026. The genuine Class 5 Annual-2025 paper is **missing from the project** and is to be sourced; until it lands, no C5 artefact may cite an "Annual-2025" anchor.
-**Reason:** Union binding (Run Book §10.1) makes an absent paper a real coverage gap — but a duplicate masquerading as a fourth paper is worse, since it inflates apparent evidence and lets a single HY-2026 item be cited twice as if independently confirmed.
-**Evidence / Observation:** Found during the Block 6 pre-build check while verifying article anchors directly against the papers. A cross-class md5 comparison found **no other duplication** — this is C5-only. This ruling promotes and resolves the standing data-integrity flag previously held under *Open Items Tracked Outside This Log*.
-**Affected Documents:** C5 Drive Plan §7 — header states "Confirmed from the four Class 5 papers"; correct to three (edit pending). The §7 Article row already cites only HY-26 Q7, HY-25 Morning Q6 and HY-25 Day Q5, independently confirming the duplicate never fed a real anchor. Block-Build Starter Template's C5 binding-paper list. Version-log entries citing "the four Class 5 papers" are historical and stay untouched (Charter §K.3). **Block 3's Annual Q8 evidence remains unverifiable** until the genuine paper is located.
-**Status:** Ruled. ⚑ **Open dependency:** source the genuine C5 Annual-2025 paper; re-run §7 mapping when it arrives.
-
----
-
-## Open Items Tracked Outside This Log
-
-*Not decisions — listed here only for continuity, per earlier working-session discussion. None of these are logged as PD/PR/CX entries.*
-
-- **Programmatic verification as a build standard** — parked for a future Build Standards/QA document, not a curriculum decision.
-- **Print-per-class worksheets + pooled answer keys** — left as Class 5-local; not elevated to project-wide.
-- **"No construction before a skill is taught"** — open candidate; watching whether it holds consistently across classes before promoting to PD.
-- **"First-teach tier shifts earlier when a block moves earlier in the spine"** — not recorded yet; revisit after more classes are rebuilt.
-- ~~**Data-integrity flag:** Class 5's "Annual-2025" exam file is byte-identical to HY-2026…~~ **RESOLVED 31.07.26** — Principal ruling logged under *Class 5 Decisions* → "Binding paper set — the C5 'Annual-2025' file is a duplicate of HY-2026". The C5 binding set is three papers; sourcing the genuine Annual-2025 paper remains an open dependency, and Block 3's Annual Q8 evidence stays unverifiable until it is found.
+**Calendar forward pointer (added at merge).** The calendar question this ruling expressly left open was later ruled — see **PD-059** (re-entered from the parallel copy, logged there as PD-037).
 
 ---
 
@@ -587,6 +409,10 @@ Decisions made in principle but not yet implemented. Not official until converte
 **Affected files:** `blocks/C1/_wip/C1_ENG_Block06_Pronoun_v1.md`; pointer owed on `C1B05-PT`; C1 Drive Plan §4 W6 row.
 **Status:** Ruled (Principal, 09.08.26).
 
+> ⚑ **Restored at merge, 12.08.26.** The parallel copy recorded the mark breakdown of this paper, which the entry above gives only as a total.
+
+**Mark split.** `C1B0506-PT` — **27 marks: vocab 15 · self-try 4 · demonstratives 4 · pronoun rewrite 4**; standalone `C1B05-PT` superseded.
+
 ---
 
 ### PD-041 — C2: combined Block 6a + 6b Performance Test `C2B06ab-PT` (reverses the 08.08.26 disregard)
@@ -604,6 +430,10 @@ Decisions made in principle but not yet implemented. Not official until converte
 **Affected files:** Charter §H.5 roster; `CLAUDE.md` §5 house-character line; every delivered block master (re-screen pending).
 **Status:** Ruled (Principal, 09.08.26). Re-screen **OPEN**.
 
+> ⚑ **Restored at merge, 12.08.26.** The parallel copy recorded an outstanding Charter dependency for this ruling.
+
+**⚑ Charter dependency (restored at merge).** Charter **§H.5 requires a v1.7 amendment** to move Rabab to the male roster; **until that is committed, this PD governs**. Status there read *"Applied in principle, pending Charter v1.7 commit."* Note that **PD-053** issues the roster amendment at Charter **v1_6** — the two need reconciling at the Charter's next pass.
+
 ---
 
 ### PD-043 — C3: combined Block 6 (Article) + Block 7 (Adjective) Performance Test `C3B0607-PT`
@@ -611,6 +441,10 @@ Decisions made in principle but not yet implemented. Not official until converte
 **What led to this:** the C3 Block 7 build cited a provisional **PD-031**, already assigned to the sacred-words-in-match ruling. Corrected to PD-043 on import. The same file's answer-key heading read `C3B07-PT` against a paper ID of `C3B0607-PT`; corrected to the canonical ID.
 **Affected files:** `blocks/C3/_wip/C3_ENG_Block07_Adjective_v1.md`; C3 Drive Plan §4 / §7 forward-only note.
 **Status:** Ruled (Principal, 09.08.26).
+
+> ⚑ **Restored at merge, 12.08.26.** The parallel copy carried a forward-binding note on Class 3 Block 8 that the entry above omits.
+
+**⚑ Bears on C3 Block 8 (restored at merge).** This ruling combined Blocks **6+7**, not 7+8 — so **Block 8's Performance Test defaults to standalone W7 unless separately ruled**.
 
 ---
 
@@ -790,27 +624,9 @@ Decisions made in principle but not yet implemented. Not official until converte
 **Affected files:** `governance/English_Drive_Project_Charter_v1_6.md` (new).
 **Status:** Ruled (Principal, 10.08.26).
 
----
+> ⚑ **Restored at merge, 12.08.26.** The parallel copy recorded one carve-out on this amendment.
 
-### PD-057 — House-roster names are a **standing instrument**, not vocabulary — drive-wide
-**Decision:** The Charter §H.5 house-roster names — *Nusair, Yusuf, Abdullah, Abdur Rahim; Aisha, Raima, Maryam, Fatima, Porshi, Rabab, Jesmin Akter* — are declared a **standing instrument** across the drive. They may be declared as the `trigger` of a graded item, are **never counted toward any week's vocabulary load**, are **never** dictation, spelling or meaning items, and are **not** added to File 2 in any class.
-
-**The gap this closes.** A roster name is **graded content** wherever an item turns on it. *Yusuf → he*, *Aisha → she*, *Yusuf and Abdullah → they*: the name carries the **gender and number the answer depends on**, so it is the trigger in the strict sense — the word that makes the item answerable. But the names are in no pool, and **PD-051's block-local set covers only the twelve pronouns**. Left undeclared, every name-based item would either fail the held-word gate or, far worse, pass it silently by carrying no trigger at all.
-
-**This is a known blind spot, not a new one.** It is one of the three occurrences that made **CR-032 a PATTERN**: *"C1 Block 6's 29 house-name items carrying no trigger."* C3 Block 8 is built almost entirely on name-triggered items, so leaving it undeclared would have reproduced the C1B06 defect at full scale on the very block meant to close it.
-
-**Why an instrument and not a block-local set (PD-012).** **PD-020** selects by what the word is *for*. A block-local word is a **genuine taught word** whose held status is confined to a block, and it is **counted toward load** — that is the wrong contract here. No child is taught *Yusuf* as vocabulary: it is never dictated, never spelled, never glossed, and no lesson objective mentions it. What the item grades is **gender and number**, not the name. The status is therefore closest to a **Grammar Exemplar (§5.7 / PD-009)** — sole purpose is to demonstrate the rule, the child never needs to own the word, **not counted toward load**. Counting eleven names as load in every class of the drive would inflate every retention-gate denominator with words no one is teaching.
-
-**Scope: drive-wide, and deliberately so.** Every class's blocks author on the same roster, and the defect is already sitting in a promoted file. **C1 Block 6 is delivered with 29 untriggered name items** — this ruling gives them a status but, per Charter §K.3, **C1B06 is not reopened**; its manifest gains the declaration on its own next revision. Classes 2, 4 and 5 inherit the same treatment forward-only.
-
-**Implementation.** Manifests declare the roster under the existing exemplar mechanism, so no schema change and no new gate is required — the same "declare a field, don't add a gate" path as PD-035, PD-037 and PD-054. Applied in `_wip/C3B08_manifest.json`; the held-word gate reports 11 exemplars alongside the 12 block-local pronouns and passes.
-**Not done here:** the CR-032 manifest-completeness check remains unbuilt (Q7, C3B08 STATE) — this ruling removes one of its three motivating cases, not the obligation.
-**Affected files:** `blocks/C3/_wip/` (master, manifest, STATE). No item re-authored; no mark moved; no word added to File 2.
-**Status:** Ruled (Principal, 10.08.26).
-
----
-
-*End of working log as of 01.08.26. Several items from the most recent Class 4 Block 02 and Class 3 Block 02 discussions are still pending your classification/confirmation and are not yet included above.*
+**Carve-out.** The **§J exam-supplied-name exception is unaffected** by this roster amendment.
 
 ---
 
@@ -840,6 +656,40 @@ Decisions made in principle but not yet implemented. Not official until converte
 
 ---
 
+### PD-055 — The genuine C5 Annual-2025 paper is in the project; the binding set is four
+> ⚑ **REISSUED, forward-only (Principal, 10.08.26). This ruling was originally logged as `PD-036` on
+> 08.08.26.** Two different rulings were assigned PD-036 that day by parallel sessions — this one and the
+> cross-sheet repetition gate. The Principal ruled that **PD-036 stays with the cross-sheet repetition gate**,
+> which has live technical dependencies (`run_all.py`, `CROSS_SHEET_MAX_REPEATS`, `selftest_cross_sheet.py`,
+> CR-009, and the PD-038 relationship); renaming that one would cause audit churn and break historical
+> references. This C5 binding-set ruling is therefore reissued as **PD-055**.
+>
+> **Its substance is unchanged** — not one word of the decision below has been altered, and no audit evidence
+> has been rewritten to make the old log appear unique.
+>
+> **Citation rule.** New C5/C4 governance references must cite **PD-055**. Historical C5 material may keep its
+> `PD-036` citation **only where explicitly marked** as the superseded/ambiguous legacy reference. Files still
+> carrying the legacy citation, deliberately not edited here:
+> `governance/driveplans/C5_ENG_DrivePlan_v1_7.md` (§K.3 forward-only — correct at its next version, v1_8) ·
+> `blocks/C5/_wip/C5_ENG_Block07_AdjectivePronoun_v1.md` and `blocks/C5/_wip/STATE.md` (**open in a parallel
+> session** — not touched from here; that session reconciles them) · `SESSION_LOG.md` (historical record, never
+> rewritten). Every other `PD-036` reference in the repo means the **cross-sheet gate** and is already correct.
+
+**Decision:** `exam-papers/Class 5 English Mohammadpur Final Question 2025.pdf` (md5 `1265996d9f26052e76334a2f3a0d2ba4`) **is** the genuine **Class 5 Annual Examination 2025** paper. The **C5 binding set is four** — HY-2025 Morning, HY-2025 Day, HY-2026, Annual-2025 — all simultaneously binding by union (Charter §J.2–J.3). **The bar on citing an Annual anchor in any C5 artefact is lifted**, and Block 3's standing "Annual Q8 unverifiable" dependency is **closed**.
+**The 31.07.26 duplicate ruling is not overturned.** That ruling concerned `Class_5_English_Muhammdpur_Annual2025.docx`, a **different file**, byte-identical to HY-2026, which is **not present in this repo**. A cross-check of the four C5 papers now present returns **four distinct md5s**; no duplication remains.
+**Evidence:** the Principal supplied the paper on 08.08.26; it proved **byte-identical to a file already in `exam-papers/`**, flagged during the C5 Block 7 Phase-1 orientation as BC-1 and ruled "missing" earlier the same day on the then-available information. The file's own header reads *School for Community Development · Mohammadpur Branch · **Annual Examination 2025** · Class: Five · Subject: English · Time 2 hours 30 minutes · Full Marks 80*.
+**Verification run on arrival (Run Book §10.2), question by question.** All twelve questions extracted and compared against Drive Plan §7. **All five existing Annual citations hold; no §7 row required correction:** Q1 / Q5 fill-from-box → Block 1 · Q7 correct form of verbs → Blocks 10–11 · **Q8 transformation → Block 3** · Q9 WH-questions (2×5=10) → Block 15 · Q4 composition + Q11 letter → Blocks 17–18. Q2/Q3/Q6 are reading formats (not a grammar block, §7). **Block 3 specifically:** Q8 reads *"Change the Sentences according to the direction"* with **Interrogative and Negative directions only** — matching the §2 Block 3 two-direction cap exactly, with no voice or narration item. The cap needs no change.
+**No cap or ledger change.** The Annual introduces no new *taught* structure: its Q7 tense range (*always wash · bought · has been raining · died before came · by 10 a.m. … finished*) is already governed by the §2 exam-bridge ledger, and **future perfect remains exam-revision-pack only**.
+**One coverage gap surfaced — flagged, not resolved (Principal instruction).** **Annual Q10** *"Rearrange the words in the appropriate order to make meaningful sentences"* **[1×5=5]** and **HY-2026 Q5** *"Rearrange the words in the correct order…"* **[5×1=5]** both test sentence rearrangement, which **no §7 row and no C5 block covers**. Two independent binding papers with a consistent format at 5 marks each make this **"definitely required"** under Run Book §10.5, not "wait for future evidence"; **C1 already carries a Rearrangement block**, so it is a C5 spine gap rather than a rejected category. Per Charter §E.6 / Run Book §10.4 r.1–r.2 **no teaching material has been drafted and no placement proposed.** Resolution requires a Principal decision on spine placement and is **coupled to the open calendar decision** — the spine has no spare week. Recorded in Drive Plan §7 so it cannot be lost; it gates no current block build.
+**Affected files:** `C5_ENG_DrivePlan_v1_7.md` (new version; v1_6 retained, forward-only per §K.3) — header derivation line, §7 preamble, status line, new §7 gap flag. `blocks/C5/_wip/STATE.md` (BC-1 closed). **Not modified:** the §2 caps and ledger, the PD-033 numbering, the calendar/week map, and every delivered C5 block master — **none cited an Annual anchor**, so nothing is retro-corrected. `English_Drive_BlockBuild_StarterTemplate_v2.md` carries a stale "C5 binds on three papers" note, flagged for its own next revision (§K.3).
+**Status:** Applied (Principal, 08.08.26).
+
+> ⚑ **Restored at merge, 12.08.26.** The parallel copy recorded the later disposal of the coverage gap flagged in this entry.
+
+**Coverage-gap disposal (restored at merge).** The Annual Q10 / HY-26 Q5 sentence-rearrangement gap flagged above was *later resolved as **FT-1** by Principal direction, 09.08.26.*
+
+---
+
 ### PD-056 — C4 Block 7: personal pronouns are NOT declared block-local; PD-052's C4 replication flag closes in the negative
 **Decision:** **C4 Block 7 (Verb & Subject–Verb Agreement) declares no PD-012 block-local pronoun set.** It does **not** replicate **PD-051**, and this **closes PD-052's standing flag** — *"cross-class replication to C1/C2/C4/C5 flagged NOT executed"* — **in the negative for C4**. C1/C2/C5 remain open and are untouched by this ruling.
 
@@ -855,6 +705,24 @@ Decisions made in principle but not yet implemented. Not official until converte
 
 **Scope.** Block-scoped to C4 Block 7. Adds no word to File 2, declares no instrument, amends no gate or threshold, reopens no delivered block, and creates **no** drive-wide waiver. Explicitly does **not** rule for C1, C2 or C5, whose PD-052 replication question stays open.
 **Affected files:** `blocks/C4/_wip/C4B07_STATE.md`, `C4B07_phase2_questions.md`, `C4B07_orientation.md`. No content file exists yet.
+**Status:** Ruled (Principal, 10.08.26).
+
+---
+
+### PD-057 — House-roster names are a **standing instrument**, not vocabulary — drive-wide
+**Decision:** The Charter §H.5 house-roster names — *Nusair, Yusuf, Abdullah, Abdur Rahim; Aisha, Raima, Maryam, Fatima, Porshi, Rabab, Jesmin Akter* — are declared a **standing instrument** across the drive. They may be declared as the `trigger` of a graded item, are **never counted toward any week's vocabulary load**, are **never** dictation, spelling or meaning items, and are **not** added to File 2 in any class.
+
+**The gap this closes.** A roster name is **graded content** wherever an item turns on it. *Yusuf → he*, *Aisha → she*, *Yusuf and Abdullah → they*: the name carries the **gender and number the answer depends on**, so it is the trigger in the strict sense — the word that makes the item answerable. But the names are in no pool, and **PD-051's block-local set covers only the twelve pronouns**. Left undeclared, every name-based item would either fail the held-word gate or, far worse, pass it silently by carrying no trigger at all.
+
+**This is a known blind spot, not a new one.** It is one of the three occurrences that made **CR-032 a PATTERN**: *"C1 Block 6's 29 house-name items carrying no trigger."* C3 Block 8 is built almost entirely on name-triggered items, so leaving it undeclared would have reproduced the C1B06 defect at full scale on the very block meant to close it.
+
+**Why an instrument and not a block-local set (PD-012).** **PD-020** selects by what the word is *for*. A block-local word is a **genuine taught word** whose held status is confined to a block, and it is **counted toward load** — that is the wrong contract here. No child is taught *Yusuf* as vocabulary: it is never dictated, never spelled, never glossed, and no lesson objective mentions it. What the item grades is **gender and number**, not the name. The status is therefore closest to a **Grammar Exemplar (§5.7 / PD-009)** — sole purpose is to demonstrate the rule, the child never needs to own the word, **not counted toward load**. Counting eleven names as load in every class of the drive would inflate every retention-gate denominator with words no one is teaching.
+
+**Scope: drive-wide, and deliberately so.** Every class's blocks author on the same roster, and the defect is already sitting in a promoted file. **C1 Block 6 is delivered with 29 untriggered name items** — this ruling gives them a status but, per Charter §K.3, **C1B06 is not reopened**; its manifest gains the declaration on its own next revision. Classes 2, 4 and 5 inherit the same treatment forward-only.
+
+**Implementation.** Manifests declare the roster under the existing exemplar mechanism, so no schema change and no new gate is required — the same "declare a field, don't add a gate" path as PD-035, PD-037 and PD-054. Applied in `_wip/C3B08_manifest.json`; the held-word gate reports 11 exemplars alongside the 12 block-local pronouns and passes.
+**Not done here:** the CR-032 manifest-completeness check remains unbuilt (Q7, C3B08 STATE) — this ruling removes one of its three motivating cases, not the obligation.
+**Affected files:** `blocks/C3/_wip/` (master, manifest, STATE). No item re-authored; no mark moved; no word added to File 2.
 **Status:** Ruled (Principal, 10.08.26).
 
 ---
@@ -881,3 +749,345 @@ threshold, and reopens no delivered block. Where an already-promoted block conta
 the other way, it is **not** reopened; the convention binds new authoring.
 **Affected files:** `blocks/C4/_wip/C4B07_bank_S3_S7_candidate.md`, `blocks/C4/_wip/C4B07_STATE.md`.
 **Status:** Ruled (Principal, 11.08.26).
+
+## Class 5 Scholarship-alignment append (PD-059 – PD-066) — merged 12.08.26
+
+These eight rulings were made and applied between 09.08.26 and 12.08.26 but were logged **only in the parallel Class 5 copy of this file**, never in the repository copy. They are re-entered here **verbatim**, at fresh numbers, so that nothing above is renumbered and no existing citation breaks. **PD-001 … PD-058 above are unchanged.**
+
+**Concordance — parallel-copy number → this log.**
+
+| Ruling | Cited in the C5 copy as | Now | Note |
+|---|---|---|---|
+| C5 transition and calendar ruling | PD-037 | **PD-059** | — |
+| C5 Annual authored in the Scholarship 2026 structure | PD-038 | **PD-060** | — |
+| C5 mock examination policy | PD-039 | **PD-061** | — |
+| Four Scholarship format widenings (C5 Blocks 10, 12, 16, 18) | PD-040 | **PD-062** | — |
+| C5 reading integration architecture | PD-041 | **PD-063** | — |
+| C5 programme strands and implementation principle | PD-042 | **PD-064** | — |
+| PT graded-skill item-shape overlap with CW/HW waived | PD-044 | **PD-065** | ⚑ Overlaps **PD-044**, which cites the same Part F/G clause in `C1_ENG_Block06_Pronoun_v1.md`. PD-044 rules three specific C1 Block 6 failures acceptable; PD-065 states the general waiver. **Which of the two owns that clause is an open Principal question.** |
+| C5 Scholarship-style assignment progression (Spec v1.3 → v1.4) | PD-058 | **PD-066** | — |
+| C4 spine re-collapse (Adjective + Pronoun → Block 5) | PD-028 | **PD-029** | Already present above; the C5 copy's fuller text is appended there verbatim. |
+| C5 binding paper set corrected to four papers | PD-036 | **PD-055** | Already present above; reissued 10.08.26 by Principal ruling. |
+| C1 Block 6 pronoun-production cap-lift (S3) | PD-055 | **PD-039** | Already present above. |
+| C1 combined Block 5 + Block 6 Performance Test | PD-056 | **PD-040** | Already present above; its mark split restored at merge. |
+| Rabab reclassified male (§H.5) | PD-057 | **PD-042** | Already present above; its Charter v1.7 dependency restored at merge. |
+
+**⚑ Numbers the parallel copy declared void or unallocated — that declaration does NOT carry.** The C5 copy recorded **PD-029** as a mis-citation and **PD-030 · PD-031 · PD-032 · PD-034 · PD-035 · PD-045 · PD-046 · PD-048 · PD-049** as void or retired-not-free. In this log **every one of those numbers carries a real, applied ruling** (see above) — the C5 copy simply had no visibility of them. Those void declarations are **superseded and must not be acted on**, wherever they appear, including inside the re-entered bodies below. The same applies to **PD-054**, which the body of PD-066 declares retired: it is a live ruling here.
+
+**⚑ Cross-references inside the re-entered text.** The bodies below are unedited, so they still cite the parallel copy's numbers. Read **PD-036 → PD-055** (C5 binding paper set) and **PD-037 → PD-059** (C5 calendar) wherever they appear. Where **PD-033** is cited the number is the same in both lineages and resolves correctly.
+
+---
+
+### PD-059 — C5 transition and calendar ruling; the §11 fold proposal is NOT adopted
+> ⚑ **RE-ENTERED 12.08.26 from the parallel Class 5 log, where this ruling was logged as `PD-037`.** Body unedited. The number **PD-037** in this log belongs to a different, earlier ruling; cite **PD-059** for this one going forward.
+
+**Date:** 10.08.2026 · **Class:** 5 · **Authority:** Principal
+
+**Decision.** The Class 5 teaching calendar is ruled, and the updated Drive Plan is **active from 23.08.2026**:
+- **W6 (9–13 Aug)** — Block 7 Adjective + Pronoun, in delivery: **3 teaching days (Mon–Wed, compressed; Sunday lost)**, Thursday PT unchanged.
+- **W7 (16–20 Aug)** — transition week: **Block 8 Preposition Sun–Mon (2 days)** + **Block 14 Adverb Tue–Wed (2 days)**, Thursday PT.
+- **R1–R10 (23.08 – 29.10)** — R1 B10 · R2 B11 · R3 B15 · **R4 = Block 13 Conjunction Sun–Mon (2 days) + Block 9 Scholarship-style Parts-of-Speech practice Tue–Wed (2 days)** · R5 FT-1 (3 days) + mixed drill · R6 B12 · R7 B16 (2 days) + FT-2 (2 days) · R8 B17 · R9 B18 · R10 timed writing cycle. Every week: four Sun–Wed teaching sessions + Thursday Performance Test.
+- **Preposition and Adverb are NOT re-taught in R4** — they are re-touched only through the normal Rule 2 re-walk inside practice items.
+
+**Expressly not adopted.** The Drive Plan §11.3/§11.8 proposal to absorb **Blocks 8, 13 and 14 into Block 9 as one-day feeders** was considered and **rejected**. **PD-033 is not overridden**: block numbers, the 18-block count and block order stand unchanged. §11.4's 16.08 R-map is superseded by the §4 calendar, which was **rebuilt around the transition, not shifted**.
+
+**Rationale.** The transition preserves teaching depth on two rungs already scheduled for W7 while removing the duplication the fold would have created at R4. Recovered time is ≈2 weeks (not the proposed 2¾), which lengthens the post-drive preparation period.
+
+**Verification performed before ruling.** No duplicate teaching (Preposition/Adverb appear only in W7; Conjunction only in R4); no gaps; all 18 blocks plus FT-1 and FT-2 placed; every week-start falls on a Sunday and every Performance Test on a Thursday in 2026.
+
+**Charter §C.1 position.** Teaching runs 1 July – 29 October ≈ **17 weeks** against the three-month planning guideline. Recorded here as an acknowledged **§C.5 position, not a request for approval**. **The Charter and Run Book are not edited.**
+
+**Consequential.** File 2 week→block attach resolved: batch 6 (40 words) → W6 · batch 7 (17 + pool clear) → W7 · R1 onward spaced revision only. The batch order file is read through this attach, not re-authored.
+
+**Affected files:** `C5_ENG_DrivePlan_v1_12.md` (§2, §3, §4, §11). Forward-only (Charter §K.3); v1.11 retained; delivered blocks untouched.
+**Status:** Applied (Drive Plan v1.12, pending commit).
+
+---
+
+### PD-060 — C5 Annual examination authored in the Scholarship 2026 structure
+> ⚑ **RE-ENTERED 12.08.26 from the parallel Class 5 log, where this ruling was logged as `PD-038`.** Body unedited. The number **PD-038** in this log belongs to a different, earlier ruling; cite **PD-060** for this one going forward.
+
+**Date:** 10.08.2026 · **Class:** 5 · **Authority:** Principal
+
+**Decision.** The school's **Class 5 Annual examination (early December 2026) is authored in-house in the Primary Scholarship Examination 2026 structure**, not the Mohammadpur format, serving as a full-format dress rehearsal before the Scholarship at end December. The **Scholarship structure is accordingly the primary exam-format standard** for every remaining Class 5 assessment, and all mocks follow it.
+
+**Effect on PD-036 — recorded, not amended.** The four Mohammadpur papers **remain binding as assessment evidence**: they continue to anchor the §2 caps, the exam-bridge ledger and every delivered block, and **PD-036 stands unchanged**. What changes is their practical role — they **cease to be a sat-exam format target** for Class 5. Mohammadpur-only formats (MCQ-from-alternatives; standalone dictation marks) drop from exam-prep priority; dictation continues only as the maintenance strand feeding Blocks 17–18. **PD-036 is not edited**; this reading is recorded here.
+
+**Rationale.** Extends direction D1 (09.08.26 — Scholarship as the main guide) to the school's own assessment instrument, so students meet one format consistently and the Annual functions as genuine rehearsal.
+
+**Affected files:** `C5_ENG_DrivePlan_v1_12.md` (§2 ledger annotation, §3 exam-targets row, §7 preamble, §11.9 annotation).
+**Status:** Applied (Drive Plan v1.12, pending commit).
+
+---
+
+### PD-061 — C5 mock examination policy
+> ⚑ **RE-ENTERED 12.08.26 from the parallel Class 5 log, where this ruling was logged as `PD-039`.** Body unedited. The number **PD-039** in this log belongs to a different, earlier ruling; cite **PD-061** for this one going forward.
+
+**Date:** 10.08.2026 · **Class:** 5 · **Authority:** Principal
+
+**Decision.** **One authentic past Scholarship paper (2025)** may be used as a mock, late in the post-drive period, **for examination format and timing craft only**. Any item conflicting with Charter §H is **re-authored or handled orally**, never issued as printed graded content. **All other mocks — and the Annual paper itself — are house-authored in the Scholarship structure.**
+
+**Rationale.** Format and timing familiarity on a genuine artefact has real value before a high-stakes external examination; a single controlled exposure obtains it without importing outside content into the graded corpus.
+
+**Affected files:** `C5_ENG_DrivePlan_v1_12.md` (§11.10 dependency #3 closed; §11.9 annotation).
+**Status:** Applied (Drive Plan v1.12, pending commit). Closes former governance dependency #3.
+
+---
+
+### PD-062 — Four Scholarship format widenings released (C5 Blocks 10, 12, 16, 18)
+> ⚑ **RE-ENTERED 12.08.26 from the parallel Class 5 log, where this ruling was logged as `PD-040`.** Body unedited. The number **PD-040** in this log belongs to a different, earlier ruling; cite **PD-062** for this one going forward.
+
+**Date:** 10.08.2026 · **Class:** 5 · **Authority:** Principal
+
+**Decision.** All four items held under former dependency #4 are **released and written into the §2 caps**:
+1. **Block 10 — tense naming.** Naming the tense of a given sentence is now taught and graded, across the four taught tenses only; no perfect aspects, no passive. The former "naming boundary" guardrail is lifted.
+2. **Block 12 — in-context affixes.** Completing a short text by adding suffixes and prefixes (Scholarship Q7, 1×6), alongside the convert-to-noun table.
+3. **Block 16 — punctuation density.** One rewrite carrying ten half-mark corrections (Scholarship Q10, 0.5×10).
+4. **Block 18 — guided-questions composition.** Composition by answering a set of provided questions (Scholarship Q14), alongside free writing.
+
+**Rationale.** All four are **new formats for skills already taught** — no new subject matter, no additional teaching days. Building Blocks 12, 16 and 18 to formats known to differ from the examination would ship a deliberate mismatch.
+
+**Affected files:** `C5_ENG_DrivePlan_v1_12.md` (§2 Blocks 10/12/16/18 caps; §7 rows; §11.10 #4).
+**Status:** Applied (Drive Plan v1.12, pending commit). Fully releases and closes former governance dependency #4.
+
+---
+
+### PD-063 — C5 reading integration architecture, with immediate implementation
+> ⚑ **RE-ENTERED 12.08.26 from the parallel Class 5 log, where this ruling was logged as `PD-041`.** Body unedited. The number **PD-041** in this log belongs to a different, earlier ruling; cite **PD-063** for this one going forward.
+
+**Date:** 10.08.2026 · **Class:** 5 · **Authority:** Principal
+
+**Decision.** Reading practice is integrated into the weekly instruments rather than deferred to the post-drive period:
+
+| Instrument | Component | Effective |
+|---|---|---|
+| Weekly Assignment | Scholarship-style throughout, including **one full graded passage**; Phase A → Phase B by performance | **13.08.2026 (immediate)** |
+| Performance Test | Fixed **Part R (~5 marks)** — seen passage (4–6 sentences) + 2 SCR at the 3-mark full-sentence format + meaning-match / make-a-sentence | **20.08.2026 (W7 PT)** |
+| Homework | Mini-passage (3–4 sentences) + one full-sentence SCR | blocks built from W7 onward |
+| Classwork | **No added segment**; passage-based formats use **seen-text excerpts** instead of invented isolated sentences | blocks built from W7 onward |
+
+**Reading diagnostic.** A short **ungraded** diagnostic is given on **13.08.2026** alongside the first Scholarship-style Assignment, to identify current reading level and weaknesses. Progression: diagnostic → level → appropriate passages → gradual increase by performance. It is **not** a formal examination, and no assumption of a uniform class reading level may be made.
+
+**Sourcing rule.** Seen passages are **verbatim** from *English for Today* Class 5 — never paraphrased, since "seen text" is the examined property. The §H curation screen applies at **selection**; prioritise U2, U4, U7, U14, U19 and the narrative units; sacred matters are never graded test targets (§H.3).
+
+**Scope.** Forward-only. **Delivered Blocks 1–7 and their extracts are not retrofitted** — no Part R is inserted into a delivered Performance Test. Post-drive retains the mock and intensive work; exam-specific intensity targets the selected Scholarship subset (4–5 of 8 students) while the weekly instruments serve the whole class.
+
+**Rationale.** Reading and short-constructed response carry **42 of the Scholarship's 100 marks** — the largest single cluster — and answering in complete sentences needs a long drip runway that a compressed post-drive period cannot supply.
+
+**Affected files:** `C5_ENG_DrivePlan_v1_12.md` (new §7A, §3, pre-flight); `English_Drive_AssignmentGenerator_Spec_v1_3.md` (§3.10, §3.11, §7.2, §8).
+**Status:** Applied (Drive Plan v1.12 and Spec v1.3, pending commit).
+
+---
+
+### PD-064 — C5 programme strands and implementation principle
+> ⚑ **RE-ENTERED 12.08.26 from the parallel Class 5 log, where this ruling was logged as `PD-042`.** Body unedited. The number **PD-042** in this log belongs to a different, earlier ruling; cite **PD-064** for this one going forward.
+
+**Date:** 10.08.2026 · **Class:** 5 · **Authority:** Principal
+
+**Decision.** Alongside the block lessons, the Class 5 programme carries these strands:
+
+1. **Traditional grammar practice** — approved as an **additional practice strand** (from a suitable grammar or guide book). It does **not** replace the Drive Plan and creates **no numbered block**. ⚑ **Resource selection and time allocation are an OPEN implementation dependency**, deliberately not specified here.
+2. **Individual feedback and progress tracking** — approved **in principle**: regular, detailed individual feedback for all 8 students and, where practical, a separate per-student progress sheet recording weaknesses, improvement, recurring mistakes, progress over time and areas needing practice. ⚑ **Owner and template are OPEN implementation details.** No new formal assessment system is created, and **student tracking is not added to the Assignment Coverage Log** — it remains a separate artefact.
+3. **Composition scaffold progression** — prepared format/example → guided practice → repeated practice → reduced support → independent writing. Initial support may include prepared formats, model examples, sentence and paragraph structures and useful phrases; **some memorisation of useful structures is permitted as an early scaffold only.** The goal is independent writing, **not memorised compositions**.
+4. **Scholarship cohort** — a selected subset of **4–5 of the 8 students** sits the Scholarship; weekly teaching, worksheets and the reading drip serve the whole class.
+
+**Implementation principle.** The programme is **not** "block → finish → next block." Each week combines block teaching · traditional grammar practice · the Scholarship-style Assignment · reading/passage practice · individual tracking and detailed feedback · structured composition practice. The goal is Scholarship preparation while maintaining the Drive Plan system and strengthening basic knowledge.
+
+**Affected files:** `C5_ENG_DrivePlan_v1_12.md` (§3 strand rows, §2 Block 18 cap, §7A implementation principle).
+**Status:** Applied in principle (Drive Plan v1.12, pending commit); two implementation dependencies remain open as noted.
+
+---
+
+### PD-065 — PT graded-skill item-shape overlap with CW/HW waived
+> ⚑ **RE-ENTERED 12.08.26 from the parallel Class 5 log, where this ruling was logged as `PD-044`.** Body unedited. The number **PD-044** in this log belongs to a different, earlier ruling; cite **PD-065** for this one going forward.
+**Date:** 09.08.26 · **Class:** 1 (Block 4/B5 precedent) · **Authority:** Principal · ⚑ **BACKFILLED 11.08.26**, from `C1_ENG_Block06_Pronoun_v1.md` (Part F/G note).
+**Decision.** On a Performance Test, graded block-skill parts may share item-shape with CW/HW — that overlap is expected and **waived**; Run Book §6.5 disjointness binds the **self-try** part only, which stays disjoint from its in-week rehearsal.
+
+---
+
+### PD-066 — C5 Scholarship-style assignment progression (Spec v1.3 → v1.4)
+> ⚑ **RE-ENTERED 12.08.26 from the parallel Class 5 log, where this ruling was logged as `PD-058`.** Body unedited. The number **PD-058** in this log belongs to a different, earlier ruling; cite **PD-066** for this one going forward.
+>
+> **⚑ ITS "NUMBERING NOTE" PARAGRAPH DOES NOT APPLY IN THIS LOG AND MUST NOT BE ACTED ON.** That paragraph was written against the parallel copy's numbering. In *this* log: **PD-054 is a real, applied ruling** (student-facing text visibility) and is **not** retired — do not blacklist it; **PD-045 and PD-048 are also real rulings**, not retired-not-free; **PD-055/PD-056** are the C5 binding-set reissue and the C4 Block 7 pronoun ruling, not C1 re-entries (those are **PD-039** and **PD-040**); and **PD-058** is the collective-noun convention. **The next free number in this log is PD-067.**
+**Date:** 12.08.26 · **Class:** 5 (C1–C4 wholly unaffected) · **Authority:** Principal
+**Decision.** The **Primary Scholarship Examination 2026 pattern is adopted as the primary format target** for the Class 5 weekly assignment. From the assignment of **W8**, each C5 assignment is authored as a scaled Scholarship paper — the paper's question **numbers, order, wording, scaffolding and mark weighting** — carrying only content already taught, and growing week by week as blocks complete. Adopts Assignment Generator Spec **§3.12(a)–(i)**, which carries the week-by-week unlock map (Q12 at R1 · Q8 at R3 · Q9 as taught content at R5 · Q7 affix alternative at R6 · Q10 and Q11 at R7 · Q13 at R8 · Q14 at R9; Q4/Q5 at R1 on a second, unseen passage).
+**Four C5 exemptions granted**, each annotated at source in the Spec: **§3.4** — Scholarship mark tags now **print** on the C5 student sheet (`[1×5=5]`), assignments remaining completion-based with no marking scheme or score box; **§4.2 r.4** — the **5-block rotation cap is lifted**, every completed block eligible every week; **§3.5** — the baseline-plus-50% **deferral trigger is replaced** by a four-band growth ramp (~5pp/45 min at W8–R1, rising to the full 14-question shape/90 min at R8–R10), item counts inside questions reducing before any question is dropped; **§3.1/§3.2** — ratios and the revision-first skeleton **superseded**, order and weight following the Scholarship map, with two guarantees preserved (the current-set block carries at least one item; the paper still climbs within its Charter §G.2 band).
+**Scope limits.** (1) The ramp ends at **90 minutes, not the paper's 150** — the assignment is homework completed alone Thursday–Saturday (Spec §1); the full-length timed paper remains the **post-drive mock strand** (C5 Drive Plan §11.11 / direction D2). **This PD does not authorise a mock.** (2) **Growth discipline (§3.12(g)):** added length must come from a newly unlocked question or from raising an existing question toward its Scholarship item count — repeating a covered skill in a fresh wrapper to fill pages is **barred**. (3) **§3.12(h):** **B3 Sentence Transformation** and **B5 Number/Countability** map to no 2026 Scholarship question; they sit in a separated **Revision** section that **closes at R7**, and both remain live for the Performance Test and Mohammadpur-format practice — only their assignment tenure ends. (4) Untouched: Spec §3.3 held-vocabulary rule, §3.10 reading component, §3.11 FT drips until their unlock weeks, §5, §6 answer-key separation, §7 Coverage Log, the Charter §H guards, and the delivered-block freeze.
+**What led to this.** The W7 assignment was rebuilt to the Scholarship structure on Ustaz's instruction and immediately collided with four Spec rules written for a rotational revision sheet. The Principal ruled the Scholarship pattern the standing target for C5 rather than a one-off, which made the collisions permanent and requiring release rather than waiver.
+**Numbering note.** **PD-054 carries no entry.** PD-057's numbering note states that "054–056" were consumed by the C1 concordance re-entries, but only **PD-055** and **PD-056** exist — either a third re-entry was dropped or the count was off by one. **PD-054 is treated as retired-not-free and must not be reused** pending a Principal check, following the PD-045/046 and PD-048/049 precedent. PD-058 is the next free number either way.
+**Affected files:** `English_Drive_AssignmentGenerator_Spec` **v1.3 → v1.4** (new §3.12; ⚑ pointers at §3.1, §3.2, §3.4, §3.5, §4.4; five new §8 checklist ticks; no-marks tick qualified to C1–C4) — **applied**. `English_Drive_AssignmentCoverageLog` — C5 rows from W8 record the Scholarship question set. C5 Drive Plan §7A — assignment-format row to align at its next pass (**edit pending**). **Status:** Applied to the Spec; Drive Plan alignment pending.
+
+---
+
+### Open item — C3 Exit Check roll size (17) not file-verified
+Recorded for tracking, not a Principal decision. The C3 Block 6 Exit Check tables use a **17-prompt roll** on the Principal's in-session statement; no class roster in the current project files confirms 17. Verify against an authoritative roster, or log a Principal confirmation, before treating the roll as governance-grade. Affects only the per-day Exit Check length (one prompt per student), not any graded item.
+
+---
+
+## Project Proposals (PR)
+
+Ideas or workflow improvements still under discussion, not yet official decisions.
+
+### PR-001 — Generate weekly assignments with Claude
+**Proposal:** Use Claude to generate weekly school assignments from the approved curriculum instead of preparing them mostly manually.
+**Reason:** This can save time and improve consistency.
+**Affected files:** Future Weekly Assignment files, Assignment prompts, Teacher workflow.
+**Status:** Under Review — Week 1 assignments were prepared mostly manually and are already uploaded to the Project Knowledge.
+
+### PR-002 — Weekly Curriculum Design Log
+**Proposal:** Keep this working chat during the week and update the official Curriculum Design Decision Log in the Project Knowledge once every week.
+**Reason:** This will preserve important curriculum decisions and the reasons behind them without interrupting development work.
+**Affected files:** This Working Log chat and the official Curriculum Design Decision Log in the Project Knowledge.
+**Status:** Under Review
+
+---
+
+## Pending Class Decisions
+
+Decisions made in principle but not yet implemented. Not official until converted.
+
+### Class 4 — Move Block 03 earlier in the sequence
+**Date:** 11.07.26
+**Status:** Planned (Not Yet Implemented)
+**Proposed Change:** Move Block 03 earlier in the sequence.
+**Reason:** While rebuilding the curriculum, concluded that students would benefit from learning this topic earlier, since later blocks depend on it.
+**Evidence / Observation:** Surfaced during the Class 4 Block 03 discussion.
+**Affected Documents (once implemented):** Class 4 Drive Plan, Block 03 file, Vocabulary Batch Order (if needed).
+**Next Action:** Update Drive Plan → Rebuild Block 03 → Update Vocabulary Batch Order if needed.
+**Notes:** Not yet implemented. Convert to an official Class 4 Decision once the Drive Plan and Block 03 rebuild are done. **Not yet confirmed whether this is the same item as the later-detailed "insert a Sentence & Sentence Types block after Noun" cluster raised in the Class 4 Block 02 discussion — pending your confirmation.**
+
+---
+
+## Class 3 Decisions
+
+### Oral plain-label fade tier
+**Date:** 10.07.26
+**Category:** Curriculum design decision
+**Decision:** Class 3 may use plain labels orally as a beginning scaffold when introducing sentence types. Previously, Class 3 was formal-terms-only with no plain-label naming. Students still write formal terms in exams. This mirrors the existing Class 4 oral-reminder allowance.
+**Reason:** Reconciles classroom practice (teachers wanting to introduce with plain labels) with the formal-terms-in-exam policy.
+**Evidence / Observation:** A Principal ruling relayed during the Class 5 Block 2 conversation, overriding the Block-Build Spec's previously locked "Class 3 = formal only" tier.
+**Affected Documents:** Block-Build Spec (Locked Decision section), all Class 3 sentence-type files (next revision), Class 5 teacher-reference note.
+**Status:** Ruled, not yet propagated to files. **Note (11.07.26): a Class 3 Block 2 build session applied fading-box mechanics (support box shown Day 1, narrows Day 2, removed Day 3) consistent with this ruling — pending your confirmation on whether to fold this detail into this entry.**
+
+---
+
+## Class 5 Decisions
+
+### Block 2 (Sentence Types) — First-teach reframe
+**Date:** 10.07.26
+**Category:** Curriculum design decision
+**Decision:** Block 2's tier changed from Revision to First-teach (discovery pace), with no prior retention assumed. Bloom ladder opens at Remember/Understand.
+**Reason:** Students shouldn't be assumed to already know the five sentence types.
+**Evidence / Observation:** Reviewer argued the point; Block 1 (Word) had already been reframed to first-teach by an earlier Principal ruling; Principal approved extending that stance to Block 2.
+**Affected Documents:** C5 Drive Plan §2 (tier), §4 (week map), §5 (exam-bridge) — flagged, not yet edited. Later C5 blocks that assume a revision baseline.
+**Status:** Ruled, not yet applied to Drive Plan.
+
+### Block 2/3 — Solo-week expansion and W2/W3 split
+**Date:** 10.07.26
+**Category:** Curriculum design decision
+**Decision:** Block 2 expanded to a near-solo 3-day week (Sun–Tue). Block 3 (Transformation) splits across weeks: class 1 in W2 (Wednesday), class 2 in W3 with the noun re-walk. W2 Thursday test = Sentence Types only; W3 Thursday test = Block 3 + Block 4. Overall calendar stays ~15 weeks.
+**Reason:** First-teach of five sentence types needs more than 2 days; Transformation is a light bridge that doesn't need its own solo week.
+**Evidence / Observation:** Follows directly from the first-teach reframe above — original 2-day plan was too compressed.
+**Affected Documents:** C5 Drive Plan §4 (week map, Thursday-test pairing), Block 3 file, Block 4/noun blocks (shared W3 test).
+**Status:** Ruled, not yet applied to Drive Plan. **Implementation note (11.07.26): Drive Plan §4 and the 14-week Batch Order map are confirmed stale and still need updating to reflect this split.**
+
+### Sorrow-register exclamatory — strict "never in construction"
+**Date:** 10.07.26
+**Category:** Curriculum design decision
+**Decision:** Sorrow-register exclamatory content appears only in identify/passage sections with a teacher-scenario note — never in any make-a-sentence, self-try, or construction task. No student-produced exclamatory exists anywhere in the block.
+**Reason:** Child-safety/appropriateness — students shouldn't be prompted to compose sad or grief-related sentences themselves.
+**Evidence / Observation:** Tightened during the Block 2 build; the underlying principle already exists in Class 3/5 policy, but this is the strict "never in construction" application.
+**Affected Documents:** Block 2 worksheets, answer keys, day-scripts.
+**Status:** Applied
+
+### Negative imperative representation
+**Date:** 10.07.26
+**Category:** Curriculum design decision
+**Decision:** Every identify worksheet in Block 2 must include negative/prohibitive imperatives (e.g., "Never tell a lie," "Do not..."), shown in teaching cards and examples too.
+**Reason:** Binding exam evidence (HY-25 Day and Morning papers) both include a negative imperative that the block hadn't represented.
+**Evidence / Observation:** Gap found by comparing the block against binding exam papers.
+**Affected Documents:** Block 2 files. Flagged as worth checking in other classes' sentence-type blocks too.
+**Status:** Applied
+
+### Day-staged worksheet architecture (Class 5-local)
+**Date:** 10.07.26
+**Category:** Curriculum design decision (workflow-adjacent)
+**Decision:** Worksheets built as day-staged sheets (CW-1/HW-1 Day 1, CW-2/HW-2 Day 2, CW-3 Day 3), with a type-name hint box above section ক that fades across days. Each class's worksheet sits under its own day-script for print-per-class; answer keys pooled separately and marked "don't print with students."
+**Reason:** Scaffolded fade so help depends less on cueing over time; clean per-class printing (previously Class 2/3 shared a sheet, causing confusion).
+**Evidence / Observation:** Built this way during the Block 2 build.
+**Affected Documents:** Block 2 files. Not yet a project-wide standard — left as Class 5-local. Reused in the Block 3 build (11.07.26) without change.
+**Status:** Applied
+
+### Day-1 recognition-only construction
+**Date:** 10.07.26
+**Category:** Curriculum design decision
+**Decision:** Independent sentence construction removed from Day-1 homework (HW-1 = identify + find-the-error only). Construction moved to HW-2 and the Day-3 guided self-try. HW-2 construction reduced to 3 items, Assertive/Interrogative/Optative only — no Imperative or Exclamatory construction.
+**Reason:** Day-1 homework was asking students to construct sentences before construction had been guided at all (self-try isn't until Day 3) — backwards and too heavy.
+**Evidence / Observation:** Identified during the Block 2 build review.
+**Affected Documents:** Block 2 files. Flagged as a possible project-wide sequencing principle ("no independent construction before a skill is taught") — left as an open candidate, not yet promoted.
+**Status:** Applied
+
+### Block 3 — Re-walk scope correction
+**Date:** 11.07.26
+**Category:** Curriculum design decision
+**Decision:** Block 3 class 2's warm-up re-walks Word → Sentence → sentence types only. It must not re-walk common/proper noun, since noun is first-taught the same week (Block 4) and students may not hold it yet.
+**Reason:** Removes a prerequisite-assumption error in the draft.
+**Evidence / Observation:** Reviewer caught it — "we haven't gone to nouns yet."
+**Affected Documents:** Block 3 file only.
+**Status:** Decided, not yet applied (inline-staged, not written to file).
+
+### Block 3 — Pattern Card reminder-script + time rebudget
+**Date:** 11.07.26
+**Category:** Curriculum design decision
+**Decision:** Keep the four helper rows (be/can/do/does) but add a 4-point teacher reminder-script explaining them, and rebudget Class 1 timing to give the teacher ~3 minutes to teach it.
+**Reason:** The card assumed four sub-concepts students may not yet hold, on a light Bridge block.
+**Evidence / Observation:** Reviewer concern about helper-pattern and -s-drop recall.
+**Affected Documents:** Block 3 file. (Flagged as a possible reusable convention for other helper-pattern blocks — not decided.)
+**Status:** Decided, not yet applied.
+
+---
+
+### Block 6 (Article) — solo FULL week at W5
+**Date:** 31.07.26
+**Category:** Curriculum design decision
+**Decision:** Class 5 Block 6 (Article, §2 row 7) runs as a **solo FULL week** — 4 teaching days (Sun–Wed) + its own Thursday Performance Test, not shared or paired with any adjacent block. Release week 5.
+**Reason:** Article is anchored in **all three** distinct binding C5 papers, and HY-25 Morning Q6 carries **10 marks** — the single heaviest grammar question in any C5 paper (every other grammar anchor sits at 5–8). The answer set is four-way (a/an/the/x), needing more practice reps than any two-way re-walk block. No retention is assumed at C5 under the 2026-07-02 first-teach reframe, and this cohort never received the C4 Article block (delivered to this year's Class 4 on 24.07.26), so the "re-walk" tier runs at near-first-teach pace. C4 gave Article a solo full week on a *lighter* cap and lighter anchors. Zero article (x), retained in the cap by the v1.1 ruling, is **not tested in any C5 paper** — teaching load with no exam relief.
+**Scope limit:** Governs **Block 6's load only.** It does **not** revive, ratify or reconstruct §4's week map or §2's block numbering, both superseded by the 2026-07-02 ruling with no recorded successor. The wider C5 schedule remains an open governance item.
+**Numbering note:** build-block numbers have diverged from §2 row numbers — this is build-**Block 6** but §2 **row 7**, the noun cluster (rows 4–6) having shipped as build-Blocks 4–5. All block-file citations use "§2 row 7". Any Drive Plan reconstruction must reconcile the two systems explicitly.
+**Affected Documents:** C5 Block 6 master (applied). C5 Drive Plan §4 — W5 row currently reads "TBD" for load; carry this ruling forward at schedule reconstruction.
+**Status:** Applied to the block; Drive Plan edit pending.
+
+### Block 6 (Article) — §2 row-7 cap widened: one article for two coordinated titles
+**Date:** 31.07.26
+**Category:** Curriculum design decision
+**Decision:** §2 row 7 is widened to admit **one article before two coordinated nouns naming one person**, taught as a fixed contrast pair — *The Headmaster and Secretary **is** coming.* (one person) / *The Headmaster and the Secretary **are** coming.* (two people). Recognition and fill-in depth only; the **verb** (*is / are*) is taught as the reading clue, matching how the paper disambiguates. No further coordination or determiner theory, and no rule-naming beyond the contrast pair.
+**Reason:** HY-25 Morning Q6(e) tests exactly this, inside the 10-mark article question, with "(one person)" supplied as the disambiguator. Nothing in the existing cap reached it, so the block would otherwise have shipped a known blind spot on the heaviest grammar item in the binding set.
+**Scope limit:** The only addition. Q6(d) (*the more… the more…*) remains **recognition only** per the standing guardrail; the "no abstract zero-article rule-naming" guardrail is unchanged.
+**Evidence / Observation:** Verified by direct read of the HY-25 Morning paper during the Block 6 pre-build check.
+**Affected Documents:** C5 Drive Plan §2 row 7 (cap text — this is the authorising ruling; edit pending). C5 Block 6 master (applied). **C4 Block 4 (Article) is delivered and not retrofitted** (Charter §K.3) — no C4 paper tests this, so no downstream absorption is required.
+**Status:** Applied to the block; Drive Plan edit pending.
+
+### Binding paper set — the C5 "Annual-2025" file is a duplicate of HY-2026
+**Date:** 31.07.26
+**Category:** Data integrity / governance
+**Decision:** `Class_5_English_Muhammdpur_Annual2025.docx` is **byte-identical** to `Class_5_English_Muhammadpur_HY2026.docx` (identical md5; the file's own header reads *Half-Yearly Exam – 2026*). It is a mis-saved copy, not an Annual paper. The **C5 binding set is three distinct papers**: HY-2025 Morning, HY-2025 Day, HY-2026. The genuine Class 5 Annual-2025 paper is **missing from the project** and is to be sourced; until it lands, no C5 artefact may cite an "Annual-2025" anchor.
+**Reason:** Union binding (Run Book §10.1) makes an absent paper a real coverage gap — but a duplicate masquerading as a fourth paper is worse, since it inflates apparent evidence and lets a single HY-2026 item be cited twice as if independently confirmed.
+**Evidence / Observation:** Found during the Block 6 pre-build check while verifying article anchors directly against the papers. A cross-class md5 comparison found **no other duplication** — this is C5-only. This ruling promotes and resolves the standing data-integrity flag previously held under *Open Items Tracked Outside This Log*.
+**Affected Documents:** C5 Drive Plan §7 — header states "Confirmed from the four Class 5 papers"; correct to three (edit pending). The §7 Article row already cites only HY-26 Q7, HY-25 Morning Q6 and HY-25 Day Q5, independently confirming the duplicate never fed a real anchor. Block-Build Starter Template's C5 binding-paper list. Version-log entries citing "the four Class 5 papers" are historical and stay untouched (Charter §K.3). **Block 3's Annual Q8 evidence remains unverifiable** until the genuine paper is located.
+**Status:** Ruled. ⚑ **Open dependency:** source the genuine C5 Annual-2025 paper; re-run §7 mapping when it arrives.
+
+---
+
+## Open Items Tracked Outside This Log
+
+*Not decisions — listed here only for continuity, per earlier working-session discussion. None of these are logged as PD/PR/CX entries.*
+
+- **Programmatic verification as a build standard** — parked for a future Build Standards/QA document, not a curriculum decision.
+- **Print-per-class worksheets + pooled answer keys** — left as Class 5-local; not elevated to project-wide.
+- **"No construction before a skill is taught"** — open candidate; watching whether it holds consistently across classes before promoting to PD.
+- **"First-teach tier shifts earlier when a block moves earlier in the spine"** — not recorded yet; revisit after more classes are rebuilt.
+- ~~**Data-integrity flag:** Class 5's "Annual-2025" exam file is byte-identical to HY-2026…~~ **RESOLVED 31.07.26** — Principal ruling logged under *Class 5 Decisions* → "Binding paper set — the C5 'Annual-2025' file is a duplicate of HY-2026". The C5 binding set is three papers; sourcing the genuine Annual-2025 paper remains an open dependency, and Block 3's Annual Q8 evidence stays unverifiable until it is found.
+
+---
+
+*End of working log as of **12.08.26**. Several items from the most recent Class 4 Block 02 and Class 3 Block 02 discussions are still pending your classification/confirmation and are not yet included above.*
