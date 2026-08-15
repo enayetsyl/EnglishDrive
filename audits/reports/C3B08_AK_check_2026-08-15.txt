@@ -1,0 +1,13 @@
+AK CONSISTENCY CHECK (Run Book Section 6.11) - extracts/C3/C3B08-AK.md
+------------------------------------------------------------------------
+  [ok]   CW1: 28 items, 28 marks
+  [ok]   HW1: 26 items, 26 marks
+  [ok]   CW2: 28 items, 28 marks
+  [ok]   HW2: 26 items, 26 marks
+  [ok]   CW3: 28 items, 28 marks
+  [ok]   HW3: 26 items, 26 marks
+  [ok]   CW4: 28 items, 28 marks
+  [ok]   HW4: 26 items, 26 marks
+  [ok]   PT: 22 items, 34 marks
+------------------------------------------------------------------------
+RESULT: PASS

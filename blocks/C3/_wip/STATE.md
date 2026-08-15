@@ -353,3 +353,32 @@ nine artefacts. Held-word gate now checks **248** graded targets, up from 216.
 repetition as a v2.3 master, re-run `run_all.py` to a clean report, then draft the AK to `_wip/` in §3.15 order,
 pausing for review between artefacts.
 
+### Phase 4 — COMPLETE (15.08.26). `extracts/C3/C3B08-AK.md` built.
+
+**Principal rulings closing blueprint §D, 15.08.26 — both logged as PD-068:**
+
+1. **CR-040 WAIVED.** Bare naming-word items are exempt from the PD-036 zero threshold. `Maryam` stands on both
+   `CW1 #16` and `HW1 #12`; **no edit made**, and v1.5's he 2 · she 2 · it 2 · they 2 balance repair is unaltered.
+   ⚑ **`run_all.py` will keep reporting this as a FAIL until the exemption is built as a declared part-shape flag.**
+   The FAIL in `C3B08_audit_2026-08-15.txt` is expected and is answered by PD-068(a) — it is not an open defect.
+   Exemption reaches **bare naming-word items only**; any item carrying a sentence stays under the zero threshold.
+2. **Word lists duplicated, not moved.** The dictation and Part F self-try lists print in **both** the master and the
+   AK. Master **v2.3** records the contract: the master is the editable source, the AK is a regeneration. This is the
+   CR-027 mitigation — that correction logged a paper marked from a stale duplicate key.
+
+**Audit state at Phase 4 close**
+
+| Check | Result |
+|---|---|
+| `run_all.py` — `C3B08_audit_2026-08-15.txt` | 12 PASS · 1 FAIL (CR-040, waived by PD-068a) |
+| §6.11 AK consistency — `C3B08_AK_check_2026-08-15.txt` | **PASS** — 9 artefacts, every graded item keyed exactly once, numbering continuous and non-duplicated, all nine totals recomputed and matching |
+
+`audits/scripts/check_ak.py` is **new** — §6.11's consistency check had been required since Run Book v1.9 and had never
+been implemented. It is now runnable against any block's AK.
+
+### Exact next step
+
+**Await the Principal's human read of `extracts/C3/C3B08-AK.md`** — the naturalness and one-defensible-answer gates are
+human and no script certifies them (CLAUDE.md §4). On "done", nothing further is owed on the AK. The remaining C3B08
+deliverables are the **Assignment**, the **TD**, and the eleven student extracts (`CW1–CW4 · HW1–HW4 · PT · CC`).
+

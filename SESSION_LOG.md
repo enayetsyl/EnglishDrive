@@ -392,3 +392,29 @@ Append-only. Newest entry last. Never overwrite past entries.
   `audits/reports/C3B08_audit_2026-08-15.txt` (new), `SESSION_LOG.md`.
 - **Next:** Principal ruling on CR-040 + approval of the blueprint. Then v2.3, clean audit, then the AK itself.
 
+---
+
+## 15.08.26 — SCD · C3B08-AK Phase 4: answer key built, §6.11 check implemented and PASSING
+
+- **Two Principal rulings closed the blueprint, both logged as PD-068** (next free now PD-069).
+  **(a) CR-040 waived** — bare naming-word items exempt from PD-036's zero threshold; `Maryam` stands on CW1 #16 and
+  HW1 #12 with no edit, v1.5's balance repair untouched. Exemption is scoped to bare naming-word items only.
+  ⚑ `run_all.py` still reports it as a FAIL until the exemption is built as a declared part-shape flag — the FAIL in
+  `C3B08_audit_2026-08-15.txt` is expected and answered by the ruling.
+  **(b) Dictation and self-try lists duplicated in master and AK**, not moved. §3.12 r.2 and §3.15 r.3 both hold.
+  Master **v2.3** records the contract: master is the editable source, AK is a regeneration — the CR-027 mitigation.
+- **`extracts/C3/C3B08-AK.md` built** — §3.15 fixed order (CW1 · HW1 · CW2 · HW2 · CW3 · HW3 · CW4 · HW4 · PT),
+  answers only, original numbering preserved, dictation and self-try lists carried, Assignment section omitted and
+  declared under PD-067. Five marking notes carried from the build, including the three key corrections a teacher
+  would otherwise mark wrong from an older key.
+- **`audits/scripts/check_ak.py` written — new.** §6.11's consistency check has been *required* since Run Book v1.9
+  and had **never been implemented**; both existing AKs shipped without it. It verifies every graded item is keyed
+  exactly once, numbering is continuous and non-duplicated per artefact, and per-artefact totals recomputed from the
+  key match the printed totals. **C3B08-AK: PASS on all nine artefacts** — 236 keyed items, totals matching.
+- **Files touched:** `extracts/C3/C3B08-AK.md` (new), `audits/scripts/check_ak.py` (new),
+  `blocks/C3/C3_ENG_Block08_Pronoun_v2_3.md` (new), `audits/reports/C3B08_AK_check_2026-08-15.txt` (new),
+  `audits/reports/C3B08_audit_2026-08-15.txt`, `blocks/C3/_wip/STATE.md`, `_wip/C3B08_AK_blueprint.md`,
+  `governance/Curriculum_Design_Decision_Log_Working.md` (PD-068), `SESSION_LOG.md`.
+- **Next:** Principal's human read of the AK — naturalness and one-defensible-answer are not scriptable. Then the
+  C3B08 Assignment, the TD, and the eleven student extracts.
+

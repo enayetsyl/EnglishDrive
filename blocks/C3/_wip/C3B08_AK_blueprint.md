@@ -1,7 +1,8 @@
 # C3B08-AK — pre-build blueprint (Phase 3)
 
 **Block:** C3B08 Pronoun · **Master:** `blocks/C3/C3_ENG_Block08_Pronoun_v2_2.md`
-**Status:** awaiting Principal approval. No AK content is drafted until this is approved (CLAUDE.md §3).
+**Status:** APPROVED 15.08.26. §D closed by **PD-068** — CR-040 waived (no edit), word lists duplicated (master v2.3).
+**Built:** `extracts/C3/C3B08-AK.md`, §6.11 consistency check PASS.
 
 ---
 
