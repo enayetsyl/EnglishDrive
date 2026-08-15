@@ -418,3 +418,25 @@ Append-only. Newest entry last. Never overwrite past entries.
 - **Next:** Principal's human read of the AK — naturalness and one-defensible-answer are not scriptable. Then the
   C3B08 Assignment, the TD, and the eleven student extracts.
 
+---
+
+## 15.08.26 — SCD · `check_ak.py` generalised and run over the four older AKs
+
+- **`check_ak.py` widened** to the three AK heading styles in the repo (`## CW1`, `**CW1**`, `**CW-1 Part A:** …inline`),
+  and taught to skip sheets carrying `audit_scope: pt_overlap_only` — reference sheets from another block are not the
+  block's own artefacts and correctly do not appear in its AK. `C3B08-AK` still **PASS** after the change.
+- **⚑ The tool is only trustworthy on the format it was written against.** Run over `C4B06_AK` and `C2B06b-AK` it
+  reports "0 answers" — that is the parser failing on the inline-label style, **not** an empty key. Those two runs are
+  discarded, not recorded as findings. Two findings survive independently of the parser and were verified by hand:
+- **CR-042 — no delivered AK prints per-artefact mark totals.** `C3B07-AK` prints one (its PT), `C1B06-AK` one,
+  `C4B06_AK` and `C2B06b-AK` none. §6.11's fourth clause has therefore never been checkable on any delivered key.
+  `C3B08-AK` prints stated and recomputed totals for all nine artefacts.
+- **CR-043 — `C3B0607-PT` restarts item numbering per part** (Parts B, C, E each begin at 1). Same defect type as
+  CR-038, which was fixed on C3B08 at v2.2 — but this one is in **delivered** material. **Not fixed:** §K.3 is
+  forward-only; it is logged for that block's next revision.
+- **⚑ The Principal's working folder has not moved.** It is still at `6a6f474` with `.git/index.lock` present and
+  `blocks/C3/C3_ENG_Block08_Pronoun_v2_1.md` staged. The remote is at `6150778` — **six commits ahead.** `sync.bat`
+  cannot pull past the lock. Cleanup steps restated to the Principal.
+- **Files touched:** `audits/scripts/check_ak.py`, `governance/CORRECTIONS.md` (CR-042, CR-043), `SESSION_LOG.md`.
+- **Next:** unchanged — Principal's human read of `C3B08-AK`, then the Assignment, the TD and the eleven extracts.
+

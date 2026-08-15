@@ -13,28 +13,43 @@ A mismatch blocks delivery (Run Book Section 8.2).
 import json, re, sys
 
 def parse_ak(path):
+    """Recognise the three AK heading styles in use:
+         '## CW1 ...' / '## `C3B08-PT` ...'   (C3B08)
+         '**CW1**'                             (C3B07)
+         '**CW-1 Part A:** 1.Noun 2.Verb ...'  (C4B06, answers inline on the label line)
+    """
     txt = open(path, encoding='utf-8').read().replace('\r\n', '\n')
+    label = re.compile(
+        r'^(?:#{2,3}\s+(?:[A-Za-z ]*?—\s*)?`?|\*\*)'
+        r'(?:[A-Z]?\d?[A-Z]?\d*B\d+[a-b]?-)?'      # optional C3B08- / C3B0607- prefix
+        r'((?:CW|HW|PT)-?\d?)'
+        r'(?:`|\*\*|\s|$)', re.I)
     arts, cur = {}, None
     for line in txt.split('\n'):
-        m = re.match(r'^## `?([A-Z0-9-]*?(?:CW|HW|PT)[0-9]?)`?\b', line)
-        if m:
-            cur = m.group(1).split('-')[-1]
-            arts[cur] = {'nums': [], 'letters': [], 'total': None}
-            continue
-        if line.startswith('### '):
+        m = label.match(line.strip())
+        if line.startswith('###') and not m:
             cur = None
-        if cur is None:
+        if m:
+            cur = m.group(1).upper().replace('-', '')
+            arts.setdefault(cur, {'nums': [], 'letters': [], 'total': None})
+            rest = line[m.end():]          # C4B06 puts answers on the label line
+        elif cur is None:
             continue
-        t = re.match(r'^\*\*Stated total: (\d+)', line)
+        else:
+            rest = line
+        t = re.search(r'\*\*Stated total: (\d+)', line)
         if t:
             arts[cur]['total'] = int(t.group(1))
-        if re.match(r'^(\(a\)|[0-9]+\.)', line.strip()):
-            for tok in line.split('·'):
-                m2 = re.match(r'\s*(\d+)\.\s', tok)
-                if m2:
-                    arts[cur]['nums'].append(int(m2.group(1)))
-                for l in re.findall(r'\(([a-h])\)', tok):
-                    arts[cur]['letters'].append(l)
+        tot = re.search(r'\*\*Total: (\d+) marks?\*\*', line)
+        if tot and arts[cur]['total'] is None:
+            arts[cur]['total'] = int(tot.group(1))
+        r = rest.strip()
+        if not re.match(r'^(\(a\)|\d+\.)', r):
+            continue                      # not an answer row (prose, note, total line)
+        for n in re.findall(r'(?:^|[\s·])(\d+)\.(?=\s*\S)', r):
+            arts[cur]['nums'].append(int(n))
+        for l in re.findall(r'\(([a-h])\)\s*\w', r):
+            arts[cur]['letters'].append(l)
     return arts
 
 def main(akp, manp):
@@ -42,6 +57,8 @@ def main(akp, manp):
     man = json.load(open(manp, encoding='utf-8'))
     fails, notes = [], []
     for sh in man['sheets']:
+        if sh.get('audit_scope') == 'pt_overlap_only':
+            continue          # another block's sheets, loaded for PT overlap only (PD-032/PD-034)
         name = sh['name']
         if name not in ak:
             fails.append('%s: artefact missing from the AK' % name); continue
