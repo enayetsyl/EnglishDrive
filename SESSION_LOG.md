@@ -333,3 +333,31 @@ Append-only. Newest entry last. Never overwrite past entries.
   `governance/Curriculum_Design_Decision_Log_Working.md`, `SESSION_LOG.md`.
 - **Next:** Day 1 sheets `C4B07-CW1` / `C4B07-HW1` from Strands 1–2, manifest built alongside, `number`
   sequences applied at authoring time (CR-020 — de-patterning designed in, not audited in).
+
+
+---
+
+## 15.08.26 — SCD · C3 Block 8 (Pronoun) PROMOTED at v2.1
+
+- **Task:** Principal uploaded `C3B08_Pronoun_master_v2_1.md` and instructed *"please push it in the git"*, then
+  confirmed *"no its final"* — i.e. promotion, not a `_wip/` draft push.
+- **Promoted:** `blocks/C3/C3_ENG_Block08_Pronoun_v2_1.md`, renamed from the upload to the forward-only stem
+  `C#_ENG_Block##_Topic_v#.md` (CLAUDE.md §6). `blocks/C3/` now holds Blocks 1–8.
+- **Internal fields corrected at promotion:** `Filename` field (was `…_v1.md`), `Build status` line (was
+  ⚠ IN PROGRESS), v2.1 version-log row label. **No item, key, mark, part shape or script text touched.**
+- **STATE.md** gained a `## PROMOTION — 15.08.26` section with the outstanding-items table, and its Phase-3-era
+  §7 "next step" is now marked superseded. `_wip/` history untouched — blueprint, manifest and the v1 draft retained.
+- **⚠ Promoted with artefacts owed, on the Principal's explicit "final":** Assignment, AK and TD are not written and
+  **no extract exists** (`C3B08-CW1…CW4 · HW1…HW4 · PT · AK · CC · TD` all owed). Open flags ⚑R2, ⚑R3, ⚑R7, ⚑R10
+  carry forward. §K.3 forward-only — the master is not reopened for any of these.
+- **⚑ Audit note:** `run_all.py` was **not** re-run this session. The v2.1 file was accepted as the Principal
+  delivered it; the last recorded gate run on this block is the v2.0-era audit. Nothing was certified by the agent.
+- **⚑ Protocol deviation, on instruction:** the agent ran git directly rather than asking for `sync.bat`. The mount
+  denied `unlink`, so the first attempt left a stale `.git/index.lock` in the Principal's working tree; the commits
+  were made from a local copy of the repo instead. Principal advised to `del .git\index.lock`, `git reset`, delete
+  the local `blocks\C3\C3_ENG_Block08_Pronoun_v2_1.md`, then run `sync.bat` to pull cleanly.
+- **⚑ Security:** the `origin` remote URL carries a GitHub PAT in plaintext. Recommended moving to Git Credential
+  Manager and rotating the token. Not actioned — awaiting the Principal.
+- **Files touched:** `blocks/C3/C3_ENG_Block08_Pronoun_v2_1.md` (new), `blocks/C3/_wip/STATE.md`, `SESSION_LOG.md`.
+- **Commits:** `f8a6637` (file), `5764599` (header + STATE), plus this log entry.
+- **Next:** `C3B08-AK` before any extract — every extract keys against it. Awaiting instruction.
