@@ -464,3 +464,27 @@ Append-only. Newest entry last. Never overwrite past entries.
 - **Files touched:** `extracts/C3/TN/C3B08-TD.md` (new), `governance/CORRECTIONS.md` (CR-044, CR-045), `SESSION_LOG.md`.
 - **Still owed on C3B08:** the Assignment, and the eleven student extracts (`CW1–CW4 · HW1–HW4 · PT · CC`).
 
+---
+
+## 15.08.26 — SCD · C3B08 student extracts — all ten generated
+
+- **Corrected a miscount from the previous entry:** ten extracts were owed, not eleven. The master declares twelve
+  canonical IDs; `C3B08-AK` and `C3B08-TD` were already built.
+- **Generated from the v2.3 master** (extraction, not authoring): `C3B08-CW1…CW4` → `extracts/C3/CW/`,
+  `C3B08-HW1…HW4` → `extracts/C3/HW/`, `C3B08-PT` → `extracts/C3/PT/`, `C3B08-CC` → `extracts/C3/Clue Card/`.
+  House header applied (school · class · block · Name/Date), format mirrored from `C3B07-CW1`.
+- **Developer-only parentheticals stripped** from every student sheet — the §3.17/PD-018 compliance note on CW1/HW1,
+  the "recognition only" note on HW1, the fading-term-box note on CW2/HW2, and the "no hint box — exam conditions"
+  note on CW3. These are build rationale and have no place on a child's paper.
+- **PT Part A rewritten for the student.** The master's parenthetical describes the extract's own construction
+  ("the word list is teacher-only — it does not print on the student sheet…"); the extract now reads
+  *"Listen to each word your teacher reads, and write it on the line."* Ten numbered blank lines as before.
+- **Verification run, all clean:** every one of the 236 graded items present in its extract and matching the manifest
+  text (CW 28 · HW 26 × 4, PT 22); **zero filled blanks** — no answer leaks onto any sheet; **zero of the ten
+  dictation words** and not the self-try set on the PT extract (§3.12 r.2).
+- **⚑ Declared formatting divergence from the `C3B07` extracts:** C3B08's sheets **keep the per-part mark tags**
+  (`[10 × 1 = 10]`) that C3B07's extracts dropped. The binding Annual paper prints mark weights (`[5X1=5]`), and
+  keeping them makes CW, HW and PT consistent. Reversible; flagged rather than done silently.
+- **Files touched:** ten new files under `extracts/C3/`, `SESSION_LOG.md`.
+- **Still owed on C3B08:** the Assignment (`AS`) — authoring, not extraction, off Assignment Generator Spec v1.4.
+
