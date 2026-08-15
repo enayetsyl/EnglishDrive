@@ -1,6 +1,6 @@
 # C3 Block 8 — build state
 
-**Block ID:** `C3B08` · **Week:** W7 (Sun–Wed teaching, Thu Performance Test) · **Master (planned):** `C3_ENG_Block08_Pronoun_v1.md`
+**Block ID:** `C3B08` · **Week:** W7 (Sun–Wed teaching, Thu Performance Test) · **Master (PROMOTED):** `blocks/C3/C3_ENG_Block08_Pronoun_v2_1.md`
 **Topic:** Pronoun — personal pronouns, subject and object; fill-from-passage.
 
 > **Predecessor.** C3 Block 7 (Adjective) was promoted 09.08.26 to `blocks/C3/C3_ENG_Block07_Adjective_v1.md`.
@@ -274,3 +274,40 @@ was relied upon.*
 
 *Phase 2 completed 10.08.26 — eight questions ruled; PD-051/052/053 logged; Charter reissued v1.5 → **v1.6**;
 C3 Drive Plan reissued v1.8 → **v1.9**. Both forward-only per Charter §K.3; neither original edited in place.*
+
+
+---
+
+## PROMOTION — 15.08.26
+
+Principal: *"no its final"* — C3B08 promoted at **v2.1**.
+
+**Promoted master:** `blocks/C3/C3_ENG_Block08_Pronoun_v2_1.md`
+(imported from the Principal's upload `C3B08_Pronoun_master_v2_1.md`, renamed to the forward-only stem
+`C#_ENG_Block##_Topic_v#.md` per CLAUDE.md §6. `blocks/C3/` now holds Blocks 1–8.)
+
+`_wip/` retains `C3B08_blueprint.md`, `C3B08_manifest.json`, `C3_ENG_Block08_Pronoun_v1.md` and this STATE file —
+the audit trail stays with the block, as C3B07's did. **No `_wip/` history cleared.**
+
+**Internal fields corrected at promotion:** the master's `Filename` field (was `…_v1.md`), its `Build status` line
+(was ⚠ IN PROGRESS), and the v2.1 version-log row label. No item, key, mark, part shape or script text was touched.
+
+### ⚑ Outstanding at promotion — carried forward, not blocking
+
+| Owed / open | Detail |
+|---|---|
+| **Assignment, AK, TD** | Not written. The AK is the largest owed artefact: 8 sheets + PT, 250 graded targets. |
+| **Extracts — NONE exist** | The master defines the canonical IDs `C3B08-CW1…CW4` · `HW1…HW4` · `PT` · `AK` · `CC` · `TD`. Not one has been generated to `extracts/C3/`. C3B07 and C2B06b are in the same position. |
+| **⚑R2** | PD-052 cross-class replication not executed — *you* may be missing from the C1/C2/C4/C5 §2 row 8s. |
+| **⚑R3** | CR-032 remains PATTERN with no audit check built; trigger discipline was applied by hand on this block. |
+| **⚑R7** | Six-word File 2 gap: `dish` · `sister` · `boy` · `clean` · `cook` · `pot`. **A graded trigger is still live at CW3 B15** (*"Mother washes the dish."*). Needs one File 2 ruling, not six patches. |
+| **⚑R10** | Run Book §3.14 puts teacher scripts in English with Bangla as *optional support*; on this block the Bangla is **operative** at the Clue Card and the Day 2–4 scripts. This widening has now happened twice without a ruling and should be a PD before it reaches another block. |
+| **Frame-twin sweep** | No systematic sweep has been run; all three twins found to date were found by chance. Each twin found after the AK exists costs an AK edit as well as a sheet edit. |
+
+Per Charter §K.3 the promoted master is **forward-only** — none of the above reopens it. Each is closed by a new
+version file beside it, or by a ruling recorded in the Decision Log.
+
+### §7 — Exact next step (supersedes the §7 above, which is stale from Phase 3)
+
+**Nothing is queued on C3B08 itself.** The next artefact on this block is the **`C3B08-AK` answer key**, which
+should be built before any extract, since every extract keys against it. Awaiting the Principal's instruction.
