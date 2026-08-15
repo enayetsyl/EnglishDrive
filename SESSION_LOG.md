@@ -488,3 +488,43 @@ Append-only. Newest entry last. Never overwrite past entries.
 - **Files touched:** ten new files under `extracts/C3/`, `SESSION_LOG.md`.
 - **Still owed on C3B08:** the Assignment (`AS`) — authoring, not extraction, off Assignment Generator Spec v1.4.
 
+
+---
+
+## 15.08.26 — SCD · C4B07 extract build — HALTED AT ORIENTATION, nothing built
+
+- **Task:** build every canonical C4B07 extract except `AS`, from `C4_ENG_Block07_VerbSVA_v2_0.md`.
+  **No extract, no manifest and no audit run was produced.** Two blockers the master itself declares
+  were confirmed at source and stop the build under CLAUDE.md §3/§4.
+- **Canonical IDs confirmed from the master — eleven, not twelve.** `CW1–CW4 · HW1–HW4 · PT · TD · AK`.
+  **`C4B07-CC` is not declared**, though the master carries two clue-card sections and commits to building
+  them, and C4B05/C4B06 both have promoted `-CC` extracts. `AS` is not declared either, so the exclusion is moot.
+  C3B08's twelve were not assumed.
+- **The audit trail asked for does not exist.** `blocks/C4/_wip/C4B07_manifest.json` was **never written** —
+  divergence count not computable; `dictation` / `pt_self_try_words` / `demo_box_words` have no file to inspect.
+  **No C4B07 report in `audits/reports/`** at any date. The master agrees: *"The repo audit suite has not run
+  against this file."* This is the prior condition, not C3B08's stale-manifest failure.
+- **E-7 confirmed open.** `gate_heldword()` reads only `exemplars` and `block_local`; there is **no `override`
+  field** in `run_all.py` or `README_manifest.md`. `go`/`work` are PD-011 overrides absent from Pool v4 →
+  16 items across CW2/HW2/PT unfailable-honestly. `block_local` is not a substitute: PD-012 words are never
+  dictation-eligible and not held downstream, and `README_manifest.md` FAILs any word in both `block_local`
+  and `dictation` — `go` is dictation-eligible.
+- **E-8 confirmed open, and it is a false-green risk.** The repo's `gate_rehearsal_disjoint()` is the **old**
+  word-set intersection. The rewritten gate — which caught **31 live collisions the old sweep reported as
+  clean** — is absent from `audits/scripts/`, as are `gate_object_head` and `gate_selftry_anticopy`.
+  **`run_all.py` was deliberately not run**: against a hand-built manifest it would print PASS on exactly
+  that gate.
+- **Three further findings, unprompted.** (1) `C4B07_bank_MERGED_312.md`, the source the master says every
+  item was drawn from, **is not in the repo** — only the 256-line candidate bank; item provenance untraceable.
+  (2) The master sits at **repo root**, not `blocks/C4/`, while its own status reads `⚑ NOT PROMOTABLE`.
+  (3) `CORRECTIONS.md` ends at **CR-045** but the master cites **CR-046…CR-053** as applied — eight unlogged,
+  a §5A breach pre-dating this session and unreconstructable here, since the units carrying them are absent.
+- **Records behind the master:** `C4B07_STATE.md` still reads *"No master drafted"*; master cites Decision Log
+  through **PD-058** where high-water is **PD-069** — eleven rulings post-date it, including **PD-067**.
+- **Decisions/approvals given this session:** none. Six questions (Q1–Q6) issued for Principal ruling in
+  `blocks/C4/_wip/C4B07_extract_orientation_blockers_2026-08-15.md`. **No PD assigned — next free is PD-070.**
+  Nothing self-applied; master not written or moved; STATE.md correction proposed, not applied.
+- **Files touched:** `blocks/C4/_wip/C4B07_extract_orientation_blockers_2026-08-15.md` (new), `SESSION_LOG.md`.
+- **Still owed on C4B07:** everything — eleven extracts (or twelve if Q1 adds `CC`), the manifest, and the
+  audit run. Unblock order in §9 of the report: rule E-7 and E-8 first, port the three built gates, recover
+  the merged bank, reconstruct CR-046…CR-053, then rule Q1/Q2 and correct STATE.md.
