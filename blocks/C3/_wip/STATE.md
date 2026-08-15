@@ -311,3 +311,45 @@ version file beside it, or by a ruling recorded in the Decision Log.
 
 **Nothing is queued on C3B08 itself.** The next artefact on this block is the **`C3B08-AK` answer key**, which
 should be built before any extract, since every extract keys against it. Awaiting the Principal's instruction.
+
+---
+
+## C3B08-AK — build state (opened 15.08.26)
+
+**Phase 1 — Orientation: COMPLETE.** Run Book §3.15/§6.11, Charter §K.3, Decision Log (high-water re-derived at HEAD
+= PD-066, next free PD-067), CORRECTIONS.md, both existing AK precedents (`extracts/C3/C3B07-AK.md`,
+`extracts/C4/C4B06_AK.md`), the v2.1 master in full, `C3B08_manifest.json` and `audits/scripts/README_manifest.md`.
+
+**Phase 2 — COMPLETE.** Four Principal rulings, 15.08.26:
+1. AK built now, Assignment section omitted → **PD-067** logged.
+2. Answers **re-derived from item text**, manifest used as cross-check only.
+3. Manifest rebuilt from the master, PT added, gates re-run.
+4. PT renumbered continuously → master **v2.2**.
+
+**Phase 3 — Blueprint written to `_wip/C3B08_AK_blueprint.md`. AWAITING APPROVAL.** One open FAIL in §D.1.
+
+### What was found and done this session
+
+- **CR-036** — the manifest had not been updated since v1.4; 27 of 216 item texts diverged, `demo_box_words` stale,
+  `dictation` and `pt_self_try_words` empty. The only audit report on file was dated 10.08.26, so every
+  "ALL GATES PASS" claim from v1.5 onward was carried forward from a v1.4-era run. **Rebuilt from the v2.2 master.**
+  The superseded file is kept at `_wip/C3B08_manifest_v14_superseded.json`; nothing deleted.
+- **CR-037** — the PT had never been manifested. The 10.08 report's own lines read "0 PT items" and "0 self-try".
+  Now manifested as a ninth sheet; PT zero-overlap re-run over 22 real items and PASSES.
+- **CR-038 / CR-041** — PT numbering collision and a stale administration note, both fixed at **v2.2**.
+- **CR-039** — CW2 C28 and HW2 C24 were keyed `You` for a mid-sentence vocative blank. Genuine key error, found by
+  re-derivation. The AK will key `you`.
+- **CR-040 — ⚑ OPEN FAIL.** PD-036 cross-sheet repetition: `Maryam` is a bare Part B item on both CW1 #16 and HW1 #12,
+  created by v1.5's balance repair. **Blocks the AK until ruled.** Recommendation in blueprint §D.1.
+
+### Audit state
+
+`audits/reports/C3B08_audit_2026-08-15.txt` — 12 PASS, 1 FAIL (CR-040). Mark totals recomputed and matching on all
+nine artefacts. Held-word gate now checks **248** graded targets, up from 216.
+
+### Exact next step
+
+**Await the ruling on CR-040 (blueprint §D.1) and approval of `_wip/C3B08_AK_blueprint.md`.** On approval: fix the
+repetition as a v2.3 master, re-run `run_all.py` to a clean report, then draft the AK to `_wip/` in §3.15 order,
+pausing for review between artefacts.
+

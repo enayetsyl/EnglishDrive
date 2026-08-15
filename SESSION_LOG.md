@@ -361,3 +361,34 @@ Append-only. Newest entry last. Never overwrite past entries.
 - **Files touched:** `blocks/C3/C3_ENG_Block08_Pronoun_v2_1.md` (new), `blocks/C3/_wip/STATE.md`, `SESSION_LOG.md`.
 - **Commits:** `f8a6637` (file), `5764599` (header + STATE), plus this log entry.
 - **Next:** `C3B08-AK` before any extract — every extract keys against it. Awaiting instruction.
+
+---
+
+## 15.08.26 — SCD · C3B08-AK Phases 1–3: manifest rebuilt, master v2.2, one open FAIL
+
+- **Task:** open the `C3B08-AK` build. Phase 1 orientation surfaced two blockers before any key was drafted.
+- **Blocker 1 — Run Book §6.11 ordering.** The AK may not be assembled until the Assignment is final, and C3B08 has
+  none. Both existing AKs (`C3B07-AK`, `C4B06_AK`) already ship without an Assignment section, so practice had
+  overtaken the rule twice unruled. Principal released the ordering → **PD-067 logged** (next free now PD-068).
+- **Blocker 2 — the manifest was six versions stale (CR-036).** 27 of 216 item texts diverged from the promoted
+  master, `demo_box_words` held the v1.4 set, `dictation` and `pt_self_try_words` were empty, and **the PT was absent
+  entirely (CR-037)** — the 10.08 report's own lines read "0 PT items" and "0 self-try", both reported PASS on empty
+  sets. `audits/reports/` held one C3B08 report, dated 10.08.26, so every "ALL GATES PASS" claim from v1.5 to v2.1 was
+  that one run carried forward. **34 of 250 marks had never been gated.**
+- **Master v2.2 issued** (forward-only, §K.3): PT renumbered continuously (CR-038 — Part A ran 1–10 and Part C
+  restarted at 1–6, which §6.11 forbids and §3.15 r.1 would have pushed into the key); stale "four words" note
+  corrected to eight (CR-041). **No item text, answer, mark value or part shape changed.**
+- **Manifest rebuilt from v2.2**, PT added as a ninth sheet, dictation and self-try populated, `demo_box_words`
+  corrected. Superseded file retained at `_wip/C3B08_manifest_v14_superseded.json`.
+- **Answers re-derived from item text** on the Principal's ruling, then cross-checked: **161 agree, 13 differ**, all 13
+  in the master's favour — 3 Rabab she→he (PD-057, never manifested), 8 "describing word"→"adjective" (v1.9), and
+  **CR-039**, a genuine key error: CW2 C28 / HW2 C24 keyed `You` for a mid-sentence vocative blank.
+- **⚑ OPEN FAIL — CR-040.** `run_all.py` re-run 15.08.26: **12 PASS, 1 FAIL.** PD-036 cross-sheet repetition —
+  `Maryam` is a bare Part B item on both CW1 #16 and HW1 #12, created by v1.5's balance repair and invisible for six
+  versions because the manifest was stale. 2nd occurrence of the CR-009 type. **Blocks the AK until ruled.**
+- **Files touched:** `blocks/C3/C3_ENG_Block08_Pronoun_v2_2.md` (new), `blocks/C3/_wip/C3B08_AK_blueprint.md` (new),
+  `blocks/C3/_wip/C3B08_manifest.json`, `_wip/C3B08_manifest_v14_superseded.json` (new), `_wip/STATE.md`,
+  `governance/CORRECTIONS.md` (CR-036…CR-041), `governance/Curriculum_Design_Decision_Log_Working.md` (PD-067),
+  `audits/reports/C3B08_audit_2026-08-15.txt` (new), `SESSION_LOG.md`.
+- **Next:** Principal ruling on CR-040 + approval of the blueprint. Then v2.3, clean audit, then the AK itself.
+

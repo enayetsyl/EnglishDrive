@@ -45,11 +45,11 @@
     {
       "name": "CW1",
       "type": "worksheet",
+      "pair": "HW1",
       "stated_total": 28,
       "parts": [
         {
           "name": "A",
-          "instructions": "Underline the pronoun in each sentence.",
           "items": [
             {
               "text": "He reads a book.",
@@ -64,7 +64,7 @@
               "marks": 1
             },
             {
-              "text": "It is a bright morning.",
+              "text": "It is a cold morning.",
               "answer": "It",
               "trigger": "morning",
               "marks": 1
@@ -117,56 +117,56 @@
             "she",
             "it",
             "they"
-          ]
+          ],
+          "instructions": "Underline the pronoun in each sentence."
         },
         {
           "name": "B",
-          "instructions": "Write he, she, it or they for each naming word.",
           "items": [
             {
-              "text": "Yusuf → ______",
+              "text": "Yusuf",
               "answer": "he",
               "trigger": "Yusuf",
               "marks": 1
             },
             {
-              "text": "the kite → ______",
+              "text": "the kite",
               "answer": "it",
               "trigger": "kite",
               "marks": 1
             },
             {
-              "text": "Aisha → ______",
+              "text": "Aisha",
               "answer": "she",
               "trigger": "Aisha",
               "marks": 1
             },
             {
-              "text": "Yusuf and Abdullah → ______",
+              "text": "Yusuf and Abdullah",
               "answer": "they",
               "trigger": "Yusuf",
               "marks": 1
             },
             {
-              "text": "the tree → ______",
+              "text": "the tree",
               "answer": "it",
               "trigger": "tree",
               "marks": 1
             },
             {
-              "text": "Maryam → ______",
+              "text": "Maryam",
               "answer": "she",
               "trigger": "Maryam",
               "marks": 1
             },
             {
-              "text": "Nusair → ______",
+              "text": "Nusair",
               "answer": "he",
               "trigger": "Nusair",
               "marks": 1
             },
             {
-              "text": "Aisha and Fatima → ______",
+              "text": "Aisha and Fatima",
               "answer": "they",
               "trigger": "Aisha",
               "marks": 1
@@ -177,68 +177,68 @@
             "she",
             "it",
             "they"
-          ]
+          ],
+          "instructions": "Write he, she, it or they for each naming word."
         },
         {
           "name": "C",
-          "instructions": "Write the pronoun that takes the place of the underlined naming word.",
           "items": [
             {
-              "text": "Porshi goes to school. → ______",
+              "text": "Porshi goes to school.",
               "answer": "She",
               "trigger": "Porshi",
               "marks": 1
             },
             {
-              "text": "The bag is on the bed. → ______",
+              "text": "The bag is on the bed.",
               "answer": "It",
               "trigger": "bag",
               "marks": 1
             },
             {
-              "text": "Abdullah eats the corn. → ______",
+              "text": "Abdullah eats the corn.",
               "answer": "He",
               "trigger": "Abdullah",
               "marks": 1
             },
             {
-              "text": "Rabab and Nusair clean the classroom. → ______",
+              "text": "Rabab and Maryam clean the classroom.",
               "answer": "They",
               "trigger": "Rabab",
               "marks": 1
             },
             {
-              "text": "The hen is in the hut. → ______",
+              "text": "The hen is in the hut.",
               "answer": "It",
               "trigger": "hen",
               "marks": 1
             },
             {
-              "text": "Abdur Rahim carries the water. → ______",
+              "text": "Abdur Rahim carries the water.",
               "answer": "He",
               "trigger": "Abdur Rahim",
               "marks": 1
             },
             {
-              "text": "Fatima helps the family. → ______",
+              "text": "Fatima helps the family.",
               "answer": "She",
               "trigger": "Fatima",
               "marks": 1
             },
             {
-              "text": "The books are on the shelf. → ______",
+              "text": "The books are on the shelf.",
               "answer": "They",
               "trigger": "book",
               "marks": 1
             },
             {
-              "text": "Nusair plays football. → ______",
+              "text": "Nusair plays football.",
               "answer": "He",
               "trigger": "Nusair",
               "marks": 1
             },
             {
-              "text": "Aisha takes the soap. → ______",
+              "text": "Aisha takes the soap.",
               "answer": "She",
               "trigger": "Aisha",
               "marks": 1
@@ -249,10 +249,10 @@
             "she",
             "it",
             "they"
-          ]
+          ],
+          "instructions": "Write the pronoun that takes the place of the underlined naming word."
         }
       ],
-      "pair": "HW1",
       "boxes": [
         "Remember. A pronoun takes the place of a naming word. Today's pronouns: he she it they. one boy or man he; one girl or woman she; one thing it; more than one they"
       ]
@@ -264,7 +264,6 @@
       "parts": [
         {
           "name": "A",
-          "instructions": "Underline the pronoun in each sentence.",
           "items": [
             {
               "text": "They clean the garden.",
@@ -273,7 +272,7 @@
               "marks": 1
             },
             {
-              "text": "It is a cold day.",
+              "text": "It is a wet day.",
               "answer": "It",
               "trigger": "day",
               "marks": 1
@@ -332,56 +331,56 @@
             "she",
             "it",
             "they"
-          ]
+          ],
+          "instructions": "Underline the pronoun in each sentence."
         },
         {
           "name": "B",
-          "instructions": "Write he, she, it or they for each naming word.",
           "items": [
             {
-              "text": "Aisha and Raima → ______",
+              "text": "Aisha and Raima",
               "answer": "they",
               "trigger": "Aisha",
               "marks": 1
             },
             {
-              "text": "Maryam → ______",
-              "answer": "she",
-              "trigger": "Maryam",
+              "text": "Abdur Rahim",
+              "answer": "he",
+              "trigger": "Abdur Rahim",
               "marks": 1
             },
             {
-              "text": "the shelf → ______",
+              "text": "the shelf",
               "answer": "it",
               "trigger": "shelf",
               "marks": 1
             },
             {
-              "text": "Rabab → ______",
-              "answer": "he",
+              "text": "Rabab",
+              "answer": "she",
               "trigger": "Rabab",
               "marks": 1
             },
             {
-              "text": "Abdullah and Nusair → ______",
+              "text": "Abdullah and Nusair",
               "answer": "they",
               "trigger": "Abdullah",
               "marks": 1
             },
             {
-              "text": "the river → ______",
+              "text": "the river",
               "answer": "it",
               "trigger": "river",
               "marks": 1
             },
             {
-              "text": "Porshi → ______",
+              "text": "Porshi",
               "answer": "she",
               "trigger": "Porshi",
               "marks": 1
             },
             {
-              "text": "Abdullah → ______",
+              "text": "Abdullah",
               "answer": "he",
               "trigger": "Abdullah",
               "marks": 1
@@ -392,56 +391,56 @@
             "she",
             "it",
             "they"
-          ]
+          ],
+          "instructions": "Write he, she, it or they for each naming word."
         },
         {
           "name": "C",
-          "instructions": "Write the pronoun that takes the place of the underlined naming word.",
           "items": [
             {
-              "text": "The cat is on the mat. → ______",
+              "text": "The cat is on the mat.",
               "answer": "It",
               "trigger": "cat",
               "marks": 1
             },
             {
-              "text": "Yusuf and Abdur Rahim wash the classroom. → ______",
+              "text": "Yusuf and Abdur Rahim wash the classroom.",
               "answer": "They",
               "trigger": "Yusuf",
               "marks": 1
             },
             {
-              "text": "Jesmin Akter keeps the food. → ______",
+              "text": "Jesmin Akter keeps the food.",
               "answer": "She",
               "trigger": "Jesmin Akter",
               "marks": 1
             },
             {
-              "text": "The pen is in the bag. → ______",
+              "text": "The pen is in the bag.",
               "answer": "It",
               "trigger": "pen",
               "marks": 1
             },
             {
-              "text": "Raima takes the card. → ______",
+              "text": "Raima takes the card.",
               "answer": "She",
               "trigger": "Raima",
               "marks": 1
             },
             {
-              "text": "Nusair opens the tin. → ______",
+              "text": "Nusair opens the tin.",
               "answer": "He",
               "trigger": "Nusair",
               "marks": 1
             },
             {
-              "text": "The hens are in the hut. → ______",
+              "text": "The hens are in the hut.",
               "answer": "They",
               "trigger": "hen",
               "marks": 1
             },
             {
-              "text": "Abdullah drinks water. → ______",
+              "text": "Abdullah drinks the water.",
               "answer": "He",
               "trigger": "Abdullah",
               "marks": 1
@@ -452,7 +451,8 @@
             "she",
             "it",
             "they"
-          ]
+          ],
+          "instructions": "Write the pronoun that takes the place of the underlined naming word."
         }
       ],
       "boxes": [
@@ -462,7 +462,11 @@
     {
       "name": "CW2",
       "type": "worksheet",
+      "pair": "HW2",
       "stated_total": 28,
+      "boxes": [
+        "New today. I the one speaking; we the one speaking and others; you the one being spoken to. I always takes a capital letter."
+      ],
       "parts": [
         {
           "name": "A",
@@ -475,7 +479,7 @@
               "marks": 1
             },
             {
-              "text": "We clean the classroom on Sunday.",
+              "text": "We wash the classroom on Sunday.",
               "answer": "We",
               "trigger": "classroom",
               "marks": 1
@@ -501,7 +505,7 @@
             {
               "text": "I drink water after exercise.",
               "answer": "I",
-              "trigger": "water",
+              "trigger": "exercise",
               "marks": 1
             },
             {
@@ -535,50 +539,50 @@
           "instructions": "Write the pronoun that takes the place of the underlined naming words.",
           "items": [
             {
-              "text": "My brother and I clean the garden. → ______",
+              "text": "My brother and I keep the garden.",
               "answer": "We",
               "trigger": "brother",
               "marks": 1
             },
             {
-              "text": "The leaf is on the soil. → ______",
+              "text": "The leaf is on the soil.",
               "answer": "It",
               "trigger": "leaf",
               "marks": 1
             },
             {
-              "text": "Maryam carries the crop. → ______",
+              "text": "Maryam carries the crop.",
               "answer": "She",
               "trigger": "Maryam",
               "marks": 1
             },
             {
-              "text": "Nusair and Abdullah pass the field. → ______",
+              "text": "Nusair and Abdullah pass the field.",
               "answer": "They",
               "trigger": "Nusair",
               "marks": 1
             },
             {
-              "text": "My family and I eat breakfast. → ______",
+              "text": "My family and I eat breakfast.",
               "answer": "We",
               "trigger": "family",
               "marks": 1
             },
             {
-              "text": "Abdur Rahim keeps the corn. → ______",
+              "text": "Abdur Rahim keeps the corn.",
               "answer": "He",
               "trigger": "Abdur Rahim",
               "marks": 1
             },
             {
-              "text": "The ants are on the plant. → ______",
+              "text": "The ants are on the plant.",
               "answer": "They",
               "trigger": "ant",
               "marks": 1
             },
             {
-              "text": "Rabab starts the exercise. → ______",
-              "answer": "He",
+              "text": "Rabab starts the exercise.",
+              "answer": "She",
               "trigger": "Rabab",
               "marks": 1
             }
@@ -589,77 +593,76 @@
           "instructions": "Read both sentences. Write the pronoun in the blank.",
           "items": [
             {
-              "text": "Yusuf has a new kite. ______ is red.",
+              "text": "Yusuf has a new kite. ___ is red.",
               "answer": "It",
               "trigger": "kite",
               "marks": 1
             },
             {
-              "text": "Aisha reads a story. ______ likes the book.",
+              "text": "Aisha reads a story. ___ likes the book.",
               "answer": "She",
               "trigger": "Aisha",
               "marks": 1
             },
             {
-              "text": "The ants carry the corn. ______ are on the soil.",
+              "text": "The ants carry the corn. ___ are on the soil.",
               "answer": "They",
               "trigger": "ant",
               "marks": 1
             },
             {
-              "text": "My name is Nusair. ______ am in class three.",
+              "text": "My name is Nusair. ___ am in class three.",
               "answer": "I",
               "trigger": "Nusair",
               "marks": 1
             },
             {
-              "text": "Porshi has two hats. ______ are new.",
+              "text": "Porshi has two hats. ___ are new.",
               "answer": "They",
               "trigger": "hat",
               "marks": 1
             },
             {
-              "text": "Maryam helps the neighbour. ______ is a good girl.",
+              "text": "Maryam helps the neighbour. ___ is a good girl.",
               "answer": "She",
               "trigger": "Maryam",
               "marks": 1
             },
             {
-              "text": "My brother and I go to the field. ______ play football.",
+              "text": "My brother and I go to the field. ___ play football.",
               "answer": "We",
               "trigger": "brother",
               "marks": 1
             },
             {
-              "text": "Abdur Rahim eats the corn. ______ goes to school.",
+              "text": "Abdur Rahim eats the corn. ___ goes to school.",
               "answer": "He",
               "trigger": "Abdur Rahim",
               "marks": 1
             },
             {
-              "text": "The grasshopper is in the field. ______ eats the leaf.",
+              "text": "The grasshopper passes the field. ___ is in the corn.",
               "answer": "It",
               "trigger": "grasshopper",
               "marks": 1
             },
             {
-              "text": "Yusuf, ______ are a good friend.",
-              "answer": "you",
+              "text": "Yusuf, ___ are a good friend.",
+              "answer": "You",
               "trigger": "Yusuf",
               "marks": 1
             }
           ]
         }
-      ],
-      "pair": "HW2",
-      "boxes": [
-        "New today. I the one speaking; we the one speaking and others; you the one being spoken to. I always takes a capital letter."
       ]
     },
     {
       "name": "HW2",
       "type": "worksheet",
       "stated_total": 26,
+      "boxes": [
+        "New today. I the one speaking; we the one speaking and others; you the one being spoken to. I always takes a capital letter."
+      ],
       "parts": [
         {
           "name": "A",
@@ -678,9 +681,9 @@
               "marks": 1
             },
             {
-              "text": "She wipes the shelf.",
+              "text": "She rinses the palm.",
               "answer": "She",
-              "trigger": "shelf",
+              "trigger": "palm",
               "marks": 1
             },
             {
@@ -708,13 +711,13 @@
               "marks": 1
             },
             {
-              "text": "We eat fish.",
+              "text": "We eat the fish.",
               "answer": "We",
               "trigger": "fish",
               "marks": 1
             },
             {
-              "text": "They drink water.",
+              "text": "They drink the water.",
               "answer": "They",
               "trigger": "water",
               "marks": 1
@@ -732,49 +735,49 @@
           "instructions": "Write the pronoun that takes the place of the underlined naming words.",
           "items": [
             {
-              "text": "The corn is in the field. → ______",
+              "text": "The corn is in the field.",
               "answer": "It",
               "trigger": "corn",
               "marks": 1
             },
             {
-              "text": "Aisha and Maryam keep the towels. → ______",
+              "text": "Aisha and Maryam keep the towels.",
               "answer": "They",
               "trigger": "Aisha",
               "marks": 1
             },
             {
-              "text": "My family and I read a story. → ______",
+              "text": "My family and I read a story.",
               "answer": "We",
               "trigger": "family",
               "marks": 1
             },
             {
-              "text": "Yusuf passes the river. → ______",
+              "text": "Yusuf passes the river.",
               "answer": "He",
               "trigger": "Yusuf",
               "marks": 1
             },
             {
-              "text": "The leaves are on the soil. → ______",
+              "text": "The leaves are on the soil.",
               "answer": "They",
               "trigger": "leaf",
               "marks": 1
             },
             {
-              "text": "Fatima takes the plant. → ______",
+              "text": "Fatima takes the plant.",
               "answer": "She",
               "trigger": "Fatima",
               "marks": 1
             },
             {
-              "text": "My father and I go to the garden. → ______",
+              "text": "My father and I go to the garden.",
               "answer": "We",
               "trigger": "father",
               "marks": 1
             },
             {
-              "text": "Nusair eats the fish. → ______",
+              "text": "Nusair eats the fish.",
               "answer": "He",
               "trigger": "Nusair",
               "marks": 1
@@ -786,63 +789,61 @@
           "instructions": "Read both sentences. Write the pronoun in the blank.",
           "items": [
             {
-              "text": "The mat is in the hut. ______ is clean.",
+              "text": "The dish is on the mat. ___ is clean.",
               "answer": "It",
-              "trigger": "mat",
+              "trigger": "dish",
               "marks": 1
             },
             {
-              "text": "Yusuf and Abdur Rahim go to the hut. ______ carry the corn.",
+              "text": "Yusuf and Abdur Rahim go to the field. ___ carry the corn.",
               "answer": "They",
               "trigger": "Yusuf",
               "marks": 1
             },
             {
-              "text": "My mother and I eat the food. ______ rinse the tin.",
+              "text": "My mother and I keep the food. ___ wash the dish.",
               "answer": "We",
               "trigger": "mother",
               "marks": 1
             },
             {
-              "text": "Porshi reads a book. ______ likes the story.",
+              "text": "Porshi reads a book. ___ likes the story.",
               "answer": "She",
               "trigger": "Porshi",
               "marks": 1
             },
             {
-              "text": "My name is Rabab. ______ am a good friend.",
+              "text": "My name is Rabab. ___ am a good member.",
               "answer": "I",
               "trigger": "Rabab",
               "marks": 1
             },
             {
-              "text": "Nusair, ______ are a good brother.",
-              "answer": "you",
+              "text": "Nusair, ___ are a good brother.",
+              "answer": "You",
               "trigger": "Nusair",
               "marks": 1
             },
             {
-              "text": "The grasshoppers eat the crop. ______ are on the leaf.",
+              "text": "The grasshoppers pass the plant. ___ are on the leaf.",
               "answer": "They",
               "trigger": "grasshopper",
               "marks": 1
             },
             {
-              "text": "The tree is in the garden. ______ has many leaves.",
+              "text": "The tree is in the garden. ___ has many leaves.",
               "answer": "It",
               "trigger": "tree",
               "marks": 1
             }
           ]
         }
-      ],
-      "boxes": [
-        "New today. I the one speaking; we the one speaking and others; you the one being spoken to. I always takes a capital letter."
       ]
     },
     {
       "name": "CW3",
       "type": "worksheet",
+      "pair": "HW3",
       "stated_total": 28,
       "parts": [
         {
@@ -870,7 +871,7 @@
             {
               "text": "Porshi takes them to the garden.",
               "answer": "them",
-              "trigger": "Porshi",
+              "trigger": "garden",
               "marks": 1
             },
             {
@@ -904,49 +905,49 @@
           "instructions": "Write the pronoun that takes the place of the underlined naming word.",
           "items": [
             {
-              "text": "Yusuf helps Abdullah. → ______",
+              "text": "Yusuf helps Abdullah.",
               "answer": "him",
               "trigger": "Abdullah",
               "marks": 1
             },
             {
-              "text": "Aisha keeps the towels on the shelf. → ______",
+              "text": "Aisha keeps the towels on the shelf.",
               "answer": "them",
               "trigger": "towel",
               "marks": 1
             },
             {
-              "text": "Porshi calls Maryam. → ______",
+              "text": "Porshi calls Maryam.",
               "answer": "her",
               "trigger": "Maryam",
               "marks": 1
             },
             {
-              "text": "Nusair carries the corn to the hut. → ______",
+              "text": "Nusair carries the corn to the hut.",
               "answer": "it",
               "trigger": "corn",
               "marks": 1
             },
             {
-              "text": "Rabab helps Yusuf and Nusair. → ______",
+              "text": "Rabab helps Fatima and Maryam.",
               "answer": "them",
-              "trigger": "Yusuf",
+              "trigger": "Fatima",
               "marks": 1
             },
             {
-              "text": "Abdur Rahim gives Yusuf a pen. → ______",
+              "text": "Abdur Rahim gives Yusuf a pen.",
               "answer": "him",
               "trigger": "Yusuf",
               "marks": 1
             },
             {
-              "text": "Mother washes the dish. → ______",
+              "text": "Mother washes the dish.",
               "answer": "it",
               "trigger": "dish",
               "marks": 1
             },
             {
-              "text": "Aisha meets Raima. → ______",
+              "text": "Aisha meets Raima.",
               "answer": "her",
               "trigger": "Raima",
               "marks": 1
@@ -958,49 +959,49 @@
           "instructions": "Read both sentences. Write the pronoun in the blank.",
           "items": [
             {
-              "text": "Yusuf has a new bag. Mother gives ______ a pen.",
+              "text": "Yusuf has a new bag. Mother gives ___ a pen.",
               "answer": "him",
               "trigger": "Yusuf",
               "marks": 1
             },
             {
-              "text": "Aisha and Maryam clean the garden. Porshi helps ______.",
+              "text": "Aisha and Maryam clean the garden. Porshi helps ___.",
               "answer": "them",
               "trigger": "Aisha",
               "marks": 1
             },
             {
-              "text": "The corn is in the field. Nusair carries ______ to the hut.",
+              "text": "The corn is in the field. Nusair carries ___ to the hut.",
               "answer": "it",
               "trigger": "corn",
               "marks": 1
             },
             {
-              "text": "I am in class three. My father helps ______.",
+              "text": "I am in class three. My father helps ___.",
               "answer": "me",
               "trigger": "father",
               "marks": 1
             },
             {
-              "text": "Abdullah is a good friend. Yusuf calls ______ every morning.",
+              "text": "Abdullah is a good friend. Yusuf calls ___ every morning.",
               "answer": "him",
               "trigger": "Abdullah",
               "marks": 1
             },
             {
-              "text": "Rabab has two hats. ______ are new.",
+              "text": "Rabab has two hats. ___ are new.",
               "answer": "They",
               "trigger": "hat",
               "marks": 1
             },
             {
-              "text": "We go to the field. Nusair passes ______ the football.",
+              "text": "We go to the field. Nusair passes ___ the football.",
               "answer": "us",
-              "trigger": "football",
+              "trigger": "field",
               "marks": 1
             },
             {
-              "text": "Fatima reads a story. ______ likes the book.",
+              "text": "Fatima reads a story. ___ likes the book.",
               "answer": "She",
               "trigger": "Fatima",
               "marks": 1
@@ -1009,40 +1010,39 @@
         },
         {
           "name": "D",
-          "instructions": "Is the word in bold an adjective or a pronoun? Write adjective or pronoun.",
+          "instructions": "Is the word in bold a describing word or a pronoun? Write describing word or pronoun.",
           "items": [
             {
-              "text": "Aisha keeps her book on the shelf. → ______",
-              "answer": "adjective",
+              "text": "Aisha keeps her book on the shelf.",
+              "answer": "describing word",
               "trigger": "book",
               "marks": 1
             },
             {
-              "text": "Raima helps her. → ______",
+              "text": "Raima helps her.",
               "answer": "pronoun",
               "trigger": "Raima",
               "marks": 1
             },
             {
-              "text": "Abdur Rahim calls him. → ______",
+              "text": "Abdur Rahim calls him.",
               "answer": "pronoun",
               "trigger": "Abdur Rahim",
               "marks": 1
             },
             {
-              "text": "Nusair carries his bag. → ______",
-              "answer": "adjective",
+              "text": "Nusair carries his bag.",
+              "answer": "describing word",
               "trigger": "bag",
               "marks": 1
             }
           ],
           "options": [
-            "adjective",
+            "describing word",
             "pronoun"
           ]
         }
-      ],
-      "pair": "HW3"
+      ]
     },
     {
       "name": "HW3",
@@ -1108,39 +1108,39 @@
           "instructions": "Write the pronoun that takes the place of the underlined naming word.",
           "items": [
             {
-              "text": "Porshi keeps the cards in the bag. → ______",
+              "text": "Porshi keeps the cards in the bag.",
               "answer": "them",
               "trigger": "card",
               "marks": 1
             },
             {
-              "text": "Mother gives Abdur Rahim a towel. → ______",
+              "text": "Mother gives Abdur Rahim a towel.",
               "answer": "him",
               "trigger": "Abdur Rahim",
               "marks": 1
             },
             {
-              "text": "Abdullah carries the leaf. → ______",
+              "text": "Abdullah carries the leaf.",
               "answer": "it",
               "trigger": "leaf",
               "marks": 1
             },
             {
-              "text": "Maryam helps Aisha. → ______",
+              "text": "Maryam helps Aisha.",
               "answer": "her",
               "trigger": "Aisha",
               "marks": 1
             },
             {
-              "text": "Yusuf calls Nusair. → ______",
+              "text": "Yusuf calls Nusair.",
               "answer": "him",
               "trigger": "Nusair",
               "marks": 1
             },
             {
-              "text": "Rabab meets Yusuf and Abdur Rahim. → ______",
+              "text": "Rabab meets Fatima and Raima.",
               "answer": "them",
-              "trigger": "Yusuf",
+              "trigger": "Fatima",
               "marks": 1
             }
           ]
@@ -1150,49 +1150,49 @@
           "instructions": "Read both sentences. Write the pronoun in the blank.",
           "items": [
             {
-              "text": "The soap is near the tap. Abdullah takes ______ to the bath.",
+              "text": "The soap is on the tap. Fatima keeps ___ in the dish.",
               "answer": "it",
               "trigger": "soap",
               "marks": 1
             },
             {
-              "text": "Maryam has a new pen. Mother gives ______ a book.",
+              "text": "Maryam has a new pen. Mother gives ___ a book.",
               "answer": "her",
               "trigger": "Maryam",
               "marks": 1
             },
             {
-              "text": "We live in a village. Father takes ______ to the city.",
+              "text": "We live in a village. Father takes ___ to the city.",
               "answer": "us",
               "trigger": "village",
               "marks": 1
             },
             {
-              "text": "Yusuf and Nusair play football. Abdullah helps ______.",
+              "text": "Yusuf and Nusair play football. Abdullah helps ___.",
               "answer": "them",
               "trigger": "Yusuf",
               "marks": 1
             },
             {
-              "text": "Rabab washes the dish. ______ keeps it on the shelf.",
-              "answer": "He",
+              "text": "Rabab washes the dish. ___ keeps it on the shelf.",
+              "answer": "She",
               "trigger": "Rabab",
               "marks": 1
             },
             {
-              "text": "I go to school every morning. Father takes ______ to the library.",
+              "text": "I go to school every morning. Father takes ___ to the library.",
               "answer": "me",
-              "trigger": "school",
+              "trigger": "father",
               "marks": 1
             },
             {
-              "text": "Porshi is a good friend. Raima calls ______ every evening.",
+              "text": "Porshi is a good friend. Raima calls ___ every evening.",
               "answer": "her",
               "trigger": "Porshi",
               "marks": 1
             },
             {
-              "text": "The leaves are on the tree. ______ are wet.",
+              "text": "The leaves are on the tree. ___ are wet.",
               "answer": "They",
               "trigger": "leaf",
               "marks": 1
@@ -1201,35 +1201,35 @@
         },
         {
           "name": "D",
-          "instructions": "Is the word in bold an adjective or a pronoun? Write adjective or pronoun.",
+          "instructions": "Is the word in bold a describing word or a pronoun? Write describing word or pronoun.",
           "items": [
             {
-              "text": "Abdullah helps him. → ______",
+              "text": "Abdullah helps him.",
               "answer": "pronoun",
               "trigger": "Abdullah",
               "marks": 1
             },
             {
-              "text": "Yusuf keeps his pen in the bag. → ______",
-              "answer": "adjective",
+              "text": "Yusuf keeps his pen in the bag.",
+              "answer": "describing word",
               "trigger": "pen",
               "marks": 1
             },
             {
-              "text": "Porshi washes her dish. → ______",
-              "answer": "adjective",
+              "text": "Porshi washes her dish.",
+              "answer": "describing word",
               "trigger": "dish",
               "marks": 1
             },
             {
-              "text": "Aisha calls her. → ______",
+              "text": "Aisha calls her.",
               "answer": "pronoun",
               "trigger": "Aisha",
               "marks": 1
             }
           ],
           "options": [
-            "adjective",
+            "describing word",
             "pronoun"
           ]
         }
@@ -1238,6 +1238,7 @@
     {
       "name": "CW4",
       "type": "worksheet",
+      "pair": "HW4",
       "stated_total": 28,
       "parts": [
         {
@@ -1245,49 +1246,49 @@
           "instructions": "Read the passage. Write the correct pronoun in each blank.",
           "items": [
             {
-              "text": "Aisha and Maryam go to the garden on Friday. ______ carry a new bag.",
+              "text": "Aisha and Maryam go to the garden on Friday. ___ carry a new bag.",
               "answer": "They",
               "trigger": "Aisha",
               "marks": 1
             },
             {
-              "text": "A wet towel is near the tap. ______ is dirty.",
+              "text": "A wet towel is near the tap. ___ is dirty.",
               "answer": "It",
               "trigger": "towel",
               "marks": 1
             },
             {
-              "text": "Maryam takes the towel. Aisha helps ______.",
+              "text": "Maryam takes the towel. Aisha helps ___.",
               "answer": "her",
               "trigger": "Maryam",
               "marks": 1
             },
             {
-              "text": "Mother calls the girls. ______ gives them breakfast.",
+              "text": "Mother calls the girls. ___ gives them breakfast.",
               "answer": "She",
-              "trigger": "Mother",
+              "trigger": "girl",
               "marks": 1
             },
             {
-              "text": "\"Maryam, ______ are a good neighbour,\" says Mother.",
+              "text": "Maryam, ___ are a good neighbour, says Mother.",
               "answer": "you",
-              "trigger": "Maryam",
+              "trigger": "neighbour",
               "marks": 1
             },
             {
-              "text": "Yusuf and Nusair pass the field. Abdullah meets ______ near the tree.",
+              "text": "Yusuf and Nusair pass the field. Abdullah meets ___ near the tree.",
               "answer": "them",
               "trigger": "Yusuf",
               "marks": 1
             },
             {
-              "text": "Nusair has a book. Abdullah takes ______ to the library.",
+              "text": "Nusair has a book. Abdullah takes ___ to the library.",
               "answer": "it",
               "trigger": "book",
               "marks": 1
             },
             {
-              "text": "My brother and I clean the hut. Mother gives ______ the food.",
+              "text": "My brother and I clean the hut. Mother gives ___ the food.",
               "answer": "us",
               "trigger": "brother",
               "marks": 1
@@ -1299,49 +1300,49 @@
           "instructions": "Find the wrong pronoun and write the correct one. Some are already correct.",
           "items": [
             {
-              "text": "Yusuf helps she. → ______",
+              "text": "Yusuf helps she.",
               "answer": "her",
               "trigger": "Yusuf",
               "marks": 1
             },
             {
-              "text": "Mother gives I a card. → ______",
+              "text": "Mother gives I a card.",
               "answer": "me",
               "trigger": "card",
               "marks": 1
             },
             {
-              "text": "Aisha helps them. → ______",
+              "text": "Aisha helps them.",
               "answer": "correct",
               "trigger": "Aisha",
               "marks": 1
             },
             {
-              "text": "Abdullah calls he. → ______",
+              "text": "Abdullah calls he.",
               "answer": "him",
               "trigger": "Abdullah",
               "marks": 1
             },
             {
-              "text": "Us go to the library. → ______",
+              "text": "Us go to the library.",
               "answer": "We",
               "trigger": "library",
               "marks": 1
             },
             {
-              "text": "Nusair meets them. → ______",
+              "text": "Nusair meets them.",
               "answer": "correct",
               "trigger": "Nusair",
               "marks": 1
             },
             {
-              "text": "Father takes we to the city. → ______",
+              "text": "Father takes we to the city.",
               "answer": "us",
               "trigger": "city",
               "marks": 1
             },
             {
-              "text": "Him keeps the bag. → ______",
+              "text": "Him keeps the bag.",
               "answer": "He",
               "trigger": "bag",
               "marks": 1
@@ -1353,49 +1354,49 @@
           "instructions": "Read both sentences. Write the pronoun in the blank.",
           "items": [
             {
-              "text": "Abdullah has a cozy hut. Yusuf keeps the corn in ______.",
+              "text": "Fatima has a cozy hut. Yusuf keeps the corn in ___.",
               "answer": "it",
               "trigger": "hut",
               "marks": 1
             },
             {
-              "text": "Aisha and Raima start the exercise. ______ carry the mat.",
+              "text": "Aisha and Raima start the exercise. ___ carry the mat.",
               "answer": "They",
               "trigger": "Aisha",
               "marks": 1
             },
             {
-              "text": "Abdur Rahim is my neighbour. Father helps ______ on Friday.",
+              "text": "Abdur Rahim is my neighbour. Mother helps ___ on Friday.",
               "answer": "him",
               "trigger": "Abdur Rahim",
               "marks": 1
             },
             {
-              "text": "We pass the river every morning. Nusair meets ______ near the field.",
+              "text": "We pass the river every morning. Nusair meets ___ near the field.",
               "answer": "us",
               "trigger": "river",
               "marks": 1
             },
             {
-              "text": "Rabab takes a card. ______ gives it to Nusair.",
-              "answer": "He",
+              "text": "Rabab takes a card. ___ gives it to Maryam.",
+              "answer": "She",
               "trigger": "Rabab",
               "marks": 1
             },
             {
-              "text": "The plants are in the pots. Fatima keeps ______ on the roof.",
+              "text": "The plants are in the soil. Fatima keeps ___ near the tap.",
               "answer": "them",
               "trigger": "plant",
               "marks": 1
             },
             {
-              "text": "I am a member of the group. Porshi helps ______.",
+              "text": "I am a member of the group. Porshi helps ___.",
               "answer": "me",
               "trigger": "member",
               "marks": 1
             },
             {
-              "text": "Maryam, ______ open the tin.",
+              "text": "Maryam, ___ open the tin.",
               "answer": "you",
               "trigger": "Maryam",
               "marks": 1
@@ -1404,40 +1405,39 @@
         },
         {
           "name": "D",
-          "instructions": "Is the word in bold an adjective or a pronoun? Write adjective or pronoun.",
+          "instructions": "Is the word in bold a describing word or a pronoun? Write describing word or pronoun.",
           "items": [
             {
-              "text": "Fatima keeps her shoe in the bag. → ______",
-              "answer": "adjective",
+              "text": "Fatima keeps her shoe in the bag.",
+              "answer": "describing word",
               "trigger": "shoe",
               "marks": 1
             },
             {
-              "text": "Abdullah carries his towel. → ______",
-              "answer": "adjective",
+              "text": "Abdullah carries his towel.",
+              "answer": "describing word",
               "trigger": "towel",
               "marks": 1
             },
             {
-              "text": "Nusair meets him on Monday. → ______",
+              "text": "Nusair meets him on Monday.",
               "answer": "pronoun",
               "trigger": "Nusair",
               "marks": 1
             },
             {
-              "text": "Porshi calls her. → ______",
+              "text": "Rabab helps her.",
               "answer": "pronoun",
-              "trigger": "Porshi",
+              "trigger": "Rabab",
               "marks": 1
             }
           ],
           "options": [
-            "adjective",
+            "describing word",
             "pronoun"
           ]
         }
-      ],
-      "pair": "HW4"
+      ]
     },
     {
       "name": "HW4",
@@ -1449,49 +1449,49 @@
           "instructions": "Read the passage. Write the correct pronoun in each blank.",
           "items": [
             {
-              "text": "Father calls Nusair and Yusuf. ______ go to the garden.",
-              "answer": "They",
-              "trigger": "Nusair",
-              "marks": 1
-            },
-            {
-              "text": "Yusuf carries the bag. Nusair helps ______.",
+              "text": "Yusuf carries the bag. Nusair helps ___.",
               "answer": "him",
               "trigger": "Yusuf",
               "marks": 1
             },
             {
-              "text": "A plant is in the bag. Father takes ______ to the soil.",
-              "answer": "it",
-              "trigger": "plant",
-              "marks": 1
-            },
-            {
-              "text": "\"Nusair, ______ wash the tin,\" says Father.",
-              "answer": "you",
-              "trigger": "Nusair",
-              "marks": 1
-            },
-            {
-              "text": "My brother and I rinse the palm. Father gives ______ the towel.",
+              "text": "My father and I keep the classroom clean. Mother gives ___ a card.",
               "answer": "us",
+              "trigger": "father",
+              "marks": 1
+            },
+            {
+              "text": "Aisha and Maryam pass the garden. ___ carry the plant.",
+              "answer": "They",
+              "trigger": "Aisha",
+              "marks": 1
+            },
+            {
+              "text": "Nusair, ___ are a good brother, says Father.",
+              "answer": "you",
               "trigger": "brother",
               "marks": 1
             },
             {
-              "text": "Father is joyful. ______ gives us breakfast.",
+              "text": "Maryam has a towel. Fatima takes ___ to the tap.",
+              "answer": "it",
+              "trigger": "towel",
+              "marks": 1
+            },
+            {
+              "text": "Father calls Nusair and Yusuf. ___ gives them breakfast.",
               "answer": "He",
-              "trigger": "Father",
+              "trigger": "father",
               "marks": 1
             },
             {
-              "text": "Mother keeps the corn and the leaves. Nusair carries ______ to the hut.",
+              "text": "Rabab sees Aisha and Maryam. Fatima meets ___ near the plant.",
               "answer": "them",
-              "trigger": "corn",
+              "trigger": "Aisha",
               "marks": 1
             },
             {
-              "text": "A fish is in the water. ______ is beautiful.",
+              "text": "A fish is in the water. ___ is bright.",
               "answer": "It",
               "trigger": "fish",
               "marks": 1
@@ -1503,37 +1503,37 @@
           "instructions": "Find the wrong pronoun and write the correct one. Some are already correct.",
           "items": [
             {
-              "text": "Abdullah helps he. → ______",
+              "text": "Abdullah helps he.",
               "answer": "him",
               "trigger": "Abdullah",
               "marks": 1
             },
             {
-              "text": "Fatima helps them. → ______",
+              "text": "Fatima helps them.",
               "answer": "correct",
               "trigger": "Fatima",
               "marks": 1
             },
             {
-              "text": "Mother gives we the food. → ______",
+              "text": "Mother gives we the food.",
               "answer": "us",
               "trigger": "food",
               "marks": 1
             },
             {
-              "text": "Him carries the leaf. → ______",
+              "text": "Him carries the leaf.",
               "answer": "He",
               "trigger": "leaf",
               "marks": 1
             },
             {
-              "text": "Porshi meets her. → ______",
+              "text": "Porshi meets her.",
               "answer": "correct",
               "trigger": "Porshi",
               "marks": 1
             },
             {
-              "text": "Us clean the garden. → ______",
+              "text": "Us clean the garden.",
               "answer": "We",
               "trigger": "garden",
               "marks": 1
@@ -1545,49 +1545,49 @@
           "instructions": "Read both sentences. Write the pronoun in the blank.",
           "items": [
             {
-              "text": "The tins are near the tap. Nusair keeps ______ on the shelf.",
+              "text": "The plants are in the field. Nusair keeps ___ near the tap.",
               "answer": "them",
-              "trigger": "tin",
+              "trigger": "plant",
               "marks": 1
             },
             {
-              "text": "Maryam is my neighbour. Mother helps ______ on Sunday.",
+              "text": "Maryam is my neighbour. Mother helps ___ on Sunday.",
               "answer": "her",
               "trigger": "Maryam",
               "marks": 1
             },
             {
-              "text": "We live near the river. Yusuf meets ______ every evening.",
+              "text": "We live near the river. Yusuf meets ___ every evening.",
               "answer": "us",
               "trigger": "river",
               "marks": 1
             },
             {
-              "text": "The pen is on the bed. Rabab takes ______ to the classroom.",
+              "text": "The corn is on the mat. Rabab takes ___ to the hut.",
               "answer": "it",
-              "trigger": "pen",
+              "trigger": "corn",
               "marks": 1
             },
             {
-              "text": "Abdullah, ______ open the bag.",
+              "text": "Abdullah, ___ open the bag.",
               "answer": "you",
               "trigger": "Abdullah",
               "marks": 1
             },
             {
-              "text": "I keep the garden clean. Father gives ______ a towel.",
+              "text": "I keep the garden clean. Father gives ___ a towel.",
               "answer": "me",
               "trigger": "garden",
               "marks": 1
             },
             {
-              "text": "Fatima takes a card. ______ gives it to Aisha.",
+              "text": "Fatima takes a card. ___ gives it to Aisha.",
               "answer": "She",
               "trigger": "Fatima",
               "marks": 1
             },
             {
-              "text": "Nusair and Abdullah start the exercise. ______ carry the football.",
+              "text": "Nusair and Abdullah start the exercise. ___ carry the football.",
               "answer": "They",
               "trigger": "Nusair",
               "marks": 1
@@ -1596,248 +1596,47 @@
         },
         {
           "name": "D",
-          "instructions": "Is the word in bold an adjective or a pronoun? Write adjective or pronoun.",
+          "instructions": "Is the word in bold a describing word or a pronoun? Write describing word or pronoun.",
           "items": [
             {
-              "text": "Yusuf meets him near the tree. → ______",
+              "text": "Yusuf meets him near the tree.",
               "answer": "pronoun",
               "trigger": "Yusuf",
               "marks": 1
             },
             {
-              "text": "Maryam helps her. → ______",
+              "text": "Maryam helps her.",
               "answer": "pronoun",
               "trigger": "Maryam",
               "marks": 1
             },
             {
-              "text": "Porshi keeps her card in the bag. → ______",
-              "answer": "adjective",
+              "text": "Porshi keeps her card in the bag.",
+              "answer": "describing word",
               "trigger": "card",
               "marks": 1
             },
             {
-              "text": "Nusair carries his shoe. → ______",
-              "answer": "adjective",
+              "text": "Nusair carries his shoe.",
+              "answer": "describing word",
               "trigger": "shoe",
               "marks": 1
             }
           ],
           "options": [
-            "adjective",
+            "describing word",
             "pronoun"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PT",
-      "type": "pt",
-      "stated_total": 34,
-      "parts": [
-        {
-          "name": "A",
-          "instructions": "Spelling & Dictation. Teacher reads each word aloud twice.",
-          "marks": 10,
-          "items": [],
-          "answers": null
-        },
-        {
-          "name": "B",
-          "instructions": "Read the passage. Write the correct pronoun in each blank.",
-          "items": [
-            {
-              "text": "I open the tin. Mother gives ______ the food.",
-              "answer": "me",
-              "trigger": "tin",
-              "marks": 1
-            },
-            {
-              "text": "Mother calls Aisha. ______ is in the garden.",
-              "answer": "She",
-              "trigger": "Aisha",
-              "marks": 1
-            },
-            {
-              "text": "Maryam and Fatima wash the mat. Mother helps ______.",
-              "answer": "them",
-              "trigger": "Maryam",
-              "marks": 1
-            },
-            {
-              "text": "A book is on the shelf. ______ is new.",
-              "answer": "It",
-              "trigger": "book",
-              "marks": 1
-            },
-            {
-              "text": "My father and I clean the shoe. Mother gives ______ the towel.",
-              "answer": "us",
-              "trigger": "father",
-              "marks": 1
-            },
-            {
-              "text": "\"Aisha, ______ carry the corn,\" says Mother.",
-              "answer": "you",
-              "trigger": "Aisha",
-              "marks": 1
-            },
-            {
-              "text": "Nusair is near the tree. Yusuf gives ______ the book.",
-              "answer": "him",
-              "trigger": "Nusair",
-              "marks": 1
-            },
-            {
-              "text": "Yusuf and Abdullah go to the library on Saturday. ______ read a story.",
-              "answer": "They",
-              "trigger": "Yusuf",
-              "marks": 1
-            }
-          ]
-        },
-        {
-          "name": "C",
-          "instructions": "Read both sentences. Write the pronoun in the blank.",
-          "items": [
-            {
-              "text": "Porshi has a new card. ______ keeps it in the bag.",
-              "answer": "She",
-              "trigger": "Porshi",
-              "marks": 1
-            },
-            {
-              "text": "I rinse the palm before breakfast. Mother gives ______ the towel.",
-              "answer": "me",
-              "trigger": "palm",
-              "marks": 1
-            },
-            {
-              "text": "The books are in the library. ______ are old.",
-              "answer": "They",
-              "trigger": "book",
-              "marks": 1
-            },
-            {
-              "text": "Abdur Rahim opens the bag. Nusair helps ______.",
-              "answer": "him",
-              "trigger": "Abdur Rahim",
-              "marks": 1
-            },
-            {
-              "text": "Abdullah, ______ pass the book.",
-              "answer": "you",
-              "trigger": "Abdullah",
-              "marks": 1
-            },
-            {
-              "text": "Aisha and Raima go to the garden. Fatima helps ______.",
-              "answer": "them",
-              "trigger": "Aisha",
-              "marks": 1
-            }
-          ]
-        },
-        {
-          "name": "D",
-          "instructions": "Find the wrong pronoun and write the correct one. Some are already correct.",
-          "items": [
-            {
-              "text": "Nusair helps we. → ______",
-              "answer": "us",
-              "trigger": "Nusair",
-              "marks": 1
-            },
-            {
-              "text": "Maryam calls her. → ______",
-              "answer": "correct",
-              "trigger": "Maryam",
-              "marks": 1
-            },
-            {
-              "text": "Them wash the mat. → ______",
-              "answer": "They",
-              "trigger": "mat",
-              "marks": 1
-            },
-            {
-              "text": "Mother gives he a towel. → ______",
-              "answer": "him",
-              "trigger": "Mother",
-              "marks": 1
-            }
-          ]
-        },
-        {
-          "name": "E",
-          "instructions": "Is the word in bold an adjective or a pronoun? Write adjective or pronoun.",
-          "items": [
-            {
-              "text": "Fatima calls her. → ______",
-              "answer": "pronoun",
-              "trigger": "Fatima",
-              "marks": 0.5
-            },
-            {
-              "text": "Maryam keeps her towel on the mat. → ______",
-              "answer": "adjective",
-              "trigger": "towel",
-              "marks": 0.5
-            },
-            {
-              "text": "Yusuf carries his card. → ______",
-              "answer": "adjective",
-              "trigger": "card",
-              "marks": 0.5
-            },
-            {
-              "text": "Nusair helps him. → ______",
-              "answer": "pronoun",
-              "trigger": "Nusair",
-              "marks": 0.5
-            }
-          ],
-          "options": [
-            "adjective",
-            "pronoun"
-          ]
-        },
-        {
-          "name": "F",
-          "instructions": "Self-construction (free-thinking task).",
-          "marks": 4,
-          "items": [],
-          "answers": null
         }
       ]
     }
   ],
-  "dictation": [
-    "pollution",
-    "animal",
-    "grasshopper",
-    "leaf",
-    "source",
-    "starve",
-    "sometimes",
-    "happily",
-    "everywhere",
-    "Wednesday"
-  ],
-  "pt_self_try_words": [
-    "corn",
-    "tin",
-    "ants",
-    "books",
-    "Yusuf",
-    "Nusair",
-    "Maryam",
-    "Fatima"
-  ],
+  "dictation": [],
+  "pt_self_try_words": [],
   "demo_box_words": [
-    "bag",
-    "leaves",
-    "Abdullah",
-    "Aisha"
+    "kite",
+    "garden",
+    "river",
+    "card"
   ]
 }
