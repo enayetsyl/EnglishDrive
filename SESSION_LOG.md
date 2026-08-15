@@ -440,3 +440,27 @@ Append-only. Newest entry last. Never overwrite past entries.
 - **Files touched:** `audits/scripts/check_ak.py`, `governance/CORRECTIONS.md` (CR-042, CR-043), `SESSION_LOG.md`.
 - **Next:** unchanged — Principal's human read of `C3B08-AK`, then the Assignment, the TD and the eleven extracts.
 
+---
+
+## 15.08.26 — SCD · `C3B08-TD` built (Run Book §6.10 Stage 7)
+
+- **Why it was owed.** §3.13/§6.10: the master serves the Content Developer and Principal (provenance, flags, keys,
+  version log); the classroom teacher gets script only. New blocks ship with a TD. C3B08's had been **gated on ⚑R9** —
+  the Clue Card and the Day 3–4 scripts taught the object form two different ways, so a verbatim TD would have
+  reproduced the split. **v2.1 closed ⚑R9** and the v2.1 log records "the TD is no longer gated."
+- **Built:** `extracts/C3/TN/C3B08-TD.md`, generated from **v2.3** by applying the §3.13 strip/keep manifest.
+  **Kept:** teacher checklist · Clue Card · Days 1–4 scripts with all four Exit Checks · Self-try task and rubric ·
+  Thursday running instructions · a pointer table to every sibling extract.
+  **Stripped and verified absent:** provenance header, build status, dependency flags, version log, all eight
+  worksheets, the PT paper, every answer, the dictation list, the Part F word list.
+- **§6.10 r.4 consistency check run.** Kept sections are verbatim slices of the master. A leak scan against the
+  manifest found **one** worksheet item text present in the TD and **zero** dictation or self-try list content.
+- **CR-044 — `C3B07-TD` prints its dictation word list**, in a titled section, against §6.10 r.3's explicit
+  prohibition. Found because it was opened as the format mirror. **C3B08-TD does not copy it** — it prints a pointer
+  to `C3B08-AK` where the list now lives. Not fixed on C3B07: delivered, §K.3 forward-only.
+- **CR-045 — the one item-text hit is a master defect, not a TD one.** Day 2's board work writes *"We go to the
+  library on Monday"* and **CW2 A8 grades that same sentence**. The TD reproduces the script verbatim as §6.10 r.4
+  requires, so the echo sits in the master. Third instance of the type v1.9 logged twice and accepted. Not fixed.
+- **Files touched:** `extracts/C3/TN/C3B08-TD.md` (new), `governance/CORRECTIONS.md` (CR-044, CR-045), `SESSION_LOG.md`.
+- **Still owed on C3B08:** the Assignment, and the eleven student extracts (`CW1–CW4 · HW1–HW4 · PT · CC`).
+
